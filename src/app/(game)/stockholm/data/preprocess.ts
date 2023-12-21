@@ -27,7 +27,10 @@ const main = async () => {
   const availableLines = new Set(
     routes
       .map((route: any) => route.live_line_code)
-      .filter((code: string) => code.startsWith('Tunnelbana')),
+      .filter(
+        (code: string) =>
+          code.startsWith('Tunnelbana') || code.startsWith('Lokalbana'),
+      ),
   )
 
   const featuresRoutes = routes

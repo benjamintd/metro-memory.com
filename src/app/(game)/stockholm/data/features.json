@@ -5,7 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.888666, 59.396756]
+        "coordinates": [
+          17.888666,
+          59.396756
+        ]
       },
       "properties": {
         "id": 1,
@@ -19,7 +22,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.917428, 59.413848]
+        "coordinates": [
+          17.917428,
+          59.413848
+        ]
       },
       "properties": {
         "id": 18,
@@ -33,7 +39,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.815034, 59.243806]
+        "coordinates": [
+          17.815034,
+          59.243806
+        ]
       },
       "properties": {
         "id": 36,
@@ -47,7 +56,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.96474, 59.286724]
+        "coordinates": [
+          17.96474,
+          59.286724
+        ]
       },
       "properties": {
         "id": 86,
@@ -61,7 +73,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.923432, 59.34214]
+        "coordinates": [
+          17.923432,
+          59.34214
+        ]
       },
       "properties": {
         "id": 124,
@@ -75,7 +90,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.080988, 59.299155]
+        "coordinates": [
+          18.080988,
+          59.299155
+        ]
       },
       "properties": {
         "id": 172,
@@ -89,7 +107,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.013163, 59.262164]
+        "coordinates": [
+          18.013163,
+          59.262164
+        ]
       },
       "properties": {
         "id": 192,
@@ -103,7 +124,809 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.832466, 59.361742]
+        "coordinates": [
+          18.008237,
+          59.363759
+        ]
+      },
+      "properties": {
+        "id": 262,
+        "name": "Solna station",
+        "line": "Lokalbana30",
+        "order": 0
+      },
+      "id": 262
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.946522,
+          59.356883
+        ]
+      },
+      "properties": {
+        "id": 288,
+        "name": "Bromma flygplats",
+        "line": "Lokalbana31",
+        "order": 0
+      },
+      "id": 288
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.918695,
+          59.328782
+        ]
+      },
+      "properties": {
+        "id": 294,
+        "name": "Nockeby",
+        "line": "LokalbanaL12",
+        "order": 0
+      },
+      "id": 294
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.10386,
+          59.358096
+        ]
+      },
+      "properties": {
+        "id": 304,
+        "name": "Ropsten",
+        "line": "LokalbanaL21",
+        "order": 0
+      },
+      "id": 304
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.109237,
+          59.584158
+        ]
+      },
+      "properties": {
+        "id": 317,
+        "name": "Lindholmen",
+        "line": "LokalbanaL27",
+        "order": 0
+      },
+      "id": 317
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070074,
+          59.34677
+        ]
+      },
+      "properties": {
+        "id": 337,
+        "name": "Stockholms östra",
+        "line": "LokalbanaL28",
+        "order": 0
+      },
+      "id": 337
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070074,
+          59.34677
+        ]
+      },
+      "properties": {
+        "id": 357,
+        "name": "Stockholms östra",
+        "line": "LokalbanaL29",
+        "order": 0
+      },
+      "id": 357
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070048,
+          59.346801
+        ]
+      },
+      "properties": {
+        "id": 336,
+        "name": "Stockholms östra",
+        "line": "LokalbanaL27",
+        "order": 1430
+      },
+      "id": 336
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.050984,
+          59.365089
+        ]
+      },
+      "properties": {
+        "id": 335,
+        "name": "Universitetet",
+        "line": "LokalbanaL27",
+        "order": 1156
+      },
+      "id": 335
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.043907,
+          59.385081
+        ]
+      },
+      "properties": {
+        "id": 334,
+        "name": "Stocksund",
+        "line": "LokalbanaL27",
+        "order": 904
+      },
+      "id": 334
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.115739,
+          59.306909
+        ]
+      },
+      "properties": {
+        "id": 287,
+        "name": "Sickla",
+        "line": "Lokalbana30",
+        "order": 876
+      },
+      "id": 287
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.109239,
+          59.306212
+        ]
+      },
+      "properties": {
+        "id": 286,
+        "name": "Sickla udde",
+        "line": "Lokalbana30",
+        "order": 861
+      },
+      "id": 286
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.047453,
+          59.392343
+        ]
+      },
+      "properties": {
+        "id": 333,
+        "name": "Mörby",
+        "line": "LokalbanaL27",
+        "order": 841
+      },
+      "id": 333
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.103763,
+          59.302879
+        ]
+      },
+      "properties": {
+        "id": 285,
+        "name": "Sickla kaj",
+        "line": "Lokalbana30",
+        "order": 837
+      },
+      "id": 285
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.09635,
+          59.304141
+        ]
+      },
+      "properties": {
+        "id": 284,
+        "name": "Luma",
+        "line": "Lokalbana30",
+        "order": 819
+      },
+      "id": 284
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.088426,
+          59.302771
+        ]
+      },
+      "properties": {
+        "id": 283,
+        "name": "Mårtensdal",
+        "line": "Lokalbana30",
+        "order": 807
+      },
+      "id": 283
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.080258,
+          59.299565
+        ]
+      },
+      "properties": {
+        "id": 282,
+        "name": "Gullmarsplan",
+        "line": "Lokalbana30",
+        "order": 755
+      },
+      "id": 282
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.077091,
+          59.294214
+        ]
+      },
+      "properties": {
+        "id": 281,
+        "name": "Globen",
+        "line": "Lokalbana30",
+        "order": 741
+      },
+      "id": 281
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.058908,
+          59.399099
+        ]
+      },
+      "properties": {
+        "id": 332,
+        "name": "Djursholms Ösby",
+        "line": "LokalbanaL27",
+        "order": 727
+      },
+      "id": 332
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.063403,
+          59.293231
+        ]
+      },
+      "properties": {
+        "id": 280,
+        "name": "Linde",
+        "line": "Lokalbana30",
+        "order": 724
+      },
+      "id": 280
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.048892,
+          59.294918
+        ]
+      },
+      "properties": {
+        "id": 279,
+        "name": "Valla torg",
+        "line": "Lokalbana30",
+        "order": 711
+      },
+      "id": 279
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.040225,
+          59.296342
+        ]
+      },
+      "properties": {
+        "id": 278,
+        "name": "Årstafältet",
+        "line": "Lokalbana30",
+        "order": 702
+      },
+      "id": 278
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.060632,
+          59.405624
+        ]
+      },
+      "properties": {
+        "id": 331,
+        "name": "Bråvallavägen",
+        "line": "LokalbanaL27",
+        "order": 681
+      },
+      "id": 331
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.029989,
+          59.299023
+        ]
+      },
+      "properties": {
+        "id": 277,
+        "name": "Årstaberg",
+        "line": "Lokalbana30",
+        "order": 680
+      },
+      "id": 277
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.025596,
+          59.305707
+        ]
+      },
+      "properties": {
+        "id": 276,
+        "name": "Årstadal",
+        "line": "Lokalbana30",
+        "order": 666
+      },
+      "id": 276
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.024826,
+          59.310596
+        ]
+      },
+      "properties": {
+        "id": 275,
+        "name": "Liljeholmen",
+        "line": "Lokalbana30",
+        "order": 643
+      },
+      "id": 275
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.057625,
+          59.412902
+        ]
+      },
+      "properties": {
+        "id": 330,
+        "name": "Djursholms Ekeby",
+        "line": "LokalbanaL27",
+        "order": 634
+      },
+      "id": 330
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.018805,
+          59.313928
+        ]
+      },
+      "properties": {
+        "id": 274,
+        "name": "Trekanten",
+        "line": "Lokalbana30",
+        "order": 624
+      },
+      "id": 274
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.009187,
+          59.315526
+        ]
+      },
+      "properties": {
+        "id": 273,
+        "name": "Gröndal",
+        "line": "Lokalbana30",
+        "order": 602
+      },
+      "id": 273
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.993501,
+          59.324667
+        ]
+      },
+      "properties": {
+        "id": 272,
+        "name": "Stora Essingen",
+        "line": "Lokalbana30",
+        "order": 569
+      },
+      "id": 272
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.311,
+          59.461373
+        ]
+      },
+      "properties": {
+        "id": 356,
+        "name": "Österskär",
+        "line": "LokalbanaL28",
+        "order": 558
+      },
+      "id": 356
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.982081,
+          59.328792
+        ]
+      },
+      "properties": {
+        "id": 271,
+        "name": "Alviks strand",
+        "line": "Lokalbana30",
+        "order": 556
+      },
+      "id": 271
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.307305,
+          59.468753
+        ]
+      },
+      "properties": {
+        "id": 355,
+        "name": "Tunagård",
+        "line": "LokalbanaL28",
+        "order": 545
+      },
+      "id": 355
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.98025,
+          59.333704
+        ]
+      },
+      "properties": {
+        "id": 270,
+        "name": "Alvik",
+        "line": "Lokalbana30",
+        "order": 540
+      },
+      "id": 270
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.299766,
+          59.478982
+        ]
+      },
+      "properties": {
+        "id": 354,
+        "name": "Åkersberga",
+        "line": "LokalbanaL28",
+        "order": 533
+      },
+      "id": 354
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.969645,
+          59.342797
+        ]
+      },
+      "properties": {
+        "id": 269,
+        "name": "Johannesfred",
+        "line": "Lokalbana30",
+        "order": 526
+      },
+      "id": 269
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.270393,
+          59.48061
+        ]
+      },
+      "properties": {
+        "id": 353,
+        "name": "Åkers Runö",
+        "line": "LokalbanaL28",
+        "order": 524
+      },
+      "id": 353
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.235367,
+          59.473232
+        ]
+      },
+      "properties": {
+        "id": 352,
+        "name": "Täljö",
+        "line": "LokalbanaL28",
+        "order": 508
+      },
+      "id": 352
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.051244,
+          59.425869
+        ]
+      },
+      "properties": {
+        "id": 329,
+        "name": "Enebyberg",
+        "line": "LokalbanaL27",
+        "order": 455
+      },
+      "id": 329
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.962453,
+          59.349813
+        ]
+      },
+      "properties": {
+        "id": 268,
+        "name": "Norra Ulvsunda",
+        "line": "Lokalbana30",
+        "order": 441
+      },
+      "id": 268
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.057423,
+          59.435202
+        ]
+      },
+      "properties": {
+        "id": 328,
+        "name": "Roslags Näsby",
+        "line": "LokalbanaL27",
+        "order": 439
+      },
+      "id": 328
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.062985,
+          59.443109
+        ]
+      },
+      "properties": {
+        "id": 327,
+        "name": "Tibble",
+        "line": "LokalbanaL27",
+        "order": 426
+      },
+      "id": 327
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961302,
+          59.355979
+        ]
+      },
+      "properties": {
+        "id": 267,
+        "name": "Karlsbodavägen",
+        "line": "Lokalbana30",
+        "order": 425
+      },
+      "id": 267
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.063657,
+          59.451971
+        ]
+      },
+      "properties": {
+        "id": 326,
+        "name": "Ensta",
+        "line": "LokalbanaL27",
+        "order": 419
+      },
+      "id": 326
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.063271,
+          59.462733
+        ]
+      },
+      "properties": {
+        "id": 325,
+        "name": "Visinge",
+        "line": "LokalbanaL27",
+        "order": 408
+      },
+      "id": 325
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.962912,
+          59.36067
+        ]
+      },
+      "properties": {
+        "id": 266,
+        "name": "Bällsta bro",
+        "line": "Lokalbana30",
+        "order": 401
+      },
+      "id": 266
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.065795,
+          59.492648
+        ]
+      },
+      "properties": {
+        "id": 324,
+        "name": "Täby kyrkby",
+        "line": "LokalbanaL27",
+        "order": 396
+      },
+      "id": 324
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.832466,
+          59.361742
+        ]
       },
       "properties": {
         "id": 226,
@@ -117,7 +940,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.844397, 59.367067]
+        "coordinates": [
+          17.844397,
+          59.367067
+        ]
       },
       "properties": {
         "id": 225,
@@ -131,7 +957,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.858149, 59.367914]
+        "coordinates": [
+          17.970385,
+          59.360797
+        ]
+      },
+      "properties": {
+        "id": 265,
+        "name": "Sundbybergs centrum",
+        "line": "Lokalbana30",
+        "order": 363
+      },
+      "id": 265
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.858149,
+          59.367914
+        ]
       },
       "properties": {
         "id": 224,
@@ -145,7 +991,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.102365, 59.357403]
+        "coordinates": [
+          18.102365,
+          59.357403
+        ]
       },
       "properties": {
         "id": 60,
@@ -159,7 +1008,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.872073, 59.363245]
+        "coordinates": [
+          17.872073,
+          59.363245
+        ]
       },
       "properties": {
         "id": 223,
@@ -173,7 +1025,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.098968, 59.345161]
+        "coordinates": [
+          18.098968,
+          59.345161
+        ]
       },
       "properties": {
         "id": 59,
@@ -187,7 +1042,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.881628, 59.354495]
+        "coordinates": [
+          17.881628,
+          59.354495
+        ]
       },
       "properties": {
         "id": 222,
@@ -201,7 +1059,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.092, 59.338987]
+        "coordinates": [
+          18.092,
+          59.338987
+        ]
       },
       "properties": {
         "id": 58,
@@ -215,7 +1076,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.88285, 59.34837]
+        "coordinates": [
+          17.88285,
+          59.34837
+        ]
       },
       "properties": {
         "id": 221,
@@ -229,7 +1093,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.073877, 59.334536]
+        "coordinates": [
+          18.073877,
+          59.334536
+        ]
       },
       "properties": {
         "id": 57,
@@ -243,7 +1110,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.893272, 59.345994]
+        "coordinates": [
+          17.893272,
+          59.345994
+        ]
       },
       "properties": {
         "id": 220,
@@ -257,7 +1127,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.907172, 59.341943]
+        "coordinates": [
+          17.907172,
+          59.341943
+        ]
       },
       "properties": {
         "id": 219,
@@ -271,12 +1144,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.061464, 59.331799]
+        "coordinates": [
+          18.061464,
+          59.331799
+        ]
       },
       "properties": {
         "id": 56,
         "name": "T - Centralen / Centralstation",
-        "alternate_names": ["T - Centralen", "Centralstation"],
         "line": "Tunnelbana13",
         "order": 295
       },
@@ -286,7 +1161,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.923468, 59.342138]
+        "coordinates": [
+          17.923468,
+          59.342138
+        ]
       },
       "properties": {
         "id": 218,
@@ -300,7 +1178,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.134101, 59.267376]
+        "coordinates": [
+          18.075738,
+          59.510268
+        ]
+      },
+      "properties": {
+        "id": 323,
+        "name": "Kragstalund",
+        "line": "LokalbanaL27",
+        "order": 293
+      },
+      "id": 323
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.185861,
+          59.465407
+        ]
+      },
+      "properties": {
+        "id": 351,
+        "name": "Rydbo",
+        "line": "LokalbanaL28",
+        "order": 290
+      },
+      "id": 351
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.134101,
+          59.267376
+        ]
       },
       "properties": {
         "id": 147,
@@ -314,7 +1229,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.939691, 59.33827]
+        "coordinates": [
+          18.23403,
+          59.356885
+        ]
+      },
+      "properties": {
+        "id": 316,
+        "name": "Gåshaga brygga",
+        "line": "LokalbanaL21",
+        "order": 278
+      },
+      "id": 316
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.071731,
+          59.523715
+        ]
+      },
+      "properties": {
+        "id": 322,
+        "name": "Bällsta",
+        "line": "LokalbanaL27",
+        "order": 278
+      },
+      "id": 322
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.939691,
+          59.33827
+        ]
       },
       "properties": {
         "id": 217,
@@ -328,7 +1280,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.036753, 59.398144]
+        "coordinates": [
+          18.141385,
+          59.458819
+        ]
+      },
+      "properties": {
+        "id": 350,
+        "name": "Arninge",
+        "line": "LokalbanaL28",
+        "order": 270
+      },
+      "id": 350
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.036753,
+          59.398144
+        ]
       },
       "properties": {
         "id": 104,
@@ -342,7 +1314,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.131192, 59.276279]
+        "coordinates": [
+          18.227919,
+          59.356735
+        ]
+      },
+      "properties": {
+        "id": 315,
+        "name": "Gåshaga",
+        "line": "LokalbanaL21",
+        "order": 267
+      },
+      "id": 315
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.131192,
+          59.276279
+        ]
       },
       "properties": {
         "id": 146,
@@ -356,7 +1348,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.066987, 59.323159]
+        "coordinates": [
+          18.066987,
+          59.323159
+        ]
       },
       "properties": {
         "id": 55,
@@ -370,7 +1365,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.953169, 59.336558]
+        "coordinates": [
+          17.953169,
+          59.336558
+        ]
       },
       "properties": {
         "id": 216,
@@ -384,7 +1382,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.965354, 59.334663]
+        "coordinates": [
+          17.965354,
+          59.334663
+        ]
       },
       "properties": {
         "id": 215,
@@ -398,7 +1399,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.072104, 59.319601]
+        "coordinates": [
+          18.072104,
+          59.319601
+        ]
       },
       "properties": {
         "id": 54,
@@ -412,7 +1416,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.041776, 59.390616]
+        "coordinates": [
+          18.041776,
+          59.390616
+        ]
       },
       "properties": {
         "id": 103,
@@ -426,7 +1433,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.114433, 59.284537]
+        "coordinates": [
+          18.079811,
+          59.533813
+        ]
+      },
+      "properties": {
+        "id": 321,
+        "name": "Vallentuna",
+        "line": "LokalbanaL27",
+        "order": 257
+      },
+      "id": 321
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1252,
+          59.450882
+        ]
+      },
+      "properties": {
+        "id": 349,
+        "name": "Hägernäs",
+        "line": "LokalbanaL28",
+        "order": 256
+      },
+      "id": 349
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.114433,
+          59.284537
+        ]
       },
       "properties": {
         "id": 145,
@@ -440,7 +1484,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.981328, 59.333526]
+        "coordinates": [
+          17.981328,
+          59.333526
+        ]
       },
       "properties": {
         "id": 214,
@@ -454,7 +1501,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.063258, 59.31655]
+        "coordinates": [
+          18.063258,
+          59.31655
+        ]
       },
       "properties": {
         "id": 53,
@@ -468,7 +1518,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.037357, 59.380691]
+        "coordinates": [
+          18.037357,
+          59.380691
+        ]
       },
       "properties": {
         "id": 102,
@@ -482,7 +1535,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.115324, 59.291665]
+        "coordinates": [
+          18.104184,
+          59.449232
+        ]
+      },
+      "properties": {
+        "id": 348,
+        "name": "Viggbyholm",
+        "line": "LokalbanaL28",
+        "order": 234
+      },
+      "id": 348
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.115324,
+          59.291665
+        ]
       },
       "properties": {
         "id": 144,
@@ -496,7 +1569,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.049607, 59.317903]
+        "coordinates": [
+          18.095616,
+          59.430306
+        ]
+      },
+      "properties": {
+        "id": 367,
+        "name": "Näsbypark",
+        "line": "LokalbanaL29",
+        "order": 231
+      },
+      "id": 367
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.217347,
+          59.352482
+        ]
+      },
+      "properties": {
+        "id": 314,
+        "name": "Käppala",
+        "line": "LokalbanaL21",
+        "order": 228
+      },
+      "id": 314
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.049607,
+          59.317903
+        ]
       },
       "properties": {
         "id": 52,
@@ -510,7 +1620,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.003122, 59.33272]
+        "coordinates": [
+          18.003122,
+          59.33272
+        ]
       },
       "properties": {
         "id": 213,
@@ -524,7 +1637,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.035345, 59.316]
+        "coordinates": [
+          18.079576,
+          59.546355
+        ]
+      },
+      "properties": {
+        "id": 320,
+        "name": "Ormsta",
+        "line": "LokalbanaL27",
+        "order": 225
+      },
+      "id": 320
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.085133,
+          59.446953
+        ]
+      },
+      "properties": {
+        "id": 347,
+        "name": "Galoppfältet",
+        "line": "LokalbanaL28",
+        "order": 223
+      },
+      "id": 347
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.035345,
+          59.316
+        ]
       },
       "properties": {
         "id": 51,
@@ -538,7 +1688,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.015874, 59.331493]
+        "coordinates": [
+          18.08567,
+          59.427387
+        ]
+      },
+      "properties": {
+        "id": 366,
+        "name": "Näsby allé",
+        "line": "LokalbanaL29",
+        "order": 220
+      },
+      "id": 366
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.015874,
+          59.331493
+        ]
       },
       "properties": {
         "id": 212,
@@ -552,7 +1722,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.104532, 59.294817]
+        "coordinates": [
+          17.979905,
+          59.359193
+        ]
+      },
+      "properties": {
+        "id": 264,
+        "name": "Solna Business Park",
+        "line": "Lokalbana30",
+        "order": 217
+      },
+      "id": 264
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.104532,
+          59.294817
+        ]
       },
       "properties": {
         "id": 143,
@@ -566,7 +1756,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.054124, 59.365257]
+        "coordinates": [
+          18.074678,
+          59.444375
+        ]
+      },
+      "properties": {
+        "id": 346,
+        "name": "Täby centrum",
+        "line": "LokalbanaL28",
+        "order": 216
+      },
+      "id": 346
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.054124,
+          59.365257
+        ]
       },
       "properties": {
         "id": 101,
@@ -580,7 +1790,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.022891, 59.310674]
+        "coordinates": [
+          18.074303,
+          59.424189
+        ]
+      },
+      "properties": {
+        "id": 365,
+        "name": "Lahäll",
+        "line": "LokalbanaL29",
+        "order": 211
+      },
+      "id": 365
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.022891,
+          59.310674
+        ]
       },
       "properties": {
         "id": 50,
@@ -594,7 +1824,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.031396, 59.33293]
+        "coordinates": [
+          18.031396,
+          59.33293
+        ]
       },
       "properties": {
         "id": 211,
@@ -608,7 +1841,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.072651, 59.330516]
+        "coordinates": [
+          18.072651,
+          59.330516
+        ]
       },
       "properties": {
         "id": 30,
@@ -622,7 +1858,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.03742, 59.340292]
+        "coordinates": [
+          18.03742,
+          59.340292
+        ]
       },
       "properties": {
         "id": 210,
@@ -636,7 +1875,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.090367, 59.295268]
+        "coordinates": [
+          18.090367,
+          59.295268
+        ]
       },
       "properties": {
         "id": 142,
@@ -650,7 +1892,61 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.001773, 59.306535]
+        "coordinates": [
+          18.084982,
+          59.557217
+        ]
+      },
+      "properties": {
+        "id": 319,
+        "name": "Molnby",
+        "line": "LokalbanaL27",
+        "order": 200
+      },
+      "id": 319
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.203442,
+          59.348344
+        ]
+      },
+      "properties": {
+        "id": 313,
+        "name": "Brevik",
+        "line": "LokalbanaL21",
+        "order": 199
+      },
+      "id": 313
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.057415,
+          59.435197
+        ]
+      },
+      "properties": {
+        "id": 345,
+        "name": "Roslags Näsby",
+        "line": "LokalbanaL28",
+        "order": 199
+      },
+      "id": 345
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.001773,
+          59.306535
+        ]
       },
       "properties": {
         "id": 49,
@@ -664,7 +1960,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.072651, 59.330516]
+        "coordinates": [
+          18.072651,
+          59.330516
+        ]
       },
       "properties": {
         "id": 14,
@@ -678,7 +1977,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.068997, 59.34625]
+        "coordinates": [
+          18.068997,
+          59.34625
+        ]
       },
       "properties": {
         "id": 100,
@@ -692,7 +1994,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.048707, 59.342757]
+        "coordinates": [
+          18.048707,
+          59.342757
+        ]
       },
       "properties": {
         "id": 209,
@@ -706,7 +2011,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.989023, 59.30557]
+        "coordinates": [
+          17.989023,
+          59.30557
+        ]
       },
       "properties": {
         "id": 48,
@@ -720,12 +2028,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.061371, 59.33246]
+        "coordinates": [
+          18.061371,
+          59.33246
+        ]
       },
       "properties": {
         "id": 29,
         "name": "T - Centralen / Centralstation",
-        "alternate_names": ["T - Centralen", "Centralstation"],
         "line": "Tunnelbana11",
         "order": 189
       },
@@ -735,7 +2045,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.975464, 59.30438]
+        "coordinates": [
+          17.975464,
+          59.30438
+        ]
       },
       "properties": {
         "id": 47,
@@ -749,7 +2062,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.080964, 59.299183]
+        "coordinates": [
+          18.193052,
+          59.343903
+        ]
+      },
+      "properties": {
+        "id": 312,
+        "name": "Högberga",
+        "line": "LokalbanaL21",
+        "order": 185
+      },
+      "id": 312
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.080964,
+          59.299183
+        ]
       },
       "properties": {
         "id": 141,
@@ -763,7 +2096,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.058563, 59.340185]
+        "coordinates": [
+          18.051237,
+          59.425894
+        ]
+      },
+      "properties": {
+        "id": 344,
+        "name": "Enebyberg",
+        "line": "LokalbanaL28",
+        "order": 184
+      },
+      "id": 344
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.058563,
+          59.340185
+        ]
       },
       "properties": {
         "id": 208,
@@ -777,12 +2130,31 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.061491, 59.332461]
+        "coordinates": [
+          18.072646,
+          59.410936
+        ]
+      },
+      "properties": {
+        "id": 364,
+        "name": "Altorp",
+        "line": "LokalbanaL29",
+        "order": 181
+      },
+      "id": 364
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.061491,
+          59.332461
+        ]
       },
       "properties": {
         "id": 13,
         "name": "T - Centralen / Centralstation",
-        "alternate_names": ["T - Centralen", "Centralstation"],
         "line": "Tunnelbana10",
         "order": 180
       },
@@ -792,7 +2164,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.08173, 59.340763]
+        "coordinates": [
+          18.08173,
+          59.340763
+        ]
       },
       "properties": {
         "id": 99,
@@ -806,7 +2181,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.062977, 59.33561]
+        "coordinates": [
+          18.062977,
+          59.33561
+        ]
       },
       "properties": {
         "id": 207,
@@ -820,7 +2198,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.957647, 59.301232]
+        "coordinates": [
+          17.957647,
+          59.301232
+        ]
       },
       "properties": {
         "id": 46,
@@ -834,7 +2215,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.076063, 59.308495]
+        "coordinates": [
+          18.076063,
+          59.308495
+        ]
       },
       "properties": {
         "id": 140,
@@ -848,7 +2232,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.044878, 59.330135]
+        "coordinates": [
+          18.044878,
+          59.330135
+        ]
       },
       "properties": {
         "id": 28,
@@ -862,12 +2249,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.062018, 59.331519]
+        "coordinates": [
+          18.062018,
+          59.331519
+        ]
       },
       "properties": {
         "id": 206,
         "name": "T - Centralen / Centralstation",
-        "alternate_names": ["T - Centralen", "Centralstation"],
         "line": "Tunnelbana19",
         "order": 173
       },
@@ -877,7 +2266,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.073417, 59.314889]
+        "coordinates": [
+          18.073417,
+          59.314889
+        ]
       },
       "properties": {
         "id": 139,
@@ -891,7 +2283,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.936, 59.294842]
+        "coordinates": [
+          18.074002,
+          59.404222
+        ]
+      },
+      "properties": {
+        "id": 363,
+        "name": "Östberga",
+        "line": "LokalbanaL29",
+        "order": 169
+      },
+      "id": 363
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.936,
+          59.294842
+        ]
       },
       "properties": {
         "id": 45,
@@ -905,7 +2317,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.031117, 59.332957]
+        "coordinates": [
+          18.031117,
+          59.332957
+        ]
       },
       "properties": {
         "id": 27,
@@ -919,7 +2334,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.044878, 59.330135]
+        "coordinates": [
+          18.044878,
+          59.330135
+        ]
       },
       "properties": {
         "id": 12,
@@ -933,7 +2351,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.073877, 59.334536]
+        "coordinates": [
+          18.057671,
+          59.412893
+        ]
+      },
+      "properties": {
+        "id": 343,
+        "name": "Djursholms Ekeby",
+        "line": "LokalbanaL28",
+        "order": 163
+      },
+      "id": 343
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.073877,
+          59.334536
+        ]
       },
       "properties": {
         "id": 98,
@@ -947,7 +2385,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.072169, 59.319694]
+        "coordinates": [
+          18.180056,
+          59.34439
+        ]
+      },
+      "properties": {
+        "id": 311,
+        "name": "Kottla",
+        "line": "LokalbanaL21",
+        "order": 162
+      },
+      "id": 311
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.072169,
+          59.319694
+        ]
       },
       "properties": {
         "id": 138,
@@ -961,7 +2419,61 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.067142, 59.323278]
+        "coordinates": [
+          18.067996,
+          59.399937
+        ]
+      },
+      "properties": {
+        "id": 362,
+        "name": "Vendevägen",
+        "line": "LokalbanaL29",
+        "order": 161
+      },
+      "id": 362
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06057,
+          59.405585
+        ]
+      },
+      "properties": {
+        "id": 342,
+        "name": "Bråvallavägen",
+        "line": "LokalbanaL28",
+        "order": 158
+      },
+      "id": 342
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.980402,
+          59.333597
+        ]
+      },
+      "properties": {
+        "id": 303,
+        "name": "Alvik",
+        "line": "LokalbanaL12",
+        "order": 155
+      },
+      "id": 303
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.067142,
+          59.323278
+        ]
       },
       "properties": {
         "id": 137,
@@ -975,7 +2487,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.031118, 59.332957]
+        "coordinates": [
+          18.031118,
+          59.332957
+        ]
       },
       "properties": {
         "id": 11,
@@ -989,7 +2504,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.067144, 59.323278]
+        "coordinates": [
+          18.067144,
+          59.323278
+        ]
       },
       "properties": {
         "id": 205,
@@ -1003,7 +2521,61 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.015893, 59.337564]
+        "coordinates": [
+          18.059609,
+          59.398327
+        ]
+      },
+      "properties": {
+        "id": 361,
+        "name": "Djursholms Ösby",
+        "line": "LokalbanaL29",
+        "order": 151
+      },
+      "id": 361
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05895,
+          59.39905
+        ]
+      },
+      "properties": {
+        "id": 341,
+        "name": "Djursholms Ösby",
+        "line": "LokalbanaL28",
+        "order": 150
+      },
+      "id": 341
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.170268,
+          59.343322
+        ]
+      },
+      "properties": {
+        "id": 310,
+        "name": "Skärsätra",
+        "line": "LokalbanaL21",
+        "order": 146
+      },
+      "id": 310
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.015893,
+          59.337564
+        ]
       },
       "properties": {
         "id": 26,
@@ -1017,7 +2589,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.072224, 59.319624]
+        "coordinates": [
+          18.072224,
+          59.319624
+        ]
       },
       "properties": {
         "id": 204,
@@ -1031,7 +2606,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.921135, 59.285008]
+        "coordinates": [
+          17.921135,
+          59.285008
+        ]
       },
       "properties": {
         "id": 44,
@@ -1045,12 +2623,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.061464, 59.331799]
+        "coordinates": [
+          18.061464,
+          59.331799
+        ]
       },
       "properties": {
         "id": 97,
         "name": "T - Centralen / Centralstation",
-        "alternate_names": ["T - Centralen", "Centralstation"],
         "line": "Tunnelbana14",
         "order": 141
       },
@@ -1060,7 +2640,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.073413, 59.314879]
+        "coordinates": [
+          18.047447,
+          59.392335
+        ]
+      },
+      "properties": {
+        "id": 340,
+        "name": "Mörby",
+        "line": "LokalbanaL28",
+        "order": 135
+      },
+      "id": 340
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.047447,
+          59.392335
+        ]
+      },
+      "properties": {
+        "id": 360,
+        "name": "Mörby",
+        "line": "LokalbanaL29",
+        "order": 135
+      },
+      "id": 360
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.073413,
+          59.314879
+        ]
       },
       "properties": {
         "id": 203,
@@ -1074,7 +2691,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.015893, 59.337564]
+        "coordinates": [
+          18.015893,
+          59.337564
+        ]
       },
       "properties": {
         "id": 10,
@@ -1088,12 +2708,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.061638, 59.331696]
+        "coordinates": [
+          18.061638,
+          59.331696
+        ]
       },
       "properties": {
         "id": 136,
         "name": "T - Centralen / Centralstation",
-        "alternate_names": ["T - Centralen", "Centralstation"],
         "line": "Tunnelbana17",
         "order": 131
       },
@@ -1103,7 +2725,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.907013, 59.277043]
+        "coordinates": [
+          17.907013,
+          59.277043
+        ]
       },
       "properties": {
         "id": 43,
@@ -1117,7 +2742,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.076094, 59.308499]
+        "coordinates": [
+          17.982097,
+          59.328923
+        ]
+      },
+      "properties": {
+        "id": 293,
+        "name": "Alviks strand",
+        "line": "Lokalbana31",
+        "order": 129
+      },
+      "id": 293
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.098383,
+          59.56815
+        ]
+      },
+      "properties": {
+        "id": 318,
+        "name": "Vedalund",
+        "line": "LokalbanaL27",
+        "order": 129
+      },
+      "id": 318
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.076094,
+          59.308499
+        ]
       },
       "properties": {
         "id": 202,
@@ -1131,7 +2793,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.003079, 59.347927]
+        "coordinates": [
+          18.003079,
+          59.347927
+        ]
       },
       "properties": {
         "id": 25,
@@ -1145,7 +2810,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.890124, 59.275906]
+        "coordinates": [
+          17.890124,
+          59.275906
+        ]
       },
       "properties": {
         "id": 42,
@@ -1159,7 +2827,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.080984, 59.299139]
+        "coordinates": [
+          18.154228,
+          59.346946
+        ]
+      },
+      "properties": {
+        "id": 309,
+        "name": "AGA",
+        "line": "LokalbanaL21",
+        "order": 123
+      },
+      "id": 309
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.080984,
+          59.299139
+        ]
       },
       "properties": {
         "id": 201,
@@ -1173,7 +2861,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.06338, 59.33571]
+        "coordinates": [
+          18.06338,
+          59.33571
+        ]
       },
       "properties": {
         "id": 135,
@@ -1187,7 +2878,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.059041, 59.340303]
+        "coordinates": [
+          17.98025,
+          59.333704
+        ]
+      },
+      "properties": {
+        "id": 292,
+        "name": "Alvik",
+        "line": "Lokalbana31",
+        "order": 118
+      },
+      "id": 292
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.059041,
+          59.340303
+        ]
       },
       "properties": {
         "id": 134,
@@ -1201,7 +2912,78 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.066987, 59.323159]
+        "coordinates": [
+          17.974067,
+          59.328773
+        ]
+      },
+      "properties": {
+        "id": 302,
+        "name": "Alléparken",
+        "line": "LokalbanaL12",
+        "order": 115
+      },
+      "id": 302
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.996285,
+          59.361354
+        ]
+      },
+      "properties": {
+        "id": 263,
+        "name": "Solna centrum",
+        "line": "Lokalbana30",
+        "order": 113
+      },
+      "id": 263
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.043889,
+          59.38503
+        ]
+      },
+      "properties": {
+        "id": 339,
+        "name": "Stocksund",
+        "line": "LokalbanaL28",
+        "order": 113
+      },
+      "id": 339
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.043889,
+          59.38503
+        ]
+      },
+      "properties": {
+        "id": 359,
+        "name": "Stocksund",
+        "line": "LokalbanaL29",
+        "order": 113
+      },
+      "id": 359
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.066987,
+          59.323159
+        ]
       },
       "properties": {
         "id": 96,
@@ -1215,7 +2997,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.078006, 59.294243]
+        "coordinates": [
+          18.078006,
+          59.294243
+        ]
       },
       "properties": {
         "id": 200,
@@ -1229,7 +3014,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.003475, 59.347972]
+        "coordinates": [
+          18.003475,
+          59.347972
+        ]
       },
       "properties": {
         "id": 9,
@@ -1243,7 +3031,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.072104, 59.319601]
+        "coordinates": [
+          18.145615,
+          59.350674
+        ]
+      },
+      "properties": {
+        "id": 308,
+        "name": "Larsberg",
+        "line": "LokalbanaL21",
+        "order": 107
+      },
+      "id": 308
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.072104,
+          59.319601
+        ]
       },
       "properties": {
         "id": 95,
@@ -1257,7 +3065,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.048565, 59.342999]
+        "coordinates": [
+          18.048565,
+          59.342999
+        ]
       },
       "properties": {
         "id": 133,
@@ -1271,7 +3082,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.997768, 59.359537]
+        "coordinates": [
+          17.969645,
+          59.342797
+        ]
+      },
+      "properties": {
+        "id": 291,
+        "name": "Johannesfred",
+        "line": "Lokalbana31",
+        "order": 104
+      },
+      "id": 291
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.973922,
+          59.324842
+        ]
+      },
+      "properties": {
+        "id": 301,
+        "name": "Klövervägen",
+        "line": "LokalbanaL12",
+        "order": 104
+      },
+      "id": 301
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.997768,
+          59.359537
+        ]
       },
       "properties": {
         "id": 24,
@@ -1285,7 +3133,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.884764, 59.264358]
+        "coordinates": [
+          17.884764,
+          59.264358
+        ]
       },
       "properties": {
         "id": 41,
@@ -1299,7 +3150,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.101199, 59.235453]
+        "coordinates": [
+          18.101199,
+          59.235453
+        ]
       },
       "properties": {
         "id": 181,
@@ -1313,7 +3167,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.986921, 59.349552]
+        "coordinates": [
+          17.986921,
+          59.349552
+        ]
       },
       "properties": {
         "id": 8,
@@ -1327,7 +3184,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.07043, 59.288997]
+        "coordinates": [
+          18.138814,
+          59.353199
+        ]
+      },
+      "properties": {
+        "id": 307,
+        "name": "Bodal",
+        "line": "LokalbanaL21",
+        "order": 97
+      },
+      "id": 307
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07043,
+          59.288997
+        ]
       },
       "properties": {
         "id": 199,
@@ -1341,7 +3218,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.03706, 59.340335]
+        "coordinates": [
+          18.03706,
+          59.340335
+        ]
       },
       "properties": {
         "id": 132,
@@ -1355,7 +3235,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.981979, 59.367444]
+        "coordinates": [
+          17.981979,
+          59.367444
+        ]
       },
       "properties": {
         "id": 23,
@@ -1369,7 +3252,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.063259, 59.316554]
+        "coordinates": [
+          17.96415,
+          59.320927
+        ]
+      },
+      "properties": {
+        "id": 300,
+        "name": "Smedslätten",
+        "line": "LokalbanaL12",
+        "order": 88
+      },
+      "id": 300
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.063259,
+          59.316554
+        ]
       },
       "properties": {
         "id": 94,
@@ -1383,7 +3286,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.093742, 59.243536]
+        "coordinates": [
+          18.093742,
+          59.243536
+        ]
       },
       "properties": {
         "id": 180,
@@ -1397,7 +3303,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.031176, 59.333031]
+        "coordinates": [
+          18.031176,
+          59.333031
+        ]
       },
       "properties": {
         "id": 131,
@@ -1411,7 +3320,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.969178, 59.374358]
+        "coordinates": [
+          18.133218,
+          59.35693
+        ]
+      },
+      "properties": {
+        "id": 306,
+        "name": "Baggeby",
+        "line": "LokalbanaL21",
+        "order": 83
+      },
+      "id": 306
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.969178,
+          59.374358
+        ]
       },
       "properties": {
         "id": 22,
@@ -1425,7 +3354,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.070886, 59.283606]
+        "coordinates": [
+          18.070886,
+          59.283606
+        ]
       },
       "properties": {
         "id": 198,
@@ -1439,7 +3371,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.973189, 59.354672]
+        "coordinates": [
+          17.973189,
+          59.354672
+        ]
       },
       "properties": {
         "id": 7,
@@ -1453,7 +3388,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.049605, 59.317908]
+        "coordinates": [
+          18.049605,
+          59.317908
+        ]
       },
       "properties": {
         "id": 93,
@@ -1467,7 +3405,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.881183, 59.249956]
+        "coordinates": [
+          17.881183,
+          59.249956
+        ]
       },
       "properties": {
         "id": 40,
@@ -1481,7 +3422,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.015833, 59.331514]
+        "coordinates": [
+          18.015833,
+          59.331514
+        ]
       },
       "properties": {
         "id": 130,
@@ -1495,7 +3439,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.035345, 59.316]
+        "coordinates": [
+          17.956154,
+          59.323385
+        ]
+      },
+      "properties": {
+        "id": 299,
+        "name": "Ålstensgatan",
+        "line": "LokalbanaL12",
+        "order": 73
+      },
+      "id": 299
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.035345,
+          59.316
+        ]
       },
       "properties": {
         "id": 92,
@@ -1509,7 +3473,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.972689, 59.3605]
+        "coordinates": [
+          17.972689,
+          59.3605
+        ]
       },
       "properties": {
         "id": 6,
@@ -1523,7 +3490,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.067941, 59.278003]
+        "coordinates": [
+          18.067941,
+          59.278003
+        ]
       },
       "properties": {
         "id": 197,
@@ -1537,7 +3507,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.00307, 59.332723]
+        "coordinates": [
+          18.00307,
+          59.332723
+        ]
       },
       "properties": {
         "id": 129,
@@ -1551,7 +3524,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.082494, 59.25793]
+        "coordinates": [
+          17.951887,
+          59.320498
+        ]
+      },
+      "properties": {
+        "id": 298,
+        "name": "Ålstens gård",
+        "line": "LokalbanaL12",
+        "order": 65
+      },
+      "id": 298
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.082494,
+          59.25793
+        ]
       },
       "properties": {
         "id": 179,
@@ -1565,7 +3558,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.022999, 59.310719]
+        "coordinates": [
+          18.022999,
+          59.310719
+        ]
       },
       "properties": {
         "id": 91,
@@ -1579,7 +3575,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.082136, 59.263324]
+        "coordinates": [
+          18.082136,
+          59.263324
+        ]
       },
       "properties": {
         "id": 178,
@@ -1593,7 +3592,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.055593, 59.274622]
+        "coordinates": [
+          18.055593,
+          59.274622
+        ]
       },
       "properties": {
         "id": 196,
@@ -1607,7 +3609,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.962941, 59.368125]
+        "coordinates": [
+          17.962941,
+          59.368125
+        ]
       },
       "properties": {
         "id": 5,
@@ -1621,7 +3626,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.860868, 59.247481]
+        "coordinates": [
+          18.05101,
+          59.36507
+        ]
+      },
+      "properties": {
+        "id": 338,
+        "name": "Universitetet",
+        "line": "LokalbanaL28",
+        "order": 54
+      },
+      "id": 338
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05101,
+          59.36507
+        ]
+      },
+      "properties": {
+        "id": 358,
+        "name": "Universitetet",
+        "line": "LokalbanaL29",
+        "order": 54
+      },
+      "id": 358
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.860868,
+          59.247481
+        ]
       },
       "properties": {
         "id": 39,
@@ -1635,7 +3677,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.967056, 59.393502]
+        "coordinates": [
+          17.967056,
+          59.393502
+        ]
       },
       "properties": {
         "id": 21,
@@ -1649,7 +3694,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.981293, 59.333505]
+        "coordinates": [
+          17.981293,
+          59.333505
+        ]
       },
       "properties": {
         "id": 128,
@@ -1663,7 +3711,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.049639, 59.270391]
+        "coordinates": [
+          18.049639,
+          59.270391
+        ]
       },
       "properties": {
         "id": 195,
@@ -1677,7 +3728,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.011689, 59.301992]
+        "coordinates": [
+          18.011689,
+          59.301992
+        ]
       },
       "properties": {
         "id": 90,
@@ -1691,7 +3745,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.939659, 59.3759]
+        "coordinates": [
+          17.939659,
+          59.3759
+        ]
       },
       "properties": {
         "id": 4,
@@ -1705,7 +3762,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.085563, 59.271266]
+        "coordinates": [
+          18.085563,
+          59.271266
+        ]
       },
       "properties": {
         "id": 177,
@@ -1719,7 +3779,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.04301, 59.263782]
+        "coordinates": [
+          18.04301,
+          59.263782
+        ]
       },
       "properties": {
         "id": 194,
@@ -1733,7 +3796,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.997319, 59.298245]
+        "coordinates": [
+          17.997319,
+          59.298245
+        ]
       },
       "properties": {
         "id": 89,
@@ -1747,7 +3813,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.095528, 59.278967]
+        "coordinates": [
+          18.117685,
+          59.362011
+        ]
+      },
+      "properties": {
+        "id": 305,
+        "name": "Torsvik",
+        "line": "LokalbanaL21",
+        "order": 36
+      },
+      "id": 305
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.095528,
+          59.278967
+        ]
       },
       "properties": {
         "id": 176,
@@ -1761,7 +3847,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.92835, 59.388418]
+        "coordinates": [
+          17.92835,
+          59.388418
+        ]
       },
       "properties": {
         "id": 3,
@@ -1775,7 +3864,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.942661, 59.402957]
+        "coordinates": [
+          17.942661,
+          59.402957
+        ]
       },
       "properties": {
         "id": 20,
@@ -1789,7 +3881,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.965348, 59.33469]
+        "coordinates": [
+          17.965348,
+          59.33469
+        ]
       },
       "properties": {
         "id": 127,
@@ -1803,7 +3898,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.953172, 59.336564]
+        "coordinates": [
+          17.939694,
+          59.323431
+        ]
+      },
+      "properties": {
+        "id": 297,
+        "name": "Höglandstorget",
+        "line": "LokalbanaL12",
+        "order": 27
+      },
+      "id": 297
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.953172,
+          59.336564
+        ]
       },
       "properties": {
         "id": 126,
@@ -1817,7 +3932,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.028297, 59.256655]
+        "coordinates": [
+          18.028297,
+          59.256655
+        ]
       },
       "properties": {
         "id": 193,
@@ -1831,7 +3949,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.091926, 59.285674]
+        "coordinates": [
+          18.091926,
+          59.285674
+        ]
       },
       "properties": {
         "id": 175,
@@ -1845,7 +3966,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.845373, 59.239546]
+        "coordinates": [
+          17.845373,
+          59.239546
+        ]
       },
       "properties": {
         "id": 38,
@@ -1859,7 +3983,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.97835, 59.29517]
+        "coordinates": [
+          17.97835,
+          59.29517
+        ]
       },
       "properties": {
         "id": 88,
@@ -1873,7 +4000,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.091152, 59.291185]
+        "coordinates": [
+          18.091152,
+          59.291185
+        ]
       },
       "properties": {
         "id": 174,
@@ -1887,7 +4017,44 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.939653, 59.338304]
+        "coordinates": [
+          17.962429,
+          59.349808
+        ]
+      },
+      "properties": {
+        "id": 290,
+        "name": "Norra Ulvsunda",
+        "line": "Lokalbana31",
+        "order": 19
+      },
+      "id": 290
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935143,
+          59.327924
+        ]
+      },
+      "properties": {
+        "id": 296,
+        "name": "Olovslund",
+        "line": "LokalbanaL12",
+        "order": 16
+      },
+      "id": 296
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.939653,
+          59.338304
+        ]
       },
       "properties": {
         "id": 125,
@@ -1901,7 +4068,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [18.090327, 59.295283]
+        "coordinates": [
+          17.927974,
+          59.329046
+        ]
+      },
+      "properties": {
+        "id": 295,
+        "name": "Nockeby torg",
+        "line": "LokalbanaL12",
+        "order": 13
+      },
+      "id": 295
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.090327,
+          59.295283
+        ]
       },
       "properties": {
         "id": 173,
@@ -1915,7 +4102,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.902425, 59.394145]
+        "coordinates": [
+          17.902425,
+          59.394145
+        ]
       },
       "properties": {
         "id": 2,
@@ -1929,7 +4119,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.926743, 59.409599]
+        "coordinates": [
+          17.926743,
+          59.409599
+        ]
       },
       "properties": {
         "id": 19,
@@ -1943,7 +4136,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.966751, 59.291324]
+        "coordinates": [
+          17.966751,
+          59.291324
+        ]
       },
       "properties": {
         "id": 87,
@@ -1957,7 +4153,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [17.825219, 59.243272]
+        "coordinates": [
+          17.956508,
+          59.353908
+        ]
+      },
+      "properties": {
+        "id": 289,
+        "name": "Bromma Blocks",
+        "line": "Lokalbana31",
+        "order": 10
+      },
+      "id": 289
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.825219,
+          59.243272
+        ]
       },
       "properties": {
         "id": 37,
@@ -1969,7 +4185,7 @@
     }
   ],
   "properties": {
-    "totalStations": 140,
+    "totalStations": 246,
     "stationsPerLine": {
       "Tunnelbana10": 14,
       "Tunnelbana11": 13,
@@ -1977,7 +4193,14 @@
       "Tunnelbana14": 19,
       "Tunnelbana17": 24,
       "Tunnelbana18": 10,
-      "Tunnelbana19": 35
+      "Tunnelbana19": 35,
+      "Lokalbana30": 26,
+      "Lokalbana31": 6,
+      "LokalbanaL12": 10,
+      "LokalbanaL21": 13,
+      "LokalbanaL27": 20,
+      "LokalbanaL28": 20,
+      "LokalbanaL29": 11
     }
   }
 }

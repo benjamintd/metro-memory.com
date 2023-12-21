@@ -56,6 +56,55 @@ export const LINES: {
     textColor: '#FFFFFF',
     order: 6,
   },
+  Lokalbana30: {
+    name: '30',
+    color: '#ff9400',
+    backgroundColor: '#6C3F00',
+    textColor: '#FFFFFF',
+    order: 7,
+  },
+  Lokalbana31: {
+    name: '31',
+    color: '#ff9400',
+    backgroundColor: '#6C3F00',
+    textColor: '#FFFFFF',
+    order: 8,
+  },
+  LokalbanaL12: {
+    name: 'L12',
+    color: '#7592c5',
+    backgroundColor: '#40567d',
+    textColor: '#FFFFFF',
+    order: 9,
+  },
+  LokalbanaL21: {
+    name: 'L21',
+    color: '#BA7F32',
+    backgroundColor: '#5D4019',
+    textColor: '#FFFFFF',
+    order: 10,
+  },
+  LokalbanaL27: {
+    name: 'L27',
+    color: '#A05EA6',
+    backgroundColor: '#512E54',
+    textColor: '#FFFFFF',
+    order: 11,
+  },
+  LokalbanaL28: {
+    name: 'L28',
+    color: '#A05EA6',
+    backgroundColor: '#512E54',
+    textColor: '#FFFFFF',
+    order: 12,
+  },
+  LokalbanaL29: {
+    name: 'L29',
+    color: '#A05EA6',
+    backgroundColor: '#512E54',
+    textColor: '#FFFFFF',
+    order: 13,
+  },
 }
 
 export const METADATA: Metadata = {
