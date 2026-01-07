@@ -1,6 +1,6 @@
-import { Metadata } from 'next'
-import { MapboxOptions } from 'mapbox-gl'
 import { Config, Line } from '@/lib/types'
+import { MapboxOptions } from 'mapbox-gl'
+import { Metadata } from 'next'
 
 export const BEG_THRESHOLD = 0.2
 
@@ -93,20 +93,55 @@ export const LINES: {
     textColor: '#fff',
     order: 14,
   },
-  Overground: {
-    name: 'Overground',
-    color: '#e86a10',
-    backgroundColor: '#7f3300',
+  Liberty: {
+    name: 'Liberty',
+    color: '#5d6061',
+    backgroundColor: '#2f3031',
     textColor: '#fff',
     order: 15,
+  },
+  Lioness: {
+    name: 'Lioness',
+    color: '#faa61a',
+    backgroundColor: '#875603',
+    textColor: '#fff',
+    order: 16,
+  },
+  Mildmay: {
+    name: 'Mildmay',
+    color: '#0077ad',
+    backgroundColor: '#005175',
+    textColor: '#fff',
+    order: 17,
+  },
+  Suffragette: {
+    name: 'Suffragette',
+    color: '#5bbd72',
+    backgroundColor: '#448c55',
+    textColor: '#fff',
+    order: 18,
+  },
+  Weaver: {
+    name: 'Weaver',
+    color: '#823a62',
+    backgroundColor: '#572741',
+    textColor: '#fff',
+    order: 19,
+  },
+  Windrush: {
+    name: 'Windrush',
+    color: '#ed1b00',
+    backgroundColor: '#a81300',
+    textColor: '#fff',
+    order: 20,
   },
   ElizabethLine: {
     name: 'Elizabeth Line',
     color: '#6950A1',
     backgroundColor: '#2b1d4d',
     textColor: '#fff',
-    order: 16,
-  },
+    order: 21,
+  }
 }
 
 export const METADATA: Metadata = {
