@@ -1,0 +1,2949 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8267713, 45.7496228]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Perrache",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8291603, 45.7530516]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Ampère - Victor Hugo",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8331128, 45.7575968]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Bellecour",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8357895, 45.7633092]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Cordeliers",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8360162, 45.7672691]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Hôtel de Ville - Louis Pradel",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8443892, 45.7687638]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Foch",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8534191, 45.7695999]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Masséna",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8650675, 45.7706745]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Charpennes - Charles Hernu",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8739945, 45.770587]
+      },
+      "properties": {
+        "id": 9,
+        "name": "République - Villeurbanne",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8823107, 45.7690539]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Gratte-Ciel",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8892877, 45.7677706]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Flachet - Alain Gilles",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9008478, 45.7656434]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Cusset",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.908827, 45.7641338]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Laurent Bonnevay - Astroballe",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9219433, 45.7612489]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Vaulx-en-Velin - La Soie",
+        "alternateNames": [],
+        "line": "LyonA",
+        "order": 1
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8633324, 45.7704175]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Charpennes - Charles Hernu",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8593786, 45.7671188]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Brotteaux",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8574444, 45.7616054]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Gare Part-Dieu - Vivier Merle",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8473882, 45.7591873]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Place Guichard - Bourse du Travail",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8466842, 45.753283]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Saxe - Gambetta",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.842387, 45.7460317]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Jean Macé",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8373372, 45.7375587]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Place Jean Jaurès",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8334756, 45.7310667]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Debourg",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8308571, 45.7267437]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Stade de Gerland—Le LOU",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8145298, 45.7166744]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Gare d'Oullins",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8052695, 45.7143357]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Oullins Centre",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8043595, 45.7017434]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Saint-Genis-Laval Hôpital Lyon Sud",
+        "alternateNames": [],
+        "line": "LyonB",
+        "order": 2
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8326307, 45.7853201]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Cuire",
+        "alternateNames": [],
+        "line": "LyonC",
+        "order": 3
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8275387, 45.7794808]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Hénon",
+        "alternateNames": [],
+        "line": "LyonC",
+        "order": 3
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8318589, 45.7745563]
+      },
+      "properties": {
+        "id": 29,
+        "name": "Croix-Rousse",
+        "alternateNames": [],
+        "line": "LyonC",
+        "order": 3
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8362195, 45.7710165]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Croix-Paquet",
+        "alternateNames": [],
+        "line": "LyonC",
+        "order": 3
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.836024, 45.7681512]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Hôtel de Ville - Louis Pradel",
+        "alternateNames": [],
+        "line": "LyonC",
+        "order": 3
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8045386, 45.7805642]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Gare de Vaise - Gérard Collomb",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8054708, 45.7745978]
+      },
+      "properties": {
+        "id": 33,
+        "name": "Valmy",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8055028, 45.7664422]
+      },
+      "properties": {
+        "id": 34,
+        "name": "Gorge de Loup",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8259681, 45.7601928]
+      },
+      "properties": {
+        "id": 35,
+        "name": "Vieux Lyon - Cathédrale Saint-Jean",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8334117, 45.7570913]
+      },
+      "properties": {
+        "id": 36,
+        "name": "Bellecour",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8428428, 45.7553541]
+      },
+      "properties": {
+        "id": 37,
+        "name": "Guillotière",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.847025, 45.7539138]
+      },
+      "properties": {
+        "id": 38,
+        "name": "Saxe - Gambetta",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.853488, 45.7516219]
+      },
+      "properties": {
+        "id": 39,
+        "name": "Garibaldi",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8652467, 45.747584]
+      },
+      "properties": {
+        "id": 40,
+        "name": "Sans Souci",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8713767, 45.7455214]
+      },
+      "properties": {
+        "id": 41,
+        "name": "Monplaisir - Lumière",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8788802, 45.7429973]
+      },
+      "properties": {
+        "id": 42,
+        "name": "Grange Blanche",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8865793, 45.7383722]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Laennec",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8873009, 45.7305576]
+      },
+      "properties": {
+        "id": 44,
+        "name": "Mermoz - Pinel",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8875525, 45.7195177]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Parilly",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8880198, 45.705464]
+      },
+      "properties": {
+        "id": 46,
+        "name": "Gare de Vénissieux",
+        "alternateNames": [],
+        "line": "LyonD",
+        "order": 4
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8164781, 45.7571997]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Saint-Just",
+        "alternateNames": [],
+        "line": "LyonF1",
+        "order": 5
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8213787, 45.7586372]
+      },
+      "properties": {
+        "id": 48,
+        "name": "Minimes - Théâtres romains",
+        "alternateNames": [],
+        "line": "LyonF1",
+        "order": 5
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8258904, 45.7599724]
+      },
+      "properties": {
+        "id": 49,
+        "name": "Vieux Lyon - Cathédrale Saint-Jean",
+        "alternateNames": [],
+        "line": "LyonF1",
+        "order": 5
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8214827, 45.7623841]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Fourvière",
+        "alternateNames": [],
+        "line": "LyonF2",
+        "order": 6
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8257703, 45.7600559]
+      },
+      "properties": {
+        "id": 51,
+        "name": "Vieux Lyon - Cathédrale Saint-Jean",
+        "alternateNames": [],
+        "line": "LyonF2",
+        "order": 6
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8346207, 45.7311865]
+      },
+      "properties": {
+        "id": 52,
+        "name": "Debourg",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8288348, 45.7314628]
+      },
+      "properties": {
+        "id": 53,
+        "name": "ENS Lyon",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8228408, 45.7317251]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Halle Tony Garnier",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8189123, 45.7336611]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Musée des Confluences",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8190408, 45.7405673]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Hôtel de Région Montrochet",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8221408, 45.744203]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Sainte-Blandine",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8245818, 45.7470663]
+      },
+      "properties": {
+        "id": 58,
+        "name": "Place des Archives",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8270476, 45.7495322]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Perrache",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8353169, 45.7496772]
+      },
+      "properties": {
+        "id": 60,
+        "name": "Quai Claude Bernard",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8389606, 45.7511473]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Rue de l'Université",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8410584, 45.7528829]
+      },
+      "properties": {
+        "id": 62,
+        "name": "Saint-André",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8425387, 45.7549452]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Guillotière",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8424556, 45.758858]
+      },
+      "properties": {
+        "id": 64,
+        "name": "Liberté",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8452808, 45.7601118]
+      },
+      "properties": {
+        "id": 65,
+        "name": "Saxe-Préfecture",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8483963, 45.7603239]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Palais de Justice - Mairie du 3e",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8538132, 45.7606742]
+      },
+      "properties": {
+        "id": 67,
+        "name": "Part-Dieu - Auditorium",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8579173, 45.7616011]
+      },
+      "properties": {
+        "id": 68,
+        "name": "Gare Part-Dieu - Vivier Merle",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8620519, 45.7643156]
+      },
+      "properties": {
+        "id": 69,
+        "name": "Thiers - Lafayette",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.861941, 45.7666845]
+      },
+      "properties": {
+        "id": 70,
+        "name": "Collège Bellecombe",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.863054, 45.7709503]
+      },
+      "properties": {
+        "id": 71,
+        "name": "Charpennes - Charles Hernu",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8640433, 45.7740693]
+      },
+      "properties": {
+        "id": 72,
+        "name": "Le Tonkin",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8669658, 45.7779464]
+      },
+      "properties": {
+        "id": 73,
+        "name": "Condorcet",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8663444, 45.7808653]
+      },
+      "properties": {
+        "id": 74,
+        "name": "Université Lyon 1",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8721478, 45.7814923]
+      },
+      "properties": {
+        "id": 75,
+        "name": "La Doua - Gaston Berger",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8776632, 45.7824397]
+      },
+      "properties": {
+        "id": 76,
+        "name": "INSA - Einstein",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8832536, 45.7836714]
+      },
+      "properties": {
+        "id": 77,
+        "name": "Croix-Luizet",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8819277, 45.7869337]
+      },
+      "properties": {
+        "id": 78,
+        "name": "IUT - Feyssine",
+        "alternateNames": [],
+        "line": "LyonT1",
+        "order": 8
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8190408, 45.7405673]
+      },
+      "properties": {
+        "id": 79,
+        "name": "Hôtel de Région Montrochet",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8221408, 45.744203]
+      },
+      "properties": {
+        "id": 80,
+        "name": "Sainte-Blandine",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8245818, 45.7470663]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Place des Archives",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8270476, 45.7495322]
+      },
+      "properties": {
+        "id": 82,
+        "name": "Perrache",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8363374, 45.74703]
+      },
+      "properties": {
+        "id": 83,
+        "name": "Centre Berthelot - Sciences Po Lyon",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8422859, 45.7451296]
+      },
+      "properties": {
+        "id": 84,
+        "name": "Jean Macé",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8468802, 45.7436641]
+      },
+      "properties": {
+        "id": 85,
+        "name": "Garibaldi Berthelot",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8517674, 45.7421032]
+      },
+      "properties": {
+        "id": 86,
+        "name": "Route de Vienne",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8587789, 45.7398554]
+      },
+      "properties": {
+        "id": 87,
+        "name": "Jet d'eau - Mendès France",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8633209, 45.7384034]
+      },
+      "properties": {
+        "id": 88,
+        "name": "Villon",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8682643, 45.7368196]
+      },
+      "properties": {
+        "id": 89,
+        "name": "Bachut - Mairie du 8e",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8745674, 45.740229]
+      },
+      "properties": {
+        "id": 90,
+        "name": "Jean XXIII - Maryse Bastié",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8795885, 45.7424421]
+      },
+      "properties": {
+        "id": 91,
+        "name": "Grange Blanche",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8839712, 45.7414928]
+      },
+      "properties": {
+        "id": 92,
+        "name": "Ambroise Paré",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.89323, 45.7388311]
+      },
+      "properties": {
+        "id": 93,
+        "name": "Desgenettes",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8981907, 45.7371987]
+      },
+      "properties": {
+        "id": 94,
+        "name": "Essarts-Iris",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9044755, 45.7349162]
+      },
+      "properties": {
+        "id": 95,
+        "name": "Boutasse - Camille Rousset",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.909094, 45.7333853]
+      },
+      "properties": {
+        "id": 96,
+        "name": "Hôtel de Ville - Bron",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9147395, 45.7315216]
+      },
+      "properties": {
+        "id": 97,
+        "name": "Les Alizés",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.91564, 45.7275325]
+      },
+      "properties": {
+        "id": 98,
+        "name": "Rebufer",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9152145, 45.7221009]
+      },
+      "properties": {
+        "id": 99,
+        "name": "Parilly - Université - Hippodrome",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9181638, 45.719607]
+      },
+      "properties": {
+        "id": 100,
+        "name": "Europe Université",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9257923, 45.7183634]
+      },
+      "properties": {
+        "id": 101,
+        "name": "Porte des Alpes",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9312446, 45.7143617]
+      },
+      "properties": {
+        "id": 102,
+        "name": "Parc Technologique",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9375534, 45.7081123]
+      },
+      "properties": {
+        "id": 103,
+        "name": "Hauts de Feuilly",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9348871, 45.7034262]
+      },
+      "properties": {
+        "id": 104,
+        "name": "Salvador Allende",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9360835, 45.6995925]
+      },
+      "properties": {
+        "id": 105,
+        "name": "Alfred de Vigny",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9368699, 45.6950411]
+      },
+      "properties": {
+        "id": 106,
+        "name": "Saint-Priest - Hôtel de Ville",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9406114, 45.6944774]
+      },
+      "properties": {
+        "id": 107,
+        "name": "Esplanade des Arts",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9468721, 45.6947312]
+      },
+      "properties": {
+        "id": 108,
+        "name": "Saint-Priest - Jules Ferry",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9497138, 45.6936521]
+      },
+      "properties": {
+        "id": 109,
+        "name": "Cordière",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9558368, 45.6926405]
+      },
+      "properties": {
+        "id": 110,
+        "name": "Saint-Priest - Bel Air",
+        "alternateNames": [],
+        "line": "LyonT2",
+        "order": 9
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8619126, 45.7602344]
+      },
+      "properties": {
+        "id": 111,
+        "name": "Gare Part-Dieu - Villette",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8688447, 45.7528928]
+      },
+      "properties": {
+        "id": 112,
+        "name": "Dauphiné - Lacassagne",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8852116, 45.7545486]
+      },
+      "properties": {
+        "id": 113,
+        "name": "Reconnaissance - Balzac",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 113
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8925898, 45.7559396]
+      },
+      "properties": {
+        "id": 114,
+        "name": "Gare de Villeurbanne",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9104776, 45.7584122]
+      },
+      "properties": {
+        "id": 115,
+        "name": "Bel Air - Les Brosses",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 115
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9221921, 45.7609942]
+      },
+      "properties": {
+        "id": 116,
+        "name": "Vaulx-en-Velin - La Soie",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9376022, 45.7649056]
+      },
+      "properties": {
+        "id": 117,
+        "name": "Décines Roosevelt",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 117
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9559221, 45.7718275]
+      },
+      "properties": {
+        "id": 118,
+        "name": "Décines Centre",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 118
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9759836, 45.7747013]
+      },
+      "properties": {
+        "id": 119,
+        "name": "Décines Grand Large",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9990146, 45.7715807]
+      },
+      "properties": {
+        "id": 120,
+        "name": "Meyzieu Gare",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 120
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0136002, 45.7698459]
+      },
+      "properties": {
+        "id": 121,
+        "name": "Meyzieu - Lycée Colonel Beltrame",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 121
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0316715, 45.7676726]
+      },
+      "properties": {
+        "id": 122,
+        "name": "Meyzieu - Z.I.",
+        "alternateNames": [],
+        "line": "LyonT3",
+        "order": 10
+      },
+      "id": 122
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8721608, 45.7815207]
+      },
+      "properties": {
+        "id": 123,
+        "name": "La Doua - Gaston Berger",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 123
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8663364, 45.7808956]
+      },
+      "properties": {
+        "id": 124,
+        "name": "Université Lyon 1",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 124
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8668827, 45.7779348]
+      },
+      "properties": {
+        "id": 125,
+        "name": "Condorcet",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 125
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8640418, 45.7740964]
+      },
+      "properties": {
+        "id": 126,
+        "name": "Le Tonkin",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 126
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8630183, 45.7709529]
+      },
+      "properties": {
+        "id": 127,
+        "name": "Charpennes - Charles Hernu",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 127
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8619039, 45.766685]
+      },
+      "properties": {
+        "id": 128,
+        "name": "Collège Bellecombe",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 128
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8620149, 45.7643245]
+      },
+      "properties": {
+        "id": 129,
+        "name": "Thiers - Lafayette",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 129
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8619393, 45.7607786]
+      },
+      "properties": {
+        "id": 130,
+        "name": "Gare Part-Dieu - Villette",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 130
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8617453, 45.7543118]
+      },
+      "properties": {
+        "id": 131,
+        "name": "Archives Départementales",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 131
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8603071, 45.750151]
+      },
+      "properties": {
+        "id": 132,
+        "name": "Manufacture Montluc",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 132
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8590198, 45.7456567]
+      },
+      "properties": {
+        "id": 133,
+        "name": "Lycée Colbert",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 133
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8591483, 45.7400572]
+      },
+      "properties": {
+        "id": 134,
+        "name": "Jet d'eau - Mendès France",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 134
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8618293, 45.7367433]
+      },
+      "properties": {
+        "id": 135,
+        "name": "Lycée Lumière",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 135
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8648109, 45.7329281]
+      },
+      "properties": {
+        "id": 136,
+        "name": "États-Unis - Musée Tony Garnier",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 136
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8672885, 45.7297478]
+      },
+      "properties": {
+        "id": 137,
+        "name": "Beauvisage - C.I.S.L.",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 137
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8711111, 45.7248324]
+      },
+      "properties": {
+        "id": 138,
+        "name": "États-Unis Viviani",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 138
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8783747, 45.7155088]
+      },
+      "properties": {
+        "id": 139,
+        "name": "Joliot Curie - Marcel Sembat",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 139
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8821463, 45.7111249]
+      },
+      "properties": {
+        "id": 140,
+        "name": "La Borelle",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 140
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.887712, 45.705666]
+      },
+      "properties": {
+        "id": 141,
+        "name": "Gare de Vénissieux",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 141
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8876094, 45.7000446]
+      },
+      "properties": {
+        "id": 142,
+        "name": "Croizat - Paul Bert",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 142
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8845271, 45.6965134]
+      },
+      "properties": {
+        "id": 143,
+        "name": "Marcel Houël - Hôtel de Ville",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 143
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8798688, 45.6949285]
+      },
+      "properties": {
+        "id": 144,
+        "name": "Lycée Jacques Brel",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 144
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8754645, 45.6937892]
+      },
+      "properties": {
+        "id": 145,
+        "name": "Herriot - Cagne",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 145
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.871963, 45.6960212]
+      },
+      "properties": {
+        "id": 146,
+        "name": "Vénissy - Frida Kahlo",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 146
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8681902, 45.6984421]
+      },
+      "properties": {
+        "id": 147,
+        "name": "Division Leclerc",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 147
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8632882, 45.6998668]
+      },
+      "properties": {
+        "id": 148,
+        "name": "Maurice Thorez",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 148
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.861729, 45.6968212]
+      },
+      "properties": {
+        "id": 149,
+        "name": "Lénine - Corsière",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 149
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8643149, 45.6926306]
+      },
+      "properties": {
+        "id": 150,
+        "name": "Darnaise",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 150
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8651436, 45.6881608]
+      },
+      "properties": {
+        "id": 151,
+        "name": "Hôpital Feyzin Vénissieux",
+        "alternateNames": [],
+        "line": "LyonT4",
+        "order": 11
+      },
+      "id": 151
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8791641, 45.7425121]
+      },
+      "properties": {
+        "id": 152,
+        "name": "Grange Blanche",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 152
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8839712, 45.7414928]
+      },
+      "properties": {
+        "id": 153,
+        "name": "Ambroise Paré",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 153
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.89323, 45.7388311]
+      },
+      "properties": {
+        "id": 154,
+        "name": "Desgenettes",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 154
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8981907, 45.7371987]
+      },
+      "properties": {
+        "id": 155,
+        "name": "Essarts-Iris",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 155
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9044755, 45.7349162]
+      },
+      "properties": {
+        "id": 156,
+        "name": "Boutasse - Camille Rousset",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 156
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.909094, 45.7333853]
+      },
+      "properties": {
+        "id": 157,
+        "name": "Hôtel de Ville - Bron",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 157
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9147395, 45.7315216]
+      },
+      "properties": {
+        "id": 158,
+        "name": "Les Alizés",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 158
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9170662, 45.7357637]
+      },
+      "properties": {
+        "id": 159,
+        "name": "De Tassigny - Curial",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 159
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9221983, 45.7380057]
+      },
+      "properties": {
+        "id": 160,
+        "name": "Lycée Jean-Paul Sartre",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 160
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9266318, 45.7390015]
+      },
+      "properties": {
+        "id": 161,
+        "name": "Parc du Chêne",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 161
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.948031, 45.7318727]
+      },
+      "properties": {
+        "id": 162,
+        "name": "Eurexpo",
+        "alternateNames": [],
+        "line": "LyonT5",
+        "order": 12
+      },
+      "id": 162
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8346998, 45.7312297]
+      },
+      "properties": {
+        "id": 163,
+        "name": "Debourg",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 163
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8436092, 45.7296535]
+      },
+      "properties": {
+        "id": 164,
+        "name": "Challemel Lacour - Artillerie",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 164
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8531437, 45.7295275]
+      },
+      "properties": {
+        "id": 165,
+        "name": "Moulin à Vent",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 165
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8587946, 45.7310097]
+      },
+      "properties": {
+        "id": 166,
+        "name": "Petite Guille",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 166
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8627491, 45.7277125]
+      },
+      "properties": {
+        "id": 167,
+        "name": "Beauvisage - Pressensé",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 167
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.867067, 45.7291661]
+      },
+      "properties": {
+        "id": 168,
+        "name": "Beauvisage - C.I.S.L.",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 168
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8734011, 45.7313384]
+      },
+      "properties": {
+        "id": 169,
+        "name": "Grange Rouge - Santy",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 169
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8785039, 45.7330628]
+      },
+      "properties": {
+        "id": 170,
+        "name": "Mermoz - Californie",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 170
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8824109, 45.7321922]
+      },
+      "properties": {
+        "id": 171,
+        "name": "Mermoz - Moselle",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 171
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8868296, 45.7307616]
+      },
+      "properties": {
+        "id": 172,
+        "name": "Mermoz - Pinel",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 172
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.890012, 45.735539]
+      },
+      "properties": {
+        "id": 173,
+        "name": "Essarts - Laennec",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 173
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8924401, 45.7395528]
+      },
+      "properties": {
+        "id": 174,
+        "name": "Desgenettes",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 174
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8941278, 45.742526]
+      },
+      "properties": {
+        "id": 175,
+        "name": "Vinatier",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 175
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8968185, 45.7475151]
+      },
+      "properties": {
+        "id": 176,
+        "name": "Hôpitaux Est - Pinel",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 176
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8980085, 45.7524354]
+      },
+      "properties": {
+        "id": 177,
+        "name": "Kimmerling - Genêts",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 177
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8911873, 45.7552327]
+      },
+      "properties": {
+        "id": 178,
+        "name": "Gare de Villeurbanne",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 178
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8883151, 45.7590908]
+      },
+      "properties": {
+        "id": 179,
+        "name": "Grandclément",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 179
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8815896, 45.7580079]
+      },
+      "properties": {
+        "id": 180,
+        "name": "Saint-Exupéry - Jaurès",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 180
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8807584, 45.7623366]
+      },
+      "properties": {
+        "id": 181,
+        "name": "Verlaine - Tolstoï",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 181
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8803271, 45.7659067]
+      },
+      "properties": {
+        "id": 182,
+        "name": "Hôtel de Ville - TNP",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 182
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8802573, 45.7689187]
+      },
+      "properties": {
+        "id": 183,
+        "name": "Gratte-Ciel",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 183
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8790908, 45.7722779]
+      },
+      "properties": {
+        "id": 184,
+        "name": "Geneviève De Gaulle",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 184
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8770555, 45.7764488]
+      },
+      "properties": {
+        "id": 185,
+        "name": "Roger Planchon",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 185
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8720092, 45.7798557]
+      },
+      "properties": {
+        "id": 186,
+        "name": "La Doua - Gaston Berger",
+        "alternateNames": [],
+        "line": "LyonT6",
+        "order": 13
+      },
+      "id": 186
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9813787, 45.7687115]
+      },
+      "properties": {
+        "id": 191,
+        "name": "Décines - OL Vallée",
+        "alternateNames": [],
+        "line": "LyonT7",
+        "order": 14
+      },
+      "id": 191
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9760016, 45.7747283]
+      },
+      "properties": {
+        "id": 192,
+        "name": "Décines Grand Large",
+        "alternateNames": [],
+        "line": "LyonT7",
+        "order": 14
+      },
+      "id": 192
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9558949, 45.7718491]
+      },
+      "properties": {
+        "id": 193,
+        "name": "Décines Centre",
+        "alternateNames": [],
+        "line": "LyonT7",
+        "order": 14
+      },
+      "id": 193
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9375951, 45.764933]
+      },
+      "properties": {
+        "id": 194,
+        "name": "Décines Roosevelt",
+        "alternateNames": [],
+        "line": "LyonT7",
+        "order": 14
+      },
+      "id": 194
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9234127, 45.7614301]
+      },
+      "properties": {
+        "id": 195,
+        "name": "Vaulx-en-Velin - La Soie",
+        "alternateNames": [],
+        "line": "LyonT7",
+        "order": 14
+      },
+      "id": 195
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8620314, 45.7602839]
+      },
+      "properties": {
+        "id": 187,
+        "name": "Gare Part-Dieu - Villette",
+        "alternateNames": [],
+        "line": "LyonRX",
+        "order": 7
+      },
+      "id": 187
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9221686, 45.7610416]
+      },
+      "properties": {
+        "id": 188,
+        "name": "Vaulx-en-Velin - La Soie",
+        "alternateNames": [],
+        "line": "LyonRX",
+        "order": 7
+      },
+      "id": 188
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0316676, 45.7676333]
+      },
+      "properties": {
+        "id": 189,
+        "name": "Meyzieu - Z.I.",
+        "alternateNames": [],
+        "line": "LyonRX",
+        "order": 7
+      },
+      "id": 189
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0754018, 45.7210571]
+      },
+      "properties": {
+        "id": 190,
+        "name": "Aéroport Lyon Saint-Éxupéry",
+        "alternateNames": [],
+        "line": "LyonRX",
+        "order": 7
+      },
+      "id": 190
+    }
+  ],
+  "properties": {
+    "totalStations": 146,
+    "stationsPerLine": {
+      "LyonA": 14,
+      "LyonB": 12,
+      "LyonC": 5,
+      "LyonD": 15,
+      "LyonF1": 3,
+      "LyonF2": 2,
+      "LyonT1": 27,
+      "LyonT2": 32,
+      "LyonT3": 12,
+      "LyonT4": 29,
+      "LyonT5": 11,
+      "LyonT6": 24,
+      "LyonT7": 5,
+      "LyonRX": 4
+    }
+  }
+}

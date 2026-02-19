@@ -7,60 +7,53 @@ export const BEG_THRESHOLD = 0.5
 export const LINES: {
   [name: string]: Line
 } = {
-  ToulouseA: {
-    name: 'A',
-    color: '#E41B23',
-    backgroundColor: '#E41B23',
-    textColor: '#ffffff',
-    order: 0,
-  },
-  ToulouseB: {
-    name: 'B',
-    color: '#FEDD04',
-    backgroundColor: '#FEDD04',
-    textColor: '#000000',
+  MarseilleM1: {
+    name: 'M1',
+    color: '#5281B0',
+    backgroundColor: '#003A5F',
+    textColor: '#FFFFFF',
     order: 1,
   },
-  ToulouseC: {
-    name: 'C',
-    color: '#52B149',
-    backgroundColor: '#52B149',
-    textColor: '#ffffff',
+  MarseilleM2: {
+    name: 'M2',
+    color: '#F3664F',
+    backgroundColor: '#720309',
+    textColor: '#FFFFFF',
     order: 2,
   },
-  ToulouseT1: {
+  MarseilleT1: {
     name: 'T1',
-    color: '#234B90',
-    backgroundColor: '#234B90',
-    textColor: '#ffffff',
+    color: '#F18F00',
+    backgroundColor: '#784700',
+    textColor: '#FFFFFF',
     order: 3,
   },
-  ToulouseT2: {
+  MarseilleT2: {
     name: 'T2',
-    color: '#409AD9',
-    backgroundColor: '#409AD9',
-    textColor: '#ffffff',
+    color: '#FEDB09',
+    backgroundColor: '#807705',
+    textColor: '#FFFFFF',
     order: 4,
   },
-  ToulouseTeleo: {
-    name: 'Teleo',
-    color: '#EC0677',
-    backgroundColor: '#EC0677',
-    textColor: '#ffffff',
+  MarseilleT3: {
+    name: 'T3',
+    color: '#8BC965',
+    backgroundColor: '#4B5F07',
+    textColor: '#FFFFFF',
     order: 5,
   },
 }
 
 export const METADATA: Metadata = {
-  title: 'Toulouse Metro Memory',
-  description: 'Combien de stations de métro de Toulouse connaissez-vous ?',
+  title: 'Marseille Metro Memory',
+  description: 'Combien de stations de métro de Marseille connaissez-vous ?',
   openGraph: {
-    title: 'Toulouse Metro Memory',
+    title: 'Marseille Metro Memory',
     description:
-      'Combien de stations de Metro pouvez-vous nommer par cœur ? Jouez au Metro Memory de Toulouse et découvrez-le !',
+      'Combien de stations de Metro pouvez-vous nommer par cœur ? Jouez au Metro Memory de Marseille et découvrez-le !',
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://metro-memory.com/toulouse',
+    url: 'https://metro-memory.com/marseille',
   },
 }
 

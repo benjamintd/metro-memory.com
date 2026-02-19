@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 12.0.1, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="-0.969 -0.697 55 55"
+   enable-background="new -0.969 -0.697 55 55"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="Symbole_Lille_1.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:window-height="745"
+   inkscape:window-width="1360"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="false"
+   inkscape:zoom="19.1625"
+   inkscape:cx="31.923985"
+   inkscape:cy="31.674821"
+   inkscape:window-x="1592"
+   inkscape:window-y="-8"
+   inkscape:current-layer="svg2"
+   inkscape:window-maximized="1" />
+<defs
+   id="defs4"><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 27.5 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="55 : 27.5 : 1"
+   inkscape:persp3d-origin="27.5 : 18.333333 : 1"
+   id="perspective13" />
+</defs>
+<path
+   fill="#FFCD09"
+   d="M0,26.705C0,11.949,11.957,0,26.709,0c14.748,0,26.703,11.949,26.703,26.705  c0,14.744-11.955,26.703-26.703,26.703C11.957,53.408,0,41.449,0,26.705"
+   id="path6" />
+<path
+   fill="#231F20"
+   d="M30.824,40.785V12.48h-4.932c-1.279,1-4.328,2.885-7.615,4.447l-1.725,0.809l1.924,4.328l1.492-0.768  c1.035-0.512,3.879-1.996,4.844-2.76v22.248H30.824"
+   id="path8"
+   style="fill:#000000;fill-opacity:1" />
+</svg>

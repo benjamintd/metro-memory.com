@@ -9,16 +9,11 @@
         "name": "Jean Jaurès",
         "line": "ToulouseA",
         "order": 1,
-        "alternate_names": [
-          "Joan Jaurès"
-        ]
+        "alternate_names": ["Joan Jaurès"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.449402284130175,
-          43.606088084144474
-        ]
+        "coordinates": [1.449402284130175, 43.606088084144474]
       }
     },
     {
@@ -29,16 +24,11 @@
         "name": "Marengo – SNCF",
         "line": "ToulouseA",
         "order": 2,
-        "alternate_names": [
-          "Marengo SNCF"
-        ]
+        "alternate_names": []
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.455190067486286,
-          43.610855606647171
-        ]
+        "coordinates": [1.455190067486286, 43.610855606647171]
       }
     },
     {
@@ -49,16 +39,11 @@
         "name": "Jolimont",
         "line": "ToulouseA",
         "order": 3,
-        "alternate_names": [
-          "Bèlmont"
-        ]
+        "alternate_names": ["Bèlmont"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.463393245774744,
-          43.615304402808057
-        ]
+        "coordinates": [1.463393245774744, 43.615304402808057]
       }
     },
     {
@@ -69,16 +54,11 @@
         "name": "Roseraie",
         "line": "ToulouseA",
         "order": 4,
-        "alternate_names": [
-          "Roseda"
-        ]
+        "alternate_names": ["Roseda"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.469680652290976,
-          43.619994654261518
-        ]
+        "coordinates": [1.469680652290976, 43.619994654261518]
       }
     },
     {
@@ -89,16 +69,11 @@
         "name": "Argoulets",
         "line": "ToulouseA",
         "order": 5,
-        "alternate_names": [
-          "Argolets"
-        ]
+        "alternate_names": ["Argolets"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.476742810321058,
-          43.624323239336505
-        ]
+        "coordinates": [1.476742810321058, 43.624323239336505]
       }
     },
     {
@@ -109,17 +84,11 @@
         "name": "Balma – Gramont",
         "line": "ToulouseA",
         "order": 6,
-        "alternate_names": [
-          "Balma Gramont",
-          "Balmar Gramont"
-        ]
+        "alternate_names": ["Balmar Gramont"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.482783140633354,
-          43.629041545342936
-        ]
+        "coordinates": [1.482783140633354, 43.629041545342936]
       }
     },
     {
@@ -130,16 +99,11 @@
         "name": "Capitole",
         "line": "ToulouseA",
         "order": 7,
-        "alternate_names": [
-          "Capitòli"
-        ]
+        "alternate_names": ["Capitòli"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.445244939880636,
-          43.604349919572627
-        ]
+        "coordinates": [1.445244939880636, 43.604349919572627]
       }
     },
     {
@@ -150,16 +114,11 @@
         "name": "Esquirol",
         "line": "ToulouseA",
         "order": 8,
-        "alternate_names": [
-          "Esquiròl"
-        ]
+        "alternate_names": ["Esquiròl"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.443896263867947,
-          43.600070022760171
-        ]
+        "coordinates": [1.443896263867947, 43.600070022760171]
       }
     },
     {
@@ -170,18 +129,11 @@
         "name": "Saint-Cyprien – République",
         "line": "ToulouseA",
         "order": 9,
-        "alternate_names": [
-          "Sant-Çubran – Republica",
-          "Sant-Çubran",
-          "Saint-Cyprien"
-        ]
+        "alternate_names": ["Sant-Çubran – Republica"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.431446851320897,
-          43.5979354675002
-        ]
+        "coordinates": [1.431446851320897, 43.5979354675002]
       }
     },
     {
@@ -192,16 +144,11 @@
         "name": "Patte d'Oie",
         "line": "ToulouseA",
         "order": 10,
-        "alternate_names": [
-          "Pè d'Auca"
-        ]
+        "alternate_names": ["Pè d'Auca"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.423010254307113,
-          43.59638890163879
-        ]
+        "coordinates": [1.423010254307113, 43.59638890163879]
       }
     },
     {
@@ -212,16 +159,11 @@
         "name": "Arènes",
         "line": "ToulouseA",
         "order": 11,
-        "alternate_names": [
-          "Arenas"
-        ]
+        "alternate_names": ["Arenas"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.418554812308002,
-          43.593447169714715
-        ]
+        "coordinates": [1.418554812308002, 43.593447169714715]
       }
     },
     {
@@ -232,16 +174,11 @@
         "name": "Fontaine Lestang",
         "line": "ToulouseA",
         "order": 12,
-        "alternate_names": [
-          "Font l'Estanh"
-        ]
+        "alternate_names": ["Font l'Estanh"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.418401476070887,
-          43.587502121367528
-        ]
+        "coordinates": [1.418401476070887, 43.587502121367528]
       }
     },
     {
@@ -255,10 +192,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.415150996161824,
-          43.583520292269931
-        ]
+        "coordinates": [1.415150996161824, 43.583520292269931]
       }
     },
     {
@@ -269,16 +203,11 @@
         "name": "Bagatelle",
         "line": "ToulouseA",
         "order": 14,
-        "alternate_names": [
-          "Bagatèla"
-        ]
+        "alternate_names": ["Bagatèla"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.412253748313161,
-          43.579994658536513
-        ]
+        "coordinates": [1.412253748313161, 43.579994658536513]
       }
     },
     {
@@ -289,18 +218,11 @@
         "name": "Mirail – Université",
         "line": "ToulouseA",
         "order": 15,
-        "alternate_names": [
-          "Miralh - Universitat",
-          "Mirail",
-          "Miralh"
-        ]
+        "alternate_names": ["Miralh – Universitat"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.402018088889817,
-          43.574696825801723
-        ]
+        "coordinates": [1.402018088889817, 43.574696825801723]
       }
     },
     {
@@ -311,16 +233,11 @@
         "name": "Reynerie",
         "line": "ToulouseA",
         "order": 16,
-        "alternate_names": [
-          "Reinariá"
-        ]
+        "alternate_names": ["Reinariá"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.401797086054136,
-          43.57088461637673
-        ]
+        "coordinates": [1.401797086054136, 43.57088461637673]
       }
     },
     {
@@ -331,16 +248,11 @@
         "name": "Bellefontaine",
         "line": "ToulouseA",
         "order": 17,
-        "alternate_names": [
-          "Belafont"
-        ]
+        "alternate_names": ["Belafont"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.398186545345369,
-          43.566077182439294
-        ]
+        "coordinates": [1.398186545345369, 43.566077182439294]
       }
     },
     {
@@ -351,16 +263,11 @@
         "name": "Basso Cambo",
         "line": "ToulouseA",
         "order": 18,
-        "alternate_names": [
-          "Baissa Comba"
-        ]
+        "alternate_names": ["Baissa Comba"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.392276581874345,
-          43.569981452596267
-        ]
+        "coordinates": [1.392276581874345, 43.569981452596267]
       }
     },
     {
@@ -371,16 +278,11 @@
         "name": "Borderouge",
         "line": "ToulouseB",
         "order": 19,
-        "alternate_names": [
-          "Bòrdaroja"
-        ]
+        "alternate_names": ["Bòrdaroja"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.45252561756847,
-          43.640399909487918
-        ]
+        "coordinates": [1.45252561756847, 43.640399909487918]
       }
     },
     {
@@ -391,16 +293,11 @@
         "name": "Trois Cocus",
         "line": "ToulouseB",
         "order": 20,
-        "alternate_names": [
-          "Tres Cocuts"
-        ]
+        "alternate_names": ["Tres Cocuts"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.44492554111952,
-          43.637998791882033
-        ]
+        "coordinates": [1.44492554111952, 43.637998791882033]
       }
     },
     {
@@ -411,16 +308,11 @@
         "name": "La Vache",
         "line": "ToulouseB",
         "order": 21,
-        "alternate_names": [
-          "La Vaca"
-        ]
+        "alternate_names": ["La Vaca"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.436030797777836,
-          43.634098933409383
-        ]
+        "coordinates": [1.436030797777836, 43.634098933409383]
       }
     },
     {
@@ -431,16 +323,11 @@
         "name": "Barrière de Paris",
         "line": "ToulouseB",
         "order": 22,
-        "alternate_names": [
-          "Barrièra de París"
-        ]
+        "alternate_names": ["Barrièra de París"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.434064120858067,
-          43.626341596229622
-        ]
+        "coordinates": [1.434064120858067, 43.626341596229622]
       }
     },
     {
@@ -451,19 +338,11 @@
         "name": "Minimes – Claude Nougaro",
         "line": "ToulouseB",
         "order": 23,
-        "alternate_names": [
-          "Minimes - Claudi Nogaròu",
-          "Minimes",
-          "Claude Nougaro",
-          "Claudi Nogaròu"
-        ]
+        "alternate_names": ["Minimes – Claudi Nogaròu"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.435807311764226,
-          43.62051035285819
-        ]
+        "coordinates": [1.435807311764226, 43.62051035285819]
       }
     },
     {
@@ -474,16 +353,11 @@
         "name": "Canal du Midi",
         "line": "ToulouseB",
         "order": 24,
-        "alternate_names": [
-          "Canal del Miègjorn"
-        ]
+        "alternate_names": ["Canal del Miègjorn"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.434555790088009,
-          43.615487552395976
-        ]
+        "coordinates": [1.434555790088009, 43.615487552395976]
       }
     },
     {
@@ -497,10 +371,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.435136853723395,
-          43.610507482779482
-        ]
+        "coordinates": [1.435136853723395, 43.610507482779482]
       }
     },
     {
@@ -511,16 +382,11 @@
         "name": "Jeanne d'Arc",
         "line": "ToulouseB",
         "order": 26,
-        "alternate_names": [
-          "Joana d'Arc"
-        ]
+        "alternate_names": ["Joana d'Arc"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.445139094421414,
-          43.609119462096189
-        ]
+        "coordinates": [1.445139094421414, 43.609119462096189]
       }
     },
     {
@@ -531,16 +397,11 @@
         "name": "François Verdier",
         "line": "ToulouseB",
         "order": 27,
-        "alternate_names": [
-          "Francés Verdièr"
-        ]
+        "alternate_names": ["Francés Verdièr"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.452166487960489,
-          43.600463387675347
-        ]
+        "coordinates": [1.452166487960489, 43.600463387675347]
       }
     },
     {
@@ -554,10 +415,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.445417210349463,
-          43.59751061543146
-        ]
+        "coordinates": [1.445417210349463, 43.59751061543146]
       }
     },
     {
@@ -568,16 +426,11 @@
         "name": "Palais de Justice",
         "line": "ToulouseB",
         "order": 29,
-        "alternate_names": [
-          "Palais de Justícia"
-        ]
+        "alternate_names": ["Palais de Justícia"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.444612660700466,
-          43.592471506249879
-        ]
+        "coordinates": [1.444612660700466, 43.592471506249879]
       }
     },
     {
@@ -588,18 +441,11 @@
         "name": "Saint-Michel – Marcel Langer",
         "line": "ToulouseB",
         "order": 30,
-        "alternate_names": [
-          "Sant-Miquèl - Marcel Langer",
-          "Saint-Michel",
-          "Marcel Langer"
-        ]
+        "alternate_names": ["Sant-Miquèl – Marcel Langer"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.447083422739824,
-          43.586331207659171
-        ]
+        "coordinates": [1.447083422739824, 43.586331207659171]
       }
     },
     {
@@ -610,16 +456,11 @@
         "name": "Empalot",
         "line": "ToulouseB",
         "order": 31,
-        "alternate_names": [
-          "En Palòt"
-        ]
+        "alternate_names": ["En Palòt"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.442052504255666,
-          43.579758559616167
-        ]
+        "coordinates": [1.442052504255666, 43.579758559616167]
       }
     },
     {
@@ -630,18 +471,11 @@
         "name": "Saint-Agne – SNCF",
         "line": "ToulouseB",
         "order": 32,
-        "alternate_names": [
-          "Sant-Anha – SNCF",
-          "Sant-Anha",
-          "Saint-Agne"
-        ]
+        "alternate_names": ["Sant-Anha – SNCF"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.450137731592496,
-          43.580467303307685
-        ]
+        "coordinates": [1.450137731592496, 43.580467303307685]
       }
     },
     {
@@ -652,16 +486,11 @@
         "name": "Saouzelong",
         "line": "ToulouseB",
         "order": 33,
-        "alternate_names": [
-          "Sauselong"
-        ]
+        "alternate_names": ["Sauselong"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.459072205781044,
-          43.5797189848494
-        ]
+        "coordinates": [1.459072205781044, 43.5797189848494]
       }
     },
     {
@@ -672,16 +501,11 @@
         "name": "Rangueil",
         "line": "ToulouseB",
         "order": 34,
-        "alternate_names": [
-          "Ranguelh"
-        ]
+        "alternate_names": ["Ranguelh"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.461883163196674,
-          43.574721562097075
-        ]
+        "coordinates": [1.461883163196674, 43.574721562097075]
       }
     },
     {
@@ -692,16 +516,11 @@
         "name": "Faculté de Pharmacie",
         "line": "ToulouseB",
         "order": 35,
-        "alternate_names": [
-          "Facultat de Farmacia"
-        ]
+        "alternate_names": ["Facultat de Farmacia"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.464545129936563,
-          43.56798931687505
-        ]
+        "coordinates": [1.464545129936563, 43.56798931687505]
       }
     },
     {
@@ -712,18 +531,11 @@
         "name": "Université Paul Sabatier",
         "line": "ToulouseB",
         "order": 36,
-        "alternate_names": [
-          "Paul Sabatier",
-          "Universitat Pau Sabatièr",
-          "Pau Sabatièr"
-        ]
+        "alternate_names": ["Universitat Pau Sabatièr"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.463293608260346,
-          43.56085684985127
-        ]
+        "coordinates": [1.463293608260346, 43.56085684985127]
       }
     },
     {
@@ -734,16 +546,11 @@
         "name": "Ramonville",
         "line": "ToulouseB",
         "order": 37,
-        "alternate_names": [
-          "Ramonvila"
-        ]
+        "alternate_names": ["Ramonvila"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.476404787725475,
-          43.555778680892693
-        ]
+        "coordinates": [1.476404787725475, 43.555778680892693]
       }
     },
     {
@@ -754,16 +561,11 @@
         "name": "Parc du Canal",
         "line": "ToulouseB",
         "order": 38,
-        "alternate_names": [
-          "Pargue del Canal"
-        ]
+        "alternate_names": ["Pargue del Canal"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.488656787627169,
-          43.551319184585701
-        ]
+        "coordinates": [1.488656787627169, 43.551319184585701]
       }
     },
     {
@@ -777,10 +579,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.505210466485817,
-          43.551117702009179
-        ]
+        "coordinates": [1.505210466485817, 43.551117702009179]
       }
     },
     {
@@ -791,16 +590,11 @@
         "name": "Colomiers Gare",
         "line": "ToulouseC",
         "order": 40,
-        "alternate_names": [
-          "Colomièrs Gara"
-        ]
+        "alternate_names": ["Colomièrs Gara"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.33514176170043,
-          43.604361832100423
-        ]
+        "coordinates": [1.33514176170043, 43.604361832100423]
       }
     },
     {
@@ -811,16 +605,11 @@
         "name": "Fontaine Lumineuse",
         "line": "ToulouseC",
         "order": 41,
-        "alternate_names": [
-          "Font Luminosa"
-        ]
+        "alternate_names": ["Font Luminosa"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.353909620487825,
-          43.608831785408384
-        ]
+        "coordinates": [1.353909620487825, 43.608831785408384]
       }
     },
     {
@@ -831,16 +620,11 @@
         "name": "Saint-Martin-du-Touch",
         "line": "ToulouseC",
         "order": 42,
-        "alternate_names": [
-          "La Cranc - Sant-Martin"
-        ]
+        "alternate_names": ["La Cranc - Sant-Martin"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.371505419292731,
-          43.610410394291769
-        ]
+        "coordinates": [1.371505419292731, 43.610410394291769]
       }
     },
     {
@@ -851,16 +635,11 @@
         "name": "Blagnac",
         "line": "ToulouseC",
         "order": 43,
-        "alternate_names": [
-          "Blanhac"
-        ]
+        "alternate_names": ["Blanhac"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.396302628100119,
-          43.621552381964321
-        ]
+        "coordinates": [1.396302628100119, 43.621552381964321]
       }
     },
     {
@@ -871,19 +650,11 @@
         "name": "Sept Deniers – Stade Toulousain",
         "line": "ToulouseC",
         "order": 44,
-        "alternate_names": [
-          "Sèt Denièrs - Estadi Tolosenc",
-          "Sept Deniers",
-          "Stade Toulousain",
-          "Estadi Tolosenc"
-        ]
+        "alternate_names": ["Sèt Denièrs – Estadi Tolosenc"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.410968082940425,
-          43.620528329200113
-        ]
+        "coordinates": [1.410968082940425, 43.620528329200113]
       }
     },
     {
@@ -894,16 +665,11 @@
         "name": "Ponts-Jumeaux",
         "line": "ToulouseC",
         "order": 45,
-        "alternate_names": [
-          "Ponts-Bessons"
-        ]
+        "alternate_names": ["Ponts-Bessons"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.423259813688983,
-          43.619945892988937
-        ]
+        "coordinates": [1.423259813688983, 43.619945892988937]
       }
     },
     {
@@ -914,16 +680,11 @@
         "name": "Fondeyre",
         "line": "ToulouseC",
         "order": 46,
-        "alternate_names": [
-          "Fondeire"
-        ]
+        "alternate_names": ["Fondeire"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.427992750821659,
-          43.632301678414308
-        ]
+        "coordinates": [1.427992750821659, 43.632301678414308]
       }
     },
     {
@@ -934,17 +695,11 @@
         "name": "La Vache Gare – Grand Marché",
         "line": "ToulouseC",
         "order": 47,
-        "alternate_names": [
-          "La Vache",
-          "La Vaca"
-        ]
+        "alternate_names": ["La Vache", "La Vaca"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.437140778312102,
-          43.635583425501316
-        ]
+        "coordinates": [1.437140778312102, 43.635583425501316]
       }
     },
     {
@@ -955,17 +710,11 @@
         "name": "Lycée Toulouse-Lautrec",
         "line": "ToulouseC",
         "order": 48,
-        "alternate_names": [
-          "Tolosa-Lautrèc",
-          "Toulouse-Lautrec"
-        ]
+        "alternate_names": ["Licèu Tolosa-Lautrèc"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.443815560585258,
-          43.626798149361058
-        ]
+        "coordinates": [1.443815560585258, 43.626798149361058]
       }
     },
     {
@@ -976,16 +725,11 @@
         "name": "Raisin",
         "line": "ToulouseC",
         "order": 49,
-        "alternate_names": [
-          "Rasim"
-        ]
+        "alternate_names": ["Rasim"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.446194445041242,
-          43.61831000802065
-        ]
+        "coordinates": [1.446194445041242, 43.61831000802065]
       }
     },
     {
@@ -996,16 +740,11 @@
         "name": "Bonnefoy",
         "line": "ToulouseC",
         "order": 50,
-        "alternate_names": [
-          "Bonafé"
-        ]
+        "alternate_names": ["Bonafé"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.456400306329438,
-          43.61860483013794
-        ]
+        "coordinates": [1.456400306329438, 43.61860483013794]
       }
     },
     {
@@ -1016,16 +755,11 @@
         "name": "Matabiau Gare",
         "line": "ToulouseC",
         "order": 51,
-        "alternate_names": [
-          "Marengo SNCF"
-        ]
+        "alternate_names": ["Marengo SNCF", "Matabiau Gara"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.455166166898724,
-          43.611136756214876
-        ]
+        "coordinates": [1.455166166898724, 43.611136756214876]
       }
     },
     {
@@ -1036,16 +770,11 @@
         "name": "Côte Pavée",
         "line": "ToulouseC",
         "order": 52,
-        "alternate_names": [
-          "Còsta Pavada"
-        ]
+        "alternate_names": ["Còsta Pavada"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.465809067502426,
-          43.593849120477117
-        ]
+        "coordinates": [1.465809067502426, 43.593849120477117]
       }
     },
     {
@@ -1056,20 +785,11 @@
         "name": "Limayrac – Cité de l'Espace",
         "line": "ToulouseC",
         "order": 53,
-        "alternate_names": [
-          "Limairac – Ciutat de l'espaci",
-          "Limairac",
-          "Ciutat de l'espaci",
-          "Limayrac",
-          "Cité de l'Espace"
-        ]
+        "alternate_names": ["Limairac – Ciutat de l'espaci"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.480196600423061,
-          43.59125212948905
-        ]
+        "coordinates": [1.480196600423061, 43.59125212948905]
       }
     },
     {
@@ -1080,16 +800,11 @@
         "name": "Ormeau",
         "line": "ToulouseC",
         "order": 54,
-        "alternate_names": [
-          "Ormal"
-        ]
+        "alternate_names": ["Ormal"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.483360169104609,
-          43.579229694674886
-        ]
+        "coordinates": [1.483360169104609, 43.579229694674886]
       }
     },
     {
@@ -1100,20 +815,11 @@
         "name": "Montaudran Gare – Piste des Géants",
         "line": "ToulouseC",
         "order": 55,
-        "alternate_names": [
-          "Montaudran Gare",
-          "Montaudran Gara – Pista dels Gigants",
-          "Montaudran Gara",
-          "Piste des Géants",
-          "Pista dels Gigants"
-        ]
+        "alternate_names": ["Montaudran Gara – Pista dels Gigants"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.481547449216437,
-          43.571555233708935
-        ]
+        "coordinates": [1.481547449216437, 43.571555233708935]
       }
     },
     {
@@ -1127,10 +833,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.492324441428305,
-          43.563530724277996
-        ]
+        "coordinates": [1.492324441428305, 43.563530724277996]
       }
     },
     {
@@ -1144,10 +847,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.509801047692619,
-          43.544512327660406
-        ]
+        "coordinates": [1.509801047692619, 43.544512327660406]
       }
     },
     {
@@ -1158,16 +858,11 @@
         "name": "Labège Gare",
         "line": "ToulouseC",
         "order": 58,
-        "alternate_names": [
-          "Labeja Gara"
-        ]
+        "alternate_names": ["Labeja Gara"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.520662467954072,
-          43.538975565187883
-        ]
+        "coordinates": [1.520662467954072, 43.538975565187883]
       }
     },
     {
@@ -1178,16 +873,11 @@
         "name": "Jean Jaurès",
         "line": "ToulouseB",
         "order": 59,
-        "alternate_names": [
-          "Joan Jaurès"
-        ]
+        "alternate_names": ["Joan Jaurès"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.44865360598471,
-          43.605793200661175
-        ]
+        "coordinates": [1.44865360598471, 43.605793200661175]
       }
     },
     {
@@ -1201,10 +891,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.505400429597353,
-          43.551213086453217
-        ]
+        "coordinates": [1.505400429597353, 43.551213086453217]
       }
     },
     {
@@ -1215,16 +902,11 @@
         "name": "François Verdier",
         "line": "ToulouseC",
         "order": 61,
-        "alternate_names": [
-          "Francés Verdièr"
-        ]
+        "alternate_names": ["Francés Verdièr"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.452166487960489,
-          43.600463387675347
-        ]
+        "coordinates": [1.452166487960489, 43.600463387675347]
       }
     },
     {
@@ -1235,18 +917,11 @@
         "name": "Université Paul Sabatier",
         "line": "ToulouseTeleo",
         "order": 62,
-        "alternate_names": [
-          "Paul Sabatier",
-          "Universitat Pau Sabatièr",
-          "Pau Sabatièr"
-        ]
+        "alternate_names": ["Universitat Pau Sabatièr"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.464602747422677,
-          43.560212739455963
-        ]
+        "coordinates": [1.464602747422677, 43.560212739455963]
       }
     },
     {
@@ -1257,18 +932,11 @@
         "name": "Hôpital Rangueil – Louis Lareng",
         "line": "ToulouseTeleo",
         "order": 63,
-        "alternate_names": [
-          "Espital de Ranguèlh",
-          "Hôpital Rangueil",
-          "Louis Lareng"
-        ]
+        "alternate_names": ["Espital de Ranguèlh – Louis Lareng"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.452982716305934,
-          43.558348494603358
-        ]
+        "coordinates": [1.452982716305934, 43.558348494603358]
       }
     },
     {
@@ -1279,18 +947,11 @@
         "name": "Oncopole – Lise Enjalbert",
         "line": "ToulouseTeleo",
         "order": 64,
-        "alternate_names": [
-          "Oncopòl",
-          "Oncopole",
-          "Lise Enjalbert"
-        ]
+        "alternate_names": ["Oncopòl – Lise Enjalbert"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.428322276297307,
-          43.554328745313093
-        ]
+        "coordinates": [1.428322276297307, 43.554328745313093]
       }
     },
     {
@@ -1301,16 +962,11 @@
         "name": "Palais de Justice",
         "line": "ToulouseT1",
         "order": 65,
-        "alternate_names": [
-          "Palais de Justícia"
-        ]
+        "alternate_names": ["Palais de Justícia"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.444054139666521,
-          43.592727872354423
-        ]
+        "coordinates": [1.444054139666521, 43.592727872354423]
       }
     },
     {
@@ -1321,16 +977,11 @@
         "name": "île du Ramier",
         "line": "ToulouseT1",
         "order": 66,
-        "alternate_names": [
-          "Isla del Ramier"
-        ]
+        "alternate_names": ["Isla del Ramier"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.440415042412201,
-          43.592205416028364
-        ]
+        "coordinates": [1.440415042412201, 43.592205416028364]
       }
     },
     {
@@ -1341,16 +992,11 @@
         "name": "Fer à Cheval",
         "line": "ToulouseT1",
         "order": 67,
-        "alternate_names": [
-          "Fèrre de Caval"
-        ]
+        "alternate_names": ["Fèrre de Caval"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.43545986085574,
-          43.592646941378767
-        ]
+        "coordinates": [1.43545986085574, 43.592646941378767]
       }
     },
     {
@@ -1361,19 +1007,11 @@
         "name": "Avenue de Muret – Marcel Cavaillé",
         "line": "ToulouseT1",
         "order": 68,
-        "alternate_names": [
-          "Avenguda de Murèth – Marcel Cavaillé",
-          "Avenguda de Murèth",
-          "Avenue de Muret",
-          "Marcel Cavaillé"
-        ]
+        "alternate_names": ["Avenguda de Murèth – Marcel Cavaillé"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.431834421080028,
-          43.589363749707175
-        ]
+        "coordinates": [1.431834421080028, 43.589363749707175]
       }
     },
     {
@@ -1384,16 +1022,11 @@
         "name": "Croix de Pierre",
         "line": "ToulouseT1",
         "order": 69,
-        "alternate_names": [
-          "Crotz de Pèira"
-        ]
+        "alternate_names": ["Crotz de Pèira"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.427891134529459,
-          43.585620818640628
-        ]
+        "coordinates": [1.427891134529459, 43.585620818640628]
       }
     },
     {
@@ -1407,10 +1040,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.421665807462534,
-          43.589642526705788
-        ]
+        "coordinates": [1.421665807462534, 43.589642526705788]
       }
     },
     {
@@ -1421,16 +1051,11 @@
         "name": "Arènes",
         "line": "ToulouseT1",
         "order": 71,
-        "alternate_names": [
-          "Arenas"
-        ]
+        "alternate_names": ["Arenas"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.417928624680037,
-          43.592843873229747
-        ]
+        "coordinates": [1.417928624680037, 43.592843873229747]
       }
     },
     {
@@ -1441,16 +1066,11 @@
         "name": "Hippodrome",
         "line": "ToulouseT1",
         "order": 72,
-        "alternate_names": [
-          "Ipodròm"
-        ]
+        "alternate_names": ["Ipodròm"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.409428706630542,
-          43.594881495556628
-        ]
+        "coordinates": [1.409428706630542, 43.594881495556628]
       }
     },
     {
@@ -1461,16 +1081,11 @@
         "name": "Zénith",
         "line": "ToulouseT1",
         "order": 73,
-        "alternate_names": [
-          "Zenit"
-        ]
+        "alternate_names": ["Zenit"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.411387934016184,
-          43.600871669643084
-        ]
+        "coordinates": [1.411387934016184, 43.600871669643084]
       }
     },
     {
@@ -1481,16 +1096,11 @@
         "name": "Cartoucherie",
         "line": "ToulouseT1",
         "order": 74,
-        "alternate_names": [
-          "Cartocharia"
-        ]
+        "alternate_names": ["Cartocharia"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.407668133479186,
-          43.603133789799983
-        ]
+        "coordinates": [1.407668133479186, 43.603133789799983]
       }
     },
     {
@@ -1504,10 +1114,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.402007729391011,
-          43.609111455490158
-        ]
+        "coordinates": [1.402007729391011, 43.609111455490158]
       }
     },
     {
@@ -1518,16 +1125,11 @@
         "name": "Arènes Romaines",
         "line": "ToulouseT1",
         "order": 76,
-        "alternate_names": [
-          "Arenas Romanas"
-        ]
+        "alternate_names": ["Arenas Romanas"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.398304069510548,
-          43.614092539616429
-        ]
+        "coordinates": [1.398304069510548, 43.614092539616429]
       }
     },
     {
@@ -1541,10 +1143,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.396918456226406,
-          43.618227398020181
-        ]
+        "coordinates": [1.396918456226406, 43.618227398020181]
       }
     },
     {
@@ -1558,10 +1157,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.393486704329123,
-          43.625486083389568
-        ]
+        "coordinates": [1.393486704329123, 43.625486083389568]
       }
     },
     {
@@ -1572,16 +1168,11 @@
         "name": "Guyenne-Berry",
         "line": "ToulouseT1",
         "order": 79,
-        "alternate_names": [
-          "Guiana Berric"
-        ]
+        "alternate_names": ["Guiana Berric"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.391728614355695,
-          43.630871109265904
-        ]
+        "coordinates": [1.391728614355695, 43.630871109265904]
       }
     },
     {
@@ -1592,19 +1183,11 @@
         "name": "Pasteur – Mairie de Blagnac",
         "line": "ToulouseT1",
         "order": 80,
-        "alternate_names": [
-          "Pasteur – Ostal de Blanhac",
-          "Pasteur",
-          "Mairie de Blagnac",
-          "Ostal de Blanhac"
-        ]
+        "alternate_names": ["Pasteur – Ostal de Blanhac"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.391345584160213,
-          43.634038810479879
-        ]
+        "coordinates": [1.391345584160213, 43.634038810479879]
       }
     },
     {
@@ -1615,16 +1198,11 @@
         "name": "Place du Relais",
         "line": "ToulouseT1",
         "order": 81,
-        "alternate_names": [
-          "Plaça del Relai"
-        ]
+        "alternate_names": ["Plaça del Relai"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.390074817855267,
-          43.636755262103399
-        ]
+        "coordinates": [1.390074817855267, 43.636755262103399]
       }
     },
     {
@@ -1635,19 +1213,11 @@
         "name": "Odyssud – Ritouret",
         "line": "ToulouseT1",
         "order": 82,
-        "alternate_names": [
-          "Odyssud – Ritoret",
-          "Odyssud",
-          "Ritouret",
-          "Ritoret"
-        ]
+        "alternate_names": ["Odyssud – Ritoret"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.385336914367556,
-          43.636246666875486
-        ]
+        "coordinates": [1.385336914367556, 43.636246666875486]
       }
     },
     {
@@ -1658,19 +1228,11 @@
         "name": "Patinoire – Barradels",
         "line": "ToulouseT1",
         "order": 83,
-        "alternate_names": [
-          "Patinadoira – Barradels",
-          "Patinoire",
-          "Barradels",
-          "Patinadoira"
-        ]
+        "alternate_names": ["Patinadoira – Barradels"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.382766825211486,
-          43.640074504029357
-        ]
+        "coordinates": [1.382766825211486, 43.640074504029357]
       }
     },
     {
@@ -1681,16 +1243,11 @@
         "name": "Grand Nobles",
         "line": "ToulouseT1",
         "order": 84,
-        "alternate_names": [
-          "Grand Nòble"
-        ]
+        "alternate_names": ["Grand Nòble"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.377467723511918,
-          43.644759229167498
-        ]
+        "coordinates": [1.377467723511918, 43.644759229167498]
       }
     },
     {
@@ -1701,18 +1258,11 @@
         "name": "Place Georges Brassens",
         "line": "ToulouseT1",
         "order": 85,
-        "alternate_names": [
-          "Plaça Jòrdi Brassens",
-          "Georges Brassens",
-          "Jòrdi Brassens"
-        ]
+        "alternate_names": ["Plaça Jòrdi Brassens"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.375637621378562,
-          43.648545197703747
-        ]
+        "coordinates": [1.375637621378562, 43.648545197703747]
       }
     },
     {
@@ -1723,18 +1273,11 @@
         "name": "Andromede – Lycée",
         "line": "ToulouseT1",
         "order": 86,
-        "alternate_names": [
-          "Andromèda – Licèu",
-          "Andromède",
-          "Andromèda"
-        ]
+        "alternate_names": ["Andromèda – Licèu"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.373584033231635,
-          43.654831857964759
-        ]
+        "coordinates": [1.373584033231635, 43.654831857964759]
       }
     },
     {
@@ -1745,19 +1288,11 @@
         "name": "Beauzelle – Aéroscopia",
         "line": "ToulouseT1",
         "order": 87,
-        "alternate_names": [
-          "Bausèla – Aeroscopia",
-          "Bausèla",
-          "Beauzelle",
-          "Aeroscopia"
-        ]
+        "alternate_names": ["Bausèla – Aeroscopia"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.36951162142878,
-          43.660255572422237
-        ]
+        "coordinates": [1.36951162142878, 43.660255572422237]
       }
     },
     {
@@ -1768,16 +1303,11 @@
         "name": "Aéroconstellation",
         "line": "ToulouseT1",
         "order": 88,
-        "alternate_names": [
-          "Aeroconstellacion"
-        ]
+        "alternate_names": ["Aeroconstellacion"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.362613353143213,
-          43.66346034597737
-        ]
+        "coordinates": [1.362613353143213, 43.66346034597737]
       }
     },
     {
@@ -1788,17 +1318,11 @@
         "name": "MEETT",
         "line": "ToulouseT1",
         "order": 89,
-        "alternate_names": [
-          "Pargue de las Exposicions",
-          "Parc des Expositions"
-        ]
+        "alternate_names": ["Pargue de las Exposicions", "Parc des Expositions"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.359961319115501,
-          43.667620547925004
-        ]
+        "coordinates": [1.359961319115501, 43.667620547925004]
       }
     },
     {
@@ -1809,19 +1333,11 @@
         "name": "Pasteur - Mairie de Blagnac",
         "line": "ToulouseT1",
         "order": 90,
-        "alternate_names": [
-          "Pasteur – Ostal de Blanhac",
-          "Pasteur",
-          "Mairie de Blagnac",
-          "Ostal de Blanhac"
-        ]
+        "alternate_names": ["Pasteur – Ostal de Blanhac"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.391236324331356,
-          43.634613022695461
-        ]
+        "coordinates": [1.391236324331356, 43.634613022695461]
       }
     },
     {
@@ -1832,19 +1348,11 @@
         "name": "Patinoire - Barradels",
         "line": "ToulouseT1",
         "order": 91,
-        "alternate_names": [
-          "Patinadoira – Barradels",
-          "Patinoire",
-          "Barradels",
-          "Patinadoira"
-        ]
+        "alternate_names": ["Patinadoira – Barradels"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.381987728136397,
-          43.640751089319622
-        ]
+        "coordinates": [1.381987728136397, 43.640751089319622]
       }
     },
     {
@@ -1855,16 +1363,11 @@
         "name": "Blagnac",
         "line": "ToulouseT1",
         "order": 92,
-        "alternate_names": [
-          "Blanhac"
-        ]
+        "alternate_names": ["Blanhac"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.396107698632727,
-          43.62220041446183
-        ]
+        "coordinates": [1.396107698632727, 43.62220041446183]
       }
     },
     {
@@ -1877,10 +1380,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.386765672868206,
-          43.624383540499444
-        ]
+        "coordinates": [1.386765672868206, 43.624383540499444]
       }
     },
     {
@@ -1893,10 +1393,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.379378528927953,
-          43.628848411001833
-        ]
+        "coordinates": [1.379378528927953, 43.628848411001833]
       }
     },
     {
@@ -1906,16 +1403,11 @@
         "name": "Aéroport",
         "line": "ToulouseT2",
         "order": 95,
-        "alternate_names": [
-          "Aeropòrt"
-        ]
+        "alternate_names": ["Aeropòrt"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.374377098182572,
-          43.631344927109126
-        ]
+        "coordinates": [1.374377098182572, 43.631344927109126]
       }
     },
     {
@@ -1925,16 +1417,11 @@
         "name": "Blagnac",
         "line": "ToulouseT2",
         "order": 96,
-        "alternate_names": [
-          "Blanhac"
-        ]
+        "alternate_names": ["Blanhac"]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.396165742916808,
-          43.621851232770297
-        ]
+        "coordinates": [1.396165742916808, 43.621851232770297]
       }
     }
   ],

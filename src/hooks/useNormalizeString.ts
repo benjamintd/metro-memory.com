@@ -212,6 +212,35 @@ const replacers: { [key: string]: (str: string) => string } = {
       .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, ' ')
       .replace(/\s+/g, ' ')
       .trim(),
+
+  toulouse: (str) =>
+    str
+      .replace(/professeur/g, 'prof')
+      .replace(/avenue/g, 'av')
+      .replace(/place/g, 'pl')
+      .replace(/universite/g, 'univ')
+      .replace(/saint/g, 'st'),
+
+  lille: (str) =>
+    str
+      .replace(/square/g, 'sq')
+      .replace(/superieur/g, 'sup')
+      .replace(/saint/g, 'st'),
+
+  rennes: (str) => str.replace(/universite/g, 'univ').replace(/saint/g, 'st'),
+
+  marseille: (str) =>
+    str
+      .replace(/prefecture/g, 'pref')
+      .replace(/avenues/g, 'av')
+      .replace(/capitaine/g, 'cpt')
+      .replace(/saint/g, 'st'),
+
+  lyon: (str) =>
+    str
+      .replace(/universite/g, 'univ')
+      .replace(/place/g, 'pl')
+      .replace(/saint/g, 'st'),
 }
 
 const getCustomReplacer = (cityName: string) => {
