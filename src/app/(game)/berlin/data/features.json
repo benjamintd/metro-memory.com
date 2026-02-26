@@ -442,7 +442,8 @@
       "geometry": { "type": "Point", "coordinates": [13.513522, 52.390792] },
       "properties": {
         "id": 47,
-        "name": "Schönefeld",
+        "name": "Schönefeld (bei Berlin)",
+        "alternate_names": ["Schönefeld"],
         "line": "S45"
       },
       "id": 47
@@ -1362,7 +1363,8 @@
       "geometry": { "type": "Point", "coordinates": [13.513522, 52.390792] },
       "properties": {
         "id": 48,
-        "name": "Schönefeld",
+        "name": "Schönefeld (bei Berlin)",
+        "alternate_names": ["Schönefeld"],
         "line": "S9"
       },
       "id": 48
