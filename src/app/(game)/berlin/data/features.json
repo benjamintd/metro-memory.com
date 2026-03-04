@@ -442,7 +442,8 @@
       "geometry": { "type": "Point", "coordinates": [13.513522, 52.390792] },
       "properties": {
         "id": 47,
-        "name": "Flughafen BER – Terminal 5",
+        "name": "Schönefeld (bei Berlin)",
+        "alternate_names": ["Schönefeld"],
         "line": "S45"
       },
       "id": 47
@@ -594,7 +595,7 @@
       "geometry": { "type": "Point", "coordinates": [13.509874, 52.364606] },
       "properties": {
         "id": 790,
-        "name": "Flughafen Ber - Terminal 1-2",
+        "name": "Flughafen BER",
         "line": "S45"
       },
       "id": 790
@@ -1362,7 +1363,8 @@
       "geometry": { "type": "Point", "coordinates": [13.513522, 52.390792] },
       "properties": {
         "id": 48,
-        "name": "Flughafen BER – Terminal 5",
+        "name": "Schönefeld (bei Berlin)",
+        "alternate_names": ["Schönefeld"],
         "line": "S9"
       },
       "id": 48
@@ -1576,7 +1578,7 @@
       "geometry": { "type": "Point", "coordinates": [13.509874, 52.364606] },
       "properties": {
         "id": 791,
-        "name": "Flughafen Ber - Terminal 1-2",
+        "name": "Flughafen BER",
         "line": "S9"
       },
       "id": 791
