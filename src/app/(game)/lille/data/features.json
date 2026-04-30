@@ -1,0 +1,1589 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1390652, 50.6054124]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Quatre Cantons – Stade Pierre Mauroy",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1424269, 50.6115887]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Cité Scientifique – Professeur Gabillard",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1406789, 50.6168843]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Triolo",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1308523, 50.6191838]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Villeneuve d'Ascq – Hôtel de Ville",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1280357, 50.6242405]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Pont de Bois",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1160694, 50.6251809]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Square Flandres",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1090277, 50.6270877]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Mairie d'Hellemmes",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0978885, 50.6301511]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Marbrerie",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0905047, 50.633041]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Fives",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0868209, 50.6367139]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Madeleine Caulier",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0710152, 50.6374689]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Gare Lille Flandres",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0629969, 50.6356739]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Rihour",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0608677, 50.6316357]
+      },
+      "properties": {
+        "id": 13,
+        "name": "République – Beaux-Arts",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0527177, 50.626939]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Gambetta",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0515983, 50.6234558]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Wazemmes",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0501806, 50.6184476]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Porte des Postes",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.036412, 50.6130886]
+      },
+      "properties": {
+        "id": 17,
+        "name": "CHU – Centre Oscar Lambret",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.038947, 50.608053]
+      },
+      "properties": {
+        "id": 18,
+        "name": "CHU – Eurasanté",
+        "alternateNames": [],
+        "line": "Lille1",
+        "order": 1
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.974277, 50.6520821]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Saint-Philibert",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.9851942, 50.645574]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Bourg",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.9952327, 50.6463068]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Maison des Enfants",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0073866, 50.6467613]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Mitterie",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0138888, 50.6443814]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Pont Supérieur",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0187184, 50.6406747]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Lomme – Lambersart – Arthur-Notebart",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0246674, 50.6371343]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Canteleu – Euratechnologies",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0304363, 50.6345058]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Bois Blancs",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0357267, 50.6299552]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Port de Lille",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0402998, 50.6262355]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Cormontaigne",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0454849, 50.6220359]
+      },
+      "properties": {
+        "id": 29,
+        "name": "Montebello",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0502802, 50.6184387]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Porte des Postes",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0622981, 50.6175899]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Porte d'Arras",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0721485, 50.6180428]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Porte de Douai – Jardin des Plantes",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0789012, 50.6210592]
+      },
+      "properties": {
+        "id": 33,
+        "name": "Porte de Valenciennes",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0749235, 50.6296509]
+      },
+      "properties": {
+        "id": 34,
+        "name": "Lille Grand Palais",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0706587, 50.6328076]
+      },
+      "properties": {
+        "id": 35,
+        "name": "Mairie de Lille",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0710791, 50.6373662]
+      },
+      "properties": {
+        "id": 36,
+        "name": "Gare Lille Flandres",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0762447, 50.6393534]
+      },
+      "properties": {
+        "id": 37,
+        "name": "Gare Lille Europe",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0887019, 50.6423001]
+      },
+      "properties": {
+        "id": 38,
+        "name": "Saint-Maurice Pellevoisin",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.099278, 50.6420731]
+      },
+      "properties": {
+        "id": 39,
+        "name": "Mons Sarts",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1100713, 50.6420965]
+      },
+      "properties": {
+        "id": 40,
+        "name": "Mairie de Mons",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1194332, 50.6420581]
+      },
+      "properties": {
+        "id": 41,
+        "name": "Fort de Mons",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1264767, 50.6501004]
+      },
+      "properties": {
+        "id": 42,
+        "name": "Les Prés – Edgard Pisani",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1347276, 50.658486]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Jean Jaurès",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1299757, 50.6639104]
+      },
+      "properties": {
+        "id": 44,
+        "name": "Wasquehal – Pavé de Lille",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1313598, 50.6697917]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Wasquehal – Hôtel de Ville",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1461426, 50.6746674]
+      },
+      "properties": {
+        "id": 46,
+        "name": "Croix Centre",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1559882, 50.6792861]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Mairie de Croix",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1634721, 50.6842023]
+      },
+      "properties": {
+        "id": 48,
+        "name": "Épeule – Montesquieu",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.169775, 50.6869065]
+      },
+      "properties": {
+        "id": 49,
+        "name": "Roubaix – Charles de Gaulle",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1793333, 50.690843]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Eurotéléport",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.174713, 50.6918257]
+      },
+      "properties": {
+        "id": 51,
+        "name": "Roubaix – Grand Place",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1639473, 50.6954332]
+      },
+      "properties": {
+        "id": 52,
+        "name": "Gare Jean Lebas Roubaix",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1610197, 50.7007313]
+      },
+      "properties": {
+        "id": 53,
+        "name": "Alsace – Plaine Images",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1604768, 50.7047789]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Mercure",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1602043, 50.7110166]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Carliers",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1627778, 50.7171471]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Gare de Tourcoing",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1601194, 50.7209441]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Tourcoing Centre",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1567313, 50.7257893]
+      },
+      "properties": {
+        "id": 58,
+        "name": "Colbert",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1579003, 50.7324168]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Phalempins",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1707748, 50.7367947]
+      },
+      "properties": {
+        "id": 60,
+        "name": "Pont de Neuville",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1796717, 50.7394748]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Bourgogne",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1809818, 50.7434323]
+      },
+      "properties": {
+        "id": 62,
+        "name": "C.H. Dron",
+        "alternateNames": [],
+        "line": "Lille2",
+        "order": 2
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0713943, 50.6377476]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Gare Lille Flandres",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0740513, 50.6398712]
+      },
+      "properties": {
+        "id": 64,
+        "name": "Gare Lille Europe",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0757016, 50.6460051]
+      },
+      "properties": {
+        "id": 65,
+        "name": "Romarin",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0792036, 50.6493155]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Botanique",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0818935, 50.6518035]
+      },
+      "properties": {
+        "id": 67,
+        "name": "Saint-Maur",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0891187, 50.6568583]
+      },
+      "properties": {
+        "id": 68,
+        "name": "Buisson",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0944674, 50.6605668]
+      },
+      "properties": {
+        "id": 69,
+        "name": "Brossolette",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0966792, 50.6620394]
+      },
+      "properties": {
+        "id": 70,
+        "name": "Clemenceau – Hippodrome",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1108142, 50.6648425]
+      },
+      "properties": {
+        "id": 71,
+        "name": "Acacias",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1185339, 50.664404]
+      },
+      "properties": {
+        "id": 72,
+        "name": "Pont de Wasquehal",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1266702, 50.663947]
+      },
+      "properties": {
+        "id": 73,
+        "name": "La Terrasse",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1307602, 50.6637248]
+      },
+      "properties": {
+        "id": 74,
+        "name": "Wasquehal – Pavé de Lille",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1394564, 50.6632285]
+      },
+      "properties": {
+        "id": 75,
+        "name": "Le Sart",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.146271, 50.6645449]
+      },
+      "properties": {
+        "id": 76,
+        "name": "Planche Épinoy",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1498502, 50.6665709]
+      },
+      "properties": {
+        "id": 77,
+        "name": "La Marque",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1544259, 50.6691566]
+      },
+      "properties": {
+        "id": 78,
+        "name": "Villa Cavrois",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1561407, 50.672248]
+      },
+      "properties": {
+        "id": 79,
+        "name": "Bol d'Air",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1622393, 50.6781029]
+      },
+      "properties": {
+        "id": 80,
+        "name": "Parc Barbieux",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1676589, 50.6810185]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Hôpital Victor Provo",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.172242, 50.6850046]
+      },
+      "properties": {
+        "id": 82,
+        "name": "Jean Moulin",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1753306, 50.6878301]
+      },
+      "properties": {
+        "id": 83,
+        "name": "Alfred Mongy",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1791712, 50.6910458]
+      },
+      "properties": {
+        "id": 84,
+        "name": "Eurotéléport",
+        "alternateNames": [],
+        "line": "LilleR",
+        "order": 3
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0713641, 50.6377737]
+      },
+      "properties": {
+        "id": 85,
+        "name": "Gare Lille Flandres",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0740513, 50.6398712]
+      },
+      "properties": {
+        "id": 86,
+        "name": "Gare Lille Europe",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0757016, 50.6460051]
+      },
+      "properties": {
+        "id": 87,
+        "name": "Romarin",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0792036, 50.6493155]
+      },
+      "properties": {
+        "id": 88,
+        "name": "Botanique",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0818935, 50.6518035]
+      },
+      "properties": {
+        "id": 89,
+        "name": "Saint-Maur",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0891187, 50.6568583]
+      },
+      "properties": {
+        "id": 90,
+        "name": "Buisson",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0944674, 50.6605668]
+      },
+      "properties": {
+        "id": 91,
+        "name": "Brossolette",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0966792, 50.6620394]
+      },
+      "properties": {
+        "id": 92,
+        "name": "Clemenceau – Hippodrome",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1037774, 50.6666746]
+      },
+      "properties": {
+        "id": 93,
+        "name": "Foch",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1070065, 50.6735664]
+      },
+      "properties": {
+        "id": 94,
+        "name": "Le Quesne",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1115512, 50.6773551]
+      },
+      "properties": {
+        "id": 95,
+        "name": "Cerisaie – Centre d'Affaires",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1145146, 50.679699]
+      },
+      "properties": {
+        "id": 96,
+        "name": "Château Rouge",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1196149, 50.6836626]
+      },
+      "properties": {
+        "id": 97,
+        "name": "Cartelot",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1244188, 50.6873451]
+      },
+      "properties": {
+        "id": 98,
+        "name": "Grand Cottignies",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1315521, 50.6928156]
+      },
+      "properties": {
+        "id": 99,
+        "name": "Triez",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1390673, 50.6993375]
+      },
+      "properties": {
+        "id": 100,
+        "name": "Trois Suisses",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1431794, 50.7038341]
+      },
+      "properties": {
+        "id": 101,
+        "name": "Faidherbe",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1533556, 50.7100603]
+      },
+      "properties": {
+        "id": 102,
+        "name": "Ma Campagne",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.156221, 50.7126938]
+      },
+      "properties": {
+        "id": 103,
+        "name": "Pont Hydraulique",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1571198, 50.7178429]
+      },
+      "properties": {
+        "id": 104,
+        "name": "Victoire",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.1589556, 50.7206895]
+      },
+      "properties": {
+        "id": 105,
+        "name": "Tourcoing Centre",
+        "alternateNames": [],
+        "line": "LilleT",
+        "order": 4
+      },
+      "id": 105
+    }
+  ],
+  "properties": {
+    "totalStations": 90,
+    "stationsPerLine": {
+      "Lille1": 18,
+      "Lille2": 44,
+      "LilleR": 22,
+      "LilleT": 21
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "MarseilleM1": {
+    "name": "M1",
+    "color": "#0075be",
+    "backgroundColor": "#003A5F",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "MarseilleM2": {
+    "name": "M2",
+    "color": "#e30513",
+    "backgroundColor": "#720309",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "MarseilleT1": {
+    "name": "T1",
+    "color": "#f18e00",
+    "backgroundColor": "#784700",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "MarseilleT2": {
+    "name": "T2",
+    "color": "#f5e615",
+    "backgroundColor": "#807705",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "MarseilleT3": {
+    "name": "T3",
+    "color": "#96be0d",
+    "backgroundColor": "#4B5F07",
+    "textColor": "#FFFFFF",
+    "order": 5
+  }
+}
