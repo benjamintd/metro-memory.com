@@ -1,0 +1,44 @@
+{
+  "BusanMetroLine1": {
+    "name": "1호선",
+    "color": "#F06A00",
+    "backgroundColor": "#7A3600",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "BusanMetroLine2": {
+    "name": "2호선",
+    "color": "#81BF48",
+    "backgroundColor": "#406022",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "BusanMetroLine3": {
+    "name": "3호선",
+    "color": "#BB8C00",
+    "backgroundColor": "#5E4600",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "BusanMetroLine4": {
+    "name": "4호선",
+    "color": "#217DCB",
+    "backgroundColor": "#11406A",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "BusanMetroBGL": {
+    "name": "부산김해경전철",
+    "color": "#875CAC",
+    "backgroundColor": "#49315F",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "BusanMetroDonghae": {
+    "name": "동해선",
+    "color": "#004FA2",
+    "backgroundColor": "#003463",
+    "textColor": "#FFFFFF",
+    "order": 5
+  }
+}

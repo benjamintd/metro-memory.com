@@ -1,0 +1,2567 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1576,
+          22.282
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "中環 Central",
+        "alternate_names": [
+          "central",
+          "中環"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 0
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1646,
+          22.2788
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "金鐘 Admiralty",
+        "alternate_names": [
+          "admiralty",
+          "金鐘"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1722,
+          22.2973
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "尖沙咀 Tsim Sha Tsui",
+        "alternate_names": [
+          "tsim sha tsui",
+          "尖沙咀"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 2
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1718,
+          22.3049
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "佐敦 Jordan",
+        "alternate_names": [
+          "jordan",
+          "佐敦"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 3
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1707,
+          22.3129
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "油麻地 Yau Ma Tei",
+        "alternate_names": [
+          "yau ma tei",
+          "油麻地"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 4
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1694,
+          22.3191
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "旺角 Mong Kok",
+        "alternate_names": [
+          "mong kok",
+          "旺角"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 5
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1683,
+          22.3245
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "太子 Prince Edward",
+        "alternate_names": [
+          "prince edward",
+          "太子"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 6
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1623,
+          22.3307
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "深水埗 Sham Shui Po",
+        "alternate_names": [
+          "sham shui po",
+          "深水埗"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 7
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1563,
+          22.3354
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "長沙灣 Cheung Sha Wan",
+        "alternate_names": [
+          "cheung sha wan",
+          "長沙灣"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 8
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1482,
+          22.3373
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "荔枝角 Lai Chi Kok",
+        "alternate_names": [
+          "lai chi kok",
+          "荔枝角"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 9
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1376,
+          22.3381
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "美孚 Mei Foo",
+        "alternate_names": [
+          "mei foo",
+          "美孚"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 10
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1261,
+          22.3484
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "荔景 Lai King",
+        "alternate_names": [
+          "lai king",
+          "荔景"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 11
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1279,
+          22.3569
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "葵芳 Kwai Fong",
+        "alternate_names": [
+          "kwai fong",
+          "葵芳"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 12
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1312,
+          22.3632
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "葵興 Kwai Hing",
+        "alternate_names": [
+          "kwai hing",
+          "葵興"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 13
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.125,
+          22.3708
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "大窩口 Tai Wo Hau",
+        "alternate_names": [
+          "tai wo hau",
+          "大窩口"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 14
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1178,
+          22.3736
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "荃灣 Tsuen Wan",
+        "alternate_names": [
+          "tsuen wan",
+          "荃灣"
+        ],
+        "line": "MTRTsuenWanLine",
+        "order": 15
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1896,
+          22.305
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "黃埔 Whampoa",
+        "alternate_names": [
+          "whampoa",
+          "黃埔"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 0
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1829,
+          22.3093
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "何文田 Ho Man Tin",
+        "alternate_names": [
+          "ho man tin",
+          "何文田"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 1
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1707,
+          22.3129
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "油麻地 Yau Ma Tei",
+        "alternate_names": [
+          "yau ma tei",
+          "油麻地"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 2
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1694,
+          22.3191
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "旺角 Mong Kok",
+        "alternate_names": [
+          "mong kok",
+          "旺角"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 3
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1683,
+          22.3245
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "太子 Prince Edward",
+        "alternate_names": [
+          "prince edward",
+          "太子"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 4
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1687,
+          22.332
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "石硤尾 Shek Kip Mei",
+        "alternate_names": [
+          "shek kip mei",
+          "石硤尾"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 5
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1762,
+          22.337
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "九龍塘 Kowloon Tong",
+        "alternate_names": [
+          "kowloon tong",
+          "九龍塘"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 6
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1871,
+          22.338
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "樂富 Lok Fu",
+        "alternate_names": [
+          "lok fu",
+          "樂富"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 7
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1939,
+          22.3417
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "黃大仙 Wong Tai Sin",
+        "alternate_names": [
+          "wong tai sin",
+          "黃大仙"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 8
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2016,
+          22.3401
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "鑽石山 Diamond Hill",
+        "alternate_names": [
+          "diamond hill",
+          "鑽石山"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 9
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2089,
+          22.3348
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "彩虹 Choi Hung",
+        "alternate_names": [
+          "choi hung",
+          "彩虹"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 10
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2141,
+          22.3235
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "九龍灣 Kowloon Bay",
+        "alternate_names": [
+          "kowloon bay",
+          "九龍灣"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 11
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2193,
+          22.3154
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "牛頭角 Ngau Tau Kok",
+        "alternate_names": [
+          "ngau tau kok",
+          "牛頭角"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 12
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2265,
+          22.3121
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "觀塘 Kwun Tong",
+        "alternate_names": [
+          "kwun tong",
+          "觀塘"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 13
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.233,
+          22.3068
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "藍田 Lam Tin",
+        "alternate_names": [
+          "lam tin",
+          "藍田"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 14
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2371,
+          22.2979
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "油塘 Yau Tong",
+        "alternate_names": [
+          "yau tong",
+          "油塘"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 15
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2524,
+          22.3042
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "調景嶺 Tiu Keng Leng",
+        "alternate_names": [
+          "tiu keng leng",
+          "調景嶺"
+        ],
+        "line": "MTRKwunTongLine",
+        "order": 16
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1285,
+          22.2812
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "堅尼地城 Kennedy Town",
+        "alternate_names": [
+          "kennedy town",
+          "堅尼地城"
+        ],
+        "line": "MTRIslandLine",
+        "order": 0
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1356,
+          22.2841
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "香港大學 HKU",
+        "alternate_names": [
+          "hku",
+          "香港大學",
+          "hong kong university",
+          "香港大學"
+        ],
+        "line": "MTRIslandLine",
+        "order": 1
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1427,
+          22.2856
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "西營盤 Sai Ying Pun",
+        "alternate_names": [
+          "sai ying pun",
+          "西營盤"
+        ],
+        "line": "MTRIslandLine",
+        "order": 2
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1518,
+          22.2862
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "上環 Sheung Wan",
+        "alternate_names": [
+          "sheung wan",
+          "上環"
+        ],
+        "line": "MTRIslandLine",
+        "order": 3
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1576,
+          22.282
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "中環 Central",
+        "alternate_names": [
+          "central",
+          "中環"
+        ],
+        "line": "MTRIslandLine",
+        "order": 4
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1646,
+          22.2788
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "金鐘 Admiralty",
+        "alternate_names": [
+          "admiralty",
+          "金鐘"
+        ],
+        "line": "MTRIslandLine",
+        "order": 5
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1728,
+          22.2773
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "灣仔 Wan Chai",
+        "alternate_names": [
+          "wan chai",
+          "灣仔"
+        ],
+        "line": "MTRIslandLine",
+        "order": 6
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1835,
+          22.2802
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "銅鑼灣 Causeway Bay",
+        "alternate_names": [
+          "causeway bay",
+          "銅鑼灣"
+        ],
+        "line": "MTRIslandLine",
+        "order": 7
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1917,
+          22.2827
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "天后 Tin Hau",
+        "alternate_names": [
+          "tin hau",
+          "天后"
+        ],
+        "line": "MTRIslandLine",
+        "order": 8
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1936,
+          22.2881
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "炮台山 Fortress Hill",
+        "alternate_names": [
+          "fortress hill",
+          "炮台山"
+        ],
+        "line": "MTRIslandLine",
+        "order": 9
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2007,
+          22.2909
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "北角 North Point",
+        "alternate_names": [
+          "north point",
+          "北角"
+        ],
+        "line": "MTRIslandLine",
+        "order": 10
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2096,
+          22.2878
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "鰂魚涌 Quarry Bay",
+        "alternate_names": [
+          "quarry bay",
+          "鰂魚涌"
+        ],
+        "line": "MTRIslandLine",
+        "order": 11
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2161,
+          22.2846
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "太古 Tai Koo",
+        "alternate_names": [
+          "tai koo",
+          "太古"
+        ],
+        "line": "MTRIslandLine",
+        "order": 12
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2224,
+          22.2816
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "西灣河 Sai Wan Ho",
+        "alternate_names": [
+          "sai wan ho",
+          "西灣河"
+        ],
+        "line": "MTRIslandLine",
+        "order": 13
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2289,
+          22.2789
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "筲箕灣 Shau Kei Wan",
+        "alternate_names": [
+          "shau kei wan",
+          "筲箕灣"
+        ],
+        "line": "MTRIslandLine",
+        "order": 14
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2398,
+          22.2769
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "杏花邨 Heng Fa Chuen",
+        "alternate_names": [
+          "heng fa chuen",
+          "杏花邨"
+        ],
+        "line": "MTRIslandLine",
+        "order": 15
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2368,
+          22.2644
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "柴灣 Chai Wan",
+        "alternate_names": [
+          "chai wan",
+          "柴灣"
+        ],
+        "line": "MTRIslandLine",
+        "order": 16
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.158,
+          22.285
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "香港 Hong Kong",
+        "alternate_names": [
+          "hong kong",
+          "香港"
+        ],
+        "line": "MTRTungChungLine",
+        "order": 0
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1615,
+          22.3049
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "九龍 Kowloon",
+        "alternate_names": [
+          "kowloon",
+          "九龍"
+        ],
+        "line": "MTRTungChungLine",
+        "order": 1
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1602,
+          22.3178
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "奧運 Olympic",
+        "alternate_names": [
+          "olympic",
+          "奧運"
+        ],
+        "line": "MTRTungChungLine",
+        "order": 2
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1533,
+          22.3268
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "南昌 Nam Cheong",
+        "alternate_names": [
+          "nam cheong",
+          "南昌"
+        ],
+        "line": "MTRTungChungLine",
+        "order": 3
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1261,
+          22.3484
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "荔景 Lai King",
+        "alternate_names": [
+          "lai king",
+          "荔景"
+        ],
+        "line": "MTRTungChungLine",
+        "order": 4
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.107,
+          22.3584
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "青衣 Tsing Yi",
+        "alternate_names": [
+          "tsing yi",
+          "青衣"
+        ],
+        "line": "MTRTungChungLine",
+        "order": 5
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0288,
+          22.3318
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "欣澳 Sunny Bay",
+        "alternate_names": [
+          "sunny bay",
+          "欣澳"
+        ],
+        "line": "MTRTungChungLine",
+        "order": 6
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9416,
+          22.2893
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "東涌 Tung Chung",
+        "alternate_names": [
+          "tung chung",
+          "東涌"
+        ],
+        "line": "MTRTungChungLine",
+        "order": 7
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2007,
+          22.2909
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "北角 North Point",
+        "alternate_names": [
+          "north point",
+          "北角"
+        ],
+        "line": "MTRTseungKwanOLine",
+        "order": 0
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2096,
+          22.2878
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "鰂魚涌 Quarry Bay",
+        "alternate_names": [
+          "quarry bay",
+          "鰂魚涌"
+        ],
+        "line": "MTRTseungKwanOLine",
+        "order": 1
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2371,
+          22.2979
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "油塘 Yau Tong",
+        "alternate_names": [
+          "yau tong",
+          "油塘"
+        ],
+        "line": "MTRTseungKwanOLine",
+        "order": 2
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2524,
+          22.3042
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "調景嶺 Tiu Keng Leng",
+        "alternate_names": [
+          "tiu keng leng",
+          "調景嶺"
+        ],
+        "line": "MTRTseungKwanOLine",
+        "order": 3
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26,
+          22.3074
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "將軍澳 Tseung Kwan O",
+        "alternate_names": [
+          "tseung kwan o",
+          "將軍澳"
+        ],
+        "line": "MTRTseungKwanOLine",
+        "order": 4
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2644,
+          22.3156
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "坑口 Hang Hau",
+        "alternate_names": [
+          "hang hau",
+          "坑口"
+        ],
+        "line": "MTRTseungKwanOLine",
+        "order": 5
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.258,
+          22.3224
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "寶琳 Po Lam",
+        "alternate_names": [
+          "po lam",
+          "寶琳"
+        ],
+        "line": "MTRTseungKwanOLine",
+        "order": 6
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2689,
+          22.2957
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "康城 LOHAS Park",
+        "alternate_names": [
+          "lohas park",
+          "康城",
+          "lohas park"
+        ],
+        "line": "MTRTseungKwanOLine",
+        "order": 7
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1646,
+          22.2788
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "name": "金鐘 Admiralty",
+        "alternate_names": [
+          "admiralty",
+          "金鐘"
+        ],
+        "line": "MTREastRailLine",
+        "order": 0
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1754,
+          22.2818
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "會展 Exhibition Centre",
+        "alternate_names": [
+          "exhibition centre",
+          "會展"
+        ],
+        "line": "MTREastRailLine",
+        "order": 1
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1816,
+          22.3029
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "紅磡 Hung Hom",
+        "alternate_names": [
+          "hung hom",
+          "紅磡"
+        ],
+        "line": "MTREastRailLine",
+        "order": 2
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1728,
+          22.3222
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "旺角東 Mong Kok East",
+        "alternate_names": [
+          "mong kok east",
+          "旺角東"
+        ],
+        "line": "MTREastRailLine",
+        "order": 3
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1762,
+          22.337
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "九龍塘 Kowloon Tong",
+        "alternate_names": [
+          "kowloon tong",
+          "九龍塘"
+        ],
+        "line": "MTREastRailLine",
+        "order": 4
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1786,
+          22.3731
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "name": "大圍 Tai Wai",
+        "alternate_names": [
+          "tai wai",
+          "大圍"
+        ],
+        "line": "MTREastRailLine",
+        "order": 5
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1875,
+          22.3825
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "沙田 Sha Tin",
+        "alternate_names": [
+          "sha tin",
+          "沙田"
+        ],
+        "line": "MTREastRailLine",
+        "order": 6
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1982,
+          22.3953
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "name": "火炭 Fo Tan",
+        "alternate_names": [
+          "fo tan",
+          "火炭"
+        ],
+        "line": "MTREastRailLine",
+        "order": 7
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2029,
+          22.4004
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "name": "馬場 Racecourse",
+        "alternate_names": [
+          "racecourse",
+          "馬場"
+        ],
+        "line": "MTREastRailLine",
+        "order": 8
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2102,
+          22.4134
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "name": "大學 University",
+        "alternate_names": [
+          "university",
+          "大學"
+        ],
+        "line": "MTREastRailLine",
+        "order": 9
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1706,
+          22.4446
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "name": "大埔墟 Tai Po Market",
+        "alternate_names": [
+          "tai po market",
+          "大埔墟"
+        ],
+        "line": "MTREastRailLine",
+        "order": 10
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1611,
+          22.4511
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "name": "太和 Tai Wo",
+        "alternate_names": [
+          "tai wo",
+          "太和"
+        ],
+        "line": "MTREastRailLine",
+        "order": 11
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1387,
+          22.4921
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "粉嶺 Fanling",
+        "alternate_names": [
+          "fanling",
+          "粉嶺"
+        ],
+        "line": "MTREastRailLine",
+        "order": 12
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.128,
+          22.5012
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "name": "上水 Sheung Shui",
+        "alternate_names": [
+          "sheung shui",
+          "上水"
+        ],
+        "line": "MTREastRailLine",
+        "order": 13
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1134,
+          22.5283
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "羅湖 Lo Wu",
+        "alternate_names": [
+          "lo wu",
+          "羅湖"
+        ],
+        "line": "MTREastRailLine",
+        "order": 14
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0657,
+          22.5144
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "落馬洲 Lok Ma Chau",
+        "alternate_names": [
+          "lok ma chau",
+          "落馬洲"
+        ],
+        "line": "MTREastRailLine",
+        "order": 15
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2438,
+          22.4291
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "name": "烏溪沙 Wu Kai Sha",
+        "alternate_names": [
+          "wu kai sha",
+          "烏溪沙"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 0
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2316,
+          22.4247
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "name": "馬鞍山 Ma On Shan",
+        "alternate_names": [
+          "ma on shan",
+          "馬鞍山"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 1
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2258,
+          22.4174
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "name": "恆安 Heng On",
+        "alternate_names": [
+          "heng on",
+          "恆安"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 2
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.223,
+          22.4088
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "name": "大水坑 Tai Shui Hang",
+        "alternate_names": [
+          "tai shui hang",
+          "大水坑"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 3
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2083,
+          22.3877
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "name": "石門 Shek Mun",
+        "alternate_names": [
+          "shek mun",
+          "石門"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 4
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2035,
+          22.3828
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "name": "第一城 City One",
+        "alternate_names": [
+          "city one",
+          "第一城"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 5
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.195,
+          22.3771
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "name": "沙田圍 Sha Tin Wai",
+        "alternate_names": [
+          "sha tin wai",
+          "沙田圍"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 6
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1861,
+          22.3748
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "name": "車公廟 Che Kung Temple",
+        "alternate_names": [
+          "che kung temple",
+          "車公廟"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 7
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1786,
+          22.3731
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "name": "大圍 Tai Wai",
+        "alternate_names": [
+          "tai wai",
+          "大圍"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 8
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1708,
+          22.364
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "name": "顯徑 Hin Keng",
+        "alternate_names": [
+          "hin keng",
+          "顯徑"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 9
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2016,
+          22.3401
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "name": "鑽石山 Diamond Hill",
+        "alternate_names": [
+          "diamond hill",
+          "鑽石山"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 10
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1994,
+          22.3304
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "name": "啟德 Kai Tak",
+        "alternate_names": [
+          "kai tak",
+          "啟德"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 11
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1914,
+          22.3258
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "name": "宋皇臺 Sung Wong Toi",
+        "alternate_names": [
+          "sung wong toi",
+          "宋皇臺"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 12
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1876,
+          22.3172
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "name": "土瓜灣 To Kwa Wan",
+        "alternate_names": [
+          "to kwa wan",
+          "土瓜灣"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 13
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1829,
+          22.3093
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "name": "何文田 Ho Man Tin",
+        "alternate_names": [
+          "ho man tin",
+          "何文田"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 14
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1816,
+          22.3029
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "name": "紅磡 Hung Hom",
+        "alternate_names": [
+          "hung hom",
+          "紅磡"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 15
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1754,
+          22.2955
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "name": "尖東 East Tsim Sha Tsui",
+        "alternate_names": [
+          "east tsim sha tsui",
+          "尖東"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 16
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1665,
+          22.3046
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "name": "柯士甸 Austin",
+        "alternate_names": [
+          "austin",
+          "柯士甸"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 17
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1533,
+          22.3268
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "name": "南昌 Nam Cheong",
+        "alternate_names": [
+          "nam cheong",
+          "南昌"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 18
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1376,
+          22.3381
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "name": "美孚 Mei Foo",
+        "alternate_names": [
+          "mei foo",
+          "美孚"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 19
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1098,
+          22.3686
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "name": "荃灣西 Tsuen Wan West",
+        "alternate_names": [
+          "tsuen wan west",
+          "荃灣西"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 20
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0634,
+          22.4348
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "name": "錦上路 Kam Sheung Road",
+        "alternate_names": [
+          "kam sheung road",
+          "錦上路"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 21
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0352,
+          22.4461
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "name": "元朗 Yuen Long",
+        "alternate_names": [
+          "yuen long",
+          "元朗"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 22
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0253,
+          22.4477
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "name": "朗屏 Long Ping",
+        "alternate_names": [
+          "long ping",
+          "朗屏"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 23
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0046,
+          22.4481
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "name": "天水圍 Tin Shui Wai",
+        "alternate_names": [
+          "tin shui wai",
+          "天水圍"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 24
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9786,
+          22.412
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "name": "兆康 Siu Hong",
+        "alternate_names": [
+          "siu hong",
+          "兆康"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 25
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9731,
+          22.3952
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "name": "屯門 Tuen Mun",
+        "alternate_names": [
+          "tuen mun",
+          "屯門"
+        ],
+        "line": "MTRTuenMaLine",
+        "order": 26
+      },
+      "id": 109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1646,
+          22.2788
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "name": "金鐘 Admiralty",
+        "alternate_names": [
+          "admiralty",
+          "金鐘"
+        ],
+        "line": "MTRSouthIslandLine",
+        "order": 0
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1743,
+          22.2486
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "name": "海洋公園 Ocean Park",
+        "alternate_names": [
+          "ocean park",
+          "海洋公園"
+        ],
+        "line": "MTRSouthIslandLine",
+        "order": 1
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1681,
+          22.248
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "name": "黃竹坑 Wong Chuk Hang",
+        "alternate_names": [
+          "wong chuk hang",
+          "黃竹坑"
+        ],
+        "line": "MTRSouthIslandLine",
+        "order": 2
+      },
+      "id": 112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1562,
+          22.2421
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "name": "利東 Lei Tung",
+        "alternate_names": [
+          "lei tung",
+          "利東"
+        ],
+        "line": "MTRSouthIslandLine",
+        "order": 3
+      },
+      "id": 113
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1491,
+          22.2425
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "name": "海怡半島 South Horizons",
+        "alternate_names": [
+          "south horizons",
+          "海怡半島"
+        ],
+        "line": "MTRSouthIslandLine",
+        "order": 4
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0288,
+          22.3318
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "name": "欣澳 Sunny Bay",
+        "alternate_names": [
+          "sunny bay",
+          "欣澳"
+        ],
+        "line": "MTRDisneylandResortLine",
+        "order": 0
+      },
+      "id": 115
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0451,
+          22.3155
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "name": "迪士尼 Disneyland Resort",
+        "alternate_names": [
+          "disneyland resort",
+          "迪士尼"
+        ],
+        "line": "MTRDisneylandResortLine",
+        "order": 1
+      },
+      "id": 116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.158,
+          22.285
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "name": "香港 Hong Kong",
+        "alternate_names": [
+          "hong kong",
+          "香港"
+        ],
+        "line": "MTRAirportExpress",
+        "order": 0
+      },
+      "id": 117
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1615,
+          22.3049
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "name": "九龍 Kowloon",
+        "alternate_names": [
+          "kowloon",
+          "九龍"
+        ],
+        "line": "MTRAirportExpress",
+        "order": 1
+      },
+      "id": 118
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.107,
+          22.3584
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "name": "青衣 Tsing Yi",
+        "alternate_names": [
+          "tsing yi",
+          "青衣"
+        ],
+        "line": "MTRAirportExpress",
+        "order": 2
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9366,
+          22.316
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "name": "機場 Airport",
+        "alternate_names": [
+          "airport",
+          "機場"
+        ],
+        "line": "MTRAirportExpress",
+        "order": 3
+      },
+      "id": 120
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9412,
+          22.3218
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "name": "博覽館 AsiaWorld-Expo",
+        "alternate_names": [
+          "asiaworld-expo",
+          "博覽館",
+          "asiaworld expo",
+          "asia world expo",
+          "博覽館"
+        ],
+        "line": "MTRAirportExpress",
+        "order": 4
+      },
+      "id": 121
+    }
+  ],
+  "properties": {
+    "totalStations": 121,
+    "stationsPerLine": {
+      "MTRTsuenWanLine": 16,
+      "MTRKwunTongLine": 17,
+      "MTRIslandLine": 17,
+      "MTRTungChungLine": 8,
+      "MTRTseungKwanOLine": 8,
+      "MTREastRailLine": 16,
+      "MTRTuenMaLine": 27,
+      "MTRSouthIslandLine": 5,
+      "MTRDisneylandResortLine": 2,
+      "MTRAirportExpress": 5
+    }
+  }
+}
