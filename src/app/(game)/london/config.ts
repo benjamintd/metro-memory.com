@@ -9,6 +9,7 @@ export const LINES: {
 } = {
   Bakerloo: {
     name: 'Bakerloo',
+    abbreviation: 'B',
     color: '#b36305',
     backgroundColor: '#5e2f00',
     textColor: '#fff',
@@ -17,6 +18,7 @@ export const LINES: {
 
   Central: {
     name: 'Central',
+    abbreviation: 'Ce',
     color: '#e32017',
     backgroundColor: '#7f0f00',
     textColor: '#fff',
@@ -25,6 +27,7 @@ export const LINES: {
 
   Circle: {
     name: 'Circle',
+    abbreviation: 'Ci',
     color: '#ffd329',
     backgroundColor: '#7f6d00',
     textColor: '#222',
@@ -32,6 +35,7 @@ export const LINES: {
   },
   District: {
     name: 'District',
+    abbreviation: 'Di',
     color: '#00782a',
     backgroundColor: '#00441b',
     textColor: '#fff',
@@ -39,6 +43,7 @@ export const LINES: {
   },
   HammersmithAndCity: {
     name: 'Hammersmith & City',
+    abbreviation: 'HaC',
     color: '#f3a9bb',
     backgroundColor: '#b41f43',
     textColor: '#222',
@@ -46,6 +51,7 @@ export const LINES: {
   },
   Jubilee: {
     name: 'Jubilee',
+    abbreviation: 'J',
     color: '#a0a5a9',
     backgroundColor: '#4c4f52',
     textColor: '#fff',
@@ -53,6 +59,7 @@ export const LINES: {
   },
   Metropolitan: {
     name: 'Metropolitan',
+    abbreviation: 'Me',
     color: '#9b0056',
     backgroundColor: '#4f002d',
     textColor: '#fff',
@@ -60,6 +67,7 @@ export const LINES: {
   },
   Northern: {
     name: 'Northern',
+    abbreviation: 'N',
     color: '#000000',
     backgroundColor: '#444',
     textColor: '#fff',
@@ -67,6 +75,7 @@ export const LINES: {
   },
   Piccadilly: {
     name: 'Piccadilly',
+    abbreviation: 'P',
     color: '#003688',
     backgroundColor: '#001e62',
     textColor: '#fff',
@@ -74,6 +83,7 @@ export const LINES: {
   },
   Victoria: {
     name: 'Victoria',
+    abbreviation: 'V',
     color: '#0098d4',
     backgroundColor: '#005785',
     textColor: '#fff',
@@ -81,6 +91,7 @@ export const LINES: {
   },
   WaterlooAndCity: {
     name: 'Waterloo & City',
+    abbreviation: 'WaC',
     color: '#84CAB3',
     backgroundColor: '#005b44',
     textColor: '#222',
@@ -88,6 +99,7 @@ export const LINES: {
   },
   DLR: {
     name: 'DLR',
+    abbreviation: 'DLR',
     color: '#00afad',
     backgroundColor: '#006d6b',
     textColor: '#fff',
@@ -95,6 +107,7 @@ export const LINES: {
   },
   Liberty: {
     name: 'Liberty',
+    abbreviation: 'Lty',
     color: '#5d6061',
     backgroundColor: '#2f3031',
     textColor: '#fff',
@@ -102,6 +115,7 @@ export const LINES: {
   },
   Lioness: {
     name: 'Lioness',
+    abbreviation: 'Lns',
     color: '#faa61a',
     backgroundColor: '#875603',
     textColor: '#fff',
@@ -109,6 +123,7 @@ export const LINES: {
   },
   Mildmay: {
     name: 'Mildmay',
+    abbreviation: 'Mi',
     color: '#0077ad',
     backgroundColor: '#005175',
     textColor: '#fff',
@@ -116,6 +131,7 @@ export const LINES: {
   },
   Suffragette: {
     name: 'Suffragette',
+    abbreviation: 'Su',
     color: '#5bbd72',
     backgroundColor: '#448c55',
     textColor: '#fff',
@@ -123,6 +139,7 @@ export const LINES: {
   },
   Weaver: {
     name: 'Weaver',
+    abbreviation: 'We',
     color: '#823a62',
     backgroundColor: '#572741',
     textColor: '#fff',
@@ -130,6 +147,7 @@ export const LINES: {
   },
   Windrush: {
     name: 'Windrush',
+    abbreviation: 'Wi',
     color: '#ed1b00',
     backgroundColor: '#a81300',
     textColor: '#fff',
@@ -137,6 +155,7 @@ export const LINES: {
   },
   ElizabethLine: {
     name: 'Elizabeth Line',
+    abbreviation: 'El',
     color: '#6950A1',
     backgroundColor: '#2b1d4d',
     textColor: '#fff',
@@ -182,9 +201,12 @@ export const GAUGE_COLORS = 'inverted'
 
 export const MAP_FROM_DATA = true
 
+export const OFFSET_PROCESSING_MODE = true
+
 const config: Config = {
   GAUGE_COLORS,
   MAP_FROM_DATA,
+  OFFSET_PROCESSING_MODE,
   LOCALE,
   STRIPE_LINK,
   CITY_NAME,

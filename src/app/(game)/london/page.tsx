@@ -1,12 +1,15 @@
-import data from './data/features.json'
-import 'mapbox-gl/dist/mapbox-gl.css'
-import 'react-circular-progressbar/dist/styles.css'
-import { DataFeatureCollection } from '@/lib/types'
-import config from './config'
 import GamePage from '@/components/GamePage'
-import { Provider } from '@/lib/configContext'
 import Main from '@/components/Main'
+import { Provider } from '@/lib/configContext'
+import { loadCityRoutes } from '@/lib/loadCityRoutes'
+import { DataFeatureCollection } from '@/lib/types'
+import 'mapbox-gl/dist/mapbox-gl.css'
 import { Cabin } from 'next/font/google'
+import 'react-circular-progressbar/dist/styles.css'
+import config from './config'
+import data from './data/features.json'
+
+export const dynamic = 'force-dynamic'
 
 const font = Cabin({
   weight: ['400', '700'],
@@ -15,18 +18,20 @@ const font = Cabin({
   display: 'swap',
 })
 
-const fc = {
-  ...data,
-  features: data.features.filter((f) => !!config.LINES[f.properties.line]),
-} as DataFeatureCollection
-
 export const metadata = config.METADATA
 
-export default function London() {
+export default async function London() {
+  const { routesFc, savedSettings } = loadCityRoutes('london', config)
+
+  const fc = {
+    ...data,
+    features: data.features.filter((f) => !!config.LINES[f.properties.line]),
+  } as DataFeatureCollection
+
   return (
     <Provider value={config}>
       <Main className={`${font.className} min-h-screen`}>
-        <GamePage fc={fc} />
+        <GamePage fc={fc} routes={routesFc} savedSettings={savedSettings} />
       </Main>
     </Provider>
   )
