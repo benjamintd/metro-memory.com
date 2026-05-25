@@ -1,0 +1,135 @@
+{
+  "Bakerloo": {
+    "name": "Bakerloo",
+    "color": "#894E24",
+    "backgroundColor": "#452712",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "Central": {
+    "name": "Central",
+    "color": "#DC241F",
+    "backgroundColor": "#6E1210",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "Circle": {
+    "name": "Circle",
+    "color": "#FFCE00",
+    "backgroundColor": "#806700",
+    "textColor": "#113B92",
+    "order": 2
+  },
+  "DLR": {
+    "name": "DLR",
+    "color": "#00AFAD",
+    "backgroundColor": "#005856",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "District": {
+    "name": "District",
+    "color": "#007229",
+    "backgroundColor": "#003914",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "ElizabethLine": {
+    "name": "Elizabeth Line",
+    "color": "#6950A1",
+    "backgroundColor": "#342850",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "HammersmithAndCity": {
+    "name": "Hammersmith & City",
+    "color": "#D799AF",
+    "backgroundColor": "#843450",
+    "textColor": "#113B92",
+    "order": 6
+  },
+  "Jubilee": {
+    "name": "Jubilee",
+    "color": "#868F98",
+    "backgroundColor": "#42484D",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "Metropolitan": {
+    "name": "Metropolitan",
+    "color": "#751056",
+    "backgroundColor": "#3A082B",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "Northern": {
+    "name": "Northern",
+    "color": "#000000",
+    "backgroundColor": "#000000",
+    "textColor": "#FFFFFF",
+    "order": 9
+  },
+  "Liberty": {
+    "name": "Liberty",
+    "color": "#5D6061",
+    "backgroundColor": "#2F3031",
+    "textColor": "#FFFFFF",
+    "order": 10
+  },
+  "Lioness": {
+    "name": "Lioness",
+    "color": "#FAA61A",
+    "backgroundColor": "#875603",
+    "textColor": "#FFFFFF",
+    "order": 11
+  },
+  "Mildmay": {
+    "name": "Mildmay",
+    "color": "#0077AD",
+    "backgroundColor": "#003C57",
+    "textColor": "#FFFFFF",
+    "order": 12
+  },
+  "Suffragette": {
+    "name": "Suffragette",
+    "color": "#5BBD72",
+    "backgroundColor": "#286436",
+    "textColor": "#FFFFFF",
+    "order": 13
+  },
+  "Weaver": {
+    "name": "Weaver",
+    "color": "#823A62",
+    "backgroundColor": "#411D31",
+    "textColor": "#FFFFFF",
+    "order": 14
+  },
+  "Windrush": {
+    "name": "Windrush",
+    "color": "#ED1B00",
+    "backgroundColor": "#760E00",
+    "textColor": "#FFFFFF",
+    "order": 15
+  },
+  "Piccadilly": {
+    "name": "Piccadilly",
+    "color": "#0019A8",
+    "backgroundColor": "#000D54",
+    "textColor": "#FFFFFF",
+    "order": 16
+  },
+  "Victoria": {
+    "name": "Victoria",
+    "color": "#00A0E2",
+    "backgroundColor": "#005071",
+    "textColor": "#FFFFFF",
+    "order": 17
+  },
+  "WaterlooAndCity": {
+    "name": "Waterloo & City",
+    "color": "#76D0BD",
+    "backgroundColor": "#2A7969",
+    "textColor": "#113B92",
+    "order": 18
+  }
+}
