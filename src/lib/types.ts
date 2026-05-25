@@ -1,4 +1,4 @@
-import { FeatureCollection, MultiLineString, LineString, Point } from 'geojson'
+import { FeatureCollection, LineString, MultiLineString, Point } from 'geojson'
 import { MapboxOptions } from 'mapbox-gl'
 import { Metadata } from 'next'
 
@@ -36,10 +36,18 @@ export interface Line {
   backgroundColor: string
   textColor: string
   order: number
+  /** Short abbreviation for compact UI labels (e.g. 'Di' for District) */
+  abbreviation?: string
+}
+
+export interface ProcessedSettings {
+  segmentOffsets: Record<string, number>
+  globalStepSize: number
 }
 
 export interface Config {
   MAP_FROM_DATA?: boolean
+  OFFSET_PROCESSING_MODE?: boolean
   GAUGE_COLORS?: 'inverted' | 'default'
   LOCALE: string
   CITY_NAME: string
