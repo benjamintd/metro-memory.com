@@ -1,9 +1,9 @@
 'use client'
 
-import { CircularProgressbar, buildStyles } from 'react-circular-progressbar'
-import Image from 'next/image'
-import classNames from 'classnames'
 import { useConfig } from '@/lib/configContext'
+import classNames from 'classnames'
+import Image from 'next/image'
+import { CircularProgressbar, buildStyles } from 'react-circular-progressbar'
 
 const ProgressBars = ({
   foundStationsPerLine,
