@@ -2,18 +2,29 @@
 import jsdom from 'jsdom'
 
 async function LinkPreview({ url }: { url: string }) {
-  const response = await fetch(url)
-  const data = await response.text()
-  const doc = new jsdom.JSDOM(data)
-  const title = doc.window.document.querySelector('title')?.textContent || ''
-  const description =
-    doc.window.document
-      .querySelector('meta[name="description"]')
-      ?.getAttribute('content') || ''
-  const image =
-    doc.window.document
-      .querySelector('meta[property="og:image"]')
-      ?.getAttribute('content') || ''
+  let title = ''
+  let description = ''
+  let image = ''
+
+  try {
+    const response = await fetch(url)
+    const data = await response.text()
+    const doc = new jsdom.JSDOM(data)
+    title = doc.window.document.querySelector('title')?.textContent || ''
+    description =
+      doc.window.document
+        .querySelector('meta[name="description"]')
+        ?.getAttribute('content') || ''
+    image =
+      doc.window.document
+        .querySelector('meta[property="og:image"]')
+        ?.getAttribute('content') || ''
+  } catch (err) {
+    // External sites can be unreachable or unparseable at build time; skip the
+    // preview rather than failing the whole static export.
+    console.error(`LinkPreview failed for ${url}`, err)
+    return null
+  }
 
   return (
     <a
