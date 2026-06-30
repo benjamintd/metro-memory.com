@@ -27,9 +27,11 @@ import { bbox } from '@turf/turf'
 export default function GamePage({
   fc,
   routes,
+  callout,
 }: {
   fc: DataFeatureCollection
   routes?: RoutesFeatureCollection
+  callout?: React.ReactNode
 }) {
   const { BEG_THRESHOLD, CITY_NAME, MAP_CONFIG, LINES, MAP_FROM_DATA } =
     useConfig()
@@ -483,6 +485,7 @@ export default function GamePage({
           minimizable
           defaultMinimized
         />
+        {callout}
         <hr className="my-4 w-full border-b border-zinc-100" />
         <FoundList
           found={found}
