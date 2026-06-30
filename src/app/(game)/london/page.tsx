@@ -26,7 +26,21 @@ export default function London() {
   return (
     <Provider value={config}>
       <Main className={`${font.className} min-h-screen`}>
-        <GamePage fc={fc} />
+        <GamePage
+          fc={fc}
+          callout={
+            <a
+              href="https://undergroundoku.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-4 block rounded-lg bg-amber-50 p-4 text-sm text-amber-900 shadow-sm transition hover:bg-amber-100"
+            >
+              Tube fan? Try{' '}
+              <span className="font-bold underline">Undergroundoku</span>, a
+              daily puzzle game.
+            </a>
+          }
+        />
       </Main>
     </Provider>
   )
