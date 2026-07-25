@@ -47,7 +47,6 @@ export interface ProcessedSettings {
 
 export interface Config {
   MAP_FROM_DATA?: boolean
-  OFFSET_PROCESSING_MODE?: boolean
   GAUGE_COLORS?: 'inverted' | 'default'
   LOCALE: string
   CITY_NAME: string

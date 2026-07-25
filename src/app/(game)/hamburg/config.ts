@@ -94,12 +94,9 @@ export const LOCALE = 'de'
 
 export const MAP_FROM_DATA = true
 
-export const OFFSET_PROCESSING_MODE = true
-
 const config: Config = {
   GAUGE_COLORS: 'inverted',
   MAP_FROM_DATA,
-  OFFSET_PROCESSING_MODE,
   LOCALE,
   STRIPE_LINK,
   CITY_NAME,

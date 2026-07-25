@@ -19,7 +19,7 @@ const font = Inter({
 export const metadata = config.METADATA
 
 export default async function Hamburg() {
-  const { routesFc, savedSettings } = loadCityRoutes('hamburg', config)
+  const routesFc = loadCityRoutes('hamburg')
 
   const fc = {
     ...data,
@@ -29,7 +29,7 @@ export default async function Hamburg() {
   return (
     <Provider value={config}>
       <Main className={`${font.className} min-h-screen`}>
-        <GamePage fc={fc} routes={routesFc} savedSettings={savedSettings} />
+        <GamePage fc={fc} routes={routesFc} />
       </Main>
     </Provider>
   )

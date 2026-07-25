@@ -92,16 +92,18 @@ This is a **dev-only tool** — it has no effect in production.
 
 ### Enabling it
 
-In a city's `config.ts`, set `OFFSET_PROCESSING_MODE = true` and include it in the config object. In a city's `page.tsx` call `loadCityRoutes()`. See Hamburg as an example.
+The tool lives on its own page. For London, run the dev server and visit `/london/offsets`. The page returns 404 when `NODE_ENV !== 'development'`.
 
-When enabled, the dev server will:
-1. Copy `routes.json` to `routes-unprocessed.json` on first run (the stable original, never overwritten)
-2. Load from `routes-unprocessed.json` on every subsequent start
+To enable it for another city, duplicate `src/app/(game)/london/offsets/` into the new city's folder and update the `CITY` constant in `actions.ts` (see the comment at the top of `page.tsx` for the full checklist).
+
+On first visit the tool will:
+1. Copy `routes.json` to `routes-unprocessed.json` (the stable original, never overwritten)
+2. Load geometry from `routes-unprocessed.json` on every subsequent load
 3. Load previously saved settings from `routes-settings.json` if it exists
 
 ### Using the UI
 
-Run the dev server and open the city page. A panel appears in the bottom-left corner of the map.
+A panel appears in the bottom-left corner of the map.
 
 **Step size** — a global multiplier that scales all unit offsets to pixels. Increase it to spread lines further apart.
 

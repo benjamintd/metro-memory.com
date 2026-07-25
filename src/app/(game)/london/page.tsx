@@ -21,7 +21,7 @@ const font = Cabin({
 export const metadata = config.METADATA
 
 export default async function London() {
-  const { routesFc, savedSettings } = loadCityRoutes('london', config)
+  const routesFc = loadCityRoutes('london')
 
   const fc = {
     ...data,
@@ -32,7 +32,7 @@ export default async function London() {
     <Provider value={config}>
       <Main className={`${font.className} min-h-screen`}>
         <GamePage
-          fc={fc} routes={routesFc} savedSettings={savedSettings}
+          fc={fc} routes={routesFc}
           callout={
             <a
               href="https://undergroundoku.com"

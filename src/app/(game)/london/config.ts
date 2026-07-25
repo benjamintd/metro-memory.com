@@ -201,12 +201,9 @@ export const GAUGE_COLORS = 'inverted'
 
 export const MAP_FROM_DATA = true
 
-export const OFFSET_PROCESSING_MODE = true
-
 const config: Config = {
   GAUGE_COLORS,
   MAP_FROM_DATA,
-  OFFSET_PROCESSING_MODE,
   LOCALE,
   STRIPE_LINK,
   CITY_NAME,
