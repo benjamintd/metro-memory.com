@@ -2,10 +2,9 @@ import { Suspense } from 'react'
 import { getTweet } from 'react-tweet/api'
 import { type TweetProps, TweetNotFound, TweetSkeleton } from 'react-tweet'
 
-import type { Tweet as TweetType } from 'react-tweet/api'
-
 import {
   type TwitterComponents,
+  type EnrichedTweet,
   TweetHeader,
   TweetInReplyTo,
   TweetBody,
@@ -14,12 +13,11 @@ import {
 } from 'react-tweet'
 
 type Props = {
-  tweet: TweetType
+  tweet: EnrichedTweet
   components?: TwitterComponents
 }
 
-export const MyTweet = ({ tweet: t, components }: Props) => {
-  const tweet = enrichTweet(t)
+export const MyTweet = ({ tweet, components }: Props) => {
   return (
     <figure className="mb-4 break-inside-avoid rounded-2xl border px-4 py-6">
       <TweetHeader tweet={tweet} components={components} />
@@ -32,22 +30,29 @@ export const MyTweet = ({ tweet: t, components }: Props) => {
 }
 
 const TweetContent = async ({ id, components, onError }: TweetProps) => {
-  const tweet = id
-    ? await getTweet(id).catch((err) => {
-        if (onError) {
-          onError(err)
-        } else {
-          console.error(err)
-        }
-      })
-    : undefined
+  let enriched: EnrichedTweet | undefined
 
-  if (!tweet) {
+  try {
+    const tweet = id ? await getTweet(id) : undefined
+    // enrichTweet can throw on malformed/partial API responses (e.g. when the
+    // tweet endpoint is rate-limited at build time), so keep it inside the try.
+    if (tweet) {
+      enriched = enrichTweet(tweet)
+    }
+  } catch (err) {
+    if (onError) {
+      onError(err)
+    } else {
+      console.error(err)
+    }
+  }
+
+  if (!enriched) {
     const NotFound = components?.TweetNotFound || TweetNotFound
     return <NotFound />
   }
 
-  return <MyTweet tweet={tweet} components={components} />
+  return <MyTweet tweet={enriched} components={components} />
 }
 
 export const Tweet = ({
