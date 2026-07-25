@@ -1,43 +1,44 @@
 import fs from 'fs'
 import path from 'path'
-import { Config, ProcessedSettings, RoutesFeatureCollection } from './types'
+import { ProcessedSettings, RoutesFeatureCollection } from './types'
 
-export interface CityRoutesResult {
+function cityDataDir(citySlug: string): string {
+  return path.join(process.cwd(), 'src', 'app', '(game)', citySlug, 'data')
+}
+
+/**
+ * Server-side helper for city game pages.
+ * Always loads the baked routes.json — the final game-ready output.
+ */
+export function loadCityRoutes(citySlug: string): RoutesFeatureCollection {
+  const routesPath = path.join(cityDataDir(citySlug), 'routes.json')
+  return JSON.parse(fs.readFileSync(routesPath, 'utf-8')) as RoutesFeatureCollection
+}
+
+export interface OffsetsToolData {
   routesFc: RoutesFeatureCollection
   savedSettings: ProcessedSettings | undefined
 }
 
 /**
- * Server-side helper for city page components.
- * When OFFSET_PROCESSING_MODE is enabled:
- *   - Creates routes-unprocessed.json from routes.json on first run
- *   - Loads from routes-unprocessed.json (the stable original)
- *   - Also loads routes-settings.json if it exists
- * When disabled:
- *   - Loads routes.json directly
+ * Server-side helper for the offsets tool page.
+ * Loads routes-unprocessed.json (the stable input) plus routes-settings.json
+ * if it exists. On first run, seeds routes-unprocessed.json from routes.json.
  */
-export function loadCityRoutes(citySlug: string, config: Config): CityRoutesResult {
-  const dataDir = path.join(process.cwd(), 'src', 'app', '(game)', citySlug, 'data')
+export function loadOffsetsToolData(citySlug: string): OffsetsToolData {
+  const dataDir = cityDataDir(citySlug)
   const processedPath = path.join(dataDir, 'routes.json')
+  const unprocessedPath = path.join(dataDir, 'routes-unprocessed.json')
+  const settingsPath = path.join(dataDir, 'routes-settings.json')
 
-  if (config.OFFSET_PROCESSING_MODE) {
-    const unprocessedPath = path.join(dataDir, 'routes-unprocessed.json')
-    const settingsPath = path.join(dataDir, 'routes-settings.json')
-
-    if (!fs.existsSync(unprocessedPath)) {
-      fs.copyFileSync(processedPath, unprocessedPath)
-    }
-
-    const routesFc = JSON.parse(fs.readFileSync(unprocessedPath, 'utf-8')) as RoutesFeatureCollection
-    const savedSettings = fs.existsSync(settingsPath)
-      ? (JSON.parse(fs.readFileSync(settingsPath, 'utf-8')) as ProcessedSettings)
-      : undefined
-
-    return { routesFc, savedSettings }
+  if (!fs.existsSync(unprocessedPath)) {
+    fs.copyFileSync(processedPath, unprocessedPath)
   }
 
-  return {
-    routesFc: JSON.parse(fs.readFileSync(processedPath, 'utf-8')) as RoutesFeatureCollection,
-    savedSettings: undefined,
-  }
+  const routesFc = JSON.parse(fs.readFileSync(unprocessedPath, 'utf-8')) as RoutesFeatureCollection
+  const savedSettings = fs.existsSync(settingsPath)
+    ? (JSON.parse(fs.readFileSync(settingsPath, 'utf-8')) as ProcessedSettings)
+    : undefined
+
+  return { routesFc, savedSettings }
 }
