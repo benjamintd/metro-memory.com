@@ -10130,16 +10130,38 @@
       "route_icon_names": ["sg-singapore-MRT-CC", "sg-singapore-MRT-NE"],
       "status": {
         "description": "",
-        "effect_time_periods": [
-          {
-            "end": "2024-01-03T10:29:56.552400+00:00",
-            "start": "2024-01-03T08:29:56.552400+00:00"
-          }
-        ],
+        "effect_time_periods": [],
         "level": 0,
         "station_id": "SingaporeStation_Harbourfront",
         "summary": "HarbourFront: Station Open"
       }
+    },
+    "SingaporeStation_Keppel": {
+      "live_code": "SingaporeStation_Keppel",
+      "routes": ["SingaporeMRTCircleLine"],
+      "brands": ["SingaporeMRT"],
+      "name": "Keppel",
+      "coords": [1.268100, 103.832900],
+      "route_icon_names": ["sg-singapore-MRT-CC"],
+      "status": { "description": "", "level": 0, "station_id": "SingaporeStation_Keppel", "summary": "Keppel: Station Open" }
+    },
+    "SingaporeStation_Cantonment": {
+      "live_code": "SingaporeStation_Cantonment",
+      "routes": ["SingaporeMRTCircleLine"],
+      "brands": ["SingaporeMRT"],
+      "name": "Cantonment",
+      "coords": [1.272800, 103.837800],
+      "route_icon_names": ["sg-singapore-MRT-CC"],
+      "status": { "description": "", "level": 0, "station_id": "SingaporeStation_Cantonment", "summary": "Cantonment: Station Open" }
+    },
+    "SingaporeStation_PrinceEdwardRoad": {
+      "live_code": "SingaporeStation_PrinceEdwardRoad",
+      "routes": ["SingaporeMRTCircleLine"],
+      "brands": ["SingaporeMRT"],
+      "name": "Prince Edward Road",
+      "coords": [1.274500, 103.844700],
+      "route_icon_names": ["sg-singapore-MRT-CC"],
+      "status": { "description": "", "level": 0, "station_id": "SingaporeStation_PrinceEdwardRoad", "summary": "Prince Edward Road: Station Open" }
     },
     "SingaporeStation_PotongPasir": {
       "live_code": "SingaporeStation_PotongPasir",
