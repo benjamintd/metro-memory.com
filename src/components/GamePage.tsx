@@ -220,6 +220,11 @@ export default function GamePage({
             ],
           },
           source: 'lines',
+          layout: {
+            'line-cap': 'round',
+            'line-join': 'round',
+            'line-sort-key': ['-', 100, ['get', 'order']],
+          },
         })
 
         mapboxMap.addLayer({
