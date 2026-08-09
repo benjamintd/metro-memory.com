@@ -1,6 +1,6 @@
-import { Metadata } from 'next'
-import { MapboxOptions } from 'mapbox-gl'
 import { Config, Line } from '@/lib/types'
+import { MapboxOptions } from 'mapbox-gl'
+import { Metadata } from 'next'
 
 export const BEG_THRESHOLD = 0.5
 

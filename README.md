@@ -84,6 +84,55 @@ Edit `config.ts` - The constant names should be self-explanatory.
 
 Add your city to `lib/citiesConfig.ts` and the relevant images.
 
+## Route offset processing
+
+Multiple lines might have overlapping route data. The offset processing tool lets you visually separate them by assigning pixel offsets to each route segment, then bake the result into `routes.json` for the game to use.
+
+This is a **dev-only tool** — it has no effect in production.
+
+### Enabling it
+
+The tool lives on its own page. For London, run the dev server and visit `/london/offsets`. The page returns 404 when `NODE_ENV !== 'development'`.
+
+To enable it for another city, duplicate `src/app/(game)/london/offsets/` into the new city's folder and update the `CITY` constant in `actions.ts` (see the comment at the top of `page.tsx` for the full checklist).
+
+On first visit the tool will:
+1. Copy `routes.json` to `routes-unprocessed.json` (the stable original, never overwritten)
+2. Load geometry from `routes-unprocessed.json` on every subsequent load
+3. Load previously saved settings from `routes-settings.json` if it exists
+
+### Using the UI
+
+A panel appears in the bottom-left corner of the map.
+
+**Step size** — a global multiplier that scales all unit offsets to pixels. Increase it to spread lines further apart.
+
+**Per-line sections** — each line is collapsible. Expand it to see its route segments. Segments detected as overlapping with another line are shown in bold.
+
+For each segment:
+- The **coloured circle** on the left is a visibility toggle. Click it to cycle between normal → highlighted (magenta) → hidden. Use this to identify which segment is which on the map.
+- The **offset value** is shown in the centre. Grey values are interpolated from neighbouring explicit values; black/bold values are explicitly set.
+- **− / +** adjust the offset, always snapping to multiples of 0.5. Clicking on an interpolated value makes it explicit.
+- **×** clears an explicit override and returns the segment to interpolation.
+
+### Saving
+
+Click **Save processed routes** to:
+- Write the baked route geometry (with `overlapOffsetPx` stamped on each feature) to `routes.json` for use in normal gameplay
+- Write the current settings (explicit offsets + step size) to `routes-settings.json`
+
+On your next dev server start, **Load saved settings** will appear if the saved state differs from the current UI state.
+
+**Reset all changes** clears all explicit offsets and resets the step size, returning everything to the interpolated baseline.
+
+### Segment naming
+
+Segments are named automatically:
+- **Overlap segments** (shared corridor): `{ownAbbrev}_{otherAbbrev}_{counter}` — e.g. `Di_N_0` for a District/Northern overlap
+- **Solo segments** (unique to a line): `{lineAbbrev}{counter}` — e.g. `N3`
+
+Abbreviations come from the `abbreviation` field on each line in `config.ts` - (you may want to add these for longer line names), falling back to the line `name`, then to auto-generated initials from the key.
+
 ## Production Build
 
 To build the project for production:
