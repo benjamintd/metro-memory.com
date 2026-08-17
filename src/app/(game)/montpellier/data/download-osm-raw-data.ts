@@ -35,134 +35,56 @@ export const linesMetadata: {
     color: string
   }
 } = {
-  // LyonA: {
-  //   name: 'A',
-  //   osm: {
-  //     relationIds: [153123],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#EB4599',
-  // },
-  // LyonB: {
-  //   name: 'B',
-  //   osm: {
-  //     relationIds: [113907],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#0076C0',
-  // },
-  // LyonC: {
-  //   name: 'C',
-  //   osm: {
-  //     relationIds: [3687321],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#F79829',
-  // },
-  // LyonD: {
-  //   name: 'D',
-  //   osm: {
-  //     relationIds: [113903],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#00A950',
-  // },
-  // LyonF1: {
-  //   name: 'F1',
-  //   osm: {
-  //     relationIds: [5972769],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#8BC752',
-  // },
-  // LyonF2: {
-  //   name: 'F2',
-  //   osm: {
-  //     relationIds: [5972767],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#8BC752',
-  // },
-  // LyonT1: {
-  //   name: 'T1',
-  //   osm: {
-  //     relationIds: [1689215],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT2: {
-  //   name: 'T2',
-  //   osm: {
-  //     relationIds: [2519561],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT3: {
-  //   name: 'T3',
-  //   osm: {
-  //     relationIds: [2523792],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT4: {
-  //   name: 'T4',
-  //   osm: {
-  //     relationIds: [2524191],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT5: {
-  //   name: 'T5',
-  //   osm: {
-  //     relationIds: [2578549],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT6: {
-  //   name: 'T6',
-  //   osm: {
-  //     relationIds: [10218859],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#ff88a0',
-  // },
-  LyonT7: {
-    name: 'T7',
+  Montpellier1: {
+    name: '1',
     osm: {
-      relationIds: [6794364],
+      relationIds: [4107815],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
-    color: '#972964',
+    color: '#005BA1',
   },
-  // LyonRX: {
-  //   name: 'Rhône Express',
-  //   osm: {
-  //     relationIds: [2523935],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#b80e28',
-  // },
+  Montpellier2: {
+    name: '2',
+    osm: {
+      relationIds: [4107772],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: '#F18E00',
+  },
+  Montpellier3: {
+    name: '3',
+    osm: {
+      relationIds: [4107865],
+      extraStationNodeIds: [3127567487, 1680725835],
+      extraRouteWayIds: [
+        307563698, 208440292, 307170833, 208440295, 208440294, 307563691,
+        1355961353, 1355961354, 307563703, 1355961355, 1355961356, 208440293,
+        1355961357, 306902199,
+      ],
+    },
+    color: '#CBD300',
+  },
+  Montpellier4: {
+    name: '4',
+    osm: {
+      relationIds: [1852816],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: '#4A2A15',
+  },
+  Montpellier5: {
+    name: '5',
+    osm: {
+      relationIds: [19846275],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: '#2D7431',
+  },
 }
-
 
 /**
  * Retrieve IDs of stations (node in OSM) and routes (path of the line; way in OSM) for a given relation ID.
@@ -363,7 +285,10 @@ const main = async () => {
     ],
   }
   await fs.writeFile(
-    path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/lyon/data', './source.json'),
+    path.join(
+      '/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/montpellier/data',
+      './source.json',
+    ),
     JSON.stringify(sourceData, null, 2),
     'utf8',
   )

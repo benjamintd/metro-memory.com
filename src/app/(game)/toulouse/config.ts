@@ -9,34 +9,34 @@ export const LINES: {
 } = {
   ToulouseA: {
     name: 'A',
-    color: '#E41B23',
-    backgroundColor: '#E41B23',
-    textColor: '#ffffff',
+    color: '#DB001B',
+    backgroundColor: '#6E000D',
+    textColor: '#FFFFFF',
     order: 0,
   },
   ToulouseB: {
     name: 'B',
-    color: '#FEDD04',
-    backgroundColor: '#FEDD04',
-    textColor: '#000000',
+    color: '#FFD900',
+    backgroundColor: '#806D00',
+    textColor: '#FFFFFF',
     order: 1,
   },
   ToulouseC: {
     name: 'C',
     color: '#52B149',
-    backgroundColor: '#52B149',
-    textColor: '#ffffff',
+    backgroundColor: '#295925',
+    textColor: '#FFFFFF',
     order: 2,
   },
   ToulouseT1: {
     name: 'T1',
-    color: '#234B90',
-    backgroundColor: '#234B90',
-    textColor: '#ffffff',
+    color: '#004687',
+    backgroundColor: '#002344',
+    textColor: '#FFFFFF',
     order: 3,
   },
-  ToulouseT2: {
-    name: 'T2',
+  ToulouseAE: {
+    name: 'Aéroport Express',
     color: '#409AD9',
     backgroundColor: '#409AD9',
     textColor: '#ffffff',
@@ -44,10 +44,17 @@ export const LINES: {
   },
   ToulouseTeleo: {
     name: 'Teleo',
-    color: '#EC0677',
-    backgroundColor: '#EC0677',
-    textColor: '#ffffff',
+    color: '#DC006B',
+    backgroundColor: '#6E0036',
+    textColor: '#FFFFFF',
     order: 5,
+  },
+  ToulouseAC: {
+    name: 'Arènes - Colomiers',
+    color: '#6265ac',
+    backgroundColor: '#2F3058',
+    textColor: '#FFFFFF',
+    order: 6,
   },
 }
 
@@ -66,7 +73,8 @@ export const METADATA: Metadata = {
 
 export const MAP_CONFIG: MapboxOptions = {
   container: 'map',
-  style: 'mapbox://styles/benjamintd/cls4h02hy019201qygvumc0nb',
+  style: 'mapbox://styles/elisadorable/cmm4geupg001u01s2e8uja2nh',
+  center: [1.4473, 43.6048],
   minZoom: 6,
   fadeDuration: 50,
   dragRotate: false,

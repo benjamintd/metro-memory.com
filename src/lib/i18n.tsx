@@ -343,7 +343,8 @@ export const i18n = rosetta({
     freeGame: 'Tämä peli on ilmainen.',
     supportWithDonation: ({ title }: { title: string }) => (
       <span>
-        Tue <strong>tätä peliä ja muiden kaupunkien</strong> kehitystä lahjoittamalla.
+        Tue <strong>tätä peliä ja muiden kaupunkien</strong> kehitystä
+        lahjoittamalla.
       </span>
     ),
     opensANewTab:

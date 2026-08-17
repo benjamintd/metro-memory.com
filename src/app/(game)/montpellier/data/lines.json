@@ -1,0 +1,37 @@
+{
+  "Montpellier1": {
+    "name": "1",
+    "color": "#005BA1",
+    "backgroundColor": "#002D51",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "Montpellier2": {
+    "name": "2",
+    "color": "#F18E00",
+    "backgroundColor": "#784700",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "Montpellier3": {
+    "name": "3",
+    "color": "#CBD300",
+    "backgroundColor": "#656A00",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "Montpellier4": {
+    "name": "4",
+    "color": "#4A2A15",
+    "backgroundColor": "#25150A",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "Montpellier5": {
+    "name": "5",
+    "color": "#2D7431",
+    "backgroundColor": "#163A18",
+    "textColor": "#FFFFFF",
+    "order": 5
+  }
+}

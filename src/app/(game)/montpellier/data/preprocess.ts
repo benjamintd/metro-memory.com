@@ -31,135 +31,56 @@ export const linesMetadata: {
     color: string
   }
 } = {
-  LyonA: {
-    name: 'A',
+  Montpellier1: {
+    name: '1',
     osm: {
-      relationIds: [153123],
+      relationIds: [4107815],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
-    color: '#EB4599',
+    color: '#005BA1',
   },
-  LyonB: {
-    name: 'B',
+  Montpellier2: {
+    name: '2',
     osm: {
-      relationIds: [113907],
+      relationIds: [4107772],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
-    color: '#0076C0',
+    color: '#F18E00',
   },
-  LyonC: {
-    name: 'C',
+  Montpellier3: {
+    name: '3',
     osm: {
-      relationIds: [3687321],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
+      relationIds: [4107865],
+      extraStationNodeIds: [3127567487, 1680725835],
+      extraRouteWayIds: [
+        307563698, 208440292, 307170833, 208440295, 208440294, 307563691,
+        1355961353, 1355961354, 307563703, 1355961355, 1355961356, 208440293,
+        1355961357, 306902199,
+      ],
     },
-    color: '#F79829',
+    color: '#CBD300',
   },
-  LyonD: {
-    name: 'D',
+  Montpellier4: {
+    name: '4',
     osm: {
-      relationIds: [113903],
+      relationIds: [1852816],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
-    color: '#00A950',
+    color: '#4A2A15',
   },
-  LyonF1: {
-    name: 'F1',
+  Montpellier5: {
+    name: '5',
     osm: {
-      relationIds: [5972769],
+      relationIds: [19846275],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
-    color: '#8BC752',
-  },
-  LyonF2: {
-    name: 'F2',
-    osm: {
-      relationIds: [5972767],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#8BC752',
-  },
-  LyonT1: {
-    name: 'T1',
-    osm: {
-      relationIds: [1689215],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#873F98',
-  },
-  LyonT2: {
-    name: 'T2',
-    osm: {
-      relationIds: [2519561],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#873F98',
-  },
-  LyonT3: {
-    name: 'T3',
-    osm: {
-      relationIds: [2523792],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#873F98',
-  },
-  LyonT4: {
-    name: 'T4',
-    osm: {
-      relationIds: [2524191],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#873F98',
-  },
-  LyonT5: {
-    name: 'T5',
-    osm: {
-      relationIds: [2578549],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#873F98',
-  },
-  LyonT6: {
-    name: 'T6',
-    osm: {
-      relationIds: [10218859],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#873F98',
-  },
-  LyonT7: {
-    name: 'T7',
-    osm: {
-      relationIds: [6794364],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#873F98',
-  },
-  LyonRX: {
-    name: 'Rhône Express',
-    osm: {
-      relationIds: [2523935],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#b80e28',
+    color: '#2D7431',
   },
 }
-
-
 
 const Bun = {
   file(path: string) {
@@ -239,7 +160,10 @@ async function parseOldStationsAndCreateStationIdGetter(): Promise<
   let maxStationId = 0
   try {
     const oldFeatureCollection = Bun.file(
-      path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/lyon/data', './features.json'),
+      path.join(
+        '/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/montpellier/data',
+        './features.json',
+      ),
     )
     const { features, properties } =
       (await oldFeatureCollection.json()) as StationsFeatureCollection
@@ -286,7 +210,12 @@ function isDefined<T>(arg: T): arg is Exclude<T, null | undefined> {
 }
 
 const main = async () => {
-  const data = Bun.file(path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/lyon/data', './source.json'))
+  const data = Bun.file(
+    path.join(
+      '/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/montpellier/data',
+      './source.json',
+    ),
+  )
   const { lines, nodes, ways } = (await data.json()) as SourceJson
 
   const getStationId = await parseOldStationsAndCreateStationIdGetter()
@@ -319,7 +248,10 @@ const main = async () => {
 
   console.debug(`Writing ${sortedLineIds.length} lines to lines.json ...`)
   Bun.write(
-    path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/lyon/data', './lines.json'),
+    path.join(
+      '/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/montpellier/data',
+      './lines.json',
+    ),
     JSON.stringify(
       sortedLineIds.reduce(
         (acc, lineId) => {
@@ -556,7 +488,10 @@ const main = async () => {
     console.debug(`  ${station.properties.line} ${station.properties.name}`),
   )
   Bun.write(
-    path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/lyon/data', './features.json'),
+    path.join(
+      '/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/montpellier/data',
+      './features.json',
+    ),
     JSON.stringify(stations, null, 2),
   )
 
@@ -601,7 +536,10 @@ const main = async () => {
 
   console.debug(`Writing ${routes.features.length} paths to routes.json ...`)
   Bun.write(
-    path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/lyon/data', './routes.json'),
+    path.join(
+      '/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/montpellier/data',
+      './routes.json',
+    ),
     JSON.stringify(routes, null, 2),
   )
 }

@@ -15,6 +15,7 @@ import lyon from '@/app/(game)/lyon/opengraph-image.jpg'
 import madrid from '@/app/(game)/madrid/opengraph-image.jpg'
 import marseille from '@/app/(game)/marseille/opengraph-image.jpg'
 import mexicoCity from '@/app/(game)/mexico-city/opengraph-image.jpg'
+import montpellier from '@/app/(game)/montpellier/opengraph-image.jpg'
 import montreal from '@/app/(game)/montreal/opengraph-image.jpg'
 import muenchen from '@/app/(game)/muenchen/opengraph-image.jpg'
 import ny from '@/app/(game)/ny/opengraph-image.jpg'
@@ -183,6 +184,11 @@ export const cities: ICity[] = [
     name: 'Rennes',
     image: rennes,
     link: '/rennes',
+  },
+  {
+    name: 'Montpellier',
+    image: montpellier,
+    link: '/montpellier',
   },
   // {
   //   name: 'Vancouver',

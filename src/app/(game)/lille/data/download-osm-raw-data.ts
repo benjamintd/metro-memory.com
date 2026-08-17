@@ -273,7 +273,7 @@ const main = async () => {
     ],
   }
   await fs.writeFile(
-    path.join('C:/Users/nbeli/Documents/metro-memory/src/app/(game)/lille/data', './source.json'),
+    path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/lille/data', './source.json'),
     JSON.stringify(sourceData, null, 2),
     'utf8',
   )

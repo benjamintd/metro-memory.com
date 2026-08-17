@@ -35,134 +35,70 @@ export const linesMetadata: {
     color: string
   }
 } = {
-  // LyonA: {
-  //   name: 'A',
-  //   osm: {
-  //     relationIds: [153123],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#EB4599',
-  // },
-  // LyonB: {
-  //   name: 'B',
-  //   osm: {
-  //     relationIds: [113907],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#0076C0',
-  // },
-  // LyonC: {
-  //   name: 'C',
-  //   osm: {
-  //     relationIds: [3687321],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#F79829',
-  // },
-  // LyonD: {
-  //   name: 'D',
-  //   osm: {
-  //     relationIds: [113903],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#00A950',
-  // },
-  // LyonF1: {
-  //   name: 'F1',
-  //   osm: {
-  //     relationIds: [5972769],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#8BC752',
-  // },
-  // LyonF2: {
-  //   name: 'F2',
-  //   osm: {
-  //     relationIds: [5972767],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#8BC752',
-  // },
-  // LyonT1: {
-  //   name: 'T1',
-  //   osm: {
-  //     relationIds: [1689215],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT2: {
-  //   name: 'T2',
-  //   osm: {
-  //     relationIds: [2519561],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT3: {
-  //   name: 'T3',
-  //   osm: {
-  //     relationIds: [2523792],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT4: {
-  //   name: 'T4',
-  //   osm: {
-  //     relationIds: [2524191],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT5: {
-  //   name: 'T5',
-  //   osm: {
-  //     relationIds: [2578549],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#873F98',
-  // },
-  // LyonT6: {
-  //   name: 'T6',
-  //   osm: {
-  //     relationIds: [10218859],
-  //     extraStationNodeIds: [],
-  //     extraRouteWayIds: [],
-  //   },
-  //   color: '#ff88a0',
-  // },
-  LyonT7: {
-    name: 'T7',
+  ToulouseA: {
+    name: 'A',
     osm: {
-      relationIds: [6794364],
+      relationIds: [179515],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
-    color: '#972964',
+    color: '#DB001B',
   },
-  // LyonRX: {
-  //   name: 'Rhône Express',
+  ToulouseB: {
+    name: 'B',
+    osm: {
+      relationIds: [179514, 17083110],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: '#FFD900',
+  },
+  ToulouseC: {
+    name: 'C',
+    osm: {
+      relationIds: [20318652],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: '#52B149',
+  },
+  ToulouseT1: {
+    name: 'T1',
+    osm: {
+      relationIds: [11562192],
+      extraStationNodeIds: [2379081185, 2379081163],
+      extraRouteWayIds: [],
+    },
+    color: '#004687',
+  },
+  // ToulouseAE: {
+  //   name: 'Aéroport Express',
   //   osm: {
-  //     relationIds: [2523935],
+  //     relationIds: [5720058],
   //     extraStationNodeIds: [],
   //     extraRouteWayIds: [],
   //   },
-  //   color: '#b80e28',
+  //   color: '#0098D4',
   // },
+  ToulouseTeleo: {
+    name: 'Teleo',
+    osm: {
+      relationIds: [18180718],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: '#DC006B',
+  },
+  ToulouseAC: {
+    name: 'Arènes - Colomiers',
+    osm: {
+      relationIds: [1557095],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: '#6265ac',
+  },
 }
-
 
 /**
  * Retrieve IDs of stations (node in OSM) and routes (path of the line; way in OSM) for a given relation ID.
@@ -363,7 +299,10 @@ const main = async () => {
     ],
   }
   await fs.writeFile(
-    path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/lyon/data', './source.json'),
+    path.join(
+      '/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/toulouse2/data',
+      './source.json',
+    ),
     JSON.stringify(sourceData, null, 2),
     'utf8',
   )

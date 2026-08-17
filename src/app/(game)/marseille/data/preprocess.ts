@@ -156,7 +156,7 @@ async function parseOldStationsAndCreateStationIdGetter(): Promise<
   let maxStationId = 0
   try {
     const oldFeatureCollection = Bun.file(
-      path.join('C:/Users/nbeli/Documents/metro-memory/src/app/(game)/marseille/data', './features.json'),
+      path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/marseille/data', './features.json'),
     )
     const { features, properties } =
       (await oldFeatureCollection.json()) as StationsFeatureCollection
@@ -203,7 +203,7 @@ function isDefined<T>(arg: T): arg is Exclude<T, null | undefined> {
 }
 
 const main = async () => {
-  const data = Bun.file(path.join('C:/Users/nbeli/Documents/metro-memory/src/app/(game)/marseille/data', './source.json'))
+  const data = Bun.file(path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/marseille/data', './source.json'))
   const { lines, nodes, ways } = (await data.json()) as SourceJson
 
   const getStationId = await parseOldStationsAndCreateStationIdGetter()
@@ -236,7 +236,7 @@ const main = async () => {
 
   console.debug(`Writing ${sortedLineIds.length} lines to lines.json ...`)
   Bun.write(
-    path.join('C:/Users/nbeli/Documents/metro-memory/src/app/(game)/marseille/data', './lines.json'),
+    path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/marseille/data', './lines.json'),
     JSON.stringify(
       sortedLineIds.reduce(
         (acc, lineId) => {
@@ -473,7 +473,7 @@ const main = async () => {
     console.debug(`  ${station.properties.line} ${station.properties.name}`),
   )
   Bun.write(
-    path.join('C:/Users/nbeli/Documents/metro-memory/src/app/(game)/marseille/data', './features.json'),
+    path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/marseille/data', './features.json'),
     JSON.stringify(stations, null, 2),
   )
 
@@ -518,7 +518,7 @@ const main = async () => {
 
   console.debug(`Writing ${routes.features.length} paths to routes.json ...`)
   Bun.write(
-    path.join('C:/Users/nbeli/Documents/metro-memory/src/app/(game)/marseille/data', './routes.json'),
+    path.join('/home/ellabb/Documents/PROJ/metro-memory.com/src/app/(game)/marseille/data', './routes.json'),
     JSON.stringify(routes, null, 2),
   )
 }

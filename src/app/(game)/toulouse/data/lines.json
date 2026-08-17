@@ -1,0 +1,51 @@
+{
+  "ToulouseA": {
+    "name": "A",
+    "color": "#DB001B",
+    "backgroundColor": "#6E000D",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "ToulouseAC": {
+    "name": "Arènes - Colomiers",
+    "color": "#6265ac",
+    "backgroundColor": "#2F3058",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "ToulouseB": {
+    "name": "B",
+    "color": "#FFD900",
+    "backgroundColor": "#806D00",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "ToulouseC": {
+    "name": "C",
+    "color": "#52B149",
+    "backgroundColor": "#295925",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "ToulouseT1": {
+    "name": "T1",
+    "color": "#004687",
+    "backgroundColor": "#002344",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "ToulouseAE": {
+    "name": "Aéroport Express",
+    "color": "#409AD9",
+    "backgroundColor": "#409AD9",
+    "textColor": "#ffffff",
+    "order": 6
+  },
+  "ToulouseTeleo": {
+    "name": "Teleo",
+    "color": "#DC006B",
+    "backgroundColor": "#6E0036",
+    "textColor": "#FFFFFF",
+    "order": 7
+  }
+}

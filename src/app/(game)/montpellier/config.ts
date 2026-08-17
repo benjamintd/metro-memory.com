@@ -7,53 +7,53 @@ export const BEG_THRESHOLD = 0.5
 export const LINES: {
   [name: string]: Line
 } = {
-  MarseilleM1: {
-    name: 'M1',
-    color: '#5281B0',
-    backgroundColor: '#003A5F',
+  Montpellier1: {
+    name: '1',
+    color: '#005BA1',
+    backgroundColor: '#002D51',
     textColor: '#FFFFFF',
     order: 1,
   },
-  MarseilleM2: {
-    name: 'M2',
-    color: '#F3664F',
-    backgroundColor: '#720309',
+  Montpellier2: {
+    name: '2',
+    color: '#F18E00',
+    backgroundColor: '#784700',
     textColor: '#FFFFFF',
     order: 2,
   },
-  MarseilleT1: {
-    name: 'T1',
-    color: '#F18F00',
-    backgroundColor: '#784700',
+  Montpellier3: {
+    name: '3',
+    color: '#CBD300',
+    backgroundColor: '#656A00',
     textColor: '#FFFFFF',
     order: 3,
   },
-  MarseilleT2: {
-    name: 'T2',
-    color: '#FEDB09',
-    backgroundColor: '#807705',
+  Montpellier4: {
+    name: '4',
+    color: '#4A2A15',
+    backgroundColor: '#25150A',
     textColor: '#FFFFFF',
     order: 4,
   },
-  MarseilleT3: {
-    name: 'T3',
-    color: '#8BC965',
-    backgroundColor: '#4B5F07',
+  Montpellier5: {
+    name: '5',
+    color: '#2D7431',
+    backgroundColor: '#163A18',
     textColor: '#FFFFFF',
     order: 5,
   },
 }
 
 export const METADATA: Metadata = {
-  title: 'Marseille Metro Memory',
-  description: 'Combien de stations de métro de Marseille connaissez-vous ?',
+  title: 'Montpellier Metro Memory',
+  description: 'Combien de stations de métro de Montpellier connaissez-vous ?',
   openGraph: {
-    title: 'Marseille Metro Memory',
+    title: 'Montpellier Metro Memory',
     description:
-      'Combien de stations de Metro pouvez-vous nommer par cœur ? Jouez au Metro Memory de Marseille et découvrez-le !',
+      'Combien de stations de Metro pouvez-vous nommer par cœur ? Jouez au Metro Memory de Montpellier et découvrez-le !',
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://metro-memory.com/marseille',
+    url: 'https://metro-memory.com/montpellier',
   },
 }
 
@@ -67,14 +67,14 @@ export const MAP_CONFIG: MapboxOptions = {
 
 export const STRIPE_LINK = 'https://buy.stripe.com/cN2aFb0nI1rI9bi5km'
 
-export const CITY_NAME = 'marseille'
+export const CITY_NAME = 'montpellier'
 
 export const LOCALE = 'fr'
 
 export const MAP_FROM_DATA = true
 
 const config: Config = {
-  GAUGE_COLORS: 'default',
+  GAUGE_COLORS: 'inverted',
   MAP_FROM_DATA,
   LOCALE,
   STRIPE_LINK,
