@@ -1,0 +1,462 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.7112751, 48.1213127]
+      },
+      "properties": {
+        "id": 1,
+        "name": "J.F. Kennedy",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.7039216, 48.1212281]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Villejean - Université",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6933994, 48.1215446]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Pontchaillou",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6876157, 48.1181234]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Anatole France",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.680525, 48.1145349]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Sainte-Anne",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6792077, 48.1097595]
+      },
+      "properties": {
+        "id": 6,
+        "name": "République",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6768556, 48.1054507]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Charles de Gaulle",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6722505, 48.1038315]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Gares",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6754729, 48.0975447]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Jacques Cartier",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6744399, 48.093493]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Clemenceau",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6748324, 48.0876759]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Henri Fréville",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6679201, 48.0865537]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Italie",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6603593, 48.0864251]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Triangle",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6542818, 48.0877194]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Le Blosne",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6445747, 48.0874766]
+      },
+      "properties": {
+        "id": 15,
+        "name": "La Poterie",
+        "alternateNames": [],
+        "line": "RennesA",
+        "order": 1
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6200739, 48.1315023]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Cesson - Viasilva",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.628117, 48.1271483]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Atalante",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6391442, 48.122138]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Beaulieu - Université",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6513943, 48.1240596]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Joliot-Curie - Chateaubriand",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6571569, 48.129439]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Les Gayeulles",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6644484, 48.1251862]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Gros-Chêne",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6709316, 48.1186873]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Jules Ferry",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6799664, 48.1146999]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Sainte-Anne",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6761185, 48.1105189]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Saint-Germain",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6720876, 48.1042331]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Gares",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6820741, 48.105937]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Colombier",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6928094, 48.1050892]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Mabilais",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.7064366, 48.1009351]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Cleunay",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6982774, 48.0964124]
+      },
+      "properties": {
+        "id": 29,
+        "name": "La Courrouze",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.7036861, 48.0920072]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Saint-Jacques - Gaîté",
+        "alternateNames": [],
+        "line": "RennesB",
+        "order": 2
+      },
+      "id": 30
+    }
+  ],
+  "properties": {
+    "totalStations": 28,
+    "stationsPerLine": {
+      "RennesA": 15,
+      "RennesB": 15
+    }
+  }
+}

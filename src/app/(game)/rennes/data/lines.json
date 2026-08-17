@@ -1,0 +1,16 @@
+{
+  "RennesA": {
+    "name": "A",
+    "color": "#ED1C24",
+    "backgroundColor": "#7B0A0E",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "RennesB": {
+    "name": "B",
+    "color": "#00893E",
+    "backgroundColor": "#00451F",
+    "textColor": "#FFFFFF",
+    "order": 2
+  }
+}

@@ -1,0 +1,1245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4241016, 43.3038348]
+      },
+      "properties": {
+        "id": 1,
+        "name": "La Fourragère",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4187884, 43.303331]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Saint-Barnabé",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4135481, 43.2999805]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Louis Armand",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4061939, 43.2955624]
+      },
+      "properties": {
+        "id": 4,
+        "name": "La Blancarde",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.400394, 43.2911443]
+      },
+      "properties": {
+        "id": 5,
+        "name": "La Timone",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3919658, 43.2881308]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Baille",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3846402, 43.2862621]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Castellane",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3780653, 43.2901774]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Estrangin - Préfecture",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3743705, 43.295575]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Vieux Port",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3744314, 43.3002742]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Colbert",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3800594, 43.3024033]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Saint-Charles",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3863422, 43.3004056]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Réformés - Canebière",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3963231, 43.3040802]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Cinq Avenues Longchamp",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4014815, 43.309129]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Chartreux",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4064408, 43.3154374]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Saint-Just",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4165033, 43.3209501]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Malpassé",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4231965, 43.3254689]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Frais Vallon",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4297167, 43.33313]
+      },
+      "properties": {
+        "id": 18,
+        "name": "La Rose",
+        "alternateNames": [],
+        "line": "MarseilleM1",
+        "order": 1
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3672688, 43.3279531]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Capitaine Gèze",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3713918, 43.3208381]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Bougainville",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3730413, 43.3151574]
+      },
+      "properties": {
+        "id": 21,
+        "name": "National",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3722212, 43.3093212]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Désirée Clary",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3679329, 43.3038754]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Joliette",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3740003, 43.3019393]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Jules Guesde",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.380036, 43.3023898]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Saint-Charles",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3811767, 43.2968361]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Noailles",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.383698, 43.2924994]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Notre-Dame-du-Mont - Cours Julien",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.384501, 43.2849532]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Castellane",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3875983, 43.2794419]
+      },
+      "properties": {
+        "id": 29,
+        "name": "Périer",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3926491, 43.2713258]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Rond-Point du Prado",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4021969, 43.2705828]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Sainte-Marguerite Dromel",
+        "alternateNames": [],
+        "line": "MarseilleM2",
+        "order": 2
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4439295, 43.29471]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Les Caillols",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4368228, 43.2926684]
+      },
+      "properties": {
+        "id": 33,
+        "name": "William Booth",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4323021, 43.2946285]
+      },
+      "properties": {
+        "id": 34,
+        "name": "La Grognarde",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4290416, 43.2943117]
+      },
+      "properties": {
+        "id": 35,
+        "name": "Air-Bel",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4224915, 43.2949586]
+      },
+      "properties": {
+        "id": 36,
+        "name": "La Boiseraie",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4192399, 43.2950161]
+      },
+      "properties": {
+        "id": 37,
+        "name": "La Parette",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4139656, 43.2918376]
+      },
+      "properties": {
+        "id": 38,
+        "name": "Saint-Pierre",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4096197, 43.2940334]
+      },
+      "properties": {
+        "id": 39,
+        "name": "Sainte-Thérèse",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4062693, 43.295768]
+      },
+      "properties": {
+        "id": 40,
+        "name": "La Blancarde",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4017061, 43.2959021]
+      },
+      "properties": {
+        "id": 41,
+        "name": "Jean Martin",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3971378, 43.2956296]
+      },
+      "properties": {
+        "id": 42,
+        "name": "George",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.393118, 43.2953879]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Camas",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3896054, 43.2951803]
+      },
+      "properties": {
+        "id": 44,
+        "name": "Eugène Pierre",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3812901, 43.2967683]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Noailles",
+        "alternateNames": [],
+        "line": "MarseilleT1",
+        "order": 3
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3680981, 43.313316]
+      },
+      "properties": {
+        "id": 46,
+        "name": "Arenc Euroméditerranée",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3681527, 43.3086914]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Euroméditerranée Le Silo",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3671651, 43.3054034]
+      },
+      "properties": {
+        "id": 48,
+        "name": "Joliette",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3693102, 43.3021684]
+      },
+      "properties": {
+        "id": 49,
+        "name": "République Dames",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.371182, 43.2998792]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Sadi Carnot",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3766236, 43.298491]
+      },
+      "properties": {
+        "id": 51,
+        "name": "Belsunce Alcazar",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.379024, 43.2968006]
+      },
+      "properties": {
+        "id": 52,
+        "name": "Canebière Capucins",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3816519, 43.2977469]
+      },
+      "properties": {
+        "id": 53,
+        "name": "Noailles",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3855097, 43.300026]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Réformés Canebière",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.388612, 43.3015219]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Longchamp National",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3923612, 43.3032649]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Palais Longchamp",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3970663, 43.302318]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Cinq Avenues",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4000754, 43.3003121]
+      },
+      "properties": {
+        "id": 58,
+        "name": "Foch Sakakini",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4032764, 43.298135]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Foch Boisson",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4054783, 43.2966075]
+      },
+      "properties": {
+        "id": 60,
+        "name": "La Blancarde",
+        "alternateNames": [],
+        "line": "MarseilleT2",
+        "order": 4
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3662172, 43.3270499]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Gèze",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3675607, 43.3216174]
+      },
+      "properties": {
+        "id": 62,
+        "name": "Salengro Cougit",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3687144, 43.317333]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Salengro Bachas",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3680981, 43.313316]
+      },
+      "properties": {
+        "id": 64,
+        "name": "Arenc Euroméditerranée",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3681527, 43.3086914]
+      },
+      "properties": {
+        "id": 65,
+        "name": "Euroméditerranée Le Silo",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3671651, 43.3054034]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Joliette",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3693102, 43.3021684]
+      },
+      "properties": {
+        "id": 67,
+        "name": "République Dames",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.371182, 43.2998792]
+      },
+      "properties": {
+        "id": 68,
+        "name": "Sadi Carnot",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3766236, 43.298491]
+      },
+      "properties": {
+        "id": 69,
+        "name": "Belsunce Alcazar",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3779983, 43.2960427]
+      },
+      "properties": {
+        "id": 70,
+        "name": "Cours Saint-Louis",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3794162, 43.2935614]
+      },
+      "properties": {
+        "id": 71,
+        "name": "Rome Davso",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3806747, 43.2913409]
+      },
+      "properties": {
+        "id": 72,
+        "name": "Place de Rome",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3819845, 43.2890471]
+      },
+      "properties": {
+        "id": 73,
+        "name": "Rome Dragon",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3847886, 43.2853535]
+      },
+      "properties": {
+        "id": 74,
+        "name": "Castellane",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3903134, 43.2823533]
+      },
+      "properties": {
+        "id": 75,
+        "name": "Parc du 26e Centenaire",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3948588, 43.2798682]
+      },
+      "properties": {
+        "id": 76,
+        "name": "Cantini Rouet",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3992589, 43.276922]
+      },
+      "properties": {
+        "id": 77,
+        "name": "Place Ferrié",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4020617, 43.2712022]
+      },
+      "properties": {
+        "id": 78,
+        "name": "Sainte-Marguerite Dromel",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4028973, 43.2664102]
+      },
+      "properties": {
+        "id": 79,
+        "name": "Aubert Ganay",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4047726, 43.2618926]
+      },
+      "properties": {
+        "id": 80,
+        "name": "Parc Sévigné",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4087571, 43.2594167]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Hôpital Sainte-Marguerite",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4109656, 43.2567917]
+      },
+      "properties": {
+        "id": 82,
+        "name": "La Gaye",
+        "alternateNames": [],
+        "line": "MarseilleT3",
+        "order": 5
+      },
+      "id": 82
+    }
+  ],
+  "properties": {
+    "totalStations": 67,
+    "stationsPerLine": {
+      "MarseilleM1": 18,
+      "MarseilleM2": 13,
+      "MarseilleT1": 14,
+      "MarseilleT2": 15,
+      "MarseilleT3": 22
+    }
+  }
+}

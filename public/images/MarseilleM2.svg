@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="Layer_1" inkscape:version="0.46" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:version="0.32" sodipodi:docname="20090101024514!Metro-M.svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="400px" height="400px"
+	 viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective10" inkscape:persp3d-origin="200 : 133.33333 : 1" sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 200 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="400 : 200 : 1">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="base" inkscape:window-y="0" inkscape:window-x="207" inkscape:window-width="1231" inkscape:current-layer="Layer_1" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="942" gridtolerance="10.0" inkscape:cx="126.90217" bordercolor="#666666" pagecolor="#ffffff" guidetolerance="10.0" showgrid="false" borderopacity="1.0" inkscape:cy="200" inkscape:zoom="1.165" objecttolerance="10.0">
+	</sodipodi:namedview>
+<circle fill="#F36650" cx="199.75" cy="200.25" r="189.75"/>
+<g enable-background="new    ">
+	<path fill="#FFFFFF" d="M207.055,273.501h-28.23v-84.285l-27.621,54.836h-19.091l-27.824-54.836v84.285h-28.23V128.896h27.713
+		l37.63,78.192l37.424-78.192h28.229V273.501L207.055,273.501z"/>
+	<path fill="#FFFFFF" d="M323.832,273.501h-87.941v-23.762l53.848-62.757c4.99-5.82,7.488-11.644,7.488-17.467
+		c0-5.413-1.521-9.78-4.555-13.1c-3.036-3.315-7.32-4.976-12.855-4.976c-11.739,0-17.607,6.163-17.607,18.481h-26.316
+		c0-12.861,4.266-23.22,12.795-31.073c8.125-7.445,18.549-11.17,31.276-11.17c12.998,0,23.56,3.792,31.685,11.373
+		c8.123,7.584,12.186,17.806,12.186,30.667c0,6.499-1.355,12.322-4.062,17.467c-1.896,3.929-5.687,9.139-11.372,15.638
+		l-40.417,46.916h55.853v23.763H323.832z"/>
+</g>
+</svg>
