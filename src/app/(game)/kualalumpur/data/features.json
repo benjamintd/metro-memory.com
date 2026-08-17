@@ -1,0 +1,3267 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.612419,
+          3.082999
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Sunway - Setia Jaya",
+        "alternate_names": [
+          "sunway setia jaya"
+        ],
+        "line": "KualaLumpurBRTSunwayLine",
+        "order": 7
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6101782,
+          3.0761
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Mentari",
+        "line": "KualaLumpurBRTSunwayLine",
+        "order": 7
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.610703,
+          3.0706
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Sunway Lagoon",
+        "line": "KualaLumpurBRTSunwayLine",
+        "order": 7
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6087,
+          3.06552
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "SunMed",
+        "line": "KualaLumpurBRTSunwayLine",
+        "order": 7
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6016,
+          3.065337
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "SunU-Monash",
+        "alternate_names": [
+          "sunu",
+          "sun u",
+          "sunway uni",
+          "sunway university",
+          "monash",
+          "monash uni",
+          "monash university"
+        ],
+        "line": "KualaLumpurBRTSunwayLine",
+        "order": 7
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5969,
+          3.0616357
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "South Quay - USJ 1",
+        "alternate_names": [
+          "south quay",
+          "usj 1"
+        ],
+        "line": "KualaLumpurBRTSunwayLine",
+        "order": 7
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.592155,
+          3.055887
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "USJ 7",
+        "alternate_names": [
+          "usj7"
+        ],
+        "line": "KualaLumpurBRTSunwayLine",
+        "order": 7
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7244271,
+          3.23179299
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Gombak",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.721975,
+          3.2195585
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Taman Melati",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.731796,
+          3.20575
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Wangsa Maju",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.73747,
+          3.199176
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Sri Rampai",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.735829,
+          3.17576
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Setiawangsa",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7352479,
+          3.167204
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Jelatek",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.73184,
+          3.1649595
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Dato' Keramat",
+        "alternate_names": [
+          "dato keramat"
+        ],
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.724489,
+          3.1645025
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Damai",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.719017,
+          3.159928
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Ampang Park",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.713287,
+          3.1593767
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "KLCC",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.706608,
+          3.161309
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Kampung Baru",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.701975,
+          3.156942
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Dang Wangi",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.696815,
+          3.149714
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Masjid Jamek",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6953908,
+          3.142439
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Pasar Seni",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.68670,
+          3.134275
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "KL Sentral",
+        "alternate_names": [
+          "kl central"
+        ],
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6790666,
+          3.127588
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Bangsar",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.672893,
+          3.118735
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Abdullah Hukum",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.668572,
+          3.115506
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Kerinchi",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.661639,
+          3.11456
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Universiti",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.645248,
+          3.1040845
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Taman Jaya",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.637695,
+          3.10438666
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Asia Jaya",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.623192,
+          3.104714
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "Taman Paramount",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.612856,
+          3.110697
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Taman Bahagia",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6043,
+          3.1124975
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Kelana Jaya",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.591062,
+          3.1122
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Lembah Subang",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.586675,
+          3.108643
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "Ara Damansara",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.590875,
+          3.094732
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "Glenmarie",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.588127,
+          3.0848385
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "Subang Jaya",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5861145,
+          3.075972
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "SS 15",
+        "alternate_names": [
+          "ss15"
+        ],
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.586069,
+          3.067182
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "SS 18",
+        "alternate_names": [
+          "ss18"
+        ],
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5919075,
+          3.054956
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "USJ 7",
+        "alternate_names": [
+          "usj7"
+        ],
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.590422,
+          3.04815
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "Taipan",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5881045,
+          3.035062
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "Wawasan",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.581711,
+          3.029689
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "USJ 21",
+        "alternate_names": [
+          "usj21"
+        ],
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.572031,
+          3.023151
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "Alam Megah",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.57215025,
+          3.009421
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Subang Alam",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5746142,
+          2.99665404
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "Putra Heights",
+        "line": "KualaLumpurLRTKelanaJayaLine",
+        "order": 2
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.57332,
+          2.99713698
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Putra Heights",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.596689513,
+          2.999808
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "Puchong Prima",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.605021,
+          3.00786076
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Puchong Perdana",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.612840602,
+          3.017111
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "Bandar Puteri",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.61344208756,
+          3.022814
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "Taman Perindustrian Puchong",
+        "alternate_names": [
+          "tpp"
+        ],
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.61602606,
+          3.033194
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Pusat Bandar Puchong",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6209835,
+          3.048101
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "IOI Puchong Jaya",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.644294,
+          3.0504665
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "Kinrara BK5",
+        "alternate_names": [
+          "bk5",
+          "bandar kinrara 5"
+        ],
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6564681,
+          3.05465172
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Alam Sutera",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.662552,
+          3.061917185
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Muhibbah",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6705545,
+          3.0621376
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Awan Besar",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6870733,
+          3.0615280
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Sri Petaling",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6921348,
+          3.058196
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "Bukit Jalil",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.70799925,
+          3.0638416
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Sungai Besi",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.711107,
+          3.0759958
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "Bandar Tasik Selatan",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7124227,
+          3.089576
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Bandar Tun Razak",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7062948,
+          3.102201
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "Salak Selatan",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.714178,
+          3.1126127
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Cheras",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7156165,
+          3.128105
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "Chan Sow Lin",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71206,
+          3.134879
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "Pudu",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7059855,
+          3.14001202
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Hang Tuah",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7021410,
+          3.14415
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "name": "Plaza Rakyat",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.69657222,
+          3.1492702
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "Masjid Jamek",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6944087,
+          3.155567
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "Bandaraya",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6941276,
+          3.1612448
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "Sultan Ismail",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6936895,
+          3.1663331
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "PWTC",
+        "alternate_names": [
+          "putra world trade center",
+          "putra world trade centre"
+        ],
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.695326,
+          3.1734973
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "name": "Titiwangsa",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6956213,
+          3.178484
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "Sentul",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.695208,
+          3.18659697
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "name": "Sentul Timur",
+        "line": "KualaLumpurLRTSriPetalingLine",
+        "order": 1
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7156165,
+          3.128105
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "name": "Chan Sow Lin",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71206,
+          3.134879
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "name": "Pudu",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7059855,
+          3.14001202
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "name": "Hang Tuah",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7021410,
+          3.14415
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "name": "Plaza Rakyat",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.69657222,
+          3.1492702
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "Masjid Jamek",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6944087,
+          3.155567
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "name": "Bandaraya",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6941276,
+          3.1612448
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Sultan Ismail",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6936895,
+          3.1663331
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "PWTC",
+        "alternate_names": [
+          "putra world trade center",
+          "putra world trade centre"
+        ],
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.695326,
+          3.1734973
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "name": "Titiwangsa",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6956213,
+          3.178484
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "name": "Sentul",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.695208,
+          3.18659697
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "name": "Sentul Timur",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.717922,
+          3.1210038
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "name": "Miharja",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7272829,
+          3.12344349
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "name": "Maluri",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.739081,
+          3.130225
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "name": "Pandan Jaya",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.746569,
+          3.134579
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "name": "Pandan Indah",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.752979,
+          3.138391
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "name": "Cempaka",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.756677,
+          3.1405123
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "name": "Cahaya",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.760359,
+          3.150787
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "name": "Ampang",
+        "line": "KualaLumpurLRTAmpangLine",
+        "order": 0
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.687817,
+          3.132852
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "name": "KL Sentral",
+        "alternate_names": [
+          "kl central"
+        ],
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.690895,
+          3.1313202
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "name": "Tun Sambanthan",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.699268,
+          3.1388824
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "name": "Maharajalela",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.706029,
+          3.1407228
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "name": "Hang Tuah",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7094496,
+          3.1428477
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "name": "Imbi",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71152,
+          3.146022
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "name": "Bukit Bintang",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71041025,
+          3.1508781
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "name": "Raja Chulan",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7048639,
+          3.1562139
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "name": "Bukit Nanas",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6988785,
+          3.159278185
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "name": "Medan Tuanku",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.69844012,
+          3.1673585
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "name": "Chow Kit",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.695806,
+          3.173152
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "name": "Titiwangsa",
+        "line": "KualaLumpurMonorailLine",
+        "order": 3
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5719131,
+          3.17626398
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "name": "Kwasa Damansara",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5649606,
+          3.17011184
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "name": "Kwasa Sentral",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.57869,
+          3.1502756
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "name": "Kota Damansara",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.593925,
+          3.14965461
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "name": "Surian",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.609077,
+          3.1552644
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "name": "Mutiara Damansara",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6187289,
+          3.146710
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "name": "Bandar Utama",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.63072355,
+          3.136130
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "name": "Taman Tun Dr Ismail",
+        "alternate_names": [
+          "ttdi"
+        ],
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.642471,
+          3.12954195
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "name": "Phileo Damansara",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6628569,
+          3.1435597
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "name": "Pusat Bandar Damansara",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6654972,
+          3.1510664
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "name": "Semantan",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 113
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.687336,
+          3.1371988
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "name": "Muzium Negara",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6955642,
+          3.142293265
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "name": "Pasar Seni",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 115
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.70205,
+          3.1419707
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "name": "Merdeka",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71094705,
+          3.1463977
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "name": "Bukit Bintang",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 117
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7198462,
+          3.1424032
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "name": "Tun Razak Exchange",
+        "alternate_names": [
+          "trx"
+        ],
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 118
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7227588,
+          3.1328294
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "name": "Cochrane",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7279035,
+          3.123623
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "name": "Maluri",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 120
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.729363,
+          3.112547
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "name": "Taman Pertama",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 121
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7321864,
+          3.10450491
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "name": "Taman Midah",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 122
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7404946,
+          3.0909892
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "name": "Taman Mutiara",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 123
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7452205,
+          3.0791718
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "name": "Taman Connaught",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 124
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.763552,
+          3.0715777
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "name": "Taman Suntex",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 125
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7728562,
+          3.062273
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "name": "Sri Raya",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 126
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.775090,
+          3.048223
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "name": "Bandar Tun Hussein Onn",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 127
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7733833,
+          3.041339
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "name": "Batu 11 Cheras",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 128
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7710955,
+          3.0264129
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "name": "Bukit Dukung",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 129
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7839128,
+          3.000948
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "name": "Sungai Jernih",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 130
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.786423,
+          2.994514
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "name": "Stadium Kajang",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 131
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7902826,
+          2.98129958
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "name": "Kajang",
+        "line": "KualaLumpurMRTKajangLine",
+        "order": 4
+      },
+      "id": 132
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.57225,
+          3.176307
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "name": "Kwasa Damansara",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 133
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5785562,
+          3.197266
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "name": "Kampung Selamat",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 134
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.581779,
+          3.20632472
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "name": "Sungai Buloh",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 135
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5926228,
+          3.19983905
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "name": "Damansara Damai",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 136
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6083015,
+          3.1982585
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "name": "Sri Damansara Barat",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 137
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6213958,
+          3.19862422
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "name": "Sri Damansara Sentral",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 138
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6287016,
+          3.207832
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "name": "Sri Damansara Timur",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 139
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6394015,
+          3.2144988
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "name": "Metro Prima",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 140
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.648193,
+          3.2117018
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "name": "Kepong Baru",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 141
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6558281,
+          3.2094675
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "name": "Jinjang",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 142
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.665755,
+          3.2071081
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "name": "Sri Delima",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 143
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.675473,
+          3.20577788
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "name": "Kampung Batu",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 144
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.679617,
+          3.19563
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "name": "Kentonmen",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 145
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6811562,
+          3.1893191
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "name": "Jalan Ipoh",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 146
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.684742,
+          3.17937135
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "name": "Sentul Barat",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 147
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.69581,
+          3.1740037
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "name": "Titiwangsa",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 148
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.70239,
+          3.17397601
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "name": "Hospital Kuala Lumpur",
+        "alternate_names": [
+          "hkl"
+        ],
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 149
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71017,
+          3.16794
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "name": "Raja Uda",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 150
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7178723,
+          3.16225
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "name": "Ampang Park",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 151
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71819545,
+          3.157121
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "name": "Persiaran KLCC",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 152
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7181927,
+          3.1514497
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "name": "Conlay",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 153
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.720112,
+          3.1424056
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "name": "Tun Razak Exchange",
+        "alternate_names": [
+          "trx"
+        ],
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 154
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71625,
+          3.1283895
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "name": "Chan Sow Lin",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 155
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6941149,
+          3.089547
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "name": "Kuchai",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 156
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6995452,
+          3.0776882
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "name": "Taman Naga Emas",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 157
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.70839685,
+          3.06373715
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "name": "Sungai Besi",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 158
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.70491195,
+          3.0416739
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "name": "Serdang Raya Utara",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 159
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.707514,
+          3.0284639
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "name": "Serdang Raya Selatan",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 160
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.708943,
+          3.0216
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "name": "Serdang Jaya",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 161
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.705396,
+          3.00850043
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "name": "UPM",
+        "alternate_names": [
+          "universiti putra malaysia",
+          "university of putra malaysia"
+        ],
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 162
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6726506,
+          2.9894197
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "name": "Taman Equine",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 163
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.66099,
+          2.983432
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "name": "Putra Permai",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 164
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6548268,
+          2.964974
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "name": "16 Sierra",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 165
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6572417,
+          2.9500002
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "name": "Cyberjaya Utara",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 166
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6659,
+          2.9385242
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "name": "Cyberjaya City Centre",
+        "alternate_names": [
+          "cyberjaya city center"
+        ],
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 167
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.670778,
+          2.92766
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "name": "Putrajaya Sentral",
+        "line": "KualaLumpurMRTPutrajayaLine",
+        "order": 5
+      },
+      "id": 168
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.61893,
+          3.14482
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "name": "Bandar Utama",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 169
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6167675,
+          3.134722
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "name": "Kayu Ara",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 170
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.604444,
+          3.1333715
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "name": "BU 11",
+        "alternate_names": [
+          "bandar utama 11"
+        ],
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 171
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.59433775,
+          3.1227782
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "name": "Damansara Idaman",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 172
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.591160,
+          3.1061105
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "name": "Subang",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 173
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5887940,
+          3.0952778
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "name": "Glenmarie 2",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 174
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.561944,
+          3.082288245
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "name": "Kerjaya",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 175
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5488888,
+          3.0797346
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "name": "Stadium Shah Alam",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 176
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.521111,
+          3.0698872
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "name": "Dato' Menteri",
+        "alternate_names": [
+          "dato menteri"
+        ],
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 177
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.501109,
+          3.06273878
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "name": "UiTM Shah Alam",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 178
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.486667,
+          3.0674096
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "name": "Seksyen 7",
+        "alternate_names": [
+          "seksyen 7 shah alam"
+        ],
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 179
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.465556,
+          3.0626314
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "name": "Bandar Baru Klang",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 180
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4508874,
+          3.0679579
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "name": "Pasar Klang",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 181
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4519865,
+          3.058889
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "name": "Jalan Meru",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 182
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4475,
+          3.047377
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "name": "Jambatan Kota",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 183
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4424904,
+          3.0266677
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "name": "Taman Selatan",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 184
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4406989,
+          3.0158328
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "name": "Seri Andalas",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 185
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4419619,
+          3.005282
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "name": "Klang Jaya",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 186
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4461428,
+          2.9930560
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "name": "Bandar Bukit Tinggi",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 187
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.45941,
+          2.97643
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "name": "Johan Setia",
+        "line": "KualaLumpurLRTShahAlamLine",
+        "order": 6
+      },
+      "id": 188
+    }
+  ]
+}

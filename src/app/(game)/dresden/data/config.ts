@@ -246,6 +246,9 @@ export const alternateNames: { [stationName: string]: string[] | undefined } = {
     'Infineon Süd',
     'Abzweig nach Hellerau',
   ],
+  'Jacob-Winter-Platz (Prohlis-Zentrum)': [
+    'Jacob-Winter-Platz',
+  ],
       'Kaditz, Riegelplatz': [
     'Riegelplatz',
     'Kaditz',

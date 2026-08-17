@@ -1,0 +1,72 @@
+{
+  "MTRTsuenWanLine": {
+    "name": "荃灣綫 Tsuen Wan Line",
+    "color": "#C4262E",
+    "backgroundColor": "#621316",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "MTRKwunTongLine": {
+    "name": "觀塘綫 Kwun Tong Line",
+    "color": "#00A040",
+    "backgroundColor": "#005020",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "MTRIslandLine": {
+    "name": "港島綫 Island Line",
+    "color": "#0860A8",
+    "backgroundColor": "#043054",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "MTRTungChungLine": {
+    "name": "東涌綫 Tung Chung Line",
+    "color": "#F7943E",
+    "backgroundColor": "#7C4A1F",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "MTRTseungKwanOLine": {
+    "name": "將軍澳綫 Tseung Kwan O Line",
+    "color": "#7D499D",
+    "backgroundColor": "#3F254F",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "MTREastRailLine": {
+    "name": "東鐵綫 East Rail Line",
+    "color": "#5EB6E4",
+    "backgroundColor": "#2F5B72",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "MTRTuenMaLine": {
+    "name": "屯馬綫 Tuen Ma Line",
+    "color": "#9A3B26",
+    "backgroundColor": "#4D1E13",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "MTRSouthIslandLine": {
+    "name": "南港島綫 South Island Line",
+    "color": "#BAC429",
+    "backgroundColor": "#5D6215",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "MTRDisneylandResortLine": {
+    "name": "迪士尼綫 Disneyland Resort Line",
+    "color": "#F550A6",
+    "backgroundColor": "#7B2853",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "MTRAirportExpress": {
+    "name": "機場快綫 Airport Express",
+    "color": "#007078",
+    "backgroundColor": "#00383C",
+    "textColor": "#FFFFFF",
+    "order": 9
+  }
+}

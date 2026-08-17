@@ -27,9 +27,11 @@ import { bbox } from '@turf/turf'
 export default function GamePage({
   fc,
   routes,
+  callout,
 }: {
   fc: DataFeatureCollection
   routes?: RoutesFeatureCollection
+  callout?: React.ReactNode
 }) {
   const { BEG_THRESHOLD, CITY_NAME, MAP_CONFIG, LINES, MAP_FROM_DATA } =
     useConfig()
@@ -200,10 +202,22 @@ export default function GamePage({
               3,
             ],
             'line-color': ['get', 'color'],
-            'line-offset': ['match', ['get', 'line'], '', 2, 0],
+            'line-offset': [
+              'interpolate',
+              ['linear'],
+              ['zoom'],
+              9,
+              ['coalesce', ['get', 'overlapOffsetPx'], 0],
+              13,
+              ['*', 2, ['coalesce', ['get', 'overlapOffsetPx'], 0]],
+              18,
+              ['*', 4, ['coalesce', ['get', 'overlapOffsetPx'], 0]],
+            ],
           },
           source: 'lines',
           layout: {
+            'line-cap': 'round',
+            'line-join': 'round',
             'line-sort-key': ['-', 100, ['get', 'order']],
           },
         })
@@ -483,6 +497,7 @@ export default function GamePage({
           minimizable
           defaultMinimized
         />
+        {callout}
         <hr className="my-4 w-full border-b border-zinc-100" />
         <FoundList
           found={found}

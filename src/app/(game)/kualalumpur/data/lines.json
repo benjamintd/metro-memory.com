@@ -1,0 +1,58 @@
+{
+  "KualaLumpurLRTAmpangLine": {
+    "name": "Ampang Line",
+    "color": "#e57200",
+    "backgroundColor": "#e57200",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "KualaLumpurLRTSriPetalingLine": {
+    "name": "Sri Petaling Line",
+    "color": "#76232f",
+    "backgroundColor": "#76232f",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "KualaLumpurLRTKelanaJayaLine": {
+    "name": "Kelana Jaya Line",
+    "color": "#D50032",
+    "backgroundColor": "#D50032",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "KualaLumpurMonorailLine": {
+    "name": "KL Monorail Line",
+    "color": "#84bd00",
+    "backgroundColor": "#84bd00",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "KualaLumpurMRTKajangLine": {
+    "name": "Kajang Line",
+    "color": "#047940",
+    "backgroundColor": "#047940",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "KualaLumpurMRTPutrajayaLine": {
+    "name": "Putrajaya Line",
+    "color": "#FFCD00",
+    "backgroundColor": "#FFCD00",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "KualaLumpurLRTShahAlamLine": {
+    "name": "Shah Alam Line",
+    "color": "#00A4E3",
+    "backgroundColor": "#00A4E3",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "KualaLumpurBRTSunwayLine": {
+    "name": "BRT Sunway Line",
+    "color": "#115740",
+    "backgroundColor": "#115740",
+    "textColor": "#FFFFFF",
+    "order": 7
+  }
+}

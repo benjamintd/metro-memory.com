@@ -182,8 +182,27 @@ export const LINES: {
     textColor: '#FFFFFF',
     order: 25,
   },
-  // S ?
-  // SIR ?
+  NewYorkSubwayGS: {
+    name: 'S',
+    color: '#808183',
+    backgroundColor: '#404142',
+    textColor: '#FFFFFF',
+    order: 26,
+  },
+  NewYorkSubwayFS: {
+    name: 'S',
+    color: '#808183',
+    backgroundColor: '#404142',
+    textColor: '#FFFFFF',
+    order: 27,
+  },
+  NewYorkSubwayH: {
+    name: 'S',
+    color: '#808183',
+    backgroundColor: '#404142',
+    textColor: '#FFFFFF',
+    order: 28,
+  },
 }
 
 export const METADATA: Metadata = {

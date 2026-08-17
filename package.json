@@ -42,7 +42,7 @@
     "lodash": "^4.17.21",
     "mapbox-gl": "^2.15.0",
     "maplibre-gl": "^3.6.2",
-    "next": "^14.0.3",
+    "next": "14.2.35",
     "next-themes": "^0.2.1",
     "react": "18.2.0",
     "react-circular-progressbar": "^2.1.0",
