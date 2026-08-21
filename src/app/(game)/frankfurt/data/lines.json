@@ -1,0 +1,198 @@
+{
+  "FrankfurtSBahnS1": {
+    "name": "S1",
+    "color": "#5AAE4A",
+    "backgroundColor": "#5AAE4A",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "FrankfurtSBahnS2": {
+    "name": "S2",
+    "color": "#E53935",
+    "backgroundColor": "#E53935",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "FrankfurtSBahnS3": {
+    "name": "S3",
+    "color": "#7B4FA3",
+    "backgroundColor": "#7B4FA3",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "FrankfurtSBahnS4": {
+    "name": "S4",
+    "color": "#F5A623",
+    "backgroundColor": "#F5A623",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "FrankfurtSBahnS5": {
+    "name": "S5",
+    "color": "#2F80C9",
+    "backgroundColor": "#2F80C9",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "FrankfurtSBahnS6": {
+    "name": "S6",
+    "color": "#F2C94C",
+    "backgroundColor": "#F2C94C",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "FrankfurtSBahnS7": {
+    "name": "S7",
+    "color": "#5B6FB5",
+    "backgroundColor": "#5B6FB5",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "FrankfurtSBahnS8": {
+    "name": "S8",
+    "color": "#63B6D8",
+    "backgroundColor": "#63B6D8",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "FrankfurtSBahnS9": {
+    "name": "S9",
+    "color": "#8E6AAE",
+    "backgroundColor": "#8E6AAE",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "FrankfurtUBahnU1": {
+    "name": "U1",
+    "color": "#009A9A",
+    "backgroundColor": "#009A9A",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "FrankfurtUBahnU2": {
+    "name": "U2",
+    "color": "#009A9A",
+    "backgroundColor": "#009A9A",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "FrankfurtUBahnU3": {
+    "name": "U3",
+    "color": "#009A9A",
+    "backgroundColor": "#009A9A",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "FrankfurtUBahnU4": {
+    "name": "U4",
+    "color": "#009A9A",
+    "backgroundColor": "#009A9A",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "FrankfurtUBahnU5": {
+    "name": "U5",
+    "color": "#009A9A",
+    "backgroundColor": "#009A9A",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "FrankfurtUBahnU6": {
+    "name": "U6",
+    "color": "#009A9A",
+    "backgroundColor": "#009A9A",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "FrankfurtUBahnU7": {
+    "name": "U7",
+    "color": "#009A9A",
+    "backgroundColor": "#009A9A",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "FrankfurtUBahnU8": {
+    "name": "U8",
+    "color": "#009A9A",
+    "backgroundColor": "#009A9A",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "FrankfurtUBahnU9": {
+    "name": "U9",
+    "color": "#009A9A",
+    "backgroundColor": "#009A9A",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "FrankfurtTram11": {
+    "name": "11",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "FrankfurtTram12": {
+    "name": "12",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "FrankfurtTram14": {
+    "name": "14",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "FrankfurtTram15": {
+    "name": "15",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "FrankfurtTram16": {
+    "name": "16",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "FrankfurtTram17": {
+    "name": "17",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "FrankfurtTram18": {
+    "name": "18",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "FrankfurtTram19": {
+    "name": "19",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "FrankfurtTram20": {
+    "name": "20",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "FrankfurtTram21": {
+    "name": "21",
+    "color": "#E30613",
+    "backgroundColor": "#E30613",
+    "textColor": "#FFFFFF",
+    "order": 9
+  }
+}
