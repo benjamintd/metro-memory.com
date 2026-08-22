@@ -37,6 +37,17 @@ const replacers: { [key: string]: (str: string) => string } = {
       .replace(/ß/g, 'ss')
       .replace(/saint /g, 'st '),
 
+  // Keep in sync with `normalizeName` in app/(game)/koeln/data/preprocess.ts: that script
+  // relies on this exact folding to decide which alternate names are redundant, and to
+  // match the KVB stop export against OSM stops.
+  koeln: (str) =>
+    str
+      .replace(/straße/g, 'str')
+      .replace(/strasse/g, 'str')
+      .replace(/\bhbf\b/g, 'hauptbahnhof')
+      .replace(/\bbf\b/g, 'bahnhof')
+      .replace(/ß/g, 'ss'),
+
   london: (str) =>
     str
       .replace(/street/g, 'st')
@@ -239,7 +250,12 @@ const getCustomReplacer = (cityName: string) => {
 
 export const normalizeString = (city: string) => {
   // normalization for CJK cities should preserve non-latin scripts.
-  if (city === 'seoul' || city === 'busan' || city === 'tokyo' || city === 'hongkong') {
+  if (
+    city === 'seoul' ||
+    city === 'busan' ||
+    city === 'tokyo' ||
+    city === 'hongkong'
+  ) {
     return getCustomReplacer(city)
   }
 

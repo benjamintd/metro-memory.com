@@ -1,0 +1,6226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8157956,
+          50.9403529
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Weiden West",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8286303,
+          50.938326
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Weiden Römergrab",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8352382,
+          50.9381669
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Weiden Zentrum",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8449927,
+          50.9381268
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Bahnstr.",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8553815,
+          50.9379486
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Mohnweg",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8689984,
+          50.9376585
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Junkersdorf",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.874683,
+          50.9375837
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "RheinEnergieSTADION",
+        "alternate_names": [
+          "Müngersdorfer Stadion",
+          "Stadion"
+        ],
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8814755,
+          50.9377051
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Alter Militärring",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8895515,
+          50.9374453
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Eupener Str.",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8944312,
+          50.9372956
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Clarenbachstift",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8995299,
+          50.9372011
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Maarweg",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.909415,
+          50.9369858
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Aachener Str./Gürtel",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9165891,
+          50.9367473
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Melaten",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9242506,
+          50.9366582
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Universitätsstr.",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9320661,
+          50.9355633
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Moltkestr.",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9402089,
+          50.9357423
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Rudolfplatz",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9477532,
+          50.9357735
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Neumarkt",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9599243,
+          50.9356984
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Heumarkt",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9713614,
+          50.9380897
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Deutzer Freiheit",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9779867,
+          50.9397305
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Bf Deutz/Messe",
+        "alternate_names": [
+          "Deutz",
+          "Deutz Messe",
+          "Bahnhof Deutz",
+          "Deutz Bf"
+        ],
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9852138,
+          50.93674
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Deutz Technische Hochschule",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9979813,
+          50.9375112
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Kalk Post",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0081217,
+          50.9387803
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Kalk Kapelle",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0225013,
+          50.941565
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Fuldaer Str.",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.029233,
+          50.941749
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Sportpark Höhenberg",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.042688,
+          50.9426536
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Kalker Friedhof",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0473429,
+          50.9438491
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Merheim",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0728619,
+          50.9477277
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Flehbachstr.",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0782928,
+          50.9487593
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "Brück Mauspfad",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.104356,
+          50.9518827
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Lustheide",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1164305,
+          50.9539719
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Refrath",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1296294,
+          50.9566529
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Kippekausen",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1367865,
+          50.9607955
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "Frankenforst",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1424377,
+          50.9632088
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "Neuenweg",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1493227,
+          50.9626299
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "Kölner Str.",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1563986,
+          50.9630455
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "Im Hoppenkamp",
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1615717,
+          50.9636392
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "Bensberg",
+        "alternate_names": [
+          "Bensberg U"
+        ],
+        "line": "Koeln1",
+        "order": 1
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8704705,
+          50.9805366
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "Görlinger-Zentrum",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8712639,
+          50.9758475
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "Ollenhauerring",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8702657,
+          50.9716332
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "Schaffrathsgasse",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8729366,
+          50.9693293
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "Bocklemünd",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8784654,
+          50.9674253
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "Westfriedhof",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8844277,
+          50.965174
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Wolffsohnstr.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8940188,
+          50.9605875
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "Akazienweg",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9026518,
+          50.9568043
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Rochusplatz",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9091873,
+          50.9546423
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "Leyendeckerstr.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9160449,
+          50.950561
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Venloer Str./Gürtel",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9202445,
+          50.9482893
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "Körnerstr.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9258803,
+          50.9459304
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "Piusstr.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9333536,
+          50.9433311
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Hans-Böckler-Platz/Bf West",
+        "alternate_names": [
+          "Hans-Böckler-Platz",
+          "Köln West",
+          "Bf West"
+        ],
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9398553,
+          50.9405999
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "Friesenplatz",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9504795,
+          50.9396762
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "Appellhofplatz",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9492917,
+          50.9349658
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "Neumarkt",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9500139,
+          50.9316732
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Poststr.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9564687,
+          50.9290593
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Severinstr.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9763895,
+          50.9327791
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Suevenstr.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9784821,
+          50.9391145
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Bf Deutz/LANXESS arena",
+        "alternate_names": [
+          "Lanxess Arena"
+        ],
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9821623,
+          50.9434619
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "Koelnmesse",
+        "alternate_names": [
+          "Kölnmesse"
+        ],
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9933,
+          50.9485307
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Stegerwaldsiedlung",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0045237,
+          50.9508932
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "Buchforst Waldecker Str.",
+        "alternate_names": [
+          "Waldecker Straße"
+        ],
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0145436,
+          50.9532891
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Buchheim Frankfurter Str.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0250496,
+          50.957954
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "Buchheim Herler Str.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0308944,
+          50.9612036
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Wichheimer Str.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0389051,
+          50.966844
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "Holweide Vischeringstr.",
+        "alternate_names": [
+          "Vischeringstraße"
+        ],
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.044295,
+          50.9678437
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "Maria-Himmelfahrt-Str.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0550172,
+          50.9694045
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Neufelder Str.",
+        "alternate_names": [
+          "Neufelder Straße/Krankenhaus Holweide"
+        ],
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0644217,
+          50.9717522
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "name": "Dellbrück Mauspfad",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0745376,
+          50.9745877
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "Dellbrück Hauptstr.",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.085513,
+          50.9780124
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "Thielenbruch",
+        "line": "Koeln3",
+        "order": 2
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8729366,
+          50.9693293
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "Bocklemünd",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8784654,
+          50.9674253
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "Westfriedhof",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8844277,
+          50.965174
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "name": "Wolffsohnstr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8940188,
+          50.9605875
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "Akazienweg",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9026518,
+          50.9568043
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "name": "Rochusplatz",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9091873,
+          50.9546423
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "name": "Leyendeckerstr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9160449,
+          50.950561
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "name": "Venloer Str./Gürtel",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9202445,
+          50.9482893
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "name": "Körnerstr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9258803,
+          50.9459304
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "name": "Piusstr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9333536,
+          50.9433311
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "Hans-Böckler-Platz/Bf West",
+        "alternate_names": [
+          "Hans-Böckler-Platz",
+          "Köln West",
+          "Bf West"
+        ],
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9398553,
+          50.9405999
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "name": "Friesenplatz",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9504795,
+          50.9396762
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Appellhofplatz",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9492917,
+          50.9349658
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "Neumarkt",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9500139,
+          50.9316732
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "name": "Poststr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9564687,
+          50.9290593
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "name": "Severinstr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9763895,
+          50.9327791
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "name": "Suevenstr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9784821,
+          50.9391145
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "name": "Bf Deutz/LANXESS arena",
+        "alternate_names": [
+          "Lanxess Arena"
+        ],
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9821623,
+          50.9434619
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "name": "Koelnmesse",
+        "alternate_names": [
+          "Kölnmesse"
+        ],
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9933,
+          50.9485307
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "name": "Stegerwaldsiedlung",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0004154,
+          50.9557298
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "name": "Grünstr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0042112,
+          50.9617024
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "name": "Mülheim Wiener Platz",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0067614,
+          50.9662324
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "name": "Keupstr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0114166,
+          50.9704585
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "name": "Von-Sparr-Str.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0147693,
+          50.9747752
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "name": "Mülheim Berliner Str.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0224567,
+          50.9805092
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "name": "Im Weidenbruch",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0301379,
+          50.9892904
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "name": "Am Emberg",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0374346,
+          50.9961229
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "name": "Leuchterstr.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0419446,
+          51.0009933
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "name": "Odenthaler Str.",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0444875,
+          51.0185216
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "name": "Schlebusch",
+        "line": "Koeln4",
+        "order": 3
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9576027,
+          50.9352392
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "name": "Heumarkt",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9595988,
+          50.9382821
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "name": "Rathaus",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9572166,
+          50.9417829
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "name": "Dom/Hbf",
+        "alternate_names": [
+          "Köln Hbf",
+          "Hauptbahnhof",
+          "Dom"
+        ],
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9504205,
+          50.9411262
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "name": "Appellhofplatz",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9398553,
+          50.9405999
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "name": "Friesenplatz",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9333536,
+          50.9433311
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "name": "Hans-Böckler-Platz/Bf West",
+        "alternate_names": [
+          "Hans-Böckler-Platz",
+          "Köln West",
+          "Bf West"
+        ],
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9282445,
+          50.9503804
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "name": "Gutenbergstr.",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9250247,
+          50.9518637
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "name": "Liebigstr.",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9214386,
+          50.9548205
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "name": "Subbelrather Str./Gürtel",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9237039,
+          50.9570744
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "name": "Nußbaumerstr.",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9181858,
+          50.9588677
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "name": "Lenauplatz",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9125422,
+          50.9647565
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "name": "Iltisstr.",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9054712,
+          50.9685617
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "name": "Margaretastr.",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9047087,
+          50.9737374
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "name": "Rektor-Klein-Str.",
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8982931,
+          50.9774784
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "name": "Alter Flughafen Butzweilerhof",
+        "alternate_names": [
+          "Alter Flughafen"
+        ],
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 113
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8942979,
+          50.9819425
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "name": "IKEA Am Butzweilerhof",
+        "alternate_names": [
+          "Ikea"
+        ],
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8883553,
+          50.9846953
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "name": "Sparkasse Am Butzweilerhof",
+        "alternate_names": [
+          "Butzweilerhof"
+        ],
+        "line": "Koeln5",
+        "order": 4
+      },
+      "id": 115
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7973826,
+          50.9041668
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "name": "Frechen-Benzelrath",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8016662,
+          50.9081207
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "name": "Mühlengasse",
+        "alternate_names": [
+          "Frechen Mühlengasse"
+        ],
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 117
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.806148,
+          50.9094342
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "name": "Frechen Rathaus",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 118
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8155375,
+          50.9100525
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "name": "Frechen Kirche",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8222526,
+          50.9114563
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "name": "Frechen Bf",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 120
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8485976,
+          50.9156801
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "name": "Haus Vorst",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 121
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8574841,
+          50.9173814
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "name": "Marsdorf",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 122
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8774668,
+          50.9200709
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "name": "Stüttgenhof",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 123
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8979632,
+          50.9258936
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "name": "Brahmsstr.",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 124
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.908605,
+          50.9284048
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "name": "Dürener Str./Gürtel",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 125
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9080714,
+          50.9307864
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "name": "Wüllnerstr.",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 126
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9084156,
+          50.9365656
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "name": "Aachener Str./Gürtel",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 127
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9165891,
+          50.9367473
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "name": "Melaten",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 128
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9242506,
+          50.9366582
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "name": "Universitätsstr.",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 129
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9320661,
+          50.9355633
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "name": "Moltkestr.",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 130
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9402089,
+          50.9357423
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "name": "Rudolfplatz",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 131
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9477532,
+          50.9357735
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "name": "Neumarkt",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 132
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9599243,
+          50.9356984
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "name": "Heumarkt",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 133
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9708372,
+          50.9355782
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "name": "Deutzer Freiheit",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 134
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9721283,
+          50.9308271
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "name": "Severinsbrücke",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 135
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9753844,
+          50.9281927
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "name": "Drehbrücke",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 136
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9798474,
+          50.9238029
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "name": "Poller Kirchweg",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 137
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9860251,
+          50.9199258
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "name": "Raiffeisenstr.",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 138
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9927971,
+          50.9159864
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "name": "Poll Salmstr.",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 139
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0002683,
+          50.91477
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "name": "Poll Baumschulenweg",
+        "alternate_names": [
+          "Baumschulenweg"
+        ],
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 140
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0149883,
+          50.9065386
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "name": "Westhoven Kölner Str.",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 141
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0260044,
+          50.9011739
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "name": "Westhoven Berliner Str.",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 142
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0320561,
+          50.8996091
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "name": "Ensen Gilgaustr.",
+        "alternate_names": [
+          "Gilgaustraße"
+        ],
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 143
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0472214,
+          50.8971474
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "name": "Ensen Kloster",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 144
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0565429,
+          50.8914944
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "name": "Porz Steinstr.",
+        "alternate_names": [
+          "Steinstraße"
+        ],
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 145
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0591507,
+          50.8848648
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "name": "Porz Markt",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 146
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0600808,
+          50.8741926
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "name": "Rosenhügel",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 147
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0490364,
+          50.8660632
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "name": "Zündorf",
+        "line": "Koeln7",
+        "order": 5
+      },
+      "id": 148
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0960846,
+          50.9198772
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "name": "Königsforst",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 172
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0909173,
+          50.9202994
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "name": "Röttgensweg",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 171
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.082402,
+          50.9204176
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "name": "Rath/Heumar",
+        "alternate_names": [
+          "Rath",
+          "Heumar"
+        ],
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 170
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0754203,
+          50.9215785
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "name": "Porzer Str.",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 169
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.067107,
+          50.9236022
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "name": "Steinweg",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 168
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.053798,
+          50.9271315
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "name": "Autobahn",
+        "alternate_names": [
+          "Autobahn (Stadtbahn)"
+        ],
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 167
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0423021,
+          50.9291602
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "name": "Ostheim",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 166
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0216563,
+          50.9327703
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "name": "Vingst",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 165
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0081217,
+          50.9387803
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "name": "Kalk Kapelle",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 164
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9979813,
+          50.9375112
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "name": "Kalk Post",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 163
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9852138,
+          50.93674
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "name": "Deutz Technische Hochschule",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 162
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9779867,
+          50.9397305
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "name": "Bf Deutz/Messe",
+        "alternate_names": [
+          "Deutz",
+          "Deutz Messe",
+          "Bahnhof Deutz",
+          "Deutz Bf"
+        ],
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 161
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9713614,
+          50.9380897
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "name": "Deutzer Freiheit",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 160
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9599243,
+          50.9356984
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "name": "Heumarkt",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 159
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9477532,
+          50.9357735
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "name": "Neumarkt",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 158
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9450757,
+          50.93391
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "name": "Mauritiuskirche",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 157
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9401554,
+          50.9307896
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "name": "Zülpicher Platz",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 156
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9356674,
+          50.9282334
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "name": "Dasselstr./Bf Süd",
+        "alternate_names": [
+          "Dasselstr.",
+          "Köln Süd",
+          "Bf Süd"
+        ],
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 155
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9308989,
+          50.9258036
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "name": "Universität",
+        "alternate_names": [
+          "Universität Köln",
+          "Uni Köln"
+        ],
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 154
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9263072,
+          50.9238287
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "name": "Weyertal",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 153
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9212242,
+          50.9220737
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "name": "Uniklinik Köln",
+        "alternate_names": [
+          "Uniklinik"
+        ],
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 152
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9144703,
+          50.9202119
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "name": "Zülpicher Str./Gürtel",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 151
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9101973,
+          50.919063
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "name": "Mommsenstr.",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 150
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9072802,
+          50.9171225
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "name": "Sülz Hermeskeiler Platz",
+        "line": "Koeln9",
+        "order": 6
+      },
+      "id": 149
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9481232,
+          51.0280717
+        ]
+      },
+      "properties": {
+        "id": 199,
+        "name": "Merkenich",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 199
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9533681,
+          51.0241646
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "name": "Merkenich Mitte",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 198
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9553912,
+          51.0169804
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "name": "Fordwerke Nord",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 197
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9554354,
+          51.0118652
+        ]
+      },
+      "properties": {
+        "id": 196,
+        "name": "Fordwerke Mitte",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 196
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9554356,
+          51.0058546
+        ]
+      },
+      "properties": {
+        "id": 195,
+        "name": "Fordwerke Süd",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 195
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9553475,
+          51.0020835
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "name": "Geestemünder Str.",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 194
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9553001,
+          50.9944442
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "name": "Niehl Nord",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 193
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9412229,
+          50.991878
+        ]
+      },
+      "properties": {
+        "id": 192,
+        "name": "Wilhelm-Sollmann-Str.",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 192
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9463363,
+          50.9856523
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "name": "Scheibenstr.",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 191
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9487993,
+          50.9781979
+        ]
+      },
+      "properties": {
+        "id": 190,
+        "name": "Mollwitzstr.",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 190
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9513491,
+          50.9723273
+        ]
+      },
+      "properties": {
+        "id": 189,
+        "name": "Neusser Str./Gürtel",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 189
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9536917,
+          50.9644974
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "name": "Florastr.",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 188
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9552458,
+          50.9581286
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "name": "Lohsestr.",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 187
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9592094,
+          50.950734
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "name": "Ebertplatz",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 186
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9514364,
+          50.948663
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "name": "Hansaring",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 185
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9425984,
+          50.9448411
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "name": "Christophstr./Mediapark",
+        "alternate_names": [
+          "Christophstr.",
+          "Mediapark"
+        ],
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 184
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9399952,
+          50.9405394
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "name": "Friesenplatz",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 183
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9389614,
+          50.9364045
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "name": "Rudolfplatz",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 182
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9405081,
+          50.9315832
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "name": "Zülpicher Platz",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 181
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9421037,
+          50.9289485
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "name": "Barbarossaplatz",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 180
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9457794,
+          50.9266252
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "name": "Eifelstr.",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 179
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9436129,
+          50.9233118
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "name": "Eifelplatz",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 178
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9415053,
+          50.9165185
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "name": "Pohligstr.",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 177
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.940726,
+          50.9129648
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "name": "Herthastr.",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 176
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9415168,
+          50.9101
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "name": "Gottesweg",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 175
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9420089,
+          50.9055476
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "name": "Zollstockgürtel",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 174
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9444542,
+          50.900875
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "name": "Zollstock Südfriedhof",
+        "line": "Koeln12",
+        "order": 7
+      },
+      "id": 173
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.085498,
+          50.9780515
+        ]
+      },
+      "properties": {
+        "id": 227,
+        "name": "Thielenbruch",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 227
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0745376,
+          50.9745877
+        ]
+      },
+      "properties": {
+        "id": 226,
+        "name": "Dellbrück Hauptstr.",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 226
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0644217,
+          50.9717522
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "name": "Dellbrück Mauspfad",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 225
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0550172,
+          50.9694045
+        ]
+      },
+      "properties": {
+        "id": 224,
+        "name": "Neufelder Str.",
+        "alternate_names": [
+          "Neufelder Straße/Krankenhaus Holweide"
+        ],
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 224
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.044295,
+          50.9678437
+        ]
+      },
+      "properties": {
+        "id": 223,
+        "name": "Maria-Himmelfahrt-Str.",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 223
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0389051,
+          50.966844
+        ]
+      },
+      "properties": {
+        "id": 222,
+        "name": "Holweide Vischeringstr.",
+        "alternate_names": [
+          "Vischeringstraße"
+        ],
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 222
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0308944,
+          50.9612036
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "name": "Wichheimer Str.",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 221
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0250496,
+          50.957954
+        ]
+      },
+      "properties": {
+        "id": 220,
+        "name": "Buchheim Herler Str.",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 220
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0125111,
+          50.9570271
+        ]
+      },
+      "properties": {
+        "id": 219,
+        "name": "Bf Mülheim",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 219
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0049117,
+          50.9616079
+        ]
+      },
+      "properties": {
+        "id": 218,
+        "name": "Mülheim Wiener Platz",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 218
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9881364,
+          50.9674392
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "name": "Slabystr.",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 217
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.969135,
+          50.9708392
+        ]
+      },
+      "properties": {
+        "id": 216,
+        "name": "Amsterdamer Str./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 216
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9513976,
+          50.9723213
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "name": "Neusser Str./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 215
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.940602,
+          50.9683999
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "name": "Geldernstr./Parkgürtel",
+        "alternate_names": [
+          "Geldernstr.",
+          "Parkgürtel"
+        ],
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 214
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9337666,
+          50.964584
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "name": "Escher Str.",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 213
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9237039,
+          50.9570744
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "name": "Nußbaumerstr.",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 212
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9214386,
+          50.9548205
+        ]
+      },
+      "properties": {
+        "id": 211,
+        "name": "Subbelrather Str./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 211
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9164517,
+          50.9499065
+        ]
+      },
+      "properties": {
+        "id": 210,
+        "name": "Venloer Str./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 210
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9127666,
+          50.9447138
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "name": "Weinsbergstr./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 209
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9104707,
+          50.939288
+        ]
+      },
+      "properties": {
+        "id": 208,
+        "name": "Melatengürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 208
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9084156,
+          50.9365656
+        ]
+      },
+      "properties": {
+        "id": 207,
+        "name": "Aachener Str./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 207
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9080714,
+          50.9307864
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "name": "Wüllnerstr.",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 206
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.908605,
+          50.9284048
+        ]
+      },
+      "properties": {
+        "id": 205,
+        "name": "Dürener Str./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 205
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9118669,
+          50.9241764
+        ]
+      },
+      "properties": {
+        "id": 204,
+        "name": "Gleueler Str./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 204
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.915645,
+          50.919742
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "name": "Zülpicher Str./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 203
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9178808,
+          50.9163909
+        ]
+      },
+      "properties": {
+        "id": 202,
+        "name": "Euskirchener Str.",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 202
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9204847,
+          50.9145329
+        ]
+      },
+      "properties": {
+        "id": 201,
+        "name": "Berrenrather Str./Gürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 201
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9231066,
+          50.9127519
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "name": "Sülzgürtel",
+        "line": "Koeln13",
+        "order": 8
+      },
+      "id": 200
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9654443,
+          50.9224034
+        ]
+      },
+      "properties": {
+        "id": 228,
+        "name": "Ubierring",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 228
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9606203,
+          50.921266
+        ]
+      },
+      "properties": {
+        "id": 229,
+        "name": "Chlodwigplatz",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 229
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9517963,
+          50.924118
+        ]
+      },
+      "properties": {
+        "id": 230,
+        "name": "Ulrepforte",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 230
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9457794,
+          50.9266252
+        ]
+      },
+      "properties": {
+        "id": 231,
+        "name": "Eifelstr.",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 231
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9421037,
+          50.9289485
+        ]
+      },
+      "properties": {
+        "id": 232,
+        "name": "Barbarossaplatz",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 232
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9405081,
+          50.9315832
+        ]
+      },
+      "properties": {
+        "id": 233,
+        "name": "Zülpicher Platz",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 233
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9389614,
+          50.9364045
+        ]
+      },
+      "properties": {
+        "id": 234,
+        "name": "Rudolfplatz",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 234
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9399952,
+          50.9405394
+        ]
+      },
+      "properties": {
+        "id": 235,
+        "name": "Friesenplatz",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 235
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9425984,
+          50.9448411
+        ]
+      },
+      "properties": {
+        "id": 236,
+        "name": "Christophstr./Mediapark",
+        "alternate_names": [
+          "Christophstr.",
+          "Mediapark"
+        ],
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 236
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9514364,
+          50.948663
+        ]
+      },
+      "properties": {
+        "id": 237,
+        "name": "Hansaring",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 237
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9592094,
+          50.950734
+        ]
+      },
+      "properties": {
+        "id": 238,
+        "name": "Ebertplatz",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 238
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9552458,
+          50.9581286
+        ]
+      },
+      "properties": {
+        "id": 239,
+        "name": "Lohsestr.",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 239
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9536917,
+          50.9644974
+        ]
+      },
+      "properties": {
+        "id": 240,
+        "name": "Florastr.",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 240
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9513491,
+          50.9723273
+        ]
+      },
+      "properties": {
+        "id": 241,
+        "name": "Neusser Str./Gürtel",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 241
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9487993,
+          50.9781979
+        ]
+      },
+      "properties": {
+        "id": 242,
+        "name": "Mollwitzstr.",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 242
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9463363,
+          50.9856523
+        ]
+      },
+      "properties": {
+        "id": 243,
+        "name": "Scheibenstr.",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 243
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9412229,
+          50.991878
+        ]
+      },
+      "properties": {
+        "id": 244,
+        "name": "Wilhelm-Sollmann-Str.",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 244
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.933998,
+          50.9937463
+        ]
+      },
+      "properties": {
+        "id": 245,
+        "name": "Altonaer Platz",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 245
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9253216,
+          50.9946328
+        ]
+      },
+      "properties": {
+        "id": 246,
+        "name": "Herforder Str.",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 246
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9215651,
+          50.9950175
+        ]
+      },
+      "properties": {
+        "id": 249,
+        "name": "Meerfeldstr.",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 249
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9149313,
+          50.9960114
+        ]
+      },
+      "properties": {
+        "id": 247,
+        "name": "Longericher Str.",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 247
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9067136,
+          51.011997
+        ]
+      },
+      "properties": {
+        "id": 250,
+        "name": "Heimersdorf",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 250
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8981612,
+          51.021006
+        ]
+      },
+      "properties": {
+        "id": 251,
+        "name": "Chorweiler",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 251
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9113075,
+          50.995613
+        ]
+      },
+      "properties": {
+        "id": 248,
+        "name": "Longerich Friedhof",
+        "line": "Koeln15",
+        "order": 9
+      },
+      "id": 248
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1583677,
+          50.6803591
+        ]
+      },
+      "properties": {
+        "id": 252,
+        "name": "Stadthalle",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 252
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1579869,
+          50.6843395
+        ]
+      },
+      "properties": {
+        "id": 253,
+        "name": "Bad Godesberg Bahnhof",
+        "alternate_names": [
+          "Bad Godesberg"
+        ],
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 253
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1535079,
+          50.6879281
+        ]
+      },
+      "properties": {
+        "id": 254,
+        "name": "Plittersdorfer Straße",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 254
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1475236,
+          50.6918714
+        ]
+      },
+      "properties": {
+        "id": 255,
+        "name": "Wurzerstraße",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 255
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1417932,
+          50.6964155
+        ]
+      },
+      "properties": {
+        "id": 256,
+        "name": "Hochkreuz / Deutsches Museum Bonn",
+        "alternate_names": [
+          "Hochkreuz",
+          "Deutsches Museum Bonn"
+        ],
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 256
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1364231,
+          50.7018243
+        ]
+      },
+      "properties": {
+        "id": 257,
+        "name": "Max-Löbner-Straße",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 257
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1322013,
+          50.7057014
+        ]
+      },
+      "properties": {
+        "id": 258,
+        "name": "Olof-Palme-Allee",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 258
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1269604,
+          50.7110134
+        ]
+      },
+      "properties": {
+        "id": 259,
+        "name": "Ollenhauerstraße",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 259
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1204348,
+          50.7167991
+        ]
+      },
+      "properties": {
+        "id": 260,
+        "name": "Heussallee/Museumsmeile",
+        "alternate_names": [
+          "Heussallee",
+          "Museumsmeile"
+        ],
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 260
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1143766,
+          50.7219034
+        ]
+      },
+      "properties": {
+        "id": 261,
+        "name": "Museum Koenig",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 261
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1114611,
+          50.7256981
+        ]
+      },
+      "properties": {
+        "id": 262,
+        "name": "Bundesrechnungshof/Auswärtiges Amt",
+        "alternate_names": [
+          "Bundesrechnungshof",
+          "Auswärtiges Amt"
+        ],
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 262
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1085637,
+          50.7298404
+        ]
+      },
+      "properties": {
+        "id": 263,
+        "name": "Juridicum",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 263
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1033279,
+          50.7330461
+        ]
+      },
+      "properties": {
+        "id": 264,
+        "name": "Universität / Markt",
+        "alternate_names": [
+          "Bonn Universität",
+          "Bonn Markt"
+        ],
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 264
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0959933,
+          50.7328382
+        ]
+      },
+      "properties": {
+        "id": 265,
+        "name": "Bonn Hauptbahnhof",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 265
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0817474,
+          50.7364643
+        ]
+      },
+      "properties": {
+        "id": 266,
+        "name": "Bonn West",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 266
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0732789,
+          50.7391959
+        ]
+      },
+      "properties": {
+        "id": 267,
+        "name": "Propsthof Nord",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 267
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0557487,
+          50.742275
+        ]
+      },
+      "properties": {
+        "id": 268,
+        "name": "Tannenbusch Süd",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 268
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.046521,
+          50.7509587
+        ]
+      },
+      "properties": {
+        "id": 269,
+        "name": "Tannenbusch Mitte",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 269
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0465104,
+          50.7578851
+        ]
+      },
+      "properties": {
+        "id": 270,
+        "name": "Buschdorf",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 270
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.042909,
+          50.7699652
+        ]
+      },
+      "properties": {
+        "id": 271,
+        "name": "Hersel",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 271
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0314028,
+          50.7820054
+        ]
+      },
+      "properties": {
+        "id": 272,
+        "name": "Uedorf",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 272
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0234083,
+          50.7903795
+        ]
+      },
+      "properties": {
+        "id": 273,
+        "name": "Widdig",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 273
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0107377,
+          50.8035339
+        ]
+      },
+      "properties": {
+        "id": 274,
+        "name": "Urfeld",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 274
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9995136,
+          50.8120563
+        ]
+      },
+      "properties": {
+        "id": 275,
+        "name": "Wesseling Süd",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 275
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9794588,
+          50.8228382
+        ]
+      },
+      "properties": {
+        "id": 276,
+        "name": "Wesseling",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 276
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9709872,
+          50.8310504
+        ]
+      },
+      "properties": {
+        "id": 277,
+        "name": "Wesseling Nord",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 277
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9782897,
+          50.8470844
+        ]
+      },
+      "properties": {
+        "id": 278,
+        "name": "Godorf Bf",
+        "alternate_names": [
+          "Godorf"
+        ],
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 278
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0034158,
+          50.8640572
+        ]
+      },
+      "properties": {
+        "id": 279,
+        "name": "Sürth Bf",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 279
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9991155,
+          50.8759592
+        ]
+      },
+      "properties": {
+        "id": 280,
+        "name": "Michaelshoven",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 280
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.995023,
+          50.8827445
+        ]
+      },
+      "properties": {
+        "id": 281,
+        "name": "Siegstr.",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 281
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9902083,
+          50.8907285
+        ]
+      },
+      "properties": {
+        "id": 282,
+        "name": "Rodenkirchen Bf",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 282
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9849361,
+          50.8997449
+        ]
+      },
+      "properties": {
+        "id": 283,
+        "name": "Heinrich-Lübke-Ufer",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 283
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9780069,
+          50.9066655
+        ]
+      },
+      "properties": {
+        "id": 284,
+        "name": "Bayenthalgürtel",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 284
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9718677,
+          50.9143435
+        ]
+      },
+      "properties": {
+        "id": 285,
+        "name": "Schönhauser Str.",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 285
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9654443,
+          50.9224034
+        ]
+      },
+      "properties": {
+        "id": 286,
+        "name": "Ubierring",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 286
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9606203,
+          50.921266
+        ]
+      },
+      "properties": {
+        "id": 287,
+        "name": "Chlodwigplatz",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 287
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9517963,
+          50.924118
+        ]
+      },
+      "properties": {
+        "id": 288,
+        "name": "Ulrepforte",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 288
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9457794,
+          50.9266252
+        ]
+      },
+      "properties": {
+        "id": 289,
+        "name": "Eifelstr.",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 289
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9431358,
+          50.9290138
+        ]
+      },
+      "properties": {
+        "id": 290,
+        "name": "Barbarossaplatz",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 290
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9500139,
+          50.9316732
+        ]
+      },
+      "properties": {
+        "id": 291,
+        "name": "Poststr.",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 291
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9492917,
+          50.9349658
+        ]
+      },
+      "properties": {
+        "id": 292,
+        "name": "Neumarkt",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 292
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9504795,
+          50.9396762
+        ]
+      },
+      "properties": {
+        "id": 293,
+        "name": "Appellhofplatz",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 293
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9572166,
+          50.9417829
+        ]
+      },
+      "properties": {
+        "id": 294,
+        "name": "Dom/Hbf",
+        "alternate_names": [
+          "Köln Hbf",
+          "Hauptbahnhof",
+          "Dom"
+        ],
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 294
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9587478,
+          50.9443823
+        ]
+      },
+      "properties": {
+        "id": 295,
+        "name": "Breslauer Platz/Hbf",
+        "alternate_names": [
+          "Breslauer Platz"
+        ],
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 295
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9593672,
+          50.9506916
+        ]
+      },
+      "properties": {
+        "id": 296,
+        "name": "Ebertplatz",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 296
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9649137,
+          50.9542549
+        ]
+      },
+      "properties": {
+        "id": 297,
+        "name": "Reichenspergerplatz",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 297
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9685102,
+          50.9633371
+        ]
+      },
+      "properties": {
+        "id": 298,
+        "name": "Kinderkrankenhaus",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 298
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9690379,
+          50.9709703
+        ]
+      },
+      "properties": {
+        "id": 299,
+        "name": "Amsterdamer Str./Gürtel",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 299
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9688125,
+          50.9770617
+        ]
+      },
+      "properties": {
+        "id": 300,
+        "name": "Nesselrodestr.",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 300
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.96173,
+          50.9849349
+        ]
+      },
+      "properties": {
+        "id": 301,
+        "name": "Niehl Sebastianstr.",
+        "line": "Koeln16",
+        "order": 10
+      },
+      "id": 301
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9573685,
+          50.9290966
+        ]
+      },
+      "properties": {
+        "id": 302,
+        "name": "Severinstr.",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 302
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9583904,
+          50.9250976
+        ]
+      },
+      "properties": {
+        "id": 303,
+        "name": "Kartäuserhof",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 303
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9594325,
+          50.9213293
+        ]
+      },
+      "properties": {
+        "id": 304,
+        "name": "Chlodwigplatz",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 304
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9610218,
+          50.9161701
+        ]
+      },
+      "properties": {
+        "id": 305,
+        "name": "Bonner Wall",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 305
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9718677,
+          50.9143435
+        ]
+      },
+      "properties": {
+        "id": 306,
+        "name": "Schönhauser Str.",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 306
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9780069,
+          50.9066655
+        ]
+      },
+      "properties": {
+        "id": 307,
+        "name": "Bayenthalgürtel",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 307
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9849361,
+          50.8997449
+        ]
+      },
+      "properties": {
+        "id": 308,
+        "name": "Heinrich-Lübke-Ufer",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 308
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9902083,
+          50.8907285
+        ]
+      },
+      "properties": {
+        "id": 309,
+        "name": "Rodenkirchen Bf",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 309
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.995023,
+          50.8827445
+        ]
+      },
+      "properties": {
+        "id": 310,
+        "name": "Siegstr.",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 310
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9991155,
+          50.8759592
+        ]
+      },
+      "properties": {
+        "id": 311,
+        "name": "Michaelshoven",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 311
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0034158,
+          50.8640572
+        ]
+      },
+      "properties": {
+        "id": 312,
+        "name": "Sürth Bf",
+        "line": "Koeln17",
+        "order": 11
+      },
+      "id": 312
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0250496,
+          50.957954
+        ]
+      },
+      "properties": {
+        "id": 355,
+        "name": "Buchheim Herler Str.",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 355
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0125111,
+          50.9570271
+        ]
+      },
+      "properties": {
+        "id": 354,
+        "name": "Bf Mülheim",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 354
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0049117,
+          50.9616079
+        ]
+      },
+      "properties": {
+        "id": 353,
+        "name": "Mülheim Wiener Platz",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 353
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9877448,
+          50.9658431
+        ]
+      },
+      "properties": {
+        "id": 352,
+        "name": "Slabystr.",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 352
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9808537,
+          50.9623376
+        ]
+      },
+      "properties": {
+        "id": 351,
+        "name": "Boltensternstr.",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 351
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9743896,
+          50.9578905
+        ]
+      },
+      "properties": {
+        "id": 350,
+        "name": "Zoo/Flora",
+        "alternate_names": [
+          "Zoo",
+          "Flora"
+        ],
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 350
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9649137,
+          50.9542549
+        ]
+      },
+      "properties": {
+        "id": 349,
+        "name": "Reichenspergerplatz",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 349
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9593672,
+          50.9506916
+        ]
+      },
+      "properties": {
+        "id": 348,
+        "name": "Ebertplatz",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 348
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9587478,
+          50.9443823
+        ]
+      },
+      "properties": {
+        "id": 347,
+        "name": "Breslauer Platz/Hbf",
+        "alternate_names": [
+          "Breslauer Platz"
+        ],
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 347
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9572166,
+          50.9417829
+        ]
+      },
+      "properties": {
+        "id": 346,
+        "name": "Dom/Hbf",
+        "alternate_names": [
+          "Köln Hbf",
+          "Hauptbahnhof",
+          "Dom"
+        ],
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 346
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9504795,
+          50.9396762
+        ]
+      },
+      "properties": {
+        "id": 345,
+        "name": "Appellhofplatz",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 345
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9492917,
+          50.9349658
+        ]
+      },
+      "properties": {
+        "id": 344,
+        "name": "Neumarkt",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 344
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9500139,
+          50.9316732
+        ]
+      },
+      "properties": {
+        "id": 343,
+        "name": "Poststr.",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 343
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9431358,
+          50.9290138
+        ]
+      },
+      "properties": {
+        "id": 342,
+        "name": "Barbarossaplatz",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 342
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9369084,
+          50.9246328
+        ]
+      },
+      "properties": {
+        "id": 341,
+        "name": "Eifelwall/Stadtarchiv",
+        "alternate_names": [
+          "Eifelwall",
+          "Stadtarchiv"
+        ],
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 341
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9334702,
+          50.9214159
+        ]
+      },
+      "properties": {
+        "id": 340,
+        "name": "Weißhausstr.",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 340
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9302451,
+          50.9182931
+        ]
+      },
+      "properties": {
+        "id": 339,
+        "name": "Arnulfstr.",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 339
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9271471,
+          50.9153262
+        ]
+      },
+      "properties": {
+        "id": 338,
+        "name": "Sülzburgstr.",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 338
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9233509,
+          50.9116983
+        ]
+      },
+      "properties": {
+        "id": 337,
+        "name": "Sülzgürtel",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 337
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9194945,
+          50.9081367
+        ]
+      },
+      "properties": {
+        "id": 336,
+        "name": "Klettenbergpark",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 336
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9040573,
+          50.8944563
+        ]
+      },
+      "properties": {
+        "id": 335,
+        "name": "Efferen",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 335
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8967356,
+          50.8876533
+        ]
+      },
+      "properties": {
+        "id": 334,
+        "name": "Kiebitzweg",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 334
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8947006,
+          50.8803561
+        ]
+      },
+      "properties": {
+        "id": 333,
+        "name": "Hürth-Hermülheim",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 333
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8975861,
+          50.8647017
+        ]
+      },
+      "properties": {
+        "id": 332,
+        "name": "Fischenich",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 332
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9010666,
+          50.8440616
+        ]
+      },
+      "properties": {
+        "id": 331,
+        "name": "Brühl Vochem",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 331
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9014133,
+          50.8338147
+        ]
+      },
+      "properties": {
+        "id": 330,
+        "name": "Brühl Nord",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 330
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8990131,
+          50.8290631
+        ]
+      },
+      "properties": {
+        "id": 329,
+        "name": "Brühl Mitte",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 329
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.898346,
+          50.8222718
+        ]
+      },
+      "properties": {
+        "id": 328,
+        "name": "Brühl Süd",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 328
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9002953,
+          50.8132186
+        ]
+      },
+      "properties": {
+        "id": 327,
+        "name": "Badorf",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 327
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9139313,
+          50.801031
+        ]
+      },
+      "properties": {
+        "id": 326,
+        "name": "Schwadorf",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 326
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9209363,
+          50.7942174
+        ]
+      },
+      "properties": {
+        "id": 325,
+        "name": "Walberberg",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 325
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9333622,
+          50.7797108
+        ]
+      },
+      "properties": {
+        "id": 324,
+        "name": "Merten",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 324
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9509133,
+          50.7681341
+        ]
+      },
+      "properties": {
+        "id": 323,
+        "name": "Waldorf",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 323
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9694961,
+          50.7647322
+        ]
+      },
+      "properties": {
+        "id": 322,
+        "name": "Dersdorf",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 322
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9895793,
+          50.7612431
+        ]
+      },
+      "properties": {
+        "id": 321,
+        "name": "Bornheim",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 321
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0021686,
+          50.7571598
+        ]
+      },
+      "properties": {
+        "id": 320,
+        "name": "Bornheim Rathaus",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 320
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0081403,
+          50.7536803
+        ]
+      },
+      "properties": {
+        "id": 319,
+        "name": "Roisdorf West",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 319
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0169493,
+          50.7436868
+        ]
+      },
+      "properties": {
+        "id": 318,
+        "name": "Alfter / Alanus Hochschule",
+        "alternate_names": [
+          "Alfter",
+          "Alanus Hochschule"
+        ],
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 318
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0467142,
+          50.7373307
+        ]
+      },
+      "properties": {
+        "id": 317,
+        "name": "Dransdorf",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 317
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0566041,
+          50.7379673
+        ]
+      },
+      "properties": {
+        "id": 316,
+        "name": "Robert-Kirchhoff-Straße",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 316
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0695017,
+          50.7402507
+        ]
+      },
+      "properties": {
+        "id": 315,
+        "name": "Brühler Straße",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 315
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0817474,
+          50.7364643
+        ]
+      },
+      "properties": {
+        "id": 314,
+        "name": "Bonn West",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 314
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0959933,
+          50.7328382
+        ]
+      },
+      "properties": {
+        "id": 313,
+        "name": "Bonn Hauptbahnhof",
+        "line": "Koeln18",
+        "order": 12
+      },
+      "id": 313
+    }
+  ],
+  "properties": {
+    "totalStations": 247,
+    "stationsPerLine": {
+      "Koeln1": 37,
+      "Koeln3": 32,
+      "Koeln4": 29,
+      "Koeln5": 17,
+      "Koeln7": 33,
+      "Koeln9": 24,
+      "Koeln12": 27,
+      "Koeln13": 28,
+      "Koeln15": 24,
+      "Koeln16": 50,
+      "Koeln17": 11,
+      "Koeln18": 43
+    },
+    "nextStationId": 356
+  }
+}
