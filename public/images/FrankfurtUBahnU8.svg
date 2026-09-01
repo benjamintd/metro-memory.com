@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="475"
+     height="475"
+     viewBox="0 0 475 475">
+  <rect x="18" y="18"
+        width="439" height="439"
+        rx="72" ry="72"
+        fill="#009A9A"/>
+  <text x="237.5"
+        y="252"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="190"
+        font-weight="700"
+        fill="#FFFFFF">U8</text>
+</svg>
