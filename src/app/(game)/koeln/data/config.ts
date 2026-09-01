@@ -16,10 +16,13 @@ export type SourceJson = {
 // ----------------------------------------
 // line configuration
 // ----------------------------------------
+// One shared green for every S-Bahn line, so they read as one system on the map.
+const SBAHN_COLOR = '#009640'
+
 // The relation ids below are the OSM `route_master` relations of the twelve KVB
-// Stadtbahn/tram lines. `download-osm-raw-data.ts` recurses into their child route
-// relations, so listing the master is enough. Colours are the `colour` tags of those
-// same relations, which match the official KVB network map.
+// Stadtbahn/tram lines and the four S-Bahn lines. `download-osm-raw-data.ts` recurses into
+// their child route relations, so listing the master is enough. Colours are the `colour`
+// tags of those same relations, which match the official KVB network map.
 export const linesMetadata: {
   [id: string]: {
     name: string
@@ -29,6 +32,12 @@ export const linesMetadata: {
       extraRouteWayIds: number[]
     }
     color: string
+    /**
+     * Only keep the part of the line between these two stops (OSM stop names, inclusive).
+     * Both the station list and the drawn track are cut there. Used for the S-Bahn lines
+     * that run far beyond the Cologne network; omit to keep a line whole.
+     */
+    segment?: { from: string; to: string }
   }
 } = {
   Koeln1: {
@@ -139,6 +148,49 @@ export const linesMetadata: {
     },
     color: '#0095da',
   },
+
+  // S-Bahn. All four share one green; #009640 is the colour OSM carries on the S12
+  // relation, so it has the same provenance as the tram colours above.
+  KoelnS6: {
+    name: 'S6',
+    osm: {
+      relationIds: [2445013],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: SBAHN_COLOR,
+    // the relation continues to Essen Hbf
+    segment: { from: 'Köln-Worringen', to: 'Langenfeld (Rheinland)' },
+  },
+  KoelnS11: {
+    name: 'S11',
+    osm: {
+      relationIds: [2445000],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: SBAHN_COLOR,
+    // the relation continues to Düsseldorf Flughafen Terminal
+    segment: { from: 'Dormagen', to: 'Bergisch Gladbach' },
+  },
+  KoelnS12: {
+    name: 'S12',
+    osm: {
+      relationIds: [2445001],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: SBAHN_COLOR,
+  },
+  KoelnS19: {
+    name: 'S19',
+    osm: {
+      relationIds: [4434302],
+      extraStationNodeIds: [],
+      extraRouteWayIds: [],
+    },
+    color: SBAHN_COLOR,
+  },
 }
 
 // ----------------------------------------
@@ -200,4 +252,33 @@ export const alternateNames: { [stationName: string]: string[] | undefined } = {
   'Hochkreuz / Deutsches Museum Bonn': ['Hochkreuz', 'Deutsches Museum Bonn'],
   'Universität / Markt': ['Bonn Universität', 'Bonn Markt'],
   'Bad Godesberg Bahnhof': ['Bad Godesberg'],
+}
+
+// ----------------------------------------
+// S-Bahn / tram interchanges
+// ----------------------------------------
+// An S-Bahn stop listed here is the *same station* as an existing tram stop, so it takes
+// the tram station's name and the two share one entry on the map.
+//
+// This is a hand-checked table rather than a distance rule, because distance alone does not
+// separate the cases: Trimbornstraße is 208 m from Kalk Post and is a different station,
+// while Messe/Deutz is 292 m from its tram stop and is the same one. The signals used:
+// OSM `public_transport=stop_area` relations (which tag only the first three), and the KVB
+// stop export, which gives every station KVB considers separate its own Haltestelle name
+// ("Bf Ehrenfeld", "Buchforst S-Bahn", "Longerich S-Bahn", "Steinstr. S-Bahn", "Bf Porz")
+// but reuses the tram stop's name where it is one station.
+//
+// Deliberately NOT merged: Köln-Ehrenfeld, Köln Trimbornstraße, Köln-Buchforst,
+// Köln Steinstraße, Porz (Rhein), Lövenich, Köln-Longerich, Köln-Holweide.
+export const stationAliases: { [osmStationName: string]: string } = {
+  'Köln Hansaring': 'Hansaring', // shared stop_area, 91 m
+  'Köln-Chorweiler': 'Chorweiler', // shared stop_area, 19 m
+  'Köln Geldernstraße/Parkgürtel': 'Geldernstr./Parkgürtel', // shared stop_area, 49 m
+  'Köln-Weiden West': 'Weiden West', // same KVB Haltestelle name, 58 m
+  'Köln-Mülheim': 'Bf Mülheim', // same KVB Haltestelle name, 135 m
+  // The S-Bahn platforms sit almost exactly between the two tram stops at each of these
+  // interchanges, so the choice follows `alternateNames` above: the stop at the main
+  // entrance wins, keeping "Köln Hbf" and "Bahnhof Deutz" pointing where they already did.
+  'Köln Hauptbahnhof': 'Dom/Hbf', // 187 m (Breslauer Platz is 178 m)
+  'Köln Messe/Deutz': 'Bf Deutz/Messe', // 292 m
 }

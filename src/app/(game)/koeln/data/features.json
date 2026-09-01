@@ -13,6 +13,9 @@
       "properties": {
         "id": 1,
         "name": "Weiden West",
+        "alternate_names": [
+          "Köln-Weiden West"
+        ],
         "line": "Koeln1",
         "order": 1
       },
@@ -344,7 +347,8 @@
           "Deutz",
           "Deutz Messe",
           "Bahnhof Deutz",
-          "Deutz Bf"
+          "Deutz Bf",
+          "Köln Messe/Deutz"
         ],
         "line": "Koeln1",
         "order": 1
@@ -2802,7 +2806,8 @@
           "Deutz",
           "Deutz Messe",
           "Bahnhof Deutz",
-          "Deutz Bf"
+          "Deutz Bf",
+          "Köln Messe/Deutz"
         ],
         "line": "Koeln9",
         "order": 6
@@ -3275,6 +3280,9 @@
       "properties": {
         "id": 185,
         "name": "Hansaring",
+        "alternate_names": [
+          "Köln Hansaring"
+        ],
         "line": "Koeln12",
         "order": 7
       },
@@ -3642,6 +3650,9 @@
       "properties": {
         "id": 219,
         "name": "Bf Mülheim",
+        "alternate_names": [
+          "Köln-Mülheim"
+        ],
         "line": "Koeln13",
         "order": 8
       },
@@ -3729,7 +3740,8 @@
         "name": "Geldernstr./Parkgürtel",
         "alternate_names": [
           "Geldernstr.",
-          "Parkgürtel"
+          "Parkgürtel",
+          "Köln Geldernstraße/Parkgürtel"
         ],
         "line": "Koeln13",
         "order": 8
@@ -4143,6 +4155,9 @@
       "properties": {
         "id": 237,
         "name": "Hansaring",
+        "alternate_names": [
+          "Köln Hansaring"
+        ],
         "line": "Koeln15",
         "order": 9
       },
@@ -4364,6 +4379,9 @@
       "properties": {
         "id": 251,
         "name": "Chorweiler",
+        "alternate_names": [
+          "Köln-Chorweiler"
+        ],
         "line": "Koeln15",
         "order": 9
       },
@@ -5482,6 +5500,9 @@
       "properties": {
         "id": 354,
         "name": "Bf Mülheim",
+        "alternate_names": [
+          "Köln-Mülheim"
+        ],
         "line": "Koeln18",
         "order": 12
       },
@@ -6203,10 +6224,1788 @@
         "order": 12
       },
       "id": 313
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8519238,
+          51.0522733
+        ]
+      },
+      "properties": {
+        "id": 356,
+        "name": "Köln-Worringen",
+        "alternate_names": [
+          "Worringen"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 356
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8818481,
+          51.0374183
+        ]
+      },
+      "properties": {
+        "id": 357,
+        "name": "Köln-Blumenberg",
+        "alternate_names": [
+          "Blumenberg"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 357
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8928122,
+          51.0280192
+        ]
+      },
+      "properties": {
+        "id": 358,
+        "name": "Köln-Chorweiler Nord",
+        "alternate_names": [
+          "Chorweiler Nord"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 358
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8980475,
+          51.0211161
+        ]
+      },
+      "properties": {
+        "id": 359,
+        "name": "Chorweiler",
+        "alternate_names": [
+          "Köln-Chorweiler"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 359
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8932348,
+          51.014127
+        ]
+      },
+      "properties": {
+        "id": 360,
+        "name": "Köln Volkhovener Weg",
+        "alternate_names": [
+          "Volkhovener Weg"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 360
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9015301,
+          50.998079
+        ]
+      },
+      "properties": {
+        "id": 361,
+        "name": "Köln-Longerich",
+        "alternate_names": [
+          "Longerich"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 361
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9412577,
+          50.9685593
+        ]
+      },
+      "properties": {
+        "id": 362,
+        "name": "Geldernstr./Parkgürtel",
+        "alternate_names": [
+          "Geldernstr.",
+          "Parkgürtel",
+          "Köln Geldernstraße/Parkgürtel"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 362
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9416083,
+          50.9586925
+        ]
+      },
+      "properties": {
+        "id": 363,
+        "name": "Köln-Nippes",
+        "alternate_names": [
+          "Nippes"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 363
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9525612,
+          50.9490645
+        ]
+      },
+      "properties": {
+        "id": 364,
+        "name": "Hansaring",
+        "alternate_names": [
+          "Köln Hansaring"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 364
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9595583,
+          50.942976
+        ]
+      },
+      "properties": {
+        "id": 365,
+        "name": "Dom/Hbf",
+        "alternate_names": [
+          "Köln Hbf",
+          "Hauptbahnhof",
+          "Dom"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 365
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9746093,
+          50.941268
+        ]
+      },
+      "properties": {
+        "id": 366,
+        "name": "Bf Deutz/Messe",
+        "alternate_names": [
+          "Deutz",
+          "Deutz Messe",
+          "Bahnhof Deutz",
+          "Deutz Bf",
+          "Köln Messe/Deutz"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 366
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0043353,
+          50.9534714
+        ]
+      },
+      "properties": {
+        "id": 367,
+        "name": "Köln-Buchforst",
+        "alternate_names": [
+          "Buchforst"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 367
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0137872,
+          50.9579384
+        ]
+      },
+      "properties": {
+        "id": 368,
+        "name": "Bf Mülheim",
+        "alternate_names": [
+          "Köln-Mülheim"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 368
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0019687,
+          50.9900213
+        ]
+      },
+      "properties": {
+        "id": 369,
+        "name": "Köln-Stammheim",
+        "alternate_names": [
+          "Stammheim"
+        ],
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 369
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9964975,
+          51.0114275
+        ]
+      },
+      "properties": {
+        "id": 370,
+        "name": "Leverkusen-Chempark",
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 370
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9911829,
+          51.0321872
+        ]
+      },
+      "properties": {
+        "id": 371,
+        "name": "Leverkusen Mitte",
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 371
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.988013,
+          51.0461282
+        ]
+      },
+      "properties": {
+        "id": 372,
+        "name": "Leverkusen-Küppersteg",
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 372
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9634131,
+          51.0641974
+        ]
+      },
+      "properties": {
+        "id": 373,
+        "name": "Leverkusen-Rheindorf",
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 373
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.938086,
+          51.1026612
+        ]
+      },
+      "properties": {
+        "id": 374,
+        "name": "Langenfeld (Rheinland)",
+        "line": "KoelnS6",
+        "order": 13
+      },
+      "id": 374
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8144197,
+          51.0996252
+        ]
+      },
+      "properties": {
+        "id": 375,
+        "name": "Dormagen",
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 375
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8385742,
+          51.0763457
+        ]
+      },
+      "properties": {
+        "id": 376,
+        "name": "Dormagen Chempark",
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 376
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8519238,
+          51.0522733
+        ]
+      },
+      "properties": {
+        "id": 377,
+        "name": "Köln-Worringen",
+        "alternate_names": [
+          "Worringen"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 377
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8818481,
+          51.0374183
+        ]
+      },
+      "properties": {
+        "id": 378,
+        "name": "Köln-Blumenberg",
+        "alternate_names": [
+          "Blumenberg"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 378
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8928122,
+          51.0280192
+        ]
+      },
+      "properties": {
+        "id": 379,
+        "name": "Köln-Chorweiler Nord",
+        "alternate_names": [
+          "Chorweiler Nord"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 379
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8980475,
+          51.0211161
+        ]
+      },
+      "properties": {
+        "id": 380,
+        "name": "Chorweiler",
+        "alternate_names": [
+          "Köln-Chorweiler"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 380
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8932348,
+          51.014127
+        ]
+      },
+      "properties": {
+        "id": 381,
+        "name": "Köln Volkhovener Weg",
+        "alternate_names": [
+          "Volkhovener Weg"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 381
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9015301,
+          50.998079
+        ]
+      },
+      "properties": {
+        "id": 382,
+        "name": "Köln-Longerich",
+        "alternate_names": [
+          "Longerich"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 382
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9412577,
+          50.9685593
+        ]
+      },
+      "properties": {
+        "id": 383,
+        "name": "Geldernstr./Parkgürtel",
+        "alternate_names": [
+          "Geldernstr.",
+          "Parkgürtel",
+          "Köln Geldernstraße/Parkgürtel"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 383
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9416083,
+          50.9586925
+        ]
+      },
+      "properties": {
+        "id": 384,
+        "name": "Köln-Nippes",
+        "alternate_names": [
+          "Nippes"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 384
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9525612,
+          50.9490645
+        ]
+      },
+      "properties": {
+        "id": 385,
+        "name": "Hansaring",
+        "alternate_names": [
+          "Köln Hansaring"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 385
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9595583,
+          50.942976
+        ]
+      },
+      "properties": {
+        "id": 386,
+        "name": "Dom/Hbf",
+        "alternate_names": [
+          "Köln Hbf",
+          "Hauptbahnhof",
+          "Dom"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 386
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9746093,
+          50.941268
+        ]
+      },
+      "properties": {
+        "id": 387,
+        "name": "Bf Deutz/Messe",
+        "alternate_names": [
+          "Deutz",
+          "Deutz Messe",
+          "Bahnhof Deutz",
+          "Deutz Bf",
+          "Köln Messe/Deutz"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 387
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0043353,
+          50.9534714
+        ]
+      },
+      "properties": {
+        "id": 388,
+        "name": "Köln-Buchforst",
+        "alternate_names": [
+          "Buchforst"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 388
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0137872,
+          50.9579384
+        ]
+      },
+      "properties": {
+        "id": 389,
+        "name": "Bf Mülheim",
+        "alternate_names": [
+          "Köln-Mülheim"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 389
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0411916,
+          50.9762181
+        ]
+      },
+      "properties": {
+        "id": 390,
+        "name": "Köln-Holweide",
+        "alternate_names": [
+          "Holweide"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 390
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0698817,
+          50.9813819
+        ]
+      },
+      "properties": {
+        "id": 391,
+        "name": "Köln-Dellbrück",
+        "alternate_names": [
+          "Dellbrück"
+        ],
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 391
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1035393,
+          50.984794
+        ]
+      },
+      "properties": {
+        "id": 392,
+        "name": "Duckterath",
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 392
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1241848,
+          50.9911293
+        ]
+      },
+      "properties": {
+        "id": 393,
+        "name": "Bergisch Gladbach",
+        "line": "KoelnS11",
+        "order": 14
+      },
+      "id": 393
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7145269,
+          50.9165674
+        ]
+      },
+      "properties": {
+        "id": 394,
+        "name": "Horrem",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 394
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7776355,
+          50.9363499
+        ]
+      },
+      "properties": {
+        "id": 395,
+        "name": "Frechen-Königsdorf",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 395
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8155288,
+          50.9408467
+        ]
+      },
+      "properties": {
+        "id": 396,
+        "name": "Weiden West",
+        "alternate_names": [
+          "Köln-Weiden West"
+        ],
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 396
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8347054,
+          50.9428622
+        ]
+      },
+      "properties": {
+        "id": 397,
+        "name": "Lövenich",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 397
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8883356,
+          50.9483536
+        ]
+      },
+      "properties": {
+        "id": 398,
+        "name": "Köln-Müngersdorf/Technologiepark",
+        "alternate_names": [
+          "Müngersdorf/Technologiepark"
+        ],
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 398
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9173723,
+          50.9514594
+        ]
+      },
+      "properties": {
+        "id": 399,
+        "name": "Köln-Ehrenfeld",
+        "alternate_names": [
+          "Ehrenfeld"
+        ],
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 399
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9525612,
+          50.9490645
+        ]
+      },
+      "properties": {
+        "id": 400,
+        "name": "Hansaring",
+        "alternate_names": [
+          "Köln Hansaring"
+        ],
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 400
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9595583,
+          50.942976
+        ]
+      },
+      "properties": {
+        "id": 401,
+        "name": "Dom/Hbf",
+        "alternate_names": [
+          "Köln Hbf",
+          "Hauptbahnhof",
+          "Dom"
+        ],
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 401
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9746093,
+          50.941268
+        ]
+      },
+      "properties": {
+        "id": 402,
+        "name": "Bf Deutz/Messe",
+        "alternate_names": [
+          "Deutz",
+          "Deutz Messe",
+          "Bahnhof Deutz",
+          "Deutz Bf",
+          "Köln Messe/Deutz"
+        ],
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 402
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9970603,
+          50.9357377
+        ]
+      },
+      "properties": {
+        "id": 403,
+        "name": "Köln Trimbornstraße",
+        "alternate_names": [
+          "Trimbornstraße"
+        ],
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 403
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0445712,
+          50.9102848
+        ]
+      },
+      "properties": {
+        "id": 404,
+        "name": "Köln Airport-Businesspark",
+        "alternate_names": [
+          "Airport-Businesspark"
+        ],
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 404
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.05754,
+          50.8952625
+        ]
+      },
+      "properties": {
+        "id": 405,
+        "name": "Köln Steinstraße",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 405
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0645232,
+          50.8830745
+        ]
+      },
+      "properties": {
+        "id": 406,
+        "name": "Porz (Rhein)",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 406
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0792143,
+          50.8583812
+        ]
+      },
+      "properties": {
+        "id": 407,
+        "name": "Porz-Wahn",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 407
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1146142,
+          50.8268646
+        ]
+      },
+      "properties": {
+        "id": 408,
+        "name": "Spich",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 408
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1489767,
+          50.8144995
+        ]
+      },
+      "properties": {
+        "id": 409,
+        "name": "Troisdorf",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 409
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2029353,
+          50.7939197
+        ]
+      },
+      "properties": {
+        "id": 410,
+        "name": "Siegburg/Bonn",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 410
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2843942,
+          50.7733399
+        ]
+      },
+      "properties": {
+        "id": 411,
+        "name": "Hennef (Sieg)",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 411
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3131332,
+          50.7731349
+        ]
+      },
+      "properties": {
+        "id": 412,
+        "name": "Hennef Im Siegbogen",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 412
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3488025,
+          50.7684014
+        ]
+      },
+      "properties": {
+        "id": 413,
+        "name": "Blankenberg (Sieg)",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 413
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3862428,
+          50.77018
+        ]
+      },
+      "properties": {
+        "id": 414,
+        "name": "Merten (Sieg)",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 414
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4476132,
+          50.7735283
+        ]
+      },
+      "properties": {
+        "id": 415,
+        "name": "Eitorf",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 415
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5215865,
+          50.7709331
+        ]
+      },
+      "properties": {
+        "id": 416,
+        "name": "Herchen",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 416
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5462884,
+          50.8092172
+        ]
+      },
+      "properties": {
+        "id": 417,
+        "name": "Dattenfeld (Sieg)",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 417
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5920991,
+          50.807015
+        ]
+      },
+      "properties": {
+        "id": 418,
+        "name": "Schladern (Sieg)",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 418
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6086824,
+          50.79677
+        ]
+      },
+      "properties": {
+        "id": 419,
+        "name": "Rosbach (Sieg)",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 419
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6565986,
+          50.7738792
+        ]
+      },
+      "properties": {
+        "id": 420,
+        "name": "Au (Sieg)",
+        "line": "KoelnS12",
+        "order": 15
+      },
+      "id": 420
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4826338,
+          50.8094235
+        ]
+      },
+      "properties": {
+        "id": 421,
+        "name": "Düren",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 421
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5177604,
+          50.8398995
+        ]
+      },
+      "properties": {
+        "id": 422,
+        "name": "Merzenich",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 422
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5748191,
+          50.8625165
+        ]
+      },
+      "properties": {
+        "id": 423,
+        "name": "Buir",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 423
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6813161,
+          50.9037696
+        ]
+      },
+      "properties": {
+        "id": 424,
+        "name": "Sindorf",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 424
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7145269,
+          50.9165674
+        ]
+      },
+      "properties": {
+        "id": 425,
+        "name": "Horrem",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 425
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7776355,
+          50.9363499
+        ]
+      },
+      "properties": {
+        "id": 426,
+        "name": "Frechen-Königsdorf",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 426
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8155288,
+          50.9408467
+        ]
+      },
+      "properties": {
+        "id": 427,
+        "name": "Weiden West",
+        "alternate_names": [
+          "Köln-Weiden West"
+        ],
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 427
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8347054,
+          50.9428622
+        ]
+      },
+      "properties": {
+        "id": 428,
+        "name": "Lövenich",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 428
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8883356,
+          50.9483536
+        ]
+      },
+      "properties": {
+        "id": 429,
+        "name": "Köln-Müngersdorf/Technologiepark",
+        "alternate_names": [
+          "Müngersdorf/Technologiepark"
+        ],
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 429
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9173723,
+          50.9514594
+        ]
+      },
+      "properties": {
+        "id": 430,
+        "name": "Köln-Ehrenfeld",
+        "alternate_names": [
+          "Ehrenfeld"
+        ],
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 430
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9525612,
+          50.9490645
+        ]
+      },
+      "properties": {
+        "id": 431,
+        "name": "Hansaring",
+        "alternate_names": [
+          "Köln Hansaring"
+        ],
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 431
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9595583,
+          50.942976
+        ]
+      },
+      "properties": {
+        "id": 432,
+        "name": "Dom/Hbf",
+        "alternate_names": [
+          "Köln Hbf",
+          "Hauptbahnhof",
+          "Dom"
+        ],
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 432
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9746093,
+          50.941268
+        ]
+      },
+      "properties": {
+        "id": 433,
+        "name": "Bf Deutz/Messe",
+        "alternate_names": [
+          "Deutz",
+          "Deutz Messe",
+          "Bahnhof Deutz",
+          "Deutz Bf",
+          "Köln Messe/Deutz"
+        ],
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 433
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9970603,
+          50.9357377
+        ]
+      },
+      "properties": {
+        "id": 434,
+        "name": "Köln Trimbornstraße",
+        "alternate_names": [
+          "Trimbornstraße"
+        ],
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 434
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0508867,
+          50.9153753
+        ]
+      },
+      "properties": {
+        "id": 435,
+        "name": "Köln Frankfurter Straße",
+        "alternate_names": [
+          "Frankfurter Straße"
+        ],
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 435
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1192389,
+          50.8789035
+        ]
+      },
+      "properties": {
+        "id": 436,
+        "name": "Köln/Bonn Flughafen",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 436
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0792143,
+          50.8583812
+        ]
+      },
+      "properties": {
+        "id": 437,
+        "name": "Porz-Wahn",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 437
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1146142,
+          50.8268646
+        ]
+      },
+      "properties": {
+        "id": 438,
+        "name": "Spich",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 438
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1489767,
+          50.8144995
+        ]
+      },
+      "properties": {
+        "id": 439,
+        "name": "Troisdorf",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 439
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2029353,
+          50.7939197
+        ]
+      },
+      "properties": {
+        "id": 440,
+        "name": "Siegburg/Bonn",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 440
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2843942,
+          50.7733399
+        ]
+      },
+      "properties": {
+        "id": 441,
+        "name": "Hennef (Sieg)",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 441
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3131332,
+          50.7731349
+        ]
+      },
+      "properties": {
+        "id": 442,
+        "name": "Hennef Im Siegbogen",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 442
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3488025,
+          50.7684014
+        ]
+      },
+      "properties": {
+        "id": 443,
+        "name": "Blankenberg (Sieg)",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 443
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3862428,
+          50.77018
+        ]
+      },
+      "properties": {
+        "id": 444,
+        "name": "Merten (Sieg)",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 444
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4476132,
+          50.7735283
+        ]
+      },
+      "properties": {
+        "id": 445,
+        "name": "Eitorf",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 445
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5215865,
+          50.7709331
+        ]
+      },
+      "properties": {
+        "id": 446,
+        "name": "Herchen",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 446
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5462884,
+          50.8092172
+        ]
+      },
+      "properties": {
+        "id": 447,
+        "name": "Dattenfeld (Sieg)",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 447
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5920991,
+          50.807015
+        ]
+      },
+      "properties": {
+        "id": 448,
+        "name": "Schladern (Sieg)",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 448
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6086824,
+          50.79677
+        ]
+      },
+      "properties": {
+        "id": 449,
+        "name": "Rosbach (Sieg)",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 449
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6565986,
+          50.7738792
+        ]
+      },
+      "properties": {
+        "id": 450,
+        "name": "Au (Sieg)",
+        "line": "KoelnS19",
+        "order": 16
+      },
+      "id": 450
     }
   ],
   "properties": {
-    "totalStations": 247,
+    "totalStations": 295,
     "stationsPerLine": {
       "Koeln1": 37,
       "Koeln3": 32,
@@ -6219,8 +8018,12 @@
       "Koeln15": 24,
       "Koeln16": 50,
       "Koeln17": 11,
-      "Koeln18": 43
+      "Koeln18": 43,
+      "KoelnS6": 19,
+      "KoelnS11": 19,
+      "KoelnS12": 27,
+      "KoelnS19": 30
     },
-    "nextStationId": 356
+    "nextStationId": 451
   }
 }
