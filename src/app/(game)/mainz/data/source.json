@@ -1,0 +1,1466 @@
+{
+  "routes": [
+    {
+      "name": "50",
+      "color": "#000000",
+      "text_color": "#FFFFFF",
+      "icon_name": "mainz-tram-50",
+      "icon_contains_name": true,
+      "live_line_code": "MainzTram50",
+      "brand": "MainzTram",
+      "mode": "tram",
+      "supports_routeinfo": false,
+      "live_availability": 0,
+      "long_name": "Finthen, Römerquelle > Hechtsheim, Bürgerhaus",
+      "aliases": [
+        "50"
+      ],
+      "patterns": [
+        {
+          "name": "Finthen, Römerquelle > Hechtsheim, Bürgerhaus",
+          "path": [
+            [
+              49.99547,
+              8.175082
+            ],
+            [
+              49.995937,
+              8.180302
+            ],
+            [
+              49.99635,
+              8.188189
+            ],
+            [
+              49.998302,
+              8.193695
+            ],
+            [
+              50.00148,
+              8.204664
+            ],
+            [
+              50.002674,
+              8.209901
+            ],
+            [
+              50.00361,
+              8.213377
+            ],
+            [
+              50.005505,
+              8.221319
+            ],
+            [
+              50.005768,
+              8.226205
+            ],
+            [
+              50.005337,
+              8.230921
+            ],
+            [
+              50.009647,
+              8.234578
+            ],
+            [
+              50.01425,
+              8.234156
+            ],
+            [
+              50.01626,
+              8.238934
+            ],
+            [
+              50.01535,
+              8.243471
+            ],
+            [
+              50.01223000000001,
+              8.248798
+            ],
+            [
+              50.009388,
+              8.251385
+            ],
+            [
+              50.005959999999995,
+              8.255302
+            ],
+            [
+              50.0012996,
+              8.2599622
+            ],
+            [
+              50.00037799999999,
+              8.26336
+            ],
+            [
+              49.998573,
+              8.266944
+            ],
+            [
+              49.993336,
+              8.266594
+            ],
+            [
+              49.989628,
+              8.266225
+            ],
+            [
+              49.986042,
+              8.266261
+            ],
+            [
+              49.981018,
+              8.26901
+            ],
+            [
+              49.976776,
+              8.270061
+            ],
+            [
+              49.97153666666667,
+              8.271385
+            ],
+            [
+              49.967007,
+              8.270016
+            ],
+            [
+              49.963425,
+              8.269405
+            ],
+            [
+              49.9596,
+              8.268256
+            ],
+            [
+              49.95826,
+              8.269774
+            ],
+            [
+              49.956825,
+              8.275128
+            ]
+          ],
+          "stop_points": [
+            {
+              "id": "MainzStation_a2ad678c8e94",
+              "path_index": 0
+            },
+            {
+              "id": "MainzStation_019ed395e1d7",
+              "path_index": 1
+            },
+            {
+              "id": "MainzStation_4921cb66e097",
+              "path_index": 2
+            },
+            {
+              "id": "MainzStation_f29969e97bca",
+              "path_index": 3
+            },
+            {
+              "id": "MainzStation_8f67a8c62367",
+              "path_index": 4
+            },
+            {
+              "id": "MainzStation_35cdb5d0eeb7",
+              "path_index": 5
+            },
+            {
+              "id": "MainzStation_99458988068e",
+              "path_index": 6
+            },
+            {
+              "id": "MainzStation_30233c3e330b",
+              "path_index": 7
+            },
+            {
+              "id": "MainzStation_c8f50a65d249",
+              "path_index": 8
+            },
+            {
+              "id": "MainzStation_96cbba0ae6a4",
+              "path_index": 9
+            },
+            {
+              "id": "MainzStation_142fdaab7f2c",
+              "path_index": 10
+            },
+            {
+              "id": "MainzStation_0421d4ef0e8d",
+              "path_index": 11
+            },
+            {
+              "id": "MainzStation_088841421a46",
+              "path_index": 12
+            },
+            {
+              "id": "MainzStation_6858ecac4f8f",
+              "path_index": 13
+            },
+            {
+              "id": "MainzStation_c60e5faddd26",
+              "path_index": 14
+            },
+            {
+              "id": "MainzStation_2e516f8a142c",
+              "path_index": 15
+            },
+            {
+              "id": "MainzStation_656cdb436c3d",
+              "path_index": 16
+            },
+            {
+              "id": "MainzStation_9912d6b780f6",
+              "path_index": 17
+            },
+            {
+              "id": "MainzStation_c8af2815c108",
+              "path_index": 18
+            },
+            {
+              "id": "MainzStation_5655ca784f34",
+              "path_index": 19
+            },
+            {
+              "id": "MainzStation_61f73709d98a",
+              "path_index": 20
+            },
+            {
+              "id": "MainzStation_ce40ac8537c7",
+              "path_index": 21
+            },
+            {
+              "id": "MainzStation_8276e77471d0",
+              "path_index": 22
+            },
+            {
+              "id": "MainzStation_5e534b8669b5",
+              "path_index": 23
+            },
+            {
+              "id": "MainzStation_d977f909318c",
+              "path_index": 24
+            },
+            {
+              "id": "MainzStation_f390fa7240f5",
+              "path_index": 25
+            },
+            {
+              "id": "MainzStation_0faf358b0a0e",
+              "path_index": 26
+            },
+            {
+              "id": "MainzStation_ef5ece66a9cd",
+              "path_index": 27
+            },
+            {
+              "id": "MainzStation_58e287280c94",
+              "path_index": 28
+            },
+            {
+              "id": "MainzStation_b6d577ff0006",
+              "path_index": 29
+            },
+            {
+              "id": "MainzStation_cc60664ca6eb",
+              "path_index": 30
+            }
+          ],
+          "id": "MainzTram50_main"
+        }
+      ]
+    },
+    {
+      "name": "51",
+      "color": "#4A4A49",
+      "text_color": "#FFFFFF",
+      "icon_name": "mainz-tram-51",
+      "icon_contains_name": true,
+      "live_line_code": "MainzTram51",
+      "brand": "MainzTram",
+      "mode": "tram",
+      "supports_routeinfo": false,
+      "live_availability": 0,
+      "long_name": "Finthen, Poststraße > Lerchenberg, Hindemithstr.",
+      "aliases": [
+        "51"
+      ],
+      "patterns": [
+        {
+          "name": "Finthen, Poststraße > Lerchenberg, Hindemithstr.",
+          "path": [
+            [
+              49.98937,
+              8.178828
+            ],
+            [
+              49.992634,
+              8.179295
+            ],
+            [
+              49.99635,
+              8.188189
+            ],
+            [
+              49.998302,
+              8.193695
+            ],
+            [
+              50.00148,
+              8.204664
+            ],
+            [
+              50.002674,
+              8.209901
+            ],
+            [
+              50.00361,
+              8.213377
+            ],
+            [
+              50.005505,
+              8.221319
+            ],
+            [
+              50.005768,
+              8.226205
+            ],
+            [
+              50.005337,
+              8.230921
+            ],
+            [
+              50.009647,
+              8.234578
+            ],
+            [
+              50.01425,
+              8.234156
+            ],
+            [
+              50.01626,
+              8.238934
+            ],
+            [
+              50.01535,
+              8.243471
+            ],
+            [
+              50.01223000000001,
+              8.248798
+            ],
+            [
+              50.009388,
+              8.251385
+            ],
+            [
+              50.005959999999995,
+              8.255302
+            ],
+            [
+              50.0012996,
+              8.2599622
+            ],
+            [
+              49.999528,
+              8.258554
+            ],
+            [
+              49.996295,
+              8.245899666666666
+            ],
+            [
+              49.994318,
+              8.236254666666666
+            ],
+            [
+              49.99211333333333,
+              8.225576333333334
+            ],
+            [
+              49.98955166666667,
+              8.223972
+            ],
+            [
+              49.98745499999999,
+              8.228649
+            ],
+            [
+              49.984177,
+              8.234165
+            ],
+            [
+              49.9801825,
+              8.237452000000001
+            ],
+            [
+              49.9761365,
+              8.2393885
+            ],
+            [
+              49.9728915,
+              8.2383735
+            ],
+            [
+              49.9699745,
+              8.236141
+            ],
+            [
+              49.964357500000006,
+              8.23014
+            ],
+            [
+              49.962759,
+              8.226906
+            ],
+            [
+              49.961595,
+              8.222747
+            ],
+            [
+              49.95989,
+              8.2109115
+            ],
+            [
+              49.9601725,
+              8.202831
+            ],
+            [
+              49.95858375,
+              8.197850500000001
+            ]
+          ],
+          "stop_points": [
+            {
+              "id": "MainzStation_6b8b2dc08b89",
+              "path_index": 0
+            },
+            {
+              "id": "MainzStation_a58060e6c80f",
+              "path_index": 1
+            },
+            {
+              "id": "MainzStation_4921cb66e097",
+              "path_index": 2
+            },
+            {
+              "id": "MainzStation_f29969e97bca",
+              "path_index": 3
+            },
+            {
+              "id": "MainzStation_8f67a8c62367",
+              "path_index": 4
+            },
+            {
+              "id": "MainzStation_35cdb5d0eeb7",
+              "path_index": 5
+            },
+            {
+              "id": "MainzStation_99458988068e",
+              "path_index": 6
+            },
+            {
+              "id": "MainzStation_30233c3e330b",
+              "path_index": 7
+            },
+            {
+              "id": "MainzStation_c8f50a65d249",
+              "path_index": 8
+            },
+            {
+              "id": "MainzStation_96cbba0ae6a4",
+              "path_index": 9
+            },
+            {
+              "id": "MainzStation_142fdaab7f2c",
+              "path_index": 10
+            },
+            {
+              "id": "MainzStation_0421d4ef0e8d",
+              "path_index": 11
+            },
+            {
+              "id": "MainzStation_088841421a46",
+              "path_index": 12
+            },
+            {
+              "id": "MainzStation_6858ecac4f8f",
+              "path_index": 13
+            },
+            {
+              "id": "MainzStation_c60e5faddd26",
+              "path_index": 14
+            },
+            {
+              "id": "MainzStation_2e516f8a142c",
+              "path_index": 15
+            },
+            {
+              "id": "MainzStation_656cdb436c3d",
+              "path_index": 16
+            },
+            {
+              "id": "MainzStation_9912d6b780f6",
+              "path_index": 17
+            },
+            {
+              "id": "MainzStation_25011724594c",
+              "path_index": 18
+            },
+            {
+              "id": "MainzStation_6b9fa15c1196",
+              "path_index": 19
+            },
+            {
+              "id": "MainzStation_1f46ac45d73c",
+              "path_index": 20
+            },
+            {
+              "id": "MainzStation_19a7367d47fe",
+              "path_index": 21
+            },
+            {
+              "id": "MainzStation_6e74ed7fed60",
+              "path_index": 22
+            },
+            {
+              "id": "MainzStation_ffd0a2b5ab01",
+              "path_index": 23
+            },
+            {
+              "id": "MainzStation_37c1e6dd1a3f",
+              "path_index": 24
+            },
+            {
+              "id": "MainzStation_ca479c4c2892",
+              "path_index": 25
+            },
+            {
+              "id": "MainzStation_e74fbb7be27d",
+              "path_index": 26
+            },
+            {
+              "id": "MainzStation_d0f6c7cf72d1",
+              "path_index": 27
+            },
+            {
+              "id": "MainzStation_c67e2529ded2",
+              "path_index": 28
+            },
+            {
+              "id": "MainzStation_f2cec210dee3",
+              "path_index": 29
+            },
+            {
+              "id": "MainzStation_ea972bd25da0",
+              "path_index": 30
+            },
+            {
+              "id": "MainzStation_f3af01828163",
+              "path_index": 31
+            },
+            {
+              "id": "MainzStation_6eb2fcc3b934",
+              "path_index": 32
+            },
+            {
+              "id": "MainzStation_bc8e792740a7",
+              "path_index": 33
+            },
+            {
+              "id": "MainzStation_8f696dc19335",
+              "path_index": 34
+            }
+          ],
+          "id": "MainzTram51_main"
+        }
+      ]
+    },
+    {
+      "name": "52",
+      "color": "#DED600",
+      "text_color": "#000000",
+      "icon_name": "mainz-tram-52",
+      "icon_contains_name": true,
+      "live_line_code": "MainzTram52",
+      "brand": "MainzTram",
+      "mode": "tram",
+      "supports_routeinfo": false,
+      "live_availability": 0,
+      "long_name": "Bretzenheim, Bahnstraße > Hechtsheim, Am Schinnergraben",
+      "aliases": [
+        "52"
+      ],
+      "patterns": [
+        {
+          "name": "Bretzenheim, Bahnstraße > Hechtsheim, Am Schinnergraben",
+          "path": [
+            [
+              49.982094,
+              8.246166
+            ],
+            [
+              49.98437,
+              8.252481
+            ],
+            [
+              49.987064,
+              8.252463
+            ],
+            [
+              49.992027,
+              8.251709
+            ],
+            [
+              49.995243,
+              8.252418
+            ],
+            [
+              49.99729,
+              8.255455
+            ],
+            [
+              49.999528,
+              8.258554
+            ],
+            [
+              50.0012996,
+              8.2599622
+            ],
+            [
+              50.00037799999999,
+              8.26336
+            ],
+            [
+              49.998573,
+              8.266944
+            ],
+            [
+              49.993336,
+              8.266594
+            ],
+            [
+              49.989628,
+              8.266225
+            ],
+            [
+              49.986042,
+              8.266261
+            ],
+            [
+              49.981018,
+              8.26901
+            ],
+            [
+              49.976776,
+              8.270061
+            ],
+            [
+              49.97153666666667,
+              8.271385
+            ],
+            [
+              49.9676,
+              8.275047
+            ],
+            [
+              49.963684,
+              8.279862
+            ]
+          ],
+          "stop_points": [
+            {
+              "id": "MainzStation_56b0282aeb31",
+              "path_index": 0
+            },
+            {
+              "id": "MainzStation_644cf88d2db7",
+              "path_index": 1
+            },
+            {
+              "id": "MainzStation_7b259539fa75",
+              "path_index": 2
+            },
+            {
+              "id": "MainzStation_dfe3d635c816",
+              "path_index": 3
+            },
+            {
+              "id": "MainzStation_da9faac480a7",
+              "path_index": 4
+            },
+            {
+              "id": "MainzStation_6ce41b48cd69",
+              "path_index": 5
+            },
+            {
+              "id": "MainzStation_25011724594c",
+              "path_index": 6
+            },
+            {
+              "id": "MainzStation_9912d6b780f6",
+              "path_index": 7
+            },
+            {
+              "id": "MainzStation_c8af2815c108",
+              "path_index": 8
+            },
+            {
+              "id": "MainzStation_5655ca784f34",
+              "path_index": 9
+            },
+            {
+              "id": "MainzStation_61f73709d98a",
+              "path_index": 10
+            },
+            {
+              "id": "MainzStation_ce40ac8537c7",
+              "path_index": 11
+            },
+            {
+              "id": "MainzStation_8276e77471d0",
+              "path_index": 12
+            },
+            {
+              "id": "MainzStation_5e534b8669b5",
+              "path_index": 13
+            },
+            {
+              "id": "MainzStation_d977f909318c",
+              "path_index": 14
+            },
+            {
+              "id": "MainzStation_f390fa7240f5",
+              "path_index": 15
+            },
+            {
+              "id": "MainzStation_602df93de627",
+              "path_index": 16
+            },
+            {
+              "id": "MainzStation_62f8e4e6adac",
+              "path_index": 17
+            }
+          ],
+          "id": "MainzTram52_main"
+        }
+      ]
+    },
+    {
+      "name": "53",
+      "color": "#000000",
+      "text_color": "#FFFFFF",
+      "icon_name": "mainz-tram-53",
+      "icon_contains_name": true,
+      "live_line_code": "MainzTram53",
+      "brand": "MainzTram",
+      "mode": "tram",
+      "supports_routeinfo": false,
+      "live_availability": 0,
+      "long_name": "Lerchenberg, Hindemithstr. > Hechtsheim, Bürgerhaus",
+      "aliases": [
+        "53"
+      ],
+      "patterns": [
+        {
+          "name": "Lerchenberg, Hindemithstr. > Hechtsheim, Bürgerhaus",
+          "path": [
+            [
+              49.95858375,
+              8.197850500000001
+            ],
+            [
+              49.9601725,
+              8.202831
+            ],
+            [
+              49.95989,
+              8.2109115
+            ],
+            [
+              49.961595,
+              8.222747
+            ],
+            [
+              49.962759,
+              8.226906
+            ],
+            [
+              49.964357500000006,
+              8.23014
+            ],
+            [
+              49.9699745,
+              8.236141
+            ],
+            [
+              49.9728915,
+              8.2383735
+            ],
+            [
+              49.9761365,
+              8.2393885
+            ],
+            [
+              49.9801825,
+              8.237452000000001
+            ],
+            [
+              49.984177,
+              8.234165
+            ],
+            [
+              49.98745499999999,
+              8.228649
+            ],
+            [
+              49.98955166666667,
+              8.223972
+            ],
+            [
+              49.99211333333333,
+              8.225576333333334
+            ],
+            [
+              49.994318,
+              8.236254666666666
+            ],
+            [
+              49.996295,
+              8.245899666666666
+            ],
+            [
+              49.999528,
+              8.258554
+            ],
+            [
+              50.0012996,
+              8.2599622
+            ],
+            [
+              50.00037799999999,
+              8.26336
+            ],
+            [
+              49.998573,
+              8.266944
+            ],
+            [
+              49.993336,
+              8.266594
+            ],
+            [
+              49.989628,
+              8.266225
+            ],
+            [
+              49.986042,
+              8.266261
+            ],
+            [
+              49.981018,
+              8.26901
+            ],
+            [
+              49.976776,
+              8.270061
+            ],
+            [
+              49.97153666666667,
+              8.271385
+            ],
+            [
+              49.967007,
+              8.270016
+            ],
+            [
+              49.963425,
+              8.269405
+            ],
+            [
+              49.9596,
+              8.268256
+            ],
+            [
+              49.95826,
+              8.269774
+            ],
+            [
+              49.956825,
+              8.275128
+            ]
+          ],
+          "stop_points": [
+            {
+              "id": "MainzStation_8f696dc19335",
+              "path_index": 0
+            },
+            {
+              "id": "MainzStation_bc8e792740a7",
+              "path_index": 1
+            },
+            {
+              "id": "MainzStation_6eb2fcc3b934",
+              "path_index": 2
+            },
+            {
+              "id": "MainzStation_f3af01828163",
+              "path_index": 3
+            },
+            {
+              "id": "MainzStation_ea972bd25da0",
+              "path_index": 4
+            },
+            {
+              "id": "MainzStation_f2cec210dee3",
+              "path_index": 5
+            },
+            {
+              "id": "MainzStation_c67e2529ded2",
+              "path_index": 6
+            },
+            {
+              "id": "MainzStation_d0f6c7cf72d1",
+              "path_index": 7
+            },
+            {
+              "id": "MainzStation_e74fbb7be27d",
+              "path_index": 8
+            },
+            {
+              "id": "MainzStation_ca479c4c2892",
+              "path_index": 9
+            },
+            {
+              "id": "MainzStation_37c1e6dd1a3f",
+              "path_index": 10
+            },
+            {
+              "id": "MainzStation_ffd0a2b5ab01",
+              "path_index": 11
+            },
+            {
+              "id": "MainzStation_6e74ed7fed60",
+              "path_index": 12
+            },
+            {
+              "id": "MainzStation_19a7367d47fe",
+              "path_index": 13
+            },
+            {
+              "id": "MainzStation_1f46ac45d73c",
+              "path_index": 14
+            },
+            {
+              "id": "MainzStation_6b9fa15c1196",
+              "path_index": 15
+            },
+            {
+              "id": "MainzStation_25011724594c",
+              "path_index": 16
+            },
+            {
+              "id": "MainzStation_9912d6b780f6",
+              "path_index": 17
+            },
+            {
+              "id": "MainzStation_c8af2815c108",
+              "path_index": 18
+            },
+            {
+              "id": "MainzStation_5655ca784f34",
+              "path_index": 19
+            },
+            {
+              "id": "MainzStation_61f73709d98a",
+              "path_index": 20
+            },
+            {
+              "id": "MainzStation_ce40ac8537c7",
+              "path_index": 21
+            },
+            {
+              "id": "MainzStation_8276e77471d0",
+              "path_index": 22
+            },
+            {
+              "id": "MainzStation_5e534b8669b5",
+              "path_index": 23
+            },
+            {
+              "id": "MainzStation_d977f909318c",
+              "path_index": 24
+            },
+            {
+              "id": "MainzStation_f390fa7240f5",
+              "path_index": 25
+            },
+            {
+              "id": "MainzStation_0faf358b0a0e",
+              "path_index": 26
+            },
+            {
+              "id": "MainzStation_ef5ece66a9cd",
+              "path_index": 27
+            },
+            {
+              "id": "MainzStation_58e287280c94",
+              "path_index": 28
+            },
+            {
+              "id": "MainzStation_b6d577ff0006",
+              "path_index": 29
+            },
+            {
+              "id": "MainzStation_cc60664ca6eb",
+              "path_index": 30
+            }
+          ],
+          "id": "MainzTram53_main"
+        }
+      ]
+    },
+    {
+      "name": "59",
+      "color": "#FFA500",
+      "text_color": "#000000",
+      "icon_name": "mainz-tram-59",
+      "icon_contains_name": true,
+      "live_line_code": "MainzTram59",
+      "brand": "MainzTram",
+      "mode": "tram",
+      "supports_routeinfo": false,
+      "live_availability": 0,
+      "long_name": "Bretzenheim, Hochschule Mainz > Mainz, Zollhafen/Inge-Reitz-Straße",
+      "aliases": [
+        "59"
+      ],
+      "patterns": [
+        {
+          "name": "Bretzenheim, Hochschule Mainz > Mainz, Zollhafen/Inge-Reitz-Straße",
+          "path": [
+            [
+              49.98745499999999,
+              8.228649
+            ],
+            [
+              49.98955166666667,
+              8.223972
+            ],
+            [
+              49.99211333333333,
+              8.225576333333334
+            ],
+            [
+              49.994318,
+              8.236254666666666
+            ],
+            [
+              49.996295,
+              8.245899666666666
+            ],
+            [
+              49.999528,
+              8.258554
+            ],
+            [
+              50.0012996,
+              8.2599622
+            ],
+            [
+              50.005959999999995,
+              8.255302
+            ],
+            [
+              50.009388,
+              8.251385
+            ],
+            [
+              50.01223000000001,
+              8.248798
+            ],
+            [
+              50.016148,
+              8.252517
+            ],
+            [
+              50.018745,
+              8.253927
+            ]
+          ],
+          "stop_points": [
+            {
+              "id": "MainzStation_ffd0a2b5ab01",
+              "path_index": 0
+            },
+            {
+              "id": "MainzStation_6e74ed7fed60",
+              "path_index": 1
+            },
+            {
+              "id": "MainzStation_19a7367d47fe",
+              "path_index": 2
+            },
+            {
+              "id": "MainzStation_1f46ac45d73c",
+              "path_index": 3
+            },
+            {
+              "id": "MainzStation_6b9fa15c1196",
+              "path_index": 4
+            },
+            {
+              "id": "MainzStation_25011724594c",
+              "path_index": 5
+            },
+            {
+              "id": "MainzStation_9912d6b780f6",
+              "path_index": 6
+            },
+            {
+              "id": "MainzStation_656cdb436c3d",
+              "path_index": 7
+            },
+            {
+              "id": "MainzStation_2e516f8a142c",
+              "path_index": 8
+            },
+            {
+              "id": "MainzStation_c60e5faddd26",
+              "path_index": 9
+            },
+            {
+              "id": "MainzStation_a031bc926a86",
+              "path_index": 10
+            },
+            {
+              "id": "MainzStation_b535f3c339fb",
+              "path_index": 11
+            }
+          ],
+          "id": "MainzTram59_main"
+        }
+      ]
+    }
+  ],
+  "stops": {
+    "MainzStation_e74fbb7be27d": {
+      "name": "Hans-Böckler-Straße",
+      "alternate_names": [
+        "Hans-Böckler-Straße",
+        "Hans-Böckler-Str.",
+        "H.-Böckler-S."
+      ]
+    },
+    "MainzStation_56b0282aeb31": {
+      "name": "Bahnstraße"
+    },
+    "MainzStation_37c1e6dd1a3f": {
+      "name": "Hildegard-von-Bingen-Straße",
+      "alternate_names": [
+        "Hildegard-von-Bingen-Straße",
+        "Hildegard-von-Bingen-Str.",
+        "H.-v.-Bingen Str."
+      ]
+    },
+    "MainzStation_ffd0a2b5ab01": {
+      "name": "Hochschule Mainz",
+      "alternate_names": [
+        "Hochschule"
+      ]
+    },
+    "MainzStation_6e74ed7fed60": {
+      "name": "Jakob-Heinz-Straße/Arena",
+      "alternate_names": [
+        "Jakob-Heinz-Straße",
+        "Jakob-Heinz-Str.",
+        "Arena",
+        "Mewa Arena",
+        "MEWA Arena",
+        "J.-H.-Str./Arena",
+        "Jakob-Heinz"
+      ]
+    },
+    "MainzStation_644cf88d2db7": {
+      "name": "Lindenmühle/Naturschaugarten",
+      "alternate_names": [
+        "Lindenmühle",
+        "Naturschaugarten",
+        "Lindenm.\\Natursch"
+      ]
+    },
+    "MainzStation_ca479c4c2892": {
+      "name": "Ludwig-Nauth-Straße",
+      "alternate_names": [
+        "Ludwig-Nauth-Straße",
+        "Ludwig-Nauth-Str."
+      ]
+    },
+    "MainzStation_d0f6c7cf72d1": {
+      "name": "Südring"
+    },
+    "MainzStation_c67e2529ded2": {
+      "name": "Wilhelm-Quetsch-Straße",
+      "alternate_names": [
+        "Wilhelm-Quetsch-Straße",
+        "Wilhelm-Quetsch-Str.",
+        "Wilh.-Quetsch-Str"
+      ]
+    },
+    "MainzStation_4921cb66e097": {
+      "name": "Gemarkungsgrenze"
+    },
+    "MainzStation_019ed395e1d7": {
+      "name": "Jupiterweg"
+    },
+    "MainzStation_a58060e6c80f": {
+      "name": "Königsborn"
+    },
+    "MainzStation_6b8b2dc08b89": {
+      "name": "Poststraße"
+    },
+    "MainzStation_a2ad678c8e94": {
+      "name": "Römerquelle"
+    },
+    "MainzStation_96cbba0ae6a4": {
+      "name": "An der Bruchspitze",
+      "alternate_names": [
+        "Bruchspitze"
+      ]
+    },
+    "MainzStation_30233c3e330b": {
+      "name": "Elbestraße"
+    },
+    "MainzStation_142fdaab7f2c": {
+      "name": "Gonsbachgärten"
+    },
+    "MainzStation_c8f50a65d249": {
+      "name": "Hugo-Eckener-Straße",
+      "alternate_names": [
+        "Hugo-Eckener-Straße",
+        "Hugo-Eckener-Str."
+      ]
+    },
+    "MainzStation_99458988068e": {
+      "name": "Josef-Ludwig-Platz"
+    },
+    "MainzStation_8f67a8c62367": {
+      "name": "Kapellenstraße/Gutenberg-Center",
+      "alternate_names": [
+        "Kapellenstraße",
+        "Gutenberg-Center",
+        "Gutenberg Center",
+        "Kapellenstr./G.Cen"
+      ]
+    },
+    "MainzStation_35cdb5d0eeb7": {
+      "name": "Nerotalstraße"
+    },
+    "MainzStation_f29969e97bca": {
+      "name": "Viermorgenweg"
+    },
+    "MainzStation_62f8e4e6adac": {
+      "name": "Am Schinnergraben",
+      "alternate_names": [
+        "Schinnergraben"
+      ]
+    },
+    "MainzStation_0faf358b0a0e": {
+      "name": "Birkenstraße"
+    },
+    "MainzStation_602df93de627": {
+      "name": "Büdingerstraße"
+    },
+    "MainzStation_cc60664ca6eb": {
+      "name": "Bürgerhaus"
+    },
+    "MainzStation_ef5ece66a9cd": {
+      "name": "Carl-Zeiss-Straße",
+      "alternate_names": [
+        "Carl-Zeiss-Straße",
+        "Carl-Zeiss-Str."
+      ]
+    },
+    "MainzStation_b6d577ff0006": {
+      "name": "Dornsheimer Weg"
+    },
+    "MainzStation_f390fa7240f5": {
+      "name": "Jägerhaus"
+    },
+    "MainzStation_58e287280c94": {
+      "name": "Mühldreieck"
+    },
+    "MainzStation_8f696dc19335": {
+      "name": "Hindemithstraße",
+      "alternate_names": [
+        "Hindemithstraße",
+        "Hindemithstr."
+      ]
+    },
+    "MainzStation_bc8e792740a7": {
+      "name": "ZDF",
+      "alternate_names": [
+        "Zweites Deutsches Fernsehen"
+      ]
+    },
+    "MainzStation_6ce41b48cd69": {
+      "name": "Agentur für Arbeit",
+      "alternate_names": [
+        "Arbeitsagentur",
+        "Agentur",
+        "Arbeitsamt"
+      ]
+    },
+    "MainzStation_61f73709d98a": {
+      "name": "Am Gautor",
+      "alternate_names": [
+        "Gautor"
+      ]
+    },
+    "MainzStation_ce40ac8537c7": {
+      "name": "An der Philippsschanze",
+      "alternate_names": [
+        "Philippsschanze"
+      ]
+    },
+    "MainzStation_5e534b8669b5": {
+      "name": "Berliner Straße"
+    },
+    "MainzStation_c60e5faddd26": {
+      "name": "Bismarckplatz"
+    },
+    "MainzStation_1f46ac45d73c": {
+      "name": "Friedrich-von-Pfeiffer-Weg",
+      "alternate_names": [
+        "Friedrich-von-Pfeiffer-Weg",
+        "Pfeiffer-Weg",
+        "Pfeifferweg",
+        "Fr.-v.-Pfeiffer-Weg",
+        "Pfeiffer"
+      ]
+    },
+    "MainzStation_2e516f8a142c": {
+      "name": "Goethestraße"
+    },
+    "MainzStation_9912d6b780f6": {
+      "name": "Hauptbahnhof",
+      "alternate_names": [
+        "Hbf",
+        "Mainz Hbf",
+        "Mainz Hauptbahnhof",
+        "Hauptbahnhof Mainz"
+      ]
+    },
+    "MainzStation_da9faac480a7": {
+      "name": "Hauptfriedhof/Blindenzentrum",
+      "alternate_names": [
+        "Hauptfriedhof",
+        "Blindenzentrum",
+        "Hauptfriedhof/Blindenzentrum",
+        "Hauptfriedhof/Blindenz."
+      ]
+    },
+    "MainzStation_25011724594c": {
+      "name": "Hauptbahnhof West/Taubertsbergbad",
+      "alternate_names": [
+        "Hbf West",
+        "Hauptbahnhof West",
+        "Taubertsbergbad",
+        "Taubertsberg",
+        "Hauptbahnhof West/Taubertsbergbad",
+        "Hbf West/Taubertsbergb.",
+        "Hbf West/Taubertsbergbad"
+      ]
+    },
+    "MainzStation_19a7367d47fe": {
+      "name": "Kisselberg"
+    },
+    "MainzStation_d977f909318c": {
+      "name": "Kurmainz-Kaserne/Akademie der Wissenschaften",
+      "alternate_names": [
+        "Kurmainz-Kaserne",
+        "Kurmainzkaserne",
+        "Akademie der Wissenschaften",
+        "Akademie",
+        "Kurmainzk./Akad. d. W.",
+        "Kurmainz"
+      ]
+    },
+    "MainzStation_656cdb436c3d": {
+      "name": "Lessingstraße"
+    },
+    "MainzStation_f3af01828163": {
+      "name": "Marienborn"
+    },
+    "MainzStation_c8af2815c108": {
+      "name": "Münsterplatz"
+    },
+    "MainzStation_8276e77471d0": {
+      "name": "Pariser Tor"
+    },
+    "MainzStation_dfe3d635c816": {
+      "name": "Römersteine"
+    },
+    "MainzStation_5655ca784f34": {
+      "name": "Schillerplatz"
+    },
+    "MainzStation_6858ecac4f8f": {
+      "name": "Schott AG",
+      "alternate_names": [
+        "Schott"
+      ]
+    },
+    "MainzStation_a031bc926a86": {
+      "name": "Straßenbahnamt"
+    },
+    "MainzStation_6b9fa15c1196": {
+      "name": "Universität",
+      "alternate_names": [
+        "Uni",
+        "Universitaet"
+      ]
+    },
+    "MainzStation_7b259539fa75": {
+      "name": "Zahlbach"
+    },
+    "MainzStation_b535f3c339fb": {
+      "name": "Zollhafen/Inge-Reitz-Straße",
+      "alternate_names": [
+        "Zollhafen",
+        "Inge-Reitz-Straße",
+        "Inge-Reitz-Str."
+      ]
+    },
+    "MainzStation_6eb2fcc3b934": {
+      "name": "VRM",
+      "alternate_names": [
+        "Verlagsgruppe Rhein Main"
+      ]
+    },
+    "MainzStation_ea972bd25da0": {
+      "name": "Wiesenstraße",
+      "alternate_names": [
+        "Wiesenstraße",
+        "Wiesenstr."
+      ]
+    },
+    "MainzStation_f2cec210dee3": {
+      "name": "Im Borner Grund",
+      "alternate_names": [
+        "Borner Grund"
+      ]
+    },
+    "MainzStation_0421d4ef0e8d": {
+      "name": "Turmstraße"
+    },
+    "MainzStation_088841421a46": {
+      "name": "Zwerchallee"
+    }
+  },
+  "feeds": [],
+  "status": {}
+}
