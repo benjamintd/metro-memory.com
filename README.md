@@ -80,6 +80,8 @@ This script is sometimes also responsible for giving ids to stations.
 
 Edit `config.ts` - The constant names should be self-explanatory. 
 
+Some cities add custom logic into `useNormalizeString.ts`
+
 ### Adding to the game
 
 Add your city to `lib/citiesConfig.ts` and the relevant images.
