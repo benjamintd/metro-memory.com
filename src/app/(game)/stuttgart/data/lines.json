@@ -1,0 +1,177 @@
+{
+  "StuttgartStadtbahnU1": {
+    "name": "U1",
+    "color": "#CD9C72",
+    "backgroundColor": "#764D2A",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "StuttgartStadtbahnU2": {
+    "name": "U2",
+    "color": "#F58220",
+    "backgroundColor": "#854006",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "StuttgartStadtbahnU3": {
+    "name": "U3",
+    "color": "#946341",
+    "backgroundColor": "#4A3121",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "StuttgartStadtbahnU4": {
+    "name": "U4",
+    "color": "#7967AE",
+    "backgroundColor": "#3B305A",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "StuttgartStadtbahnU5": {
+    "name": "U5",
+    "color": "#00BAF1",
+    "backgroundColor": "#005D78",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "StuttgartStadtbahnU6": {
+    "name": "U6",
+    "color": "#ED008C",
+    "backgroundColor": "#760046",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "StuttgartStadtbahnU7": {
+    "name": "U7",
+    "color": "#0BB38D",
+    "backgroundColor": "#055A47",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "StuttgartStadtbahnU8": {
+    "name": "U8",
+    "color": "#C0B678",
+    "backgroundColor": "#6A6232",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "StuttgartStadtbahnU9": {
+    "name": "U9",
+    "color": "#FFD403",
+    "backgroundColor": "#816B00",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "StuttgartStadtbahnU12": {
+    "name": "U12",
+    "color": "#85BBE5",
+    "backgroundColor": "#206295",
+    "textColor": "#FFFFFF",
+    "order": 9
+  },
+  "StuttgartStadtbahnU13": {
+    "name": "U13",
+    "color": "#F69EB2",
+    "backgroundColor": "#B91137",
+    "textColor": "#FFFFFF",
+    "order": 10
+  },
+  "StuttgartStadtbahnU14": {
+    "name": "U14",
+    "color": "#6ABD51",
+    "backgroundColor": "#336225",
+    "textColor": "#FFFFFF",
+    "order": 11
+  },
+  "StuttgartStadtbahnU15": {
+    "name": "U15",
+    "color": "#000099",
+    "backgroundColor": "#00004D",
+    "textColor": "#FFFFFF",
+    "order": 12
+  },
+  "StuttgartStadtbahnU16": {
+    "name": "U16",
+    "color": "#C3BF2F",
+    "backgroundColor": "#615F18",
+    "textColor": "#FFFFFF",
+    "order": 13
+  },
+  "StuttgartStadtbahnU19": {
+    "name": "U19",
+    "color": "#FAB902",
+    "backgroundColor": "#7D5C01",
+    "textColor": "#FFFFFF",
+    "order": 14
+  },
+  "StuttgartZahnradbahn10": {
+    "name": "10",
+    "color": "#FBBA00",
+    "backgroundColor": "#7E5D00",
+    "textColor": "#FFFFFF",
+    "order": 15
+  },
+  "StuttgartStandseilbahn20": {
+    "name": "20",
+    "color": "#804000",
+    "backgroundColor": "#402000",
+    "textColor": "#FFFFFF",
+    "order": 16
+  },
+  "StuttgartSBahnS1": {
+    "name": "S1",
+    "color": "#58AE40",
+    "backgroundColor": "#2C5720",
+    "textColor": "#FFFFFF",
+    "order": 17
+  },
+  "StuttgartSBahnS2": {
+    "name": "S2",
+    "color": "#DC022C",
+    "backgroundColor": "#6E0116",
+    "textColor": "#FFFFFF",
+    "order": 18
+  },
+  "StuttgartSBahnS3": {
+    "name": "S3",
+    "color": "#F47A14",
+    "backgroundColor": "#7E3D06",
+    "textColor": "#FFFFFF",
+    "order": 19
+  },
+  "StuttgartSBahnS4": {
+    "name": "S4",
+    "color": "#0165B2",
+    "backgroundColor": "#003259",
+    "textColor": "#FFFFFF",
+    "order": 20
+  },
+  "StuttgartSBahnS5": {
+    "name": "S5",
+    "color": "#04AAE4",
+    "backgroundColor": "#025572",
+    "textColor": "#FFFFFF",
+    "order": 21
+  },
+  "StuttgartSBahnS6": {
+    "name": "S6",
+    "color": "#844C02",
+    "backgroundColor": "#422601",
+    "textColor": "#FFFFFF",
+    "order": 22
+  },
+  "StuttgartSBahnS60": {
+    "name": "S60",
+    "color": "#8D900E",
+    "backgroundColor": "#474807",
+    "textColor": "#FFFFFF",
+    "order": 23
+  },
+  "StuttgartSBahnS62": {
+    "name": "S62",
+    "color": "#58AE40",
+    "backgroundColor": "#2C5720",
+    "textColor": "#FFFFFF",
+    "order": 24
+  }
+}
