@@ -1,4 +1,4 @@
-import { FeatureCollection, MultiLineString, LineString, Point } from 'geojson'
+import type { FeatureCollection, MultiLineString, LineString, Point } from 'geojson'
 import { MapboxOptions } from 'mapbox-gl'
 import { Metadata } from 'next'
 
