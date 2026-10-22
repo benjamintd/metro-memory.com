@@ -13,6 +13,7 @@ import helsinki from '@/app/(game)/helsinki/opengraph-image.jpg'
 import hongkong from '@/app/(game)/hongkong/opengraph-image.jpg'
 import istanbul from '@/app/(game)/istanbul/opengraph-image.jpg'
 import karlsruhe from '@/app/(game)/karlsruhe/opengraph-image.jpg'
+import koebenhavn from '@/app/(game)/koebenhavn/opengraph-image.jpg'
 import koeln from '@/app/(game)/koeln/opengraph-image.jpg'
 import kualalumpur from '@/app/(game)/kualalumpur/opengraph-image.jpg'
 import london from '@/app/(game)/london/opengraph-image.jpg'
@@ -105,6 +106,11 @@ export const cities: ICity[] = [
     name: 'Istanbul',
     image: istanbul,
     link: '/istanbul',
+  },
+  {
+    name: 'København',
+    image: koebenhavn,
+    link: '/koebenhavn',
   },
   {
     name: 'Tokyo',
