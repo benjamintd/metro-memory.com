@@ -1,0 +1,2551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.175082,
+          49.99547
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Römerquelle",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 0
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.178828,
+          49.98937
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Poststraße",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 0
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.246166,
+          49.982094
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "name": "Bahnstraße",
+        "alternate_names": [],
+        "line": "MainzTram52",
+        "order": 0
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.197850500000001,
+          49.95858375
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "name": "Hindemithstraße",
+        "alternate_names": [
+          "Hindemithstraße",
+          "Hindemithstr."
+        ],
+        "line": "MainzTram53",
+        "order": 0
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.228649,
+          49.98745499999999
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "name": "Hochschule Mainz",
+        "alternate_names": [
+          "Hochschule"
+        ],
+        "line": "MainzTram59",
+        "order": 0
+      },
+      "id": 116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.197850500000001,
+          49.95858375
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Hindemithstraße",
+        "alternate_names": [
+          "Hindemithstraße",
+          "Hindemithstr."
+        ],
+        "line": "MainzTram51",
+        "order": 34
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.202831,
+          49.9601725
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "ZDF",
+        "alternate_names": [
+          "Zweites Deutsches Fernsehen"
+        ],
+        "line": "MainzTram51",
+        "order": 33
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2109115,
+          49.95989
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "VRM",
+        "alternate_names": [
+          "Verlagsgruppe Rhein Main"
+        ],
+        "line": "MainzTram51",
+        "order": 32
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.222747,
+          49.961595
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Marienborn",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 31
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.275128,
+          49.956825
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Bürgerhaus",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 30
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.226906,
+          49.962759
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "Wiesenstraße",
+        "alternate_names": [
+          "Wiesenstraße",
+          "Wiesenstr."
+        ],
+        "line": "MainzTram51",
+        "order": 30
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.275128,
+          49.956825
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "name": "Bürgerhaus",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 30
+      },
+      "id": 115
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.269774,
+          49.95826
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Dornsheimer Weg",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 29
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.23014,
+          49.964357500000006
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Im Borner Grund",
+        "alternate_names": [
+          "Borner Grund"
+        ],
+        "line": "MainzTram51",
+        "order": 29
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.269774,
+          49.95826
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "name": "Dornsheimer Weg",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 29
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.268256,
+          49.9596
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "Mühldreieck",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 28
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.236141,
+          49.9699745
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "Wilhelm-Quetsch-Straße",
+        "alternate_names": [
+          "Wilhelm-Quetsch-Straße",
+          "Wilhelm-Quetsch-Str.",
+          "Wilh.-Quetsch-Str"
+        ],
+        "line": "MainzTram51",
+        "order": 28
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.268256,
+          49.9596
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "name": "Mühldreieck",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 28
+      },
+      "id": 113
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.269405,
+          49.963425
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Carl-Zeiss-Straße",
+        "alternate_names": [
+          "Carl-Zeiss-Straße",
+          "Carl-Zeiss-Str."
+        ],
+        "line": "MainzTram50",
+        "order": 27
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2383735,
+          49.9728915
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Südring",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 27
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.269405,
+          49.963425
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "name": "Carl-Zeiss-Straße",
+        "alternate_names": [
+          "Carl-Zeiss-Straße",
+          "Carl-Zeiss-Str."
+        ],
+        "line": "MainzTram53",
+        "order": 27
+      },
+      "id": 112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.270016,
+          49.967007
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Birkenstraße",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 26
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2393885,
+          49.9761365
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "Hans-Böckler-Straße",
+        "alternate_names": [
+          "Hans-Böckler-Straße",
+          "Hans-Böckler-Str.",
+          "H.-Böckler-S."
+        ],
+        "line": "MainzTram51",
+        "order": 26
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.270016,
+          49.967007
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "name": "Birkenstraße",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 26
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.271385,
+          49.97153666666667
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Jägerhaus",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 25
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.237452000000001,
+          49.9801825
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Ludwig-Nauth-Straße",
+        "alternate_names": [
+          "Ludwig-Nauth-Straße",
+          "Ludwig-Nauth-Str."
+        ],
+        "line": "MainzTram51",
+        "order": 25
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.271385,
+          49.97153666666667
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "name": "Jägerhaus",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 25
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.270061,
+          49.976776
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Kurmainz-Kaserne/Akademie der Wissenschaften",
+        "alternate_names": [
+          "Kurmainz-Kaserne",
+          "Kurmainzkaserne",
+          "Akademie der Wissenschaften",
+          "Akademie",
+          "Kurmainzk./Akad. d. W.",
+          "Kurmainz"
+        ],
+        "line": "MainzTram50",
+        "order": 24
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.234165,
+          49.984177
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Hildegard-von-Bingen-Straße",
+        "alternate_names": [
+          "Hildegard-von-Bingen-Straße",
+          "Hildegard-von-Bingen-Str.",
+          "H.-v.-Bingen Str."
+        ],
+        "line": "MainzTram51",
+        "order": 24
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.270061,
+          49.976776
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "name": "Kurmainz-Kaserne/Akademie der Wissenschaften",
+        "alternate_names": [
+          "Kurmainz-Kaserne",
+          "Kurmainzkaserne",
+          "Akademie der Wissenschaften",
+          "Akademie",
+          "Kurmainzk./Akad. d. W.",
+          "Kurmainz"
+        ],
+        "line": "MainzTram53",
+        "order": 24
+      },
+      "id": 109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26901,
+          49.981018
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Berliner Straße",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 23
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.228649,
+          49.98745499999999
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Hochschule Mainz",
+        "alternate_names": [
+          "Hochschule"
+        ],
+        "line": "MainzTram51",
+        "order": 23
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26901,
+          49.981018
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "name": "Berliner Straße",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 23
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266261,
+          49.986042
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Pariser Tor",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 22
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.223972,
+          49.98955166666667
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Jakob-Heinz-Straße/Arena",
+        "alternate_names": [
+          "Jakob-Heinz-Straße",
+          "Jakob-Heinz-Str.",
+          "Arena",
+          "Mewa Arena",
+          "MEWA Arena",
+          "J.-H.-Str./Arena",
+          "Jakob-Heinz"
+        ],
+        "line": "MainzTram51",
+        "order": 22
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266261,
+          49.986042
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "name": "Pariser Tor",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 22
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266225,
+          49.989628
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "An der Philippsschanze",
+        "alternate_names": [
+          "Philippsschanze"
+        ],
+        "line": "MainzTram50",
+        "order": 21
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.225576333333334,
+          49.99211333333333
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "Kisselberg",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 21
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266225,
+          49.989628
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "name": "An der Philippsschanze",
+        "alternate_names": [
+          "Philippsschanze"
+        ],
+        "line": "MainzTram53",
+        "order": 21
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266594,
+          49.993336
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Am Gautor",
+        "alternate_names": [
+          "Gautor"
+        ],
+        "line": "MainzTram50",
+        "order": 20
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.236254666666666,
+          49.994318
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "Friedrich-von-Pfeiffer-Weg",
+        "alternate_names": [
+          "Friedrich-von-Pfeiffer-Weg",
+          "Pfeiffer-Weg",
+          "Pfeifferweg",
+          "Fr.-v.-Pfeiffer-Weg",
+          "Pfeiffer"
+        ],
+        "line": "MainzTram51",
+        "order": 20
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266594,
+          49.993336
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "name": "Am Gautor",
+        "alternate_names": [
+          "Gautor"
+        ],
+        "line": "MainzTram53",
+        "order": 20
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266944,
+          49.998573
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Schillerplatz",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 19
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.245899666666666,
+          49.996295
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "Universität",
+        "alternate_names": [
+          "Uni",
+          "Universitaet"
+        ],
+        "line": "MainzTram51",
+        "order": 19
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266944,
+          49.998573
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "name": "Schillerplatz",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 19
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26336,
+          50.00037799999999
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Münsterplatz",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 18
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.258554,
+          49.999528
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Hauptbahnhof West/Taubertsbergbad",
+        "alternate_names": [
+          "Hbf West",
+          "Hauptbahnhof West",
+          "Taubertsbergbad",
+          "Taubertsberg",
+          "Hauptbahnhof West/Taubertsbergbad",
+          "Hbf West/Taubertsbergb.",
+          "Hbf West/Taubertsbergbad"
+        ],
+        "line": "MainzTram51",
+        "order": 18
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26336,
+          50.00037799999999
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "name": "Münsterplatz",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 18
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2599622,
+          50.0012996
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf",
+          "Mainz Hbf",
+          "Mainz Hauptbahnhof",
+          "Hauptbahnhof Mainz"
+        ],
+        "line": "MainzTram50",
+        "order": 17
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2599622,
+          50.0012996
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf",
+          "Mainz Hbf",
+          "Mainz Hauptbahnhof",
+          "Hauptbahnhof Mainz"
+        ],
+        "line": "MainzTram51",
+        "order": 17
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.279862,
+          49.963684
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "name": "Am Schinnergraben",
+        "alternate_names": [
+          "Schinnergraben"
+        ],
+        "line": "MainzTram52",
+        "order": 17
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2599622,
+          50.0012996
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf",
+          "Mainz Hbf",
+          "Mainz Hauptbahnhof",
+          "Hauptbahnhof Mainz"
+        ],
+        "line": "MainzTram53",
+        "order": 17
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.255302,
+          50.005959999999995
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Lessingstraße",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 16
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.255302,
+          50.005959999999995
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "Lessingstraße",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 16
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.275047,
+          49.9676
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "name": "Büdingerstraße",
+        "alternate_names": [],
+        "line": "MainzTram52",
+        "order": 16
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.258554,
+          49.999528
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "name": "Hauptbahnhof West/Taubertsbergbad",
+        "alternate_names": [
+          "Hbf West",
+          "Hauptbahnhof West",
+          "Taubertsbergbad",
+          "Taubertsberg",
+          "Hauptbahnhof West/Taubertsbergbad",
+          "Hbf West/Taubertsbergb.",
+          "Hbf West/Taubertsbergbad"
+        ],
+        "line": "MainzTram53",
+        "order": 16
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.251385,
+          50.009388
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Goethestraße",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 15
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.251385,
+          50.009388
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Goethestraße",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 15
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.271385,
+          49.97153666666667
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "Jägerhaus",
+        "alternate_names": [],
+        "line": "MainzTram52",
+        "order": 15
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.245899666666666,
+          49.996295
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "name": "Universität",
+        "alternate_names": [
+          "Uni",
+          "Universitaet"
+        ],
+        "line": "MainzTram53",
+        "order": 15
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.248798,
+          50.01223000000001
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Bismarckplatz",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 14
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.248798,
+          50.01223000000001
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "Bismarckplatz",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 14
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.270061,
+          49.976776
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Kurmainz-Kaserne/Akademie der Wissenschaften",
+        "alternate_names": [
+          "Kurmainz-Kaserne",
+          "Kurmainzkaserne",
+          "Akademie der Wissenschaften",
+          "Akademie",
+          "Kurmainzk./Akad. d. W.",
+          "Kurmainz"
+        ],
+        "line": "MainzTram52",
+        "order": 14
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.236254666666666,
+          49.994318
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "name": "Friedrich-von-Pfeiffer-Weg",
+        "alternate_names": [
+          "Friedrich-von-Pfeiffer-Weg",
+          "Pfeiffer-Weg",
+          "Pfeifferweg",
+          "Fr.-v.-Pfeiffer-Weg",
+          "Pfeiffer"
+        ],
+        "line": "MainzTram53",
+        "order": 14
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.243471,
+          50.01535
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Schott AG",
+        "alternate_names": [
+          "Schott"
+        ],
+        "line": "MainzTram50",
+        "order": 13
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.243471,
+          50.01535
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Schott AG",
+        "alternate_names": [
+          "Schott"
+        ],
+        "line": "MainzTram51",
+        "order": 13
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26901,
+          49.981018
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "name": "Berliner Straße",
+        "alternate_names": [],
+        "line": "MainzTram52",
+        "order": 13
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.225576333333334,
+          49.99211333333333
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "name": "Kisselberg",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 13
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.238934,
+          50.01626
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Zwerchallee",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 12
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.238934,
+          50.01626
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "Zwerchallee",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 12
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266261,
+          49.986042
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "Pariser Tor",
+        "alternate_names": [],
+        "line": "MainzTram52",
+        "order": 12
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.223972,
+          49.98955166666667
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "name": "Jakob-Heinz-Straße/Arena",
+        "alternate_names": [
+          "Jakob-Heinz-Straße",
+          "Jakob-Heinz-Str.",
+          "Arena",
+          "Mewa Arena",
+          "MEWA Arena",
+          "J.-H.-Str./Arena",
+          "Jakob-Heinz"
+        ],
+        "line": "MainzTram53",
+        "order": 12
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.234156,
+          50.01425
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Turmstraße",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 11
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.234156,
+          50.01425
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Turmstraße",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 11
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266225,
+          49.989628
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "name": "An der Philippsschanze",
+        "alternate_names": [
+          "Philippsschanze"
+        ],
+        "line": "MainzTram52",
+        "order": 11
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.228649,
+          49.98745499999999
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "name": "Hochschule Mainz",
+        "alternate_names": [
+          "Hochschule"
+        ],
+        "line": "MainzTram53",
+        "order": 11
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.253927,
+          50.018745
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "name": "Zollhafen/Inge-Reitz-Straße",
+        "alternate_names": [
+          "Zollhafen",
+          "Inge-Reitz-Straße",
+          "Inge-Reitz-Str."
+        ],
+        "line": "MainzTram59",
+        "order": 11
+      },
+      "id": 127
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.234578,
+          50.009647
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Gonsbachgärten",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 10
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.234578,
+          50.009647
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "Gonsbachgärten",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 10
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266594,
+          49.993336
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "name": "Am Gautor",
+        "alternate_names": [
+          "Gautor"
+        ],
+        "line": "MainzTram52",
+        "order": 10
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.234165,
+          49.984177
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "name": "Hildegard-von-Bingen-Straße",
+        "alternate_names": [
+          "Hildegard-von-Bingen-Straße",
+          "Hildegard-von-Bingen-Str.",
+          "H.-v.-Bingen Str."
+        ],
+        "line": "MainzTram53",
+        "order": 10
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.252517,
+          50.016148
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "name": "Straßenbahnamt",
+        "alternate_names": [],
+        "line": "MainzTram59",
+        "order": 10
+      },
+      "id": 126
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.230921,
+          50.005337
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "An der Bruchspitze",
+        "alternate_names": [
+          "Bruchspitze"
+        ],
+        "line": "MainzTram50",
+        "order": 9
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.230921,
+          50.005337
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "An der Bruchspitze",
+        "alternate_names": [
+          "Bruchspitze"
+        ],
+        "line": "MainzTram51",
+        "order": 9
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266944,
+          49.998573
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "name": "Schillerplatz",
+        "alternate_names": [],
+        "line": "MainzTram52",
+        "order": 9
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.237452000000001,
+          49.9801825
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "name": "Ludwig-Nauth-Straße",
+        "alternate_names": [
+          "Ludwig-Nauth-Straße",
+          "Ludwig-Nauth-Str."
+        ],
+        "line": "MainzTram53",
+        "order": 9
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.248798,
+          50.01223000000001
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "name": "Bismarckplatz",
+        "alternate_names": [],
+        "line": "MainzTram59",
+        "order": 9
+      },
+      "id": 125
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.226205,
+          50.005768
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Hugo-Eckener-Straße",
+        "alternate_names": [
+          "Hugo-Eckener-Straße",
+          "Hugo-Eckener-Str."
+        ],
+        "line": "MainzTram50",
+        "order": 8
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.226205,
+          50.005768
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "Hugo-Eckener-Straße",
+        "alternate_names": [
+          "Hugo-Eckener-Straße",
+          "Hugo-Eckener-Str."
+        ],
+        "line": "MainzTram51",
+        "order": 8
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26336,
+          50.00037799999999
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "name": "Münsterplatz",
+        "alternate_names": [],
+        "line": "MainzTram52",
+        "order": 8
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2393885,
+          49.9761365
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "name": "Hans-Böckler-Straße",
+        "alternate_names": [
+          "Hans-Böckler-Straße",
+          "Hans-Böckler-Str.",
+          "H.-Böckler-S."
+        ],
+        "line": "MainzTram53",
+        "order": 8
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.251385,
+          50.009388
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "name": "Goethestraße",
+        "alternate_names": [],
+        "line": "MainzTram59",
+        "order": 8
+      },
+      "id": 124
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.221319,
+          50.005505
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Elbestraße",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 7
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.221319,
+          50.005505
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "Elbestraße",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 7
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2599622,
+          50.0012996
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf",
+          "Mainz Hbf",
+          "Mainz Hauptbahnhof",
+          "Hauptbahnhof Mainz"
+        ],
+        "line": "MainzTram52",
+        "order": 7
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2383735,
+          49.9728915
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "name": "Südring",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 7
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.255302,
+          50.005959999999995
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "name": "Lessingstraße",
+        "alternate_names": [],
+        "line": "MainzTram59",
+        "order": 7
+      },
+      "id": 123
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.213377,
+          50.00361
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Josef-Ludwig-Platz",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 6
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.213377,
+          50.00361
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "Josef-Ludwig-Platz",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 6
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.258554,
+          49.999528
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "Hauptbahnhof West/Taubertsbergbad",
+        "alternate_names": [
+          "Hbf West",
+          "Hauptbahnhof West",
+          "Taubertsbergbad",
+          "Taubertsberg",
+          "Hauptbahnhof West/Taubertsbergbad",
+          "Hbf West/Taubertsbergb.",
+          "Hbf West/Taubertsbergbad"
+        ],
+        "line": "MainzTram52",
+        "order": 6
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.236141,
+          49.9699745
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "name": "Wilhelm-Quetsch-Straße",
+        "alternate_names": [
+          "Wilhelm-Quetsch-Straße",
+          "Wilhelm-Quetsch-Str.",
+          "Wilh.-Quetsch-Str"
+        ],
+        "line": "MainzTram53",
+        "order": 6
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2599622,
+          50.0012996
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf",
+          "Mainz Hbf",
+          "Mainz Hauptbahnhof",
+          "Hauptbahnhof Mainz"
+        ],
+        "line": "MainzTram59",
+        "order": 6
+      },
+      "id": 122
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.209901,
+          50.002674
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Nerotalstraße",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 5
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.209901,
+          50.002674
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "Nerotalstraße",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 5
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.255455,
+          49.99729
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "name": "Agentur für Arbeit",
+        "alternate_names": [
+          "Arbeitsagentur",
+          "Agentur",
+          "Arbeitsamt"
+        ],
+        "line": "MainzTram52",
+        "order": 5
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.23014,
+          49.964357500000006
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "name": "Im Borner Grund",
+        "alternate_names": [
+          "Borner Grund"
+        ],
+        "line": "MainzTram53",
+        "order": 5
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.258554,
+          49.999528
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "name": "Hauptbahnhof West/Taubertsbergbad",
+        "alternate_names": [
+          "Hbf West",
+          "Hauptbahnhof West",
+          "Taubertsbergbad",
+          "Taubertsberg",
+          "Hauptbahnhof West/Taubertsbergbad",
+          "Hbf West/Taubertsbergb.",
+          "Hbf West/Taubertsbergbad"
+        ],
+        "line": "MainzTram59",
+        "order": 5
+      },
+      "id": 121
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.204664,
+          50.00148
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Kapellenstraße/Gutenberg-Center",
+        "alternate_names": [
+          "Kapellenstraße",
+          "Gutenberg-Center",
+          "Gutenberg Center",
+          "Kapellenstr./G.Cen"
+        ],
+        "line": "MainzTram50",
+        "order": 4
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.204664,
+          50.00148
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "Kapellenstraße/Gutenberg-Center",
+        "alternate_names": [
+          "Kapellenstraße",
+          "Gutenberg-Center",
+          "Gutenberg Center",
+          "Kapellenstr./G.Cen"
+        ],
+        "line": "MainzTram51",
+        "order": 4
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.252418,
+          49.995243
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "Hauptfriedhof/Blindenzentrum",
+        "alternate_names": [
+          "Hauptfriedhof",
+          "Blindenzentrum",
+          "Hauptfriedhof/Blindenzentrum",
+          "Hauptfriedhof/Blindenz."
+        ],
+        "line": "MainzTram52",
+        "order": 4
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.226906,
+          49.962759
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "name": "Wiesenstraße",
+        "alternate_names": [
+          "Wiesenstraße",
+          "Wiesenstr."
+        ],
+        "line": "MainzTram53",
+        "order": 4
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.245899666666666,
+          49.996295
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "name": "Universität",
+        "alternate_names": [
+          "Uni",
+          "Universitaet"
+        ],
+        "line": "MainzTram59",
+        "order": 4
+      },
+      "id": 120
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.193695,
+          49.998302
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Viermorgenweg",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 3
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.193695,
+          49.998302
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "Viermorgenweg",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 3
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.251709,
+          49.992027
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "Römersteine",
+        "alternate_names": [],
+        "line": "MainzTram52",
+        "order": 3
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.222747,
+          49.961595
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "name": "Marienborn",
+        "alternate_names": [],
+        "line": "MainzTram53",
+        "order": 3
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.236254666666666,
+          49.994318
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "name": "Friedrich-von-Pfeiffer-Weg",
+        "alternate_names": [
+          "Friedrich-von-Pfeiffer-Weg",
+          "Pfeiffer-Weg",
+          "Pfeifferweg",
+          "Fr.-v.-Pfeiffer-Weg",
+          "Pfeiffer"
+        ],
+        "line": "MainzTram59",
+        "order": 3
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.188189,
+          49.99635
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Gemarkungsgrenze",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 2
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.188189,
+          49.99635
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "Gemarkungsgrenze",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 2
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.252463,
+          49.987064
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "Zahlbach",
+        "alternate_names": [],
+        "line": "MainzTram52",
+        "order": 2
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2109115,
+          49.95989
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "name": "VRM",
+        "alternate_names": [
+          "Verlagsgruppe Rhein Main"
+        ],
+        "line": "MainzTram53",
+        "order": 2
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.225576333333334,
+          49.99211333333333
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "name": "Kisselberg",
+        "alternate_names": [],
+        "line": "MainzTram59",
+        "order": 2
+      },
+      "id": 118
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.180302,
+          49.995937
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Jupiterweg",
+        "alternate_names": [],
+        "line": "MainzTram50",
+        "order": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.179295,
+          49.992634
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "Königsborn",
+        "alternate_names": [],
+        "line": "MainzTram51",
+        "order": 1
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.252481,
+          49.98437
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "Lindenmühle/Naturschaugarten",
+        "alternate_names": [
+          "Lindenmühle",
+          "Naturschaugarten",
+          "Lindenm.\\Natursch"
+        ],
+        "line": "MainzTram52",
+        "order": 1
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.202831,
+          49.9601725
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "name": "ZDF",
+        "alternate_names": [
+          "Zweites Deutsches Fernsehen"
+        ],
+        "line": "MainzTram53",
+        "order": 1
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.223972,
+          49.98955166666667
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "name": "Jakob-Heinz-Straße/Arena",
+        "alternate_names": [
+          "Jakob-Heinz-Straße",
+          "Jakob-Heinz-Str.",
+          "Arena",
+          "Mewa Arena",
+          "MEWA Arena",
+          "J.-H.-Str./Arena",
+          "Jakob-Heinz"
+        ],
+        "line": "MainzTram59",
+        "order": 1
+      },
+      "id": 117
+    }
+  ],
+  "properties": {
+    "totalStations": 127,
+    "stationsPerLine": {
+      "MainzTram50": 31,
+      "MainzTram51": 35,
+      "MainzTram52": 18,
+      "MainzTram53": 31,
+      "MainzTram59": 12
+    }
+  }
+}

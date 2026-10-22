@@ -1,0 +1,37 @@
+{
+  "MainzTram50": {
+    "name": "50",
+    "color": "#000000",
+    "backgroundColor": "#000000",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "MainzTram51": {
+    "name": "51",
+    "color": "#4A4A49",
+    "backgroundColor": "#252525",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "MainzTram52": {
+    "name": "52",
+    "color": "#DED600",
+    "backgroundColor": "#6F6B00",
+    "textColor": "#000000",
+    "order": 2
+  },
+  "MainzTram53": {
+    "name": "53",
+    "color": "#000000",
+    "backgroundColor": "#000000",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "MainzTram59": {
+    "name": "59",
+    "color": "#FFA500",
+    "backgroundColor": "#805200",
+    "textColor": "#000000",
+    "order": 4
+  }
+}
