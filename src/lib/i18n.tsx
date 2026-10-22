@@ -35,6 +35,40 @@ export const i18n = rosetta({
       name: 'Name',
     },
   },
+  da: {
+    restartWarning: 'Du kommer til at tabe alt dit fremskridt. Er du sikker?',
+    introInstruction: 'Indtast et stationnavn, så tryk på Enter',
+    backToTheGame: 'Tilbage til lejet',
+    stations: ({ count }: { count: number }) =>
+      `${count} station${count > 1 ? 'er' : ''}`,
+    stationsFound: 'stationer fundet',
+    inputPlaceholder: 'Station',
+    alreadyFound: 'Fundet allerede',
+    startOver: 'Start forfra',
+    showSolutions: 'Vis løsninger',
+    hideSolutions: 'Skjul løsninger',
+    supportProject: 'Støt projektet',
+    about: 'Om',
+    congrats: ({ foundProportion }: { foundProportion: number }) =>
+      `Godt gået! Du har nået ${
+        10 * Math.floor((foundProportion * 100) / 10)
+      }%!`,
+    freeGame: 'Dette lej er gratis.',
+    supportWithDonation: ({ title }: { title: string }) => (
+      <span>
+        Støt udviklingen af <strong>{title}</strong> ved at indgive en
+        donation.
+      </span>
+    ),
+    opensANewTab:
+      'Dette link åbner i et nyt tab og dit fremskridt bliver gemt i din browser.',
+    keepGoingForFree: 'Forsæt gratis',
+    sort: {
+      order: 'Dato tilføjet',
+      line: 'Linje',
+      name: 'Navn',
+    },
+  },
   fr: {
     restartWarning:
       'Vous allez perdre tout votre progression. Êtes-vous sûr de vouloir recommencer ?',
