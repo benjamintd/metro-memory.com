@@ -1,19 +1,50 @@
-import { FeatureCollection, MultiLineString, LineString, Point } from 'geojson'
+import { Feature, FeatureCollection, MultiLineString, LineString, Point } from 'geojson'
 import { MapboxOptions } from 'mapbox-gl'
 import { Metadata } from 'next'
+import type { ReadonlyDeep } from 'type-fest'
 
 export type SortOptionType = 'order' | 'name' | 'line'
 
-export type DataFeatureCollection = FeatureCollection<
+export type Station = Feature<
   LineString | MultiLineString | Point,
   {
+    /**
+     * station.properties.id must be the same as station.id
+     */
+    id: number
     name: string
-    id?: number | null
+    line: string
+    alternate_names?: string[]
+    /**
+     * @deprecated use {@link Station.alternate_names} instead
+     */
     long_name?: string
+    /**
+     * @deprecated use {@link Station.alternate_names} instead
+     */
     short_name?: string
-    line?: string
   }
->
+> & {
+  /**
+   * station.id must be the same as station.properties.id
+   */
+  id: number
+}
+
+/**
+ * @deprecated use {@link Station} instead
+ */
+export type DataFeature = Station
+
+export type StationCollection = {
+  type: 'FeatureCollection'
+  features: Station[]
+}
+
+/**
+ * @deprecated use {@link StationCollection} instead
+ */
+export type DataFeatureCollection = StationCollection
 
 export type RoutesFeatureCollection = FeatureCollection<
   LineString | MultiLineString,
@@ -22,7 +53,10 @@ export type RoutesFeatureCollection = FeatureCollection<
   }
 >
 
-export type DataFeature = DataFeatureCollection['features'][number]
+export type GameData = ReadonlyDeep<{
+  fc: StationCollection
+  routes?: RoutesFeatureCollection
+}>
 
 export interface SortOption {
   name: string
@@ -74,5 +108,11 @@ export interface Config {
   MAP_CONFIG: MapboxOptions
   METADATA: Metadata
   LINES: { [key: string]: Line }
+
+  /**
+   * When (found stations / total stations) reaches BEG_THRESHOLD,
+   * we prompt the player to make a donation to support the project.
+   * e.g. `0.2` means once they have found 20% of the answers in this city.
+   */
   BEG_THRESHOLD: number
 }
