@@ -7,6 +7,8 @@ import chicago from '@/app/(game)/chicago/opengraph-image.jpg'
 import dc from '@/app/(game)/dc/opengraph-image.jpg'
 import dresden from '@/app/(game)/dresden/opengraph-image.jpg'
 import hamburg from '@/app/(game)/hamburg/opengraph-image.jpg'
+import frankfurt from '@/app/(game)/frankfurt/opengraph-image.jpg'
+import rheinNeckar from '@/app/(game)/rhein-neckar/opengraph-image.jpg'
 
 import mainz from '@/app/(game)/mainz/opengraph-image.jpg'
 import helsinki from '@/app/(game)/helsinki/opengraph-image.jpg'
@@ -140,6 +142,16 @@ export const cities: ICity[] = [
     name: 'Hamburg',
     image: hamburg,
     link: '/hamburg',
+  },
+  {
+    name: 'Frankfurt',
+    image: frankfurt,
+    link: '/frankfurt',
+  },
+  {
+    name: 'Rhein-Neckar',
+    image: rheinNeckar,
+    link: '/rhein-neckar',
   },
 
   {
