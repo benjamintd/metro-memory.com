@@ -207,7 +207,7 @@ export const METADATA: Metadata = {
 
 export const MAP_CONFIG: MapboxOptions = {
   container: 'map',
-  style: 'mapbox://styles/mapbox/streets-v12',
+  style: 'mapbox://styles/benjamintd/cls4h02hy019201qygvumc0nb', // generic, without map labels
   bounds: [
     [9.05, 48.68],
     [9.32, 48.88],
