@@ -15,7 +15,15 @@ async function LinkPreview({ url }: { url: string }) {
       signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
     })
     const data = await response.text()
-    const doc = new jsdom.JSDOM(data)
+
+    const virtualConsole = new jsdom.VirtualConsole()
+    virtualConsole.on('jsdomError', (error) => {
+      console.warn(
+        `jsdom encountered an error while processing the response from ${url}: ${error.message}`,
+      )
+    })
+    const doc = new jsdom.JSDOM(data, { virtualConsole })
+
     title = doc.window.document.querySelector('title')?.textContent || ''
     description =
       doc.window.document
