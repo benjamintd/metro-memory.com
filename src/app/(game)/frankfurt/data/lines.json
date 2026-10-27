@@ -1,0 +1,198 @@
+{
+  "FrankfurtS1": {
+    "name": "S1",
+    "color": "#0095DA",
+    "backgroundColor": "#004A6D",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "FrankfurtS2": {
+    "name": "S2",
+    "color": "#EE1C23",
+    "backgroundColor": "#7C090D",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "FrankfurtS3": {
+    "name": "S3",
+    "color": "#00A896",
+    "backgroundColor": "#00544B",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "FrankfurtS4": {
+    "name": "S4",
+    "color": "#FECB09",
+    "backgroundColor": "#836801",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "FrankfurtS5": {
+    "name": "S5",
+    "color": "#8B5A2B",
+    "backgroundColor": "#452D16",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "FrankfurtS6": {
+    "name": "S6",
+    "color": "#F57921",
+    "backgroundColor": "#853B06",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "FrankfurtS7": {
+    "name": "S7",
+    "color": "#20543F",
+    "backgroundColor": "#102A1F",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "FrankfurtS8": {
+    "name": "S8",
+    "color": "#A8B400",
+    "backgroundColor": "#545A00",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "FrankfurtS9": {
+    "name": "S9",
+    "color": "#91268F",
+    "backgroundColor": "#491347",
+    "textColor": "#FFFFFF",
+    "order": 9
+  },
+  "FrankfurtU1": {
+    "name": "U1",
+    "color": "#B8282E",
+    "backgroundColor": "#5C1417",
+    "textColor": "#FFFFFF",
+    "order": 10
+  },
+  "FrankfurtU2": {
+    "name": "U2",
+    "color": "#00A54F",
+    "backgroundColor": "#005228",
+    "textColor": "#FFFFFF",
+    "order": 11
+  },
+  "FrankfurtU3": {
+    "name": "U3",
+    "color": "#4A5EAA",
+    "backgroundColor": "#252F55",
+    "textColor": "#FFFFFF",
+    "order": 12
+  },
+  "FrankfurtU4": {
+    "name": "U4",
+    "color": "#F172AC",
+    "backgroundColor": "#A11052",
+    "textColor": "#FFFFFF",
+    "order": 13
+  },
+  "FrankfurtU5": {
+    "name": "U5",
+    "color": "#007942",
+    "backgroundColor": "#003C21",
+    "textColor": "#FFFFFF",
+    "order": 14
+  },
+  "FrankfurtU6": {
+    "name": "U6",
+    "color": "#007EC6",
+    "backgroundColor": "#003F63",
+    "textColor": "#FFFFFF",
+    "order": 15
+  },
+  "FrankfurtU7": {
+    "name": "U7",
+    "color": "#E4A024",
+    "backgroundColor": "#76510E",
+    "textColor": "#FFFFFF",
+    "order": 16
+  },
+  "FrankfurtU8": {
+    "name": "U8",
+    "color": "#C77DB5",
+    "backgroundColor": "#713162",
+    "textColor": "#FFFFFF",
+    "order": 17
+  },
+  "FrankfurtU9": {
+    "name": "U9",
+    "color": "#C9B800",
+    "backgroundColor": "#655C00",
+    "textColor": "#FFFFFF",
+    "order": 18
+  },
+  "FrankfurtTram11": {
+    "name": "11",
+    "color": "#FDC300",
+    "backgroundColor": "#7F6200",
+    "textColor": "#FFFFFF",
+    "order": 19
+  },
+  "FrankfurtTram12": {
+    "name": "12",
+    "color": "#C54409",
+    "backgroundColor": "#632204",
+    "textColor": "#FFFFFF",
+    "order": 20
+  },
+  "FrankfurtTram14": {
+    "name": "14",
+    "color": "#E94E0F",
+    "backgroundColor": "#752708",
+    "textColor": "#FFFFFF",
+    "order": 21
+  },
+  "FrankfurtTram15": {
+    "name": "15",
+    "color": "#FDC300",
+    "backgroundColor": "#7F6200",
+    "textColor": "#FFFFFF",
+    "order": 22
+  },
+  "FrankfurtTram16": {
+    "name": "16",
+    "color": "#EF7D00",
+    "backgroundColor": "#773E00",
+    "textColor": "#FFFFFF",
+    "order": 23
+  },
+  "FrankfurtTram17": {
+    "name": "17",
+    "color": "#E94E0F",
+    "backgroundColor": "#752708",
+    "textColor": "#FFFFFF",
+    "order": 24
+  },
+  "FrankfurtTram18": {
+    "name": "18",
+    "color": "#F7A600",
+    "backgroundColor": "#7C5300",
+    "textColor": "#FFFFFF",
+    "order": 25
+  },
+  "FrankfurtTram19": {
+    "name": "19",
+    "color": "#D45A1E",
+    "backgroundColor": "#6A2D0F",
+    "textColor": "#FFFFFF",
+    "order": 26
+  },
+  "FrankfurtTram20": {
+    "name": "20",
+    "color": "#F7A600",
+    "backgroundColor": "#7C5300",
+    "textColor": "#FFFFFF",
+    "order": 27
+  },
+  "FrankfurtTram21": {
+    "name": "21",
+    "color": "#F7A600",
+    "backgroundColor": "#7C5300",
+    "textColor": "#FFFFFF",
+    "order": 28
+  }
+}

@@ -27,6 +27,26 @@ const replacers: { [key: string]: (str: string) => string } = {
       .replace(/hbf/g, 'hauptbahnhof')
       .replace(/ß/g, 'ss'),
 
+  frankfurt: (str) =>
+    str
+      .replace(/straße/g, 'str')
+      .replace(/strasse/g, 'str')
+      .replace(/ und /g, ' ')
+      .replace(/ & /g, ' ')
+      .replace(/\bhbf\b/g, 'hauptbahnhof')
+      .replace(/\bbf\b/g, 'bahnhof')
+      .replace(/ß/g, 'ss'),
+
+  'rhein-neckar': (str) =>
+    str
+      .replace(/straße/g, 'str')
+      .replace(/strasse/g, 'str')
+      .replace(/ und /g, ' ')
+      .replace(/ & /g, ' ')
+      .replace(/\bhbf\b/g, 'hauptbahnhof')
+      .replace(/\bbf\b/g, 'bahnhof')
+      .replace(/ß/g, 'ss'),
+
   muenchen: (str) =>
     str
       .replace(/straße/g, 'str')

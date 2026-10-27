@@ -1,0 +1,226 @@
+{
+  "RheinNeckarS1": {
+    "name": "S1",
+    "color": "#EC192E",
+    "backgroundColor": "#790A15",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "RheinNeckarS2": {
+    "name": "S2",
+    "color": "#2960B5",
+    "backgroundColor": "#14305B",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "RheinNeckarS3": {
+    "name": "S3",
+    "color": "#FCD804",
+    "backgroundColor": "#7E6C02",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "RheinNeckarS33": {
+    "name": "S33",
+    "color": "#803C9F",
+    "backgroundColor": "#401E50",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "RheinNeckarS4": {
+    "name": "S4",
+    "color": "#1A9D47",
+    "backgroundColor": "#0D4F24",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "RheinNeckarS44": {
+    "name": "S44",
+    "color": "#1A9D47",
+    "backgroundColor": "#0D4F24",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "RheinNeckarS5": {
+    "name": "S5",
+    "color": "#EC192E",
+    "backgroundColor": "#790A15",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "RheinNeckarS6": {
+    "name": "S6",
+    "color": "#27C9F5",
+    "backgroundColor": "#066C88",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "RheinNeckarS7": {
+    "name": "S7",
+    "color": "#F47A14",
+    "backgroundColor": "#7E3D06",
+    "textColor": "#FFFFFF",
+    "order": 9
+  },
+  "RheinNeckarS8": {
+    "name": "S8",
+    "color": "#F8A20D",
+    "backgroundColor": "#7F5204",
+    "textColor": "#FFFFFF",
+    "order": 10
+  },
+  "RheinNeckarS9": {
+    "name": "S9",
+    "color": "#73C82C",
+    "backgroundColor": "#3A6416",
+    "textColor": "#FFFFFF",
+    "order": 11
+  },
+  "RheinNeckarS10": {
+    "name": "S10",
+    "color": "#A46FA9",
+    "backgroundColor": "#553458",
+    "textColor": "#FFFFFF",
+    "order": 12
+  },
+  "RheinNeckarS12": {
+    "name": "S12",
+    "color": "#F4A9CA",
+    "backgroundColor": "#B7175E",
+    "textColor": "#FFFFFF",
+    "order": 13
+  },
+  "RheinNeckarTram1": {
+    "name": "1",
+    "color": "#F39B9A",
+    "backgroundColor": "#B11715",
+    "textColor": "#FFFFFF",
+    "order": 14
+  },
+  "RheinNeckarTram2": {
+    "name": "2",
+    "color": "#B00044",
+    "backgroundColor": "#580022",
+    "textColor": "#FFFFFF",
+    "order": 15
+  },
+  "RheinNeckarTram3": {
+    "name": "3",
+    "color": "#D5AD00",
+    "backgroundColor": "#6B5700",
+    "textColor": "#FFFFFF",
+    "order": 16
+  },
+  "RheinNeckarTram4": {
+    "name": "4",
+    "color": "#E3000B",
+    "backgroundColor": "#720005",
+    "textColor": "#FFFFFF",
+    "order": 17
+  },
+  "RheinNeckarTram4A": {
+    "name": "4A",
+    "color": "#E3000B",
+    "backgroundColor": "#720005",
+    "textColor": "#FFFFFF",
+    "order": 18
+  },
+  "RheinNeckarTram5": {
+    "name": "5",
+    "color": "#00AC6F",
+    "backgroundColor": "#005637",
+    "textColor": "#FFFFFF",
+    "order": 19
+  },
+  "RheinNeckarTram6": {
+    "name": "6",
+    "color": "#956B25",
+    "backgroundColor": "#4B3613",
+    "textColor": "#FFFFFF",
+    "order": 20
+  },
+  "RheinNeckarTram6A": {
+    "name": "6A",
+    "color": "#956B25",
+    "backgroundColor": "#4B3613",
+    "textColor": "#FFFFFF",
+    "order": 21
+  },
+  "RheinNeckarTram7": {
+    "name": "7",
+    "color": "#FFCC00",
+    "backgroundColor": "#806600",
+    "textColor": "#FFFFFF",
+    "order": 22
+  },
+  "RheinNeckarTram9X": {
+    "name": "9X",
+    "color": "#93C23B",
+    "backgroundColor": "#4A611D",
+    "textColor": "#FFFFFF",
+    "order": 23
+  },
+  "RheinNeckarTram10": {
+    "name": "10",
+    "color": "#A60F80",
+    "backgroundColor": "#530840",
+    "textColor": "#FFFFFF",
+    "order": 24
+  },
+  "RheinNeckarTram12": {
+    "name": "12",
+    "color": "#DB603C",
+    "backgroundColor": "#762B16",
+    "textColor": "#FFFFFF",
+    "order": 25
+  },
+  "RheinNeckarTram15": {
+    "name": "15",
+    "color": "#F7AB63",
+    "backgroundColor": "#A55408",
+    "textColor": "#FFFFFF",
+    "order": 26
+  },
+  "RheinNeckarTram16": {
+    "name": "16",
+    "color": "#5E6BAF",
+    "backgroundColor": "#2D345A",
+    "textColor": "#FFFFFF",
+    "order": 27
+  },
+  "RheinNeckarTram21": {
+    "name": "21",
+    "color": "#E3000B",
+    "backgroundColor": "#720005",
+    "textColor": "#FFFFFF",
+    "order": 28
+  },
+  "RheinNeckarTram22": {
+    "name": "22",
+    "color": "#FDC300",
+    "backgroundColor": "#7F6200",
+    "textColor": "#FFFFFF",
+    "order": 29
+  },
+  "RheinNeckarTram23": {
+    "name": "23",
+    "color": "#E48E00",
+    "backgroundColor": "#724700",
+    "textColor": "#FFFFFF",
+    "order": 30
+  },
+  "RheinNeckarTram24": {
+    "name": "24",
+    "color": "#8C1D75",
+    "backgroundColor": "#460F3A",
+    "textColor": "#FFFFFF",
+    "order": 31
+  },
+  "RheinNeckarTram26": {
+    "name": "26",
+    "color": "#F39B9A",
+    "backgroundColor": "#B11715",
+    "textColor": "#FFFFFF",
+    "order": 32
+  }
+}
