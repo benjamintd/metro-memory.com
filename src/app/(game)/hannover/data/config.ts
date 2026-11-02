@@ -77,7 +77,7 @@ export const linesMetadata: {
         osm: {
             relationIds: [2991602, 10999],
             extraStationNodeIds: [13326625422, 83224938],
-            extraRouteWayIds: [368308114, 625068961, 156569926],
+            extraRouteWayIds: [368308114, 625068961, 156569926, 156569928],
         },
         color: '#f9b000',
     },
