@@ -8,73 +8,75 @@ export const BEG_THRESHOLD = 0.2
 export const LINES: {
   [name: string]: Line
 } = {
-  "Hannover1": {
-    "name": "1",
-    "color": "#e4003a",
-    "backgroundColor": "#72001D",
-    "textColor": "#FFFFFF",
-    "order": 1
-  },
-  "Hannover2": {
-    "name": "2",
-    "color": "#e4003a",
-    "backgroundColor": "#72001D",
-    "textColor": "#FFFFFF",
-    "order": 2
-  },
   "Hannover3": {
     "name": "3",
     "color": "#0069b4",
     "backgroundColor": "#00355A",
     "textColor": "#FFFFFF",
-    "order": 3
-  },
-  "Hannover4": {
-    "name": "4",
-    "color": "#f9b000",
-    "backgroundColor": "#7D5800",
-    "textColor": "#FFFFFF",
-    "order": 4
-  },
-  "Hannover5": {
-    "name": "5",
-    "color": "#f9b000",
-    "backgroundColor": "#7D5800",
-    "textColor": "#FFFFFF",
-    "order": 5
-  },
-  "Hannover6": {
-    "name": "6",
-    "color": "#f9b000",
-    "backgroundColor": "#7D5800",
-    "textColor": "#FFFFFF",
-    "order": 6
+    "order": 1
   },
   "Hannover7": {
     "name": "7",
     "color": "#0069b4",
     "backgroundColor": "#00355A",
     "textColor": "#FFFFFF",
-    "order": 7
-  },
-  "Hannover8": {
-    "name": "8",
-    "color": "#e4003a",
-    "backgroundColor": "#72001D",
-    "textColor": "#FFFFFF",
-    "order": 8
+    "order": 2
   },
   "Hannover9": {
     "name": "9",
     "color": "#0069b4",
     "backgroundColor": "#00355A",
     "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "Hannover13": {
+    "name": "13",
+    "color": "#0069b4",
+    "backgroundColor": "#00355A",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+
+  "Hannover1": {
+    "name": "1",
+    "color": "#e4003a",
+    "backgroundColor": "#72001D",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "Hannover2": {
+    "name": "2",
+    "color": "#e4003a",
+    "backgroundColor": "#72001D",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "Hannover8": {
+    "name": "8",
+    "color": "#e4003a",
+    "backgroundColor": "#72001D",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+
+  "Hannover4": {
+    "name": "4",
+    "color": "#f9b000",
+    "backgroundColor": "#7D5800",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "Hannover5": {
+    "name": "5",
+    "color": "#f9b000",
+    "backgroundColor": "#7D5800",
+    "textColor": "#FFFFFF",
     "order": 9
   },
-  "Hannover10": {
-    "name": "10",
-    "color": "#76b82a",
-    "backgroundColor": "#3B5C15",
+  "Hannover6": {
+    "name": "6",
+    "color": "#f9b000",
+    "backgroundColor": "#7D5800",
     "textColor": "#FFFFFF",
     "order": 10
   },
@@ -85,17 +87,18 @@ export const LINES: {
     "textColor": "#FFFFFF",
     "order": 11
   },
-  "Hannover12": {
-    "name": "12",
+
+  "Hannover10": {
+    "name": "10",
     "color": "#76b82a",
     "backgroundColor": "#3B5C15",
     "textColor": "#FFFFFF",
     "order": 12
   },
-  "Hannover13": {
-    "name": "13",
-    "color": "#0069b4",
-    "backgroundColor": "#00355A",
+  "Hannover12": {
+    "name": "12",
+    "color": "#76b82a",
+    "backgroundColor": "#3B5C15",
     "textColor": "#FFFFFF",
     "order": 13
   },
