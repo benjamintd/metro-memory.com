@@ -31,8 +31,8 @@ export const linesMetadata: {
         name: '1',
         osm: {
             relationIds: [11001, 2995651, 4099218, 4099217],
-            extraStationNodeIds: [],
-            extraRouteWayIds: [],
+            extraStationNodeIds: [1171983199],
+            extraRouteWayIds: [618800114, 378559018, 101503243, 712342565],
         },
         color: '#e4003a',
     },
@@ -40,7 +40,7 @@ export const linesMetadata: {
         name: '2',
         osm: {
             relationIds: [11002, 2998554, 10626405, 10626404, 10626427],
-            extraStationNodeIds: [],
+            extraStationNodeIds: [3112937168, 599513554],
             extraRouteWayIds: [],
         },
         color: '#e4003a',
@@ -57,7 +57,7 @@ export const linesMetadata: {
     Hannover4: {
         name: '4',
         osm: {
-            relationIds: [2951395, 2951396, 8682917],
+            relationIds: [2951395, 2951396],
             extraStationNodeIds: [],
             extraRouteWayIds: [],
         },
@@ -66,7 +66,7 @@ export const linesMetadata: {
     Hannover5: {
         name: '5',
         osm: {
-            relationIds: [2991700, 2583341, 8682878],
+            relationIds: [2991700, 2583341],
             extraStationNodeIds: [],
             extraRouteWayIds: [],
         },
@@ -76,8 +76,8 @@ export const linesMetadata: {
         name: '6',
         osm: {
             relationIds: [2991602, 10999],
-            extraStationNodeIds: [],
-            extraRouteWayIds: [],
+            extraStationNodeIds: [13326625422, 83224938],
+            extraRouteWayIds: [368308114, 625068961, 156569926],
         },
         color: '#f9b000',
     },
@@ -103,7 +103,7 @@ export const linesMetadata: {
         name: '9',
         osm: {
             relationIds: [11009, 3038599],
-            extraStationNodeIds: [],
+            extraStationNodeIds: [13231540295, 13231540294],
             extraRouteWayIds: [],
         },
         color: '#0069b4',
@@ -112,8 +112,8 @@ export const linesMetadata: {
         name: '10',
         osm: {
             relationIds: [3004805, 11012],
-            extraStationNodeIds: [],
-            extraRouteWayIds: [],
+            extraStationNodeIds: [13348231096, 13348231095, 2488426316],
+            extraRouteWayIds: [111749855, 711051589],
         },
         color: '#76b82a',
     },
@@ -139,8 +139,8 @@ export const linesMetadata: {
         name: '13',
         osm: {
             relationIds: [16856342, 16856367],
-            extraStationNodeIds: [],
-            extraRouteWayIds: [],
+            extraStationNodeIds: [146792298],
+            extraRouteWayIds: [616579844, 156739163],
         },
         color: '#0069b4',
     },
@@ -163,5 +163,13 @@ export const linesMetadata: {
 // alternate names
 // ----------------------------------------
 export const alternateNames: { [stationName: string]: string[] | undefined } = {
-    //  'Karlsruhe Hauptbahnhof': ['Hauptbahnhof'],
+    'Schneiderberg / Wilhelm-Busch-Museum': ['Schneiderberg/W.-Busch-Museum', 'Schneiderberg'],
+    'Bünteweg/Tierärztliche Hochschule': ['Bünteweg'],
+    'Messe/Ost (EXPO-Plaza)': ['Messe/Ost'],
+    'Markthalle/Landtag (U)': ['Markthalle/Landtag', 'Markthalle'],
+    'Sedanstraße/Lister Meile': ['Sedanstraße', 'Sedanstr'],
+    'Buchholz/Betriebshof': ['Buchholz/Bhf'],
+    'Betriebshof Fuhsestraße': ['Fuhsestr/Bhf', 'Fuhsestr/Betriebshof', 'Fuhsestraße/Bhf', 'Fuhsestraße/Betriebshof'],
+    'Glocksee/Betriebshof': ['Glocksee/Bhf'],
+    'Döhren/Bhf': ['Döhren/Betriebshof'],
 }
