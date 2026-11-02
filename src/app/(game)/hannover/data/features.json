@@ -1,0 +1,6431 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8578346,
+          52.236131
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Sarstedt",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8566891,
+          52.2431944
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "Sarstedt/Röntgenstraße",
+        "alternate_names": [
+          "Sarstedt/Röntgenstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8568206,
+          52.2484138
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "Sarstedt/Am Boksberg",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.855806,
+          52.2579418
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "Heisede/Langer Kamp",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8503949,
+          52.2599316
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "Heisede/Marienburger Straße",
+        "alternate_names": [
+          "Heisede/Marienburger Str"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8408023,
+          52.2701323
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "Gleidingen/Am Leinkamp",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8393218,
+          52.273767
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "Gleidingen/Thorstraße",
+        "alternate_names": [
+          "Gleidingen/Thorstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8363041,
+          52.2775681
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "Gleidingen",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8290237,
+          52.2825015
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "Rethen/Galgenbergweg",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8210288,
+          52.2858333
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "Rethen/Bahnhof",
+        "alternate_names": [
+          "Rethen/Bf",
+          "Rethen/Bahnhof"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8174809,
+          52.290602
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "Rethen/Pattenser Straße",
+        "alternate_names": [
+          "Rethen/Pattenser Str"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8176976,
+          52.2968051
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Laatzen/Rethener Winkel",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8160765,
+          52.3028022
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Laatzen",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8095674,
+          52.3066125
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Laatzen/Zentrum",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8026913,
+          52.3110834
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "Laatzen/Park der Sinne",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7921485,
+          52.3146774
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Laatzen/Eichstraße",
+        "alternate_names": [
+          "Laatzen/Eichstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7869059,
+          52.3192052
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Laatzen/Birkenstraße",
+        "alternate_names": [
+          "Laatzen/Birkenstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.783074,
+          52.3237375
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Am Brabrinke",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7765924,
+          52.3286935
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Wiehbergstraße",
+        "alternate_names": [
+          "Wiehbergstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7729912,
+          52.3330914
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Bothmerstraße",
+        "alternate_names": [
+          "Bothmerstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7691479,
+          52.3375292
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Peiner Straße",
+        "alternate_names": [
+          "Peiner Str"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7659979,
+          52.3411364
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Fiedelerstraße",
+        "alternate_names": [
+          "Fiedelerstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7621614,
+          52.3452859
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Döhrener Turm",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7545146,
+          52.3548793
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Altenbekener Damm",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7505634,
+          52.3599944
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Geibelstraße",
+        "alternate_names": [
+          "Geibelstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7472825,
+          52.364282
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Schlägerstraße",
+        "alternate_names": [
+          "Schlägerstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7431916,
+          52.3688932
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Aegidientorplatz",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7394222,
+          52.3734085
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Kröpcke",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7432044,
+          52.3783382
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.734183,
+          52.3878531
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "Werderstraße",
+        "alternate_names": [
+          "Werderstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7347117,
+          52.3909968
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Vahrenwalder Platz",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7353184,
+          52.3940257
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Dragonerstraße",
+        "alternate_names": [
+          "Dragonerstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7360433,
+          52.3986264
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Niedersachsenring",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7354796,
+          52.4026195
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Büttnerstraße",
+        "alternate_names": [
+          "Büttnerstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7349098,
+          52.4077682
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Windausstraße",
+        "alternate_names": [
+          "Windausstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7343168,
+          52.4118411
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Kabelkamp",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7337399,
+          52.4164974
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Alter Flughafen",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7327846,
+          52.4230345
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Wiesenau",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7316951,
+          52.4302977
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Berliner Platz",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7314437,
+          52.4337424
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Langenhagen/Angerstraße",
+        "alternate_names": [
+          "Langenhagen/Angerstr"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7339417,
+          52.4380857
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Langenhagen/Langenforther Platz",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7410733,
+          52.4379344
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Langenhagen/Zentrum",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7469367,
+          52.4374568
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Langenhagen/Kurt-Schumacher-Allee",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7539147,
+          52.4368905
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Langenhagen",
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7712076,
+          52.3378294
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Döhren/Bhf",
+        "alternate_names": [
+          "Döhren/Betriebshof"
+        ],
+        "line": "Hannover1",
+        "order": 1
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7807762,
+          52.4154599
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "Alte Heide",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7726454,
+          52.4170479
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Bahnstrift",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.764848,
+          52.4184978
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "Tempelhofweg",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.759741,
+          52.4194663
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "Zehlendorfweg",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7520291,
+          52.4149165
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Papenwinkel",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7495629,
+          52.4120706
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "Vahrenheider Markt",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7432475,
+          52.4111048
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "Reiterstadion",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7384574,
+          52.406272
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "Großer Kolonnenweg",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7354796,
+          52.4026195
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Büttnerstraße",
+        "alternate_names": [
+          "Büttnerstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7360433,
+          52.3986264
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Niedersachsenring",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7353184,
+          52.3940257
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Dragonerstraße",
+        "alternate_names": [
+          "Dragonerstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7347117,
+          52.3909968
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Vahrenwalder Platz",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.734183,
+          52.3878531
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "Werderstraße",
+        "alternate_names": [
+          "Werderstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7432044,
+          52.3783382
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7394222,
+          52.3734085
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "Kröpcke",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7431916,
+          52.3688932
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Aegidientorplatz",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7472825,
+          52.364282
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "Schlägerstraße",
+        "alternate_names": [
+          "Schlägerstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7505634,
+          52.3599944
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Geibelstraße",
+        "alternate_names": [
+          "Geibelstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7545146,
+          52.3548793
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "Altenbekener Damm",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7621614,
+          52.3452859
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "Döhrener Turm",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7659979,
+          52.3411364
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Fiedelerstraße",
+        "alternate_names": [
+          "Fiedelerstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7691479,
+          52.3375292
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "name": "Peiner Straße",
+        "alternate_names": [
+          "Peiner Str"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7729912,
+          52.3330914
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "Bothmerstraße",
+        "alternate_names": [
+          "Bothmerstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7765924,
+          52.3286935
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "Wiehbergstraße",
+        "alternate_names": [
+          "Wiehbergstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.783074,
+          52.3237375
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "Am Brabrinke",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7869059,
+          52.3192052
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "Laatzen/Birkenstraße",
+        "alternate_names": [
+          "Laatzen/Birkenstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7921485,
+          52.3146774
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "name": "Laatzen/Eichstraße",
+        "alternate_names": [
+          "Laatzen/Eichstr"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7965219,
+          52.3110686
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "Laatzen/aquaLaatzium",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7997819,
+          52.3069185
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "name": "Laatzen/Krankenhaus",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8040404,
+          52.3026538
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "name": "Laatzen/Neuer Schlag",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8080782,
+          52.2997217
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "name": "Laatzen/Ginsterweg",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8174809,
+          52.290602
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "name": "Rethen/Pattenser Straße",
+        "alternate_names": [
+          "Rethen/Pattenser Str"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8210288,
+          52.2858333
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "name": "Rethen/Bahnhof",
+        "alternate_names": [
+          "Rethen/Bf",
+          "Rethen/Bahnhof"
+        ],
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8290237,
+          52.2825015
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "Rethen/Galgenbergweg",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8363639,
+          52.2775894
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "name": "Gleidingen",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8133369,
+          52.2944937
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Rethen/Steinfeld",
+        "line": "Hannover2",
+        "order": 7
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8474438,
+          52.4377775
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "Altwarmbüchen",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8462963,
+          52.4310943
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "name": "Altwarmbüchen / Zentrum",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8463347,
+          52.4264255
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "name": "Altwarmbüchen/Ernst-Grote-Straße",
+        "alternate_names": [
+          "Altwarmbüchen/Ernst-Grote-Str"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.84037,
+          52.4229097
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "name": "Altwarmbüchen/Opelstraße",
+        "alternate_names": [
+          "Altwarmbüchen/Opelstr"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8298253,
+          52.4170471
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "name": "Oldenburger Allee",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8244606,
+          52.4139685
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "name": "Stadtfriedhof Lahe",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8167402,
+          52.4091725
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "name": "Paracelsusweg",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8083627,
+          52.4088407
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "name": "In den Sieben Stücken",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7994387,
+          52.4059101
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "name": "Noltemeyerbrücke",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7909397,
+          52.4028066
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "name": "Klingerstraße",
+        "alternate_names": [
+          "Klingerstr"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7819852,
+          52.4003189
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "name": "Spannhagengarten",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7723344,
+          52.3977174
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "name": "Pelikanstraße",
+        "alternate_names": [
+          "Pelikanstr"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7638029,
+          52.3954323
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "name": "Vier Grenzen",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7580877,
+          52.392787
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "name": "Lortzingstraße",
+        "alternate_names": [
+          "Lortzingstr"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.751176,
+          52.3890927
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "name": "Lister Platz",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7463465,
+          52.3838817
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "name": "Sedanstraße/Lister Meile",
+        "alternate_names": [
+          "Sedanstraße",
+          "Sedanstr",
+          "Sedanstr/Lister Meile"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7429529,
+          52.3783875
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7383552,
+          52.3738655
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "name": "Kröpcke",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7363007,
+          52.3708392
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "name": "Markthalle/Landtag (U)",
+        "alternate_names": [
+          "Markthalle/Landtag",
+          "Markthalle"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7297915,
+          52.3679747
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "name": "Waterloo",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7219202,
+          52.3621502
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "name": "Allerweg",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7228379,
+          52.3576656
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "name": "Stadionbrücke",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7222092,
+          52.3522811
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "name": "Bahnhof Linden/Fischerhof",
+        "alternate_names": [
+          "Bf Linden/Fischerhof",
+          "Bahnhof Linden/Fischerhof"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.723832,
+          52.3473936
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "name": "Schünemannplatz",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7251785,
+          52.3435493
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "name": "Beekestraße",
+        "alternate_names": [
+          "Beekestr"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7183932,
+          52.3419922
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "name": "Wallensteinstraße",
+        "alternate_names": [
+          "Wallensteinstr"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7100686,
+          52.3420271
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "name": "Bartold-Knaust-Straße",
+        "alternate_names": [
+          "Bartold-Knaust-Str"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7020529,
+          52.3413809
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "name": "Am Sauerwinkel",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6929822,
+          52.340865
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "name": "Mühlenberger Markt",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6905377,
+          52.3364345
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "name": "Tresckowstraße",
+        "alternate_names": [
+          "Tresckowstr"
+        ],
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6908512,
+          52.3331052
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "name": "Wettbergen",
+        "line": "Hannover3",
+        "order": 8
+      },
+      "id": 112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5966127,
+          52.4175217
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "name": "Garbsen",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 113
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6032823,
+          52.4166812
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "name": "Auf der Horst/Marshof",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6092731,
+          52.4160944
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "name": "Auf der Horst/Skorpiongasse",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 115
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6151211,
+          52.4180137
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "name": "Schönebecker Allee",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6249218,
+          52.4140032
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "name": "Pascalstraße",
+        "alternate_names": [
+          "Pascalstr"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 117
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6337227,
+          52.4161738
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "name": "Wissenschaftspark Marienwerder",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 118
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6428657,
+          52.4156784
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "name": "Jädekamp",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6480925,
+          52.4132425
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "name": "Auf der Klappenburg",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 120
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6525394,
+          52.4099117
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "name": "Lauckerthof",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 121
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6603735,
+          52.4050192
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "name": "Freudenthalstraße",
+        "alternate_names": [
+          "Freudenthalstr"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 122
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6690007,
+          52.400302
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "name": "Stadtfriedhof Stöcken",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 123
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6747215,
+          52.3973254
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "name": "Bahnhof Leinhausen",
+        "alternate_names": [
+          "Bf Leinhausen",
+          "Bahnhof Leinhausen"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 124
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6839185,
+          52.3935602
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "name": "Herrenhäuser Markt",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 125
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6941421,
+          52.392185
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "name": "Schaumburgstraße",
+        "alternate_names": [
+          "Schaumburgstr"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 126
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7000305,
+          52.3914545
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "name": "Herrenhäuser Gärten",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 127
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7061337,
+          52.3902073
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "name": "Appelstraße",
+        "alternate_names": [
+          "Appelstr"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 128
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7121937,
+          52.3851451
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "name": "Schneiderberg / Wilhelm-Busch-Museum",
+        "alternate_names": [
+          "Schneiderberg/W.-Busch-Museum",
+          "Schneiderberg"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 129
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7178122,
+          52.381282
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "name": "Leibniz Universität",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 130
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7228092,
+          52.378196
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "name": "Königsworther Platz",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 131
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73266,
+          52.3757559
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "name": "Steintor",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 132
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.739417,
+          52.373407
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "name": "Kröpcke",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 133
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7434121,
+          52.3689549
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "name": "Aegidientorplatz",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 134
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.753192,
+          52.3699118
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "name": "Marienstraße",
+        "alternate_names": [
+          "Marienstr"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 135
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7620531,
+          52.3704342
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "name": "Braunschweiger Platz",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 136
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7734468,
+          52.3710713
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "name": "Clausewitzstraße",
+        "alternate_names": [
+          "Clausewitzstr"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 137
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7869056,
+          52.3721416
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "name": "Kantplatz",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 138
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7939023,
+          52.3714434
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "name": "Uhlhornstraße",
+        "alternate_names": [
+          "Uhlhornstr"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 139
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8033179,
+          52.3705467
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "name": "Nackenberg",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 140
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.807928,
+          52.3751035
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "name": "Bahnhof Karl-Wiechert-Allee",
+        "alternate_names": [
+          "Bf Karl-Wiechert-Allee",
+          "Bahnhof Karl-Wiechert-Allee"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 141
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.808499,
+          52.3790944
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "name": "Misburger Straße",
+        "alternate_names": [
+          "Misburger Str"
+        ],
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 142
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8085467,
+          52.3841278
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "name": "Medizinische Hochschule",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 143
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8133979,
+          52.388677
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "name": "Roderbruchmarkt",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 144
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8190928,
+          52.3901397
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "name": "Roderbruch",
+        "line": "Hannover4",
+        "order": 9
+      },
+      "id": 145
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.858742,
+          52.3583531
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "name": "Anderten",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 174
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8515222,
+          52.3594027
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "name": "Königsberger Ring",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 173
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8443457,
+          52.3604864
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "name": "Ostfeldstraße",
+        "alternate_names": [
+          "Ostfeldstr"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 172
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8345367,
+          52.3612419
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "name": "Tiergarten",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 171
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8273013,
+          52.3616295
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "name": "Großer Hillen",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 170
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8192285,
+          52.3625715
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "name": "Saarbrückener Straße",
+        "alternate_names": [
+          "Saarbrückener Str"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 169
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8131973,
+          52.3656013
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "name": "Bleekstraße",
+        "alternate_names": [
+          "Bleekstr"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 168
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8079693,
+          52.3694893
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "name": "Annastift",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 167
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8033179,
+          52.3705467
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "name": "Nackenberg",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 166
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7939023,
+          52.3714434
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "name": "Uhlhornstraße",
+        "alternate_names": [
+          "Uhlhornstr"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 165
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7869056,
+          52.3721416
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "name": "Kantplatz",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 164
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7734468,
+          52.3710713
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "name": "Clausewitzstraße",
+        "alternate_names": [
+          "Clausewitzstr"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 163
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7620531,
+          52.3704342
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "name": "Braunschweiger Platz",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 162
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.753192,
+          52.3699118
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "name": "Marienstraße",
+        "alternate_names": [
+          "Marienstr"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 161
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7434121,
+          52.3689549
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "name": "Aegidientorplatz",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 160
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.739417,
+          52.373407
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "name": "Kröpcke",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 159
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73266,
+          52.3757559
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "name": "Steintor",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 158
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7228092,
+          52.378196
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "name": "Königsworther Platz",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 157
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7178122,
+          52.381282
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "name": "Leibniz Universität",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 156
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7121937,
+          52.3851451
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "name": "Schneiderberg / Wilhelm-Busch-Museum",
+        "alternate_names": [
+          "Schneiderberg/W.-Busch-Museum",
+          "Schneiderberg"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 155
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7061337,
+          52.3902073
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "name": "Appelstraße",
+        "alternate_names": [
+          "Appelstr"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 154
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7000305,
+          52.3914545
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "name": "Herrenhäuser Gärten",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 153
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6941421,
+          52.392185
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "name": "Schaumburgstraße",
+        "alternate_names": [
+          "Schaumburgstr"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 152
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6839185,
+          52.3935602
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "name": "Herrenhäuser Markt",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 151
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6747215,
+          52.3973254
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "name": "Bahnhof Leinhausen",
+        "alternate_names": [
+          "Bf Leinhausen",
+          "Bahnhof Leinhausen"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 150
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6690007,
+          52.400302
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "name": "Stadtfriedhof Stöcken",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 149
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6603735,
+          52.4050192
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "name": "Freudenthalstraße",
+        "alternate_names": [
+          "Freudenthalstr"
+        ],
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 148
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6629199,
+          52.4094949
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "name": "Stöckener Markt",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 147
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6673668,
+          52.4139828
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "name": "Stöcken",
+        "line": "Hannover5",
+        "order": 10
+      },
+      "id": 146
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8220348,
+          52.3219706
+        ]
+      },
+      "properties": {
+        "id": 204,
+        "name": "Messe/Ost (EXPO-Plaza)",
+        "alternate_names": [
+          "Messe/Ost"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 204
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8247477,
+          52.3269059
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "name": "Stockholmer Allee",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 203
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8300036,
+          52.3342369
+        ]
+      },
+      "properties": {
+        "id": 202,
+        "name": "Krügerskamp",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 202
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.833461,
+          52.3386905
+        ]
+      },
+      "properties": {
+        "id": 201,
+        "name": "Kronsberg",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 201
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8362563,
+          52.342155
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "name": "Feldbuschwende",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 200
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.827915,
+          52.3445398
+        ]
+      },
+      "properties": {
+        "id": 199,
+        "name": "Brabeckstraße",
+        "alternate_names": [
+          "Brabeckstr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 199
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8201768,
+          52.3455935
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "name": "Emslandstraße",
+        "alternate_names": [
+          "Emslandstr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 198
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8125306,
+          52.3475683
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "name": "Seelhorster Allee",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 197
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.804764,
+          52.3505671
+        ]
+      },
+      "properties": {
+        "id": 196,
+        "name": "August-Madsack-Straße",
+        "alternate_names": [
+          "August-Madsack-Str"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 196
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7967527,
+          52.3540946
+        ]
+      },
+      "properties": {
+        "id": 195,
+        "name": "Bünteweg/Tierärztliche Hochschule",
+        "alternate_names": [
+          "Bünteweg"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 195
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7925492,
+          52.3567939
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "name": "Zuschlagstraße",
+        "alternate_names": [
+          "Zuschlagstr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 194
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7774876,
+          52.3626206
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "name": "Kinderkrankenhaus auf der Bult",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 193
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7730571,
+          52.3644713
+        ]
+      },
+      "properties": {
+        "id": 192,
+        "name": "Kerstingstraße",
+        "alternate_names": [
+          "Kerstingstr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 192
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7717911,
+          52.3694348
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "name": "Freundallee",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 191
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7620531,
+          52.3704342
+        ]
+      },
+      "properties": {
+        "id": 190,
+        "name": "Braunschweiger Platz",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 190
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.753192,
+          52.3699118
+        ]
+      },
+      "properties": {
+        "id": 189,
+        "name": "Marienstraße",
+        "alternate_names": [
+          "Marienstr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 189
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7434121,
+          52.3689549
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "name": "Aegidientorplatz",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 188
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.739417,
+          52.373407
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "name": "Kröpcke",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 187
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73266,
+          52.3757559
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "name": "Steintor",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 186
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7257573,
+          52.3818377
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "name": "Christuskirche",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 185
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7237498,
+          52.3865694
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "name": "Kopernikusstraße",
+        "alternate_names": [
+          "Kopernikusstr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 184
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7207628,
+          52.3908544
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "name": "An der Strangriede",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 183
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7183668,
+          52.393981
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "name": "Bahnhof Nordstadt",
+        "alternate_names": [
+          "Bf Nordstadt",
+          "Bahnhof Nordstadt"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 182
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7170341,
+          52.3965625
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "name": "Fenskestraße",
+        "alternate_names": [
+          "Fenskestr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 181
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7127077,
+          52.4014239
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "name": "Hainhölzer Markt",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 180
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7096935,
+          52.4076354
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "name": "Krepenstraße",
+        "alternate_names": [
+          "Krepenstr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 179
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7061384,
+          52.4117546
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "name": "Friedenauer Straße",
+        "alternate_names": [
+          "Friedenauer Str"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 178
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7023809,
+          52.4144795
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "name": "Beneckeallee",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 177
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6941293,
+          52.4197386
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "name": "Mecklenheidestraße",
+        "alternate_names": [
+          "Mecklenheidestr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 176
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6900032,
+          52.4223763
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "name": "Nordhafen",
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 175
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6704654,
+          52.4006863
+        ]
+      },
+      "properties": {
+        "id": 205,
+        "name": "Fuhsestraße",
+        "alternate_names": [
+          "Fuhsestr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 205
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6728079,
+          52.4035269
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "name": "Betriebshof Fuhsestraße",
+        "alternate_names": [
+          "Fuhsestr/Bhf",
+          "Fuhsestr/Betriebshof",
+          "Fuhsestraße/Bhf",
+          "Fuhsestraße/Betriebshof",
+          "Betriebshof Fuhsestr"
+        ],
+        "line": "Hannover6",
+        "order": 11
+      },
+      "id": 206
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8531844,
+          52.391553
+        ]
+      },
+      "properties": {
+        "id": 207,
+        "name": "Misburg",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 207
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8487544,
+          52.3927482
+        ]
+      },
+      "properties": {
+        "id": 208,
+        "name": "Am Forstkamp",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 208
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8424649,
+          52.3949728
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "name": "Kafkastraße",
+        "alternate_names": [
+          "Kafkastr"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 209
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8305274,
+          52.3995295
+        ]
+      },
+      "properties": {
+        "id": 210,
+        "name": "Schierholzstraße",
+        "alternate_names": [
+          "Schierholzstr"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 210
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8251689,
+          52.403853
+        ]
+      },
+      "properties": {
+        "id": 211,
+        "name": "Pappelwiese",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 211
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8167402,
+          52.4091725
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "name": "Paracelsusweg",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 212
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8083627,
+          52.4088407
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "name": "In den Sieben Stücken",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 213
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7994387,
+          52.4059101
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "name": "Noltemeyerbrücke",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 214
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7909397,
+          52.4028066
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "name": "Klingerstraße",
+        "alternate_names": [
+          "Klingerstr"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 215
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7819852,
+          52.4003189
+        ]
+      },
+      "properties": {
+        "id": 216,
+        "name": "Spannhagengarten",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 216
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7723344,
+          52.3977174
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "name": "Pelikanstraße",
+        "alternate_names": [
+          "Pelikanstr"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 217
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7638029,
+          52.3954323
+        ]
+      },
+      "properties": {
+        "id": 218,
+        "name": "Vier Grenzen",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 218
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7580877,
+          52.392787
+        ]
+      },
+      "properties": {
+        "id": 219,
+        "name": "Lortzingstraße",
+        "alternate_names": [
+          "Lortzingstr"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 219
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.751176,
+          52.3890927
+        ]
+      },
+      "properties": {
+        "id": 220,
+        "name": "Lister Platz",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 220
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7463465,
+          52.3838817
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "name": "Sedanstraße/Lister Meile",
+        "alternate_names": [
+          "Sedanstraße",
+          "Sedanstr",
+          "Sedanstr/Lister Meile"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 221
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7429529,
+          52.3783875
+        ]
+      },
+      "properties": {
+        "id": 222,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 222
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7383552,
+          52.3738655
+        ]
+      },
+      "properties": {
+        "id": 223,
+        "name": "Kröpcke",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 223
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7363007,
+          52.3708392
+        ]
+      },
+      "properties": {
+        "id": 224,
+        "name": "Markthalle/Landtag (U)",
+        "alternate_names": [
+          "Markthalle/Landtag",
+          "Markthalle"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 224
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7297915,
+          52.3679747
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "name": "Waterloo",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 225
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7219202,
+          52.3621502
+        ]
+      },
+      "properties": {
+        "id": 226,
+        "name": "Allerweg",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 226
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7228379,
+          52.3576656
+        ]
+      },
+      "properties": {
+        "id": 227,
+        "name": "Stadionbrücke",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 227
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7222092,
+          52.3522811
+        ]
+      },
+      "properties": {
+        "id": 228,
+        "name": "Bahnhof Linden/Fischerhof",
+        "alternate_names": [
+          "Bf Linden/Fischerhof",
+          "Bahnhof Linden/Fischerhof"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 228
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.723832,
+          52.3473936
+        ]
+      },
+      "properties": {
+        "id": 229,
+        "name": "Schünemannplatz",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 229
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7251785,
+          52.3435493
+        ]
+      },
+      "properties": {
+        "id": 230,
+        "name": "Beekestraße",
+        "alternate_names": [
+          "Beekestr"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 230
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7183932,
+          52.3419922
+        ]
+      },
+      "properties": {
+        "id": 231,
+        "name": "Wallensteinstraße",
+        "alternate_names": [
+          "Wallensteinstr"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 231
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7100686,
+          52.3420271
+        ]
+      },
+      "properties": {
+        "id": 232,
+        "name": "Bartold-Knaust-Straße",
+        "alternate_names": [
+          "Bartold-Knaust-Str"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 232
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7020529,
+          52.3413809
+        ]
+      },
+      "properties": {
+        "id": 233,
+        "name": "Am Sauerwinkel",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 233
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6929822,
+          52.340865
+        ]
+      },
+      "properties": {
+        "id": 234,
+        "name": "Mühlenberger Markt",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 234
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6905377,
+          52.3364345
+        ]
+      },
+      "properties": {
+        "id": 235,
+        "name": "Tresckowstraße",
+        "alternate_names": [
+          "Tresckowstr"
+        ],
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 235
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6908512,
+          52.3331052
+        ]
+      },
+      "properties": {
+        "id": 236,
+        "name": "Wettbergen",
+        "line": "Hannover7",
+        "order": 12
+      },
+      "id": 236
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8045,
+          52.3277889
+        ]
+      },
+      "properties": {
+        "id": 252,
+        "name": "Messe / Nord",
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 252
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7974316,
+          52.3348432
+        ]
+      },
+      "properties": {
+        "id": 251,
+        "name": "Am Mittelfelde",
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 251
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7915203,
+          52.3351543
+        ]
+      },
+      "properties": {
+        "id": 250,
+        "name": "Stadtfriedhof Seelhorst",
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 250
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7729912,
+          52.3330914
+        ]
+      },
+      "properties": {
+        "id": 249,
+        "name": "Bothmerstraße",
+        "alternate_names": [
+          "Bothmerstr"
+        ],
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 249
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7691479,
+          52.3375292
+        ]
+      },
+      "properties": {
+        "id": 248,
+        "name": "Peiner Straße",
+        "alternate_names": [
+          "Peiner Str"
+        ],
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 248
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7659979,
+          52.3411364
+        ]
+      },
+      "properties": {
+        "id": 247,
+        "name": "Fiedelerstraße",
+        "alternate_names": [
+          "Fiedelerstr"
+        ],
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 247
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7621614,
+          52.3452859
+        ]
+      },
+      "properties": {
+        "id": 246,
+        "name": "Döhrener Turm",
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 246
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7545146,
+          52.3548793
+        ]
+      },
+      "properties": {
+        "id": 245,
+        "name": "Altenbekener Damm",
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 245
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7505634,
+          52.3599944
+        ]
+      },
+      "properties": {
+        "id": 244,
+        "name": "Geibelstraße",
+        "alternate_names": [
+          "Geibelstr"
+        ],
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 244
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7472825,
+          52.364282
+        ]
+      },
+      "properties": {
+        "id": 243,
+        "name": "Schlägerstraße",
+        "alternate_names": [
+          "Schlägerstr"
+        ],
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 243
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7431916,
+          52.3688932
+        ]
+      },
+      "properties": {
+        "id": 242,
+        "name": "Aegidientorplatz",
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 242
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7394222,
+          52.3734085
+        ]
+      },
+      "properties": {
+        "id": 241,
+        "name": "Kröpcke",
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 241
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7432044,
+          52.3783382
+        ]
+      },
+      "properties": {
+        "id": 240,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf"
+        ],
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 240
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.734183,
+          52.3878531
+        ]
+      },
+      "properties": {
+        "id": 239,
+        "name": "Werderstraße",
+        "alternate_names": [
+          "Werderstr"
+        ],
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 239
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7347117,
+          52.3909968
+        ]
+      },
+      "properties": {
+        "id": 238,
+        "name": "Vahrenwalder Platz",
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 238
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7353184,
+          52.3940257
+        ]
+      },
+      "properties": {
+        "id": 237,
+        "name": "Dragonerstraße",
+        "alternate_names": [
+          "Dragonerstr"
+        ],
+        "line": "Hannover8",
+        "order": 13
+      },
+      "id": 237
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.667168,
+          52.3439242
+        ]
+      },
+      "properties": {
+        "id": 253,
+        "name": "Empelde",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 253
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6695979,
+          52.3469798
+        ]
+      },
+      "properties": {
+        "id": 254,
+        "name": "Hermann-Ehlers-Allee",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 254
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6692833,
+          52.3512862
+        ]
+      },
+      "properties": {
+        "id": 255,
+        "name": "Safariweg",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 255
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6769729,
+          52.3574772
+        ]
+      },
+      "properties": {
+        "id": 256,
+        "name": "Am Soltekampe",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 256
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6860512,
+          52.3601767
+        ]
+      },
+      "properties": {
+        "id": 257,
+        "name": "Körtingsdorfer Weg",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 257
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6928463,
+          52.3609113
+        ]
+      },
+      "properties": {
+        "id": 258,
+        "name": "Bauweg",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 258
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6932933,
+          52.3648167
+        ]
+      },
+      "properties": {
+        "id": 259,
+        "name": "Am Lindener Hafen",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 259
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6997912,
+          52.3661952
+        ]
+      },
+      "properties": {
+        "id": 260,
+        "name": "Bernhard-Caspar-Straße",
+        "alternate_names": [
+          "Bernhard-Caspar-Str"
+        ],
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 260
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7093523,
+          52.3672032
+        ]
+      },
+      "properties": {
+        "id": 261,
+        "name": "Nieschlagstraße",
+        "alternate_names": [
+          "Nieschlagstr"
+        ],
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 261
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7143055,
+          52.3665511
+        ]
+      },
+      "properties": {
+        "id": 262,
+        "name": "Lindener Marktplatz",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 262
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7207581,
+          52.3681066
+        ]
+      },
+      "properties": {
+        "id": 263,
+        "name": "Schwarzer Bär",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 263
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7296964,
+          52.3680475
+        ]
+      },
+      "properties": {
+        "id": 264,
+        "name": "Waterloo",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 264
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7363007,
+          52.3708392
+        ]
+      },
+      "properties": {
+        "id": 265,
+        "name": "Markthalle/Landtag (U)",
+        "alternate_names": [
+          "Markthalle/Landtag",
+          "Markthalle"
+        ],
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 265
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7383552,
+          52.3738655
+        ]
+      },
+      "properties": {
+        "id": 266,
+        "name": "Kröpcke",
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 266
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7429529,
+          52.3783875
+        ]
+      },
+      "properties": {
+        "id": 267,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf"
+        ],
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 267
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.669627,
+          52.3544344
+        ]
+      },
+      "properties": {
+        "id": 268,
+        "name": "Riechersstraße",
+        "alternate_names": [
+          "Riechersstr"
+        ],
+        "line": "Hannover9",
+        "order": 14
+      },
+      "id": 268
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.664763,
+          52.3771083
+        ]
+      },
+      "properties": {
+        "id": 280,
+        "name": "Ahlem",
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 280
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6735739,
+          52.377378
+        ]
+      },
+      "properties": {
+        "id": 279,
+        "name": "Gedenkstätte Ahlem",
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 279
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6841714,
+          52.3772754
+        ]
+      },
+      "properties": {
+        "id": 278,
+        "name": "Brunnenstraße",
+        "alternate_names": [
+          "Brunnenstr"
+        ],
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 278
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6897074,
+          52.3770493
+        ]
+      },
+      "properties": {
+        "id": 277,
+        "name": "Harenberger Straße",
+        "alternate_names": [
+          "Harenberger Str"
+        ],
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 277
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6950869,
+          52.375219
+        ]
+      },
+      "properties": {
+        "id": 276,
+        "name": "Wunstorfer Straße",
+        "alternate_names": [
+          "Wunstorfer Str"
+        ],
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 276
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7065218,
+          52.3737578
+        ]
+      },
+      "properties": {
+        "id": 275,
+        "name": "Leinaustraße",
+        "alternate_names": [
+          "Leinaustr"
+        ],
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 275
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7132174,
+          52.3714413
+        ]
+      },
+      "properties": {
+        "id": 274,
+        "name": "Am Küchengarten",
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 274
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7194985,
+          52.3735734
+        ]
+      },
+      "properties": {
+        "id": 273,
+        "name": "Glocksee",
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 273
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7247215,
+          52.3731023
+        ]
+      },
+      "properties": {
+        "id": 272,
+        "name": "Goetheplatz",
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 272
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7317761,
+          52.3756208
+        ]
+      },
+      "properties": {
+        "id": 271,
+        "name": "Steintor",
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 271
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7380973,
+          52.3769421
+        ]
+      },
+      "properties": {
+        "id": 270,
+        "name": "Hauptbahnhof/Rosenstraße",
+        "alternate_names": [
+          "Hauptbahnhof/Rosenstr",
+          "Hbf/Rosenstraße"
+        ],
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 270
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.742577,
+          52.3789795
+        ]
+      },
+      "properties": {
+        "id": 269,
+        "name": "Hauptbahnhof/ZOB",
+        "alternate_names": [
+          "Hbf/ZOB"
+        ],
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 269
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7008,
+          52.3754312
+        ]
+      },
+      "properties": {
+        "id": 281,
+        "name": "Freizeitheim Linden",
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 281
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7184396,
+          52.3744842
+        ]
+      },
+      "properties": {
+        "id": 282,
+        "name": "Glocksee/Betriebshof",
+        "alternate_names": [
+          "Glocksee/Bhf"
+        ],
+        "line": "Hannover10",
+        "order": 2
+      },
+      "id": 282
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7667066,
+          52.3811781
+        ]
+      },
+      "properties": {
+        "id": 294,
+        "name": "Zoo",
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 294
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.769085,
+          52.3773092
+        ]
+      },
+      "properties": {
+        "id": 293,
+        "name": "Hannover Congress Centrum",
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 293
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7734468,
+          52.3710713
+        ]
+      },
+      "properties": {
+        "id": 292,
+        "name": "Clausewitzstraße",
+        "alternate_names": [
+          "Clausewitzstr"
+        ],
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 292
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7620531,
+          52.3704342
+        ]
+      },
+      "properties": {
+        "id": 291,
+        "name": "Braunschweiger Platz",
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 291
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.753192,
+          52.3699118
+        ]
+      },
+      "properties": {
+        "id": 290,
+        "name": "Marienstraße",
+        "alternate_names": [
+          "Marienstr"
+        ],
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 290
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7434121,
+          52.3689549
+        ]
+      },
+      "properties": {
+        "id": 289,
+        "name": "Aegidientorplatz",
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 289
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.739417,
+          52.373407
+        ]
+      },
+      "properties": {
+        "id": 288,
+        "name": "Kröpcke",
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 288
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73266,
+          52.3757559
+        ]
+      },
+      "properties": {
+        "id": 287,
+        "name": "Steintor",
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 287
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7257573,
+          52.3818377
+        ]
+      },
+      "properties": {
+        "id": 286,
+        "name": "Christuskirche",
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 286
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7237498,
+          52.3865694
+        ]
+      },
+      "properties": {
+        "id": 285,
+        "name": "Kopernikusstraße",
+        "alternate_names": [
+          "Kopernikusstr"
+        ],
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 285
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7207628,
+          52.3908544
+        ]
+      },
+      "properties": {
+        "id": 284,
+        "name": "An der Strangriede",
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 284
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7134132,
+          52.3930204
+        ]
+      },
+      "properties": {
+        "id": 283,
+        "name": "Haltenhoffstraße",
+        "alternate_names": [
+          "Haltenhoffstr"
+        ],
+        "line": "Hannover11",
+        "order": 3
+      },
+      "id": 283
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7429529,
+          52.3783875
+        ]
+      },
+      "properties": {
+        "id": 295,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf"
+        ],
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 295
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7383552,
+          52.3738655
+        ]
+      },
+      "properties": {
+        "id": 296,
+        "name": "Kröpcke",
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 296
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7363007,
+          52.3708392
+        ]
+      },
+      "properties": {
+        "id": 297,
+        "name": "Markthalle/Landtag (U)",
+        "alternate_names": [
+          "Markthalle/Landtag",
+          "Markthalle"
+        ],
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 297
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7296964,
+          52.3680475
+        ]
+      },
+      "properties": {
+        "id": 298,
+        "name": "Waterloo",
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 298
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7233076,
+          52.370439
+        ]
+      },
+      "properties": {
+        "id": 299,
+        "name": "Humboldtstraße",
+        "alternate_names": [
+          "Humboldtstr"
+        ],
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 299
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7194985,
+          52.3735734
+        ]
+      },
+      "properties": {
+        "id": 300,
+        "name": "Glocksee",
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 300
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7132174,
+          52.3714413
+        ]
+      },
+      "properties": {
+        "id": 301,
+        "name": "Am Küchengarten",
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 301
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7065218,
+          52.3737578
+        ]
+      },
+      "properties": {
+        "id": 302,
+        "name": "Leinaustraße",
+        "alternate_names": [
+          "Leinaustr"
+        ],
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 302
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6950869,
+          52.375219
+        ]
+      },
+      "properties": {
+        "id": 303,
+        "name": "Wunstorfer Straße",
+        "alternate_names": [
+          "Wunstorfer Str"
+        ],
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 303
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6897074,
+          52.3770493
+        ]
+      },
+      "properties": {
+        "id": 304,
+        "name": "Harenberger Straße",
+        "alternate_names": [
+          "Harenberger Str"
+        ],
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 304
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6841714,
+          52.3772754
+        ]
+      },
+      "properties": {
+        "id": 305,
+        "name": "Brunnenstraße",
+        "alternate_names": [
+          "Brunnenstr"
+        ],
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 305
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6735739,
+          52.377378
+        ]
+      },
+      "properties": {
+        "id": 306,
+        "name": "Gedenkstätte Ahlem",
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 306
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.664763,
+          52.3771083
+        ]
+      },
+      "properties": {
+        "id": 307,
+        "name": "Ahlem",
+        "line": "Hannover12",
+        "order": 4
+      },
+      "id": 307
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8009738,
+          52.4295709
+        ]
+      },
+      "properties": {
+        "id": 308,
+        "name": "Fasanenkrug",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 308
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.799757,
+          52.4258156
+        ]
+      },
+      "properties": {
+        "id": 309,
+        "name": "Stadtfriedhof Bothfeld",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 309
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7976527,
+          52.4209874
+        ]
+      },
+      "properties": {
+        "id": 310,
+        "name": "Kurze-Kamp-Straße",
+        "alternate_names": [
+          "Kurze-Kamp-Str"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 310
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7960672,
+          52.4151955
+        ]
+      },
+      "properties": {
+        "id": 311,
+        "name": "Bothfeld",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 311
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7984793,
+          52.4122739
+        ]
+      },
+      "properties": {
+        "id": 312,
+        "name": "Bothfelder Kirchweg",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 312
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7994387,
+          52.4059101
+        ]
+      },
+      "properties": {
+        "id": 313,
+        "name": "Noltemeyerbrücke",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 313
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7909397,
+          52.4028066
+        ]
+      },
+      "properties": {
+        "id": 314,
+        "name": "Klingerstraße",
+        "alternate_names": [
+          "Klingerstr"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 314
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7819852,
+          52.4003189
+        ]
+      },
+      "properties": {
+        "id": 315,
+        "name": "Spannhagengarten",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 315
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7723344,
+          52.3977174
+        ]
+      },
+      "properties": {
+        "id": 316,
+        "name": "Pelikanstraße",
+        "alternate_names": [
+          "Pelikanstr"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 316
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7638029,
+          52.3954323
+        ]
+      },
+      "properties": {
+        "id": 317,
+        "name": "Vier Grenzen",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 317
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7580877,
+          52.392787
+        ]
+      },
+      "properties": {
+        "id": 318,
+        "name": "Lortzingstraße",
+        "alternate_names": [
+          "Lortzingstr"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 318
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.751176,
+          52.3890927
+        ]
+      },
+      "properties": {
+        "id": 319,
+        "name": "Lister Platz",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 319
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7463465,
+          52.3838817
+        ]
+      },
+      "properties": {
+        "id": 320,
+        "name": "Sedanstraße/Lister Meile",
+        "alternate_names": [
+          "Sedanstraße",
+          "Sedanstr",
+          "Sedanstr/Lister Meile"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 320
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7429529,
+          52.3783875
+        ]
+      },
+      "properties": {
+        "id": 321,
+        "name": "Hauptbahnhof",
+        "alternate_names": [
+          "Hbf"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 321
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7383552,
+          52.3738655
+        ]
+      },
+      "properties": {
+        "id": 322,
+        "name": "Kröpcke",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 322
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7363007,
+          52.3708392
+        ]
+      },
+      "properties": {
+        "id": 323,
+        "name": "Markthalle/Landtag (U)",
+        "alternate_names": [
+          "Markthalle/Landtag",
+          "Markthalle"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 323
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7297915,
+          52.3679747
+        ]
+      },
+      "properties": {
+        "id": 324,
+        "name": "Waterloo",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 324
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7219202,
+          52.3621502
+        ]
+      },
+      "properties": {
+        "id": 325,
+        "name": "Allerweg",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 325
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7228379,
+          52.3576656
+        ]
+      },
+      "properties": {
+        "id": 326,
+        "name": "Stadionbrücke",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 326
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7222092,
+          52.3522811
+        ]
+      },
+      "properties": {
+        "id": 327,
+        "name": "Bahnhof Linden/Fischerhof",
+        "alternate_names": [
+          "Bf Linden/Fischerhof",
+          "Bahnhof Linden/Fischerhof"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 327
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.723832,
+          52.3473936
+        ]
+      },
+      "properties": {
+        "id": 328,
+        "name": "Schünemannplatz",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 328
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7251785,
+          52.3435493
+        ]
+      },
+      "properties": {
+        "id": 329,
+        "name": "Beekestraße",
+        "alternate_names": [
+          "Beekestr"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 329
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7183932,
+          52.3419922
+        ]
+      },
+      "properties": {
+        "id": 330,
+        "name": "Wallensteinstraße",
+        "alternate_names": [
+          "Wallensteinstr"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 330
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7169336,
+          52.3378645
+        ]
+      },
+      "properties": {
+        "id": 331,
+        "name": "Unter den Birken",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 331
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7168598,
+          52.3339743
+        ]
+      },
+      "properties": {
+        "id": 332,
+        "name": "Stadtfriedhof Ricklingen",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 332
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7205141,
+          52.3290661
+        ]
+      },
+      "properties": {
+        "id": 333,
+        "name": "Hemmingen/Saarstraße",
+        "alternate_names": [
+          "Hemmingen/Saarstr"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 333
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.723404,
+          52.3251443
+        ]
+      },
+      "properties": {
+        "id": 334,
+        "name": "Hemmingen/Zentrum",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 334
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7258281,
+          52.3220571
+        ]
+      },
+      "properties": {
+        "id": 335,
+        "name": "Hemmingen/Berliner Straße",
+        "alternate_names": [
+          "Hemmingen/Berliner Str"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 335
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7295776,
+          52.3163916
+        ]
+      },
+      "properties": {
+        "id": 336,
+        "name": "Hemmingen",
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 336
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.800796,
+          52.4076946
+        ]
+      },
+      "properties": {
+        "id": 337,
+        "name": "Buchholz/Betriebshof",
+        "alternate_names": [
+          "Buchholz/Bhf"
+        ],
+        "line": "Hannover13",
+        "order": 5
+      },
+      "id": 337
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.742577,
+          52.3789795
+        ]
+      },
+      "properties": {
+        "id": 349,
+        "name": "Hauptbahnhof/ZOB",
+        "alternate_names": [
+          "Hbf/ZOB"
+        ],
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 349
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7380973,
+          52.3769421
+        ]
+      },
+      "properties": {
+        "id": 348,
+        "name": "Hauptbahnhof/Rosenstraße",
+        "alternate_names": [
+          "Hauptbahnhof/Rosenstr",
+          "Hbf/Rosenstraße"
+        ],
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 348
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7317761,
+          52.3756208
+        ]
+      },
+      "properties": {
+        "id": 347,
+        "name": "Steintor",
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 347
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7247215,
+          52.3731023
+        ]
+      },
+      "properties": {
+        "id": 346,
+        "name": "Goetheplatz",
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 346
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7233076,
+          52.370439
+        ]
+      },
+      "properties": {
+        "id": 345,
+        "name": "Humboldtstraße",
+        "alternate_names": [
+          "Humboldtstr"
+        ],
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 345
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7207581,
+          52.3681066
+        ]
+      },
+      "properties": {
+        "id": 344,
+        "name": "Schwarzer Bär",
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 344
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7219202,
+          52.3621502
+        ]
+      },
+      "properties": {
+        "id": 343,
+        "name": "Allerweg",
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 343
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7228379,
+          52.3576656
+        ]
+      },
+      "properties": {
+        "id": 342,
+        "name": "Stadionbrücke",
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 342
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7222092,
+          52.3522811
+        ]
+      },
+      "properties": {
+        "id": 341,
+        "name": "Bahnhof Linden/Fischerhof",
+        "alternate_names": [
+          "Bf Linden/Fischerhof",
+          "Bahnhof Linden/Fischerhof"
+        ],
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 341
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.723832,
+          52.3473936
+        ]
+      },
+      "properties": {
+        "id": 340,
+        "name": "Schünemannplatz",
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 340
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7251785,
+          52.3435493
+        ]
+      },
+      "properties": {
+        "id": 339,
+        "name": "Beekestraße",
+        "alternate_names": [
+          "Beekestr"
+        ],
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 339
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7183932,
+          52.3419922
+        ]
+      },
+      "properties": {
+        "id": 338,
+        "name": "Wallensteinstraße",
+        "alternate_names": [
+          "Wallensteinstr"
+        ],
+        "line": "Hannover17",
+        "order": 6
+      },
+      "id": 338
+    }
+  ],
+  "properties": {
+    "totalStations": 204,
+    "stationsPerLine": {
+      "Hannover1": 45,
+      "Hannover2": 36,
+      "Hannover3": 31,
+      "Hannover4": 33,
+      "Hannover5": 29,
+      "Hannover6": 32,
+      "Hannover7": 30,
+      "Hannover8": 16,
+      "Hannover9": 16,
+      "Hannover10": 14,
+      "Hannover11": 12,
+      "Hannover12": 13,
+      "Hannover13": 30,
+      "Hannover17": 12
+    },
+    "nextStationId": 350
+  }
+}
