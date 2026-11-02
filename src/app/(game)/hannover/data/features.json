@@ -11,12 +11,12 @@
         ]
       },
       "properties": {
-        "id": 1062,
+        "id": 43,
         "name": "Sarstedt",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1062
+      "id": 43
     },
     {
       "type": "Feature",
@@ -28,7 +28,7 @@
         ]
       },
       "properties": {
-        "id": 1061,
+        "id": 42,
         "name": "Sarstedt/Röntgenstraße",
         "alternate_names": [
           "Sarstedt/Röntgenstr"
@@ -36,7 +36,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1061
+      "id": 42
     },
     {
       "type": "Feature",
@@ -48,12 +48,12 @@
         ]
       },
       "properties": {
-        "id": 1060,
+        "id": 41,
         "name": "Sarstedt/Am Boksberg",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1060
+      "id": 41
     },
     {
       "type": "Feature",
@@ -65,12 +65,12 @@
         ]
       },
       "properties": {
-        "id": 1059,
+        "id": 40,
         "name": "Heisede/Langer Kamp",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1059
+      "id": 40
     },
     {
       "type": "Feature",
@@ -82,7 +82,7 @@
         ]
       },
       "properties": {
-        "id": 1058,
+        "id": 39,
         "name": "Heisede/Marienburger Straße",
         "alternate_names": [
           "Heisede/Marienburger Str"
@@ -90,7 +90,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1058
+      "id": 39
     },
     {
       "type": "Feature",
@@ -102,12 +102,12 @@
         ]
       },
       "properties": {
-        "id": 1057,
+        "id": 38,
         "name": "Gleidingen/Am Leinkamp",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1057
+      "id": 38
     },
     {
       "type": "Feature",
@@ -119,7 +119,7 @@
         ]
       },
       "properties": {
-        "id": 1056,
+        "id": 37,
         "name": "Gleidingen/Thorstraße",
         "alternate_names": [
           "Gleidingen/Thorstr"
@@ -127,7 +127,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1056
+      "id": 37
     },
     {
       "type": "Feature",
@@ -139,12 +139,12 @@
         ]
       },
       "properties": {
-        "id": 1055,
+        "id": 36,
         "name": "Gleidingen",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1055
+      "id": 36
     },
     {
       "type": "Feature",
@@ -156,12 +156,12 @@
         ]
       },
       "properties": {
-        "id": 1054,
+        "id": 35,
         "name": "Rethen/Galgenbergweg",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1054
+      "id": 35
     },
     {
       "type": "Feature",
@@ -173,7 +173,7 @@
         ]
       },
       "properties": {
-        "id": 1053,
+        "id": 34,
         "name": "Rethen/Bahnhof",
         "alternate_names": [
           "Rethen/Bf",
@@ -182,7 +182,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1053
+      "id": 34
     },
     {
       "type": "Feature",
@@ -194,7 +194,7 @@
         ]
       },
       "properties": {
-        "id": 1052,
+        "id": 33,
         "name": "Rethen/Pattenser Straße",
         "alternate_names": [
           "Rethen/Pattenser Str"
@@ -202,7 +202,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1052
+      "id": 33
     },
     {
       "type": "Feature",
@@ -214,12 +214,12 @@
         ]
       },
       "properties": {
-        "id": 1051,
+        "id": 32,
         "name": "Laatzen/Rethener Winkel",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1051
+      "id": 32
     },
     {
       "type": "Feature",
@@ -231,12 +231,12 @@
         ]
       },
       "properties": {
-        "id": 1050,
+        "id": 31,
         "name": "Laatzen",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1050
+      "id": 31
     },
     {
       "type": "Feature",
@@ -248,12 +248,12 @@
         ]
       },
       "properties": {
-        "id": 1049,
+        "id": 30,
         "name": "Laatzen/Zentrum",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1049
+      "id": 30
     },
     {
       "type": "Feature",
@@ -265,12 +265,12 @@
         ]
       },
       "properties": {
-        "id": 1048,
+        "id": 29,
         "name": "Laatzen/Park der Sinne",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1048
+      "id": 29
     },
     {
       "type": "Feature",
@@ -282,7 +282,7 @@
         ]
       },
       "properties": {
-        "id": 1047,
+        "id": 28,
         "name": "Laatzen/Eichstraße",
         "alternate_names": [
           "Laatzen/Eichstr"
@@ -290,7 +290,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1047
+      "id": 28
     },
     {
       "type": "Feature",
@@ -302,7 +302,7 @@
         ]
       },
       "properties": {
-        "id": 1046,
+        "id": 27,
         "name": "Laatzen/Birkenstraße",
         "alternate_names": [
           "Laatzen/Birkenstr"
@@ -310,7 +310,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1046
+      "id": 27
     },
     {
       "type": "Feature",
@@ -322,12 +322,12 @@
         ]
       },
       "properties": {
-        "id": 1045,
+        "id": 26,
         "name": "Am Brabrinke",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1045
+      "id": 26
     },
     {
       "type": "Feature",
@@ -339,7 +339,7 @@
         ]
       },
       "properties": {
-        "id": 1044,
+        "id": 25,
         "name": "Wiehbergstraße",
         "alternate_names": [
           "Wiehbergstr"
@@ -347,7 +347,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1044
+      "id": 25
     },
     {
       "type": "Feature",
@@ -359,7 +359,7 @@
         ]
       },
       "properties": {
-        "id": 1043,
+        "id": 24,
         "name": "Bothmerstraße",
         "alternate_names": [
           "Bothmerstr"
@@ -367,7 +367,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1043
+      "id": 24
     },
     {
       "type": "Feature",
@@ -379,7 +379,7 @@
         ]
       },
       "properties": {
-        "id": 1042,
+        "id": 23,
         "name": "Peiner Straße",
         "alternate_names": [
           "Peiner Str"
@@ -387,7 +387,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1042
+      "id": 23
     },
     {
       "type": "Feature",
@@ -399,7 +399,7 @@
         ]
       },
       "properties": {
-        "id": 1041,
+        "id": 22,
         "name": "Fiedelerstraße",
         "alternate_names": [
           "Fiedelerstr"
@@ -407,7 +407,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1041
+      "id": 22
     },
     {
       "type": "Feature",
@@ -419,12 +419,12 @@
         ]
       },
       "properties": {
-        "id": 1040,
+        "id": 21,
         "name": "Döhrener Turm",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1040
+      "id": 21
     },
     {
       "type": "Feature",
@@ -436,12 +436,12 @@
         ]
       },
       "properties": {
-        "id": 1039,
+        "id": 20,
         "name": "Altenbekener Damm",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1039
+      "id": 20
     },
     {
       "type": "Feature",
@@ -453,7 +453,7 @@
         ]
       },
       "properties": {
-        "id": 1038,
+        "id": 19,
         "name": "Geibelstraße",
         "alternate_names": [
           "Geibelstr"
@@ -461,7 +461,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1038
+      "id": 19
     },
     {
       "type": "Feature",
@@ -473,7 +473,7 @@
         ]
       },
       "properties": {
-        "id": 1037,
+        "id": 18,
         "name": "Schlägerstraße",
         "alternate_names": [
           "Schlägerstr"
@@ -481,7 +481,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1037
+      "id": 18
     },
     {
       "type": "Feature",
@@ -493,12 +493,12 @@
         ]
       },
       "properties": {
-        "id": 1036,
+        "id": 17,
         "name": "Aegidientorplatz",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1036
+      "id": 17
     },
     {
       "type": "Feature",
@@ -510,12 +510,12 @@
         ]
       },
       "properties": {
-        "id": 1035,
+        "id": 16,
         "name": "Kröpcke",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1035
+      "id": 16
     },
     {
       "type": "Feature",
@@ -527,7 +527,7 @@
         ]
       },
       "properties": {
-        "id": 1034,
+        "id": 15,
         "name": "Hauptbahnhof",
         "alternate_names": [
           "Hbf"
@@ -535,7 +535,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1034
+      "id": 15
     },
     {
       "type": "Feature",
@@ -547,7 +547,7 @@
         ]
       },
       "properties": {
-        "id": 1063,
+        "id": 44,
         "name": "Werderstraße",
         "alternate_names": [
           "Werderstr"
@@ -555,7 +555,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1063
+      "id": 44
     },
     {
       "type": "Feature",
@@ -567,12 +567,12 @@
         ]
       },
       "properties": {
-        "id": 1033,
+        "id": 14,
         "name": "Vahrenwalder Platz",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1033
+      "id": 14
     },
     {
       "type": "Feature",
@@ -584,7 +584,7 @@
         ]
       },
       "properties": {
-        "id": 1032,
+        "id": 13,
         "name": "Dragonerstraße",
         "alternate_names": [
           "Dragonerstr"
@@ -592,7 +592,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1032
+      "id": 13
     },
     {
       "type": "Feature",
@@ -604,12 +604,12 @@
         ]
       },
       "properties": {
-        "id": 1031,
+        "id": 12,
         "name": "Niedersachsenring",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1031
+      "id": 12
     },
     {
       "type": "Feature",
@@ -621,7 +621,7 @@
         ]
       },
       "properties": {
-        "id": 1030,
+        "id": 11,
         "name": "Büttnerstraße",
         "alternate_names": [
           "Büttnerstr"
@@ -629,7 +629,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1030
+      "id": 11
     },
     {
       "type": "Feature",
@@ -641,7 +641,7 @@
         ]
       },
       "properties": {
-        "id": 1029,
+        "id": 10,
         "name": "Windausstraße",
         "alternate_names": [
           "Windausstr"
@@ -649,7 +649,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1029
+      "id": 10
     },
     {
       "type": "Feature",
@@ -661,12 +661,12 @@
         ]
       },
       "properties": {
-        "id": 1028,
+        "id": 9,
         "name": "Kabelkamp",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1028
+      "id": 9
     },
     {
       "type": "Feature",
@@ -678,12 +678,12 @@
         ]
       },
       "properties": {
-        "id": 1027,
+        "id": 8,
         "name": "Alter Flughafen",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1027
+      "id": 8
     },
     {
       "type": "Feature",
@@ -695,12 +695,12 @@
         ]
       },
       "properties": {
-        "id": 1026,
+        "id": 7,
         "name": "Wiesenau",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1026
+      "id": 7
     },
     {
       "type": "Feature",
@@ -712,12 +712,12 @@
         ]
       },
       "properties": {
-        "id": 1025,
+        "id": 6,
         "name": "Berliner Platz",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1025
+      "id": 6
     },
     {
       "type": "Feature",
@@ -729,7 +729,7 @@
         ]
       },
       "properties": {
-        "id": 1024,
+        "id": 5,
         "name": "Langenhagen/Angerstraße",
         "alternate_names": [
           "Langenhagen/Angerstr"
@@ -737,7 +737,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1024
+      "id": 5
     },
     {
       "type": "Feature",
@@ -749,12 +749,12 @@
         ]
       },
       "properties": {
-        "id": 1023,
+        "id": 4,
         "name": "Langenhagen/Langenforther Platz",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1023
+      "id": 4
     },
     {
       "type": "Feature",
@@ -766,12 +766,12 @@
         ]
       },
       "properties": {
-        "id": 1022,
+        "id": 3,
         "name": "Langenhagen/Zentrum",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1022
+      "id": 3
     },
     {
       "type": "Feature",
@@ -783,12 +783,12 @@
         ]
       },
       "properties": {
-        "id": 1021,
+        "id": 2,
         "name": "Langenhagen/Kurt-Schumacher-Allee",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1021
+      "id": 2
     },
     {
       "type": "Feature",
@@ -800,12 +800,12 @@
         ]
       },
       "properties": {
-        "id": 1020,
+        "id": 1,
         "name": "Langenhagen",
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1020
+      "id": 1
     },
     {
       "type": "Feature",
@@ -817,7 +817,7 @@
         ]
       },
       "properties": {
-        "id": 1363,
+        "id": 45,
         "name": "Döhren/Bhf",
         "alternate_names": [
           "Döhren/Betriebshof"
@@ -825,7 +825,7 @@
         "line": "Hannover1",
         "order": 1
       },
-      "id": 1363
+      "id": 45
     },
     {
       "type": "Feature",
@@ -837,12 +837,12 @@
         ]
       },
       "properties": {
-        "id": 1064,
+        "id": 46,
         "name": "Alte Heide",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1064
+      "id": 46
     },
     {
       "type": "Feature",
@@ -854,12 +854,12 @@
         ]
       },
       "properties": {
-        "id": 1065,
+        "id": 47,
         "name": "Bahnstrift",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1065
+      "id": 47
     },
     {
       "type": "Feature",
@@ -871,12 +871,12 @@
         ]
       },
       "properties": {
-        "id": 1066,
+        "id": 48,
         "name": "Tempelhofweg",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1066
+      "id": 48
     },
     {
       "type": "Feature",
@@ -888,12 +888,12 @@
         ]
       },
       "properties": {
-        "id": 1067,
+        "id": 49,
         "name": "Zehlendorfweg",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1067
+      "id": 49
     },
     {
       "type": "Feature",
@@ -905,12 +905,12 @@
         ]
       },
       "properties": {
-        "id": 1068,
+        "id": 50,
         "name": "Papenwinkel",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1068
+      "id": 50
     },
     {
       "type": "Feature",
@@ -922,12 +922,12 @@
         ]
       },
       "properties": {
-        "id": 1069,
+        "id": 51,
         "name": "Vahrenheider Markt",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1069
+      "id": 51
     },
     {
       "type": "Feature",
@@ -939,12 +939,12 @@
         ]
       },
       "properties": {
-        "id": 1070,
+        "id": 52,
         "name": "Reiterstadion",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1070
+      "id": 52
     },
     {
       "type": "Feature",
@@ -956,12 +956,12 @@
         ]
       },
       "properties": {
-        "id": 1071,
+        "id": 53,
         "name": "Großer Kolonnenweg",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1071
+      "id": 53
     },
     {
       "type": "Feature",
@@ -973,7 +973,7 @@
         ]
       },
       "properties": {
-        "id": 1072,
+        "id": 54,
         "name": "Büttnerstraße",
         "alternate_names": [
           "Büttnerstr"
@@ -981,7 +981,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1072
+      "id": 54
     },
     {
       "type": "Feature",
@@ -993,12 +993,12 @@
         ]
       },
       "properties": {
-        "id": 1073,
+        "id": 55,
         "name": "Niedersachsenring",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1073
+      "id": 55
     },
     {
       "type": "Feature",
@@ -1010,7 +1010,7 @@
         ]
       },
       "properties": {
-        "id": 1074,
+        "id": 56,
         "name": "Dragonerstraße",
         "alternate_names": [
           "Dragonerstr"
@@ -1018,7 +1018,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1074
+      "id": 56
     },
     {
       "type": "Feature",
@@ -1030,12 +1030,12 @@
         ]
       },
       "properties": {
-        "id": 1075,
+        "id": 57,
         "name": "Vahrenwalder Platz",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1075
+      "id": 57
     },
     {
       "type": "Feature",
@@ -1047,7 +1047,7 @@
         ]
       },
       "properties": {
-        "id": 1076,
+        "id": 58,
         "name": "Werderstraße",
         "alternate_names": [
           "Werderstr"
@@ -1055,7 +1055,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1076
+      "id": 58
     },
     {
       "type": "Feature",
@@ -1067,7 +1067,7 @@
         ]
       },
       "properties": {
-        "id": 1077,
+        "id": 59,
         "name": "Hauptbahnhof",
         "alternate_names": [
           "Hbf"
@@ -1075,7 +1075,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1077
+      "id": 59
     },
     {
       "type": "Feature",
@@ -1087,12 +1087,12 @@
         ]
       },
       "properties": {
-        "id": 1078,
+        "id": 60,
         "name": "Kröpcke",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1078
+      "id": 60
     },
     {
       "type": "Feature",
@@ -1104,12 +1104,12 @@
         ]
       },
       "properties": {
-        "id": 1079,
+        "id": 61,
         "name": "Aegidientorplatz",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1079
+      "id": 61
     },
     {
       "type": "Feature",
@@ -1121,7 +1121,7 @@
         ]
       },
       "properties": {
-        "id": 1080,
+        "id": 62,
         "name": "Schlägerstraße",
         "alternate_names": [
           "Schlägerstr"
@@ -1129,7 +1129,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1080
+      "id": 62
     },
     {
       "type": "Feature",
@@ -1141,7 +1141,7 @@
         ]
       },
       "properties": {
-        "id": 1081,
+        "id": 63,
         "name": "Geibelstraße",
         "alternate_names": [
           "Geibelstr"
@@ -1149,7 +1149,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1081
+      "id": 63
     },
     {
       "type": "Feature",
@@ -1161,12 +1161,12 @@
         ]
       },
       "properties": {
-        "id": 1082,
+        "id": 64,
         "name": "Altenbekener Damm",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1082
+      "id": 64
     },
     {
       "type": "Feature",
@@ -1178,12 +1178,12 @@
         ]
       },
       "properties": {
-        "id": 1083,
+        "id": 65,
         "name": "Döhrener Turm",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1083
+      "id": 65
     },
     {
       "type": "Feature",
@@ -1195,7 +1195,7 @@
         ]
       },
       "properties": {
-        "id": 1084,
+        "id": 66,
         "name": "Fiedelerstraße",
         "alternate_names": [
           "Fiedelerstr"
@@ -1203,7 +1203,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1084
+      "id": 66
     },
     {
       "type": "Feature",
@@ -1215,7 +1215,7 @@
         ]
       },
       "properties": {
-        "id": 1085,
+        "id": 67,
         "name": "Peiner Straße",
         "alternate_names": [
           "Peiner Str"
@@ -1223,7 +1223,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1085
+      "id": 67
     },
     {
       "type": "Feature",
@@ -1235,7 +1235,7 @@
         ]
       },
       "properties": {
-        "id": 1086,
+        "id": 68,
         "name": "Bothmerstraße",
         "alternate_names": [
           "Bothmerstr"
@@ -1243,7 +1243,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1086
+      "id": 68
     },
     {
       "type": "Feature",
@@ -1255,7 +1255,7 @@
         ]
       },
       "properties": {
-        "id": 1087,
+        "id": 69,
         "name": "Wiehbergstraße",
         "alternate_names": [
           "Wiehbergstr"
@@ -1263,7 +1263,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1087
+      "id": 69
     },
     {
       "type": "Feature",
@@ -1275,12 +1275,12 @@
         ]
       },
       "properties": {
-        "id": 1088,
+        "id": 70,
         "name": "Am Brabrinke",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1088
+      "id": 70
     },
     {
       "type": "Feature",
@@ -1292,7 +1292,7 @@
         ]
       },
       "properties": {
-        "id": 1089,
+        "id": 71,
         "name": "Laatzen/Birkenstraße",
         "alternate_names": [
           "Laatzen/Birkenstr"
@@ -1300,7 +1300,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1089
+      "id": 71
     },
     {
       "type": "Feature",
@@ -1312,7 +1312,7 @@
         ]
       },
       "properties": {
-        "id": 1090,
+        "id": 72,
         "name": "Laatzen/Eichstraße",
         "alternate_names": [
           "Laatzen/Eichstr"
@@ -1320,7 +1320,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1090
+      "id": 72
     },
     {
       "type": "Feature",
@@ -1332,12 +1332,12 @@
         ]
       },
       "properties": {
-        "id": 1091,
+        "id": 73,
         "name": "Laatzen/aquaLaatzium",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1091
+      "id": 73
     },
     {
       "type": "Feature",
@@ -1349,12 +1349,12 @@
         ]
       },
       "properties": {
-        "id": 1092,
+        "id": 74,
         "name": "Laatzen/Krankenhaus",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1092
+      "id": 74
     },
     {
       "type": "Feature",
@@ -1366,12 +1366,12 @@
         ]
       },
       "properties": {
-        "id": 1093,
+        "id": 75,
         "name": "Laatzen/Neuer Schlag",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1093
+      "id": 75
     },
     {
       "type": "Feature",
@@ -1383,12 +1383,12 @@
         ]
       },
       "properties": {
-        "id": 1094,
+        "id": 76,
         "name": "Laatzen/Ginsterweg",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1094
+      "id": 76
     },
     {
       "type": "Feature",
@@ -1400,7 +1400,7 @@
         ]
       },
       "properties": {
-        "id": 1095,
+        "id": 77,
         "name": "Rethen/Pattenser Straße",
         "alternate_names": [
           "Rethen/Pattenser Str"
@@ -1408,7 +1408,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1095
+      "id": 77
     },
     {
       "type": "Feature",
@@ -1420,7 +1420,7 @@
         ]
       },
       "properties": {
-        "id": 1096,
+        "id": 78,
         "name": "Rethen/Bahnhof",
         "alternate_names": [
           "Rethen/Bf",
@@ -1429,7 +1429,7 @@
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1096
+      "id": 78
     },
     {
       "type": "Feature",
@@ -1441,12 +1441,12 @@
         ]
       },
       "properties": {
-        "id": 1097,
+        "id": 79,
         "name": "Rethen/Galgenbergweg",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1097
+      "id": 79
     },
     {
       "type": "Feature",
@@ -1458,12 +1458,12 @@
         ]
       },
       "properties": {
-        "id": 1098,
+        "id": 80,
         "name": "Gleidingen",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1098
+      "id": 80
     },
     {
       "type": "Feature",
@@ -1475,12 +1475,12 @@
         ]
       },
       "properties": {
-        "id": 1364,
+        "id": 81,
         "name": "Rethen/Steinfeld",
         "line": "Hannover2",
         "order": 7
       },
-      "id": 1364
+      "id": 81
     },
     {
       "type": "Feature",
@@ -1492,12 +1492,12 @@
         ]
       },
       "properties": {
-        "id": 1129,
+        "id": 82,
         "name": "Altwarmbüchen",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1129
+      "id": 82
     },
     {
       "type": "Feature",
@@ -1509,12 +1509,12 @@
         ]
       },
       "properties": {
-        "id": 1128,
+        "id": 83,
         "name": "Altwarmbüchen / Zentrum",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1128
+      "id": 83
     },
     {
       "type": "Feature",
@@ -1526,7 +1526,7 @@
         ]
       },
       "properties": {
-        "id": 1127,
+        "id": 84,
         "name": "Altwarmbüchen/Ernst-Grote-Straße",
         "alternate_names": [
           "Altwarmbüchen/Ernst-Grote-Str"
@@ -1534,7 +1534,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1127
+      "id": 84
     },
     {
       "type": "Feature",
@@ -1546,7 +1546,7 @@
         ]
       },
       "properties": {
-        "id": 1126,
+        "id": 85,
         "name": "Altwarmbüchen/Opelstraße",
         "alternate_names": [
           "Altwarmbüchen/Opelstr"
@@ -1554,7 +1554,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1126
+      "id": 85
     },
     {
       "type": "Feature",
@@ -1566,12 +1566,12 @@
         ]
       },
       "properties": {
-        "id": 1125,
+        "id": 86,
         "name": "Oldenburger Allee",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1125
+      "id": 86
     },
     {
       "type": "Feature",
@@ -1583,12 +1583,12 @@
         ]
       },
       "properties": {
-        "id": 1124,
+        "id": 87,
         "name": "Stadtfriedhof Lahe",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1124
+      "id": 87
     },
     {
       "type": "Feature",
@@ -1600,12 +1600,12 @@
         ]
       },
       "properties": {
-        "id": 1123,
+        "id": 88,
         "name": "Paracelsusweg",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1123
+      "id": 88
     },
     {
       "type": "Feature",
@@ -1617,12 +1617,12 @@
         ]
       },
       "properties": {
-        "id": 1122,
+        "id": 89,
         "name": "In den Sieben Stücken",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1122
+      "id": 89
     },
     {
       "type": "Feature",
@@ -1634,12 +1634,12 @@
         ]
       },
       "properties": {
-        "id": 1121,
+        "id": 90,
         "name": "Noltemeyerbrücke",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1121
+      "id": 90
     },
     {
       "type": "Feature",
@@ -1651,7 +1651,7 @@
         ]
       },
       "properties": {
-        "id": 1120,
+        "id": 91,
         "name": "Klingerstraße",
         "alternate_names": [
           "Klingerstr"
@@ -1659,7 +1659,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1120
+      "id": 91
     },
     {
       "type": "Feature",
@@ -1671,12 +1671,12 @@
         ]
       },
       "properties": {
-        "id": 1119,
+        "id": 92,
         "name": "Spannhagengarten",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1119
+      "id": 92
     },
     {
       "type": "Feature",
@@ -1688,7 +1688,7 @@
         ]
       },
       "properties": {
-        "id": 1118,
+        "id": 93,
         "name": "Pelikanstraße",
         "alternate_names": [
           "Pelikanstr"
@@ -1696,7 +1696,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1118
+      "id": 93
     },
     {
       "type": "Feature",
@@ -1708,12 +1708,12 @@
         ]
       },
       "properties": {
-        "id": 1117,
+        "id": 94,
         "name": "Vier Grenzen",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1117
+      "id": 94
     },
     {
       "type": "Feature",
@@ -1725,7 +1725,7 @@
         ]
       },
       "properties": {
-        "id": 1116,
+        "id": 95,
         "name": "Lortzingstraße",
         "alternate_names": [
           "Lortzingstr"
@@ -1733,7 +1733,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1116
+      "id": 95
     },
     {
       "type": "Feature",
@@ -1745,12 +1745,12 @@
         ]
       },
       "properties": {
-        "id": 1115,
+        "id": 96,
         "name": "Lister Platz",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1115
+      "id": 96
     },
     {
       "type": "Feature",
@@ -1762,7 +1762,7 @@
         ]
       },
       "properties": {
-        "id": 1114,
+        "id": 97,
         "name": "Sedanstraße/Lister Meile",
         "alternate_names": [
           "Sedanstraße",
@@ -1772,7 +1772,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1114
+      "id": 97
     },
     {
       "type": "Feature",
@@ -1784,7 +1784,7 @@
         ]
       },
       "properties": {
-        "id": 1113,
+        "id": 98,
         "name": "Hauptbahnhof",
         "alternate_names": [
           "Hbf"
@@ -1792,7 +1792,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1113
+      "id": 98
     },
     {
       "type": "Feature",
@@ -1804,12 +1804,12 @@
         ]
       },
       "properties": {
-        "id": 1112,
+        "id": 99,
         "name": "Kröpcke",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1112
+      "id": 99
     },
     {
       "type": "Feature",
@@ -1821,7 +1821,7 @@
         ]
       },
       "properties": {
-        "id": 1111,
+        "id": 100,
         "name": "Markthalle/Landtag (U)",
         "alternate_names": [
           "Markthalle/Landtag",
@@ -1830,7 +1830,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1111
+      "id": 100
     },
     {
       "type": "Feature",
@@ -1842,12 +1842,12 @@
         ]
       },
       "properties": {
-        "id": 1110,
+        "id": 101,
         "name": "Waterloo",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1110
+      "id": 101
     },
     {
       "type": "Feature",
@@ -1859,12 +1859,12 @@
         ]
       },
       "properties": {
-        "id": 1109,
+        "id": 102,
         "name": "Allerweg",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1109
+      "id": 102
     },
     {
       "type": "Feature",
@@ -1876,12 +1876,12 @@
         ]
       },
       "properties": {
-        "id": 1108,
+        "id": 103,
         "name": "Stadionbrücke",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1108
+      "id": 103
     },
     {
       "type": "Feature",
@@ -1893,7 +1893,7 @@
         ]
       },
       "properties": {
-        "id": 1107,
+        "id": 104,
         "name": "Bahnhof Linden/Fischerhof",
         "alternate_names": [
           "Bf Linden/Fischerhof",
@@ -1902,7 +1902,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1107
+      "id": 104
     },
     {
       "type": "Feature",
@@ -1914,12 +1914,12 @@
         ]
       },
       "properties": {
-        "id": 1106,
+        "id": 105,
         "name": "Schünemannplatz",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1106
+      "id": 105
     },
     {
       "type": "Feature",
@@ -1931,7 +1931,7 @@
         ]
       },
       "properties": {
-        "id": 1105,
+        "id": 106,
         "name": "Beekestraße",
         "alternate_names": [
           "Beekestr"
@@ -1939,7 +1939,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1105
+      "id": 106
     },
     {
       "type": "Feature",
@@ -1951,7 +1951,7 @@
         ]
       },
       "properties": {
-        "id": 1104,
+        "id": 107,
         "name": "Wallensteinstraße",
         "alternate_names": [
           "Wallensteinstr"
@@ -1959,7 +1959,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1104
+      "id": 107
     },
     {
       "type": "Feature",
@@ -1971,7 +1971,7 @@
         ]
       },
       "properties": {
-        "id": 1103,
+        "id": 108,
         "name": "Bartold-Knaust-Straße",
         "alternate_names": [
           "Bartold-Knaust-Str"
@@ -1979,7 +1979,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1103
+      "id": 108
     },
     {
       "type": "Feature",
@@ -1991,12 +1991,12 @@
         ]
       },
       "properties": {
-        "id": 1102,
+        "id": 109,
         "name": "Am Sauerwinkel",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1102
+      "id": 109
     },
     {
       "type": "Feature",
@@ -2008,12 +2008,12 @@
         ]
       },
       "properties": {
-        "id": 1101,
+        "id": 110,
         "name": "Mühlenberger Markt",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1101
+      "id": 110
     },
     {
       "type": "Feature",
@@ -2025,7 +2025,7 @@
         ]
       },
       "properties": {
-        "id": 1100,
+        "id": 111,
         "name": "Tresckowstraße",
         "alternate_names": [
           "Tresckowstr"
@@ -2033,7 +2033,7 @@
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1100
+      "id": 111
     },
     {
       "type": "Feature",
@@ -2045,12 +2045,12 @@
         ]
       },
       "properties": {
-        "id": 1099,
+        "id": 112,
         "name": "Wettbergen",
         "line": "Hannover3",
         "order": 8
       },
-      "id": 1099
+      "id": 112
     },
     {
       "type": "Feature",
@@ -2062,12 +2062,12 @@
         ]
       },
       "properties": {
-        "id": 1153,
+        "id": 113,
         "name": "Garbsen",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1153
+      "id": 113
     },
     {
       "type": "Feature",
@@ -2079,12 +2079,12 @@
         ]
       },
       "properties": {
-        "id": 1154,
+        "id": 114,
         "name": "Auf der Horst/Marshof",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1154
+      "id": 114
     },
     {
       "type": "Feature",
@@ -2096,12 +2096,12 @@
         ]
       },
       "properties": {
-        "id": 1155,
+        "id": 115,
         "name": "Auf der Horst/Skorpiongasse",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1155
+      "id": 115
     },
     {
       "type": "Feature",
@@ -2113,12 +2113,12 @@
         ]
       },
       "properties": {
-        "id": 1156,
+        "id": 116,
         "name": "Schönebecker Allee",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1156
+      "id": 116
     },
     {
       "type": "Feature",
@@ -2130,7 +2130,7 @@
         ]
       },
       "properties": {
-        "id": 1157,
+        "id": 117,
         "name": "Pascalstraße",
         "alternate_names": [
           "Pascalstr"
@@ -2138,7 +2138,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1157
+      "id": 117
     },
     {
       "type": "Feature",
@@ -2150,12 +2150,12 @@
         ]
       },
       "properties": {
-        "id": 1158,
+        "id": 118,
         "name": "Wissenschaftspark Marienwerder",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1158
+      "id": 118
     },
     {
       "type": "Feature",
@@ -2167,12 +2167,12 @@
         ]
       },
       "properties": {
-        "id": 1159,
+        "id": 119,
         "name": "Jädekamp",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1159
+      "id": 119
     },
     {
       "type": "Feature",
@@ -2184,12 +2184,12 @@
         ]
       },
       "properties": {
-        "id": 1160,
+        "id": 120,
         "name": "Auf der Klappenburg",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1160
+      "id": 120
     },
     {
       "type": "Feature",
@@ -2201,12 +2201,12 @@
         ]
       },
       "properties": {
-        "id": 1161,
+        "id": 121,
         "name": "Lauckerthof",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1161
+      "id": 121
     },
     {
       "type": "Feature",
@@ -2218,7 +2218,7 @@
         ]
       },
       "properties": {
-        "id": 1162,
+        "id": 122,
         "name": "Freudenthalstraße",
         "alternate_names": [
           "Freudenthalstr"
@@ -2226,7 +2226,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1162
+      "id": 122
     },
     {
       "type": "Feature",
@@ -2238,12 +2238,12 @@
         ]
       },
       "properties": {
-        "id": 1163,
+        "id": 123,
         "name": "Stadtfriedhof Stöcken",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1163
+      "id": 123
     },
     {
       "type": "Feature",
@@ -2255,7 +2255,7 @@
         ]
       },
       "properties": {
-        "id": 1151,
+        "id": 124,
         "name": "Bahnhof Leinhausen",
         "alternate_names": [
           "Bf Leinhausen",
@@ -2264,7 +2264,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1151
+      "id": 124
     },
     {
       "type": "Feature",
@@ -2276,12 +2276,12 @@
         ]
       },
       "properties": {
-        "id": 1150,
+        "id": 125,
         "name": "Herrenhäuser Markt",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1150
+      "id": 125
     },
     {
       "type": "Feature",
@@ -2293,7 +2293,7 @@
         ]
       },
       "properties": {
-        "id": 1149,
+        "id": 126,
         "name": "Schaumburgstraße",
         "alternate_names": [
           "Schaumburgstr"
@@ -2301,7 +2301,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1149
+      "id": 126
     },
     {
       "type": "Feature",
@@ -2313,12 +2313,12 @@
         ]
       },
       "properties": {
-        "id": 1148,
+        "id": 127,
         "name": "Herrenhäuser Gärten",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1148
+      "id": 127
     },
     {
       "type": "Feature",
@@ -2330,7 +2330,7 @@
         ]
       },
       "properties": {
-        "id": 1147,
+        "id": 128,
         "name": "Appelstraße",
         "alternate_names": [
           "Appelstr"
@@ -2338,7 +2338,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1147
+      "id": 128
     },
     {
       "type": "Feature",
@@ -2350,7 +2350,7 @@
         ]
       },
       "properties": {
-        "id": 1146,
+        "id": 129,
         "name": "Schneiderberg / Wilhelm-Busch-Museum",
         "alternate_names": [
           "Schneiderberg/W.-Busch-Museum",
@@ -2359,7 +2359,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1146
+      "id": 129
     },
     {
       "type": "Feature",
@@ -2371,12 +2371,12 @@
         ]
       },
       "properties": {
-        "id": 1145,
+        "id": 130,
         "name": "Leibniz Universität",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1145
+      "id": 130
     },
     {
       "type": "Feature",
@@ -2388,12 +2388,12 @@
         ]
       },
       "properties": {
-        "id": 1144,
+        "id": 131,
         "name": "Königsworther Platz",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1144
+      "id": 131
     },
     {
       "type": "Feature",
@@ -2405,12 +2405,12 @@
         ]
       },
       "properties": {
-        "id": 1143,
+        "id": 132,
         "name": "Steintor",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1143
+      "id": 132
     },
     {
       "type": "Feature",
@@ -2422,12 +2422,12 @@
         ]
       },
       "properties": {
-        "id": 1142,
+        "id": 133,
         "name": "Kröpcke",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1142
+      "id": 133
     },
     {
       "type": "Feature",
@@ -2439,12 +2439,12 @@
         ]
       },
       "properties": {
-        "id": 1141,
+        "id": 134,
         "name": "Aegidientorplatz",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1141
+      "id": 134
     },
     {
       "type": "Feature",
@@ -2456,7 +2456,7 @@
         ]
       },
       "properties": {
-        "id": 1140,
+        "id": 135,
         "name": "Marienstraße",
         "alternate_names": [
           "Marienstr"
@@ -2464,7 +2464,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1140
+      "id": 135
     },
     {
       "type": "Feature",
@@ -2476,12 +2476,12 @@
         ]
       },
       "properties": {
-        "id": 1139,
+        "id": 136,
         "name": "Braunschweiger Platz",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1139
+      "id": 136
     },
     {
       "type": "Feature",
@@ -2493,7 +2493,7 @@
         ]
       },
       "properties": {
-        "id": 1138,
+        "id": 137,
         "name": "Clausewitzstraße",
         "alternate_names": [
           "Clausewitzstr"
@@ -2501,7 +2501,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1138
+      "id": 137
     },
     {
       "type": "Feature",
@@ -2513,12 +2513,12 @@
         ]
       },
       "properties": {
-        "id": 1137,
+        "id": 138,
         "name": "Kantplatz",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1137
+      "id": 138
     },
     {
       "type": "Feature",
@@ -2530,7 +2530,7 @@
         ]
       },
       "properties": {
-        "id": 1136,
+        "id": 139,
         "name": "Uhlhornstraße",
         "alternate_names": [
           "Uhlhornstr"
@@ -2538,7 +2538,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1136
+      "id": 139
     },
     {
       "type": "Feature",
@@ -2550,12 +2550,12 @@
         ]
       },
       "properties": {
-        "id": 1135,
+        "id": 140,
         "name": "Nackenberg",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1135
+      "id": 140
     },
     {
       "type": "Feature",
@@ -2567,7 +2567,7 @@
         ]
       },
       "properties": {
-        "id": 1134,
+        "id": 141,
         "name": "Bahnhof Karl-Wiechert-Allee",
         "alternate_names": [
           "Bf Karl-Wiechert-Allee",
@@ -2576,7 +2576,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1134
+      "id": 141
     },
     {
       "type": "Feature",
@@ -2588,7 +2588,7 @@
         ]
       },
       "properties": {
-        "id": 1133,
+        "id": 142,
         "name": "Misburger Straße",
         "alternate_names": [
           "Misburger Str"
@@ -2596,7 +2596,7 @@
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1133
+      "id": 142
     },
     {
       "type": "Feature",
@@ -2608,12 +2608,12 @@
         ]
       },
       "properties": {
-        "id": 1132,
+        "id": 143,
         "name": "Medizinische Hochschule",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1132
+      "id": 143
     },
     {
       "type": "Feature",
@@ -2625,12 +2625,12 @@
         ]
       },
       "properties": {
-        "id": 1131,
+        "id": 144,
         "name": "Roderbruchmarkt",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1131
+      "id": 144
     },
     {
       "type": "Feature",
@@ -2642,12 +2642,12 @@
         ]
       },
       "properties": {
-        "id": 1130,
+        "id": 145,
         "name": "Roderbruch",
         "line": "Hannover4",
         "order": 9
       },
-      "id": 1130
+      "id": 145
     },
     {
       "type": "Feature",
@@ -2659,12 +2659,12 @@
         ]
       },
       "properties": {
-        "id": 1192,
+        "id": 174,
         "name": "Anderten",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1192
+      "id": 174
     },
     {
       "type": "Feature",
@@ -2676,12 +2676,12 @@
         ]
       },
       "properties": {
-        "id": 1191,
+        "id": 173,
         "name": "Königsberger Ring",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1191
+      "id": 173
     },
     {
       "type": "Feature",
@@ -2693,7 +2693,7 @@
         ]
       },
       "properties": {
-        "id": 1190,
+        "id": 172,
         "name": "Ostfeldstraße",
         "alternate_names": [
           "Ostfeldstr"
@@ -2701,7 +2701,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1190
+      "id": 172
     },
     {
       "type": "Feature",
@@ -2713,12 +2713,12 @@
         ]
       },
       "properties": {
-        "id": 1189,
+        "id": 171,
         "name": "Tiergarten",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1189
+      "id": 171
     },
     {
       "type": "Feature",
@@ -2730,12 +2730,12 @@
         ]
       },
       "properties": {
-        "id": 1188,
+        "id": 170,
         "name": "Großer Hillen",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1188
+      "id": 170
     },
     {
       "type": "Feature",
@@ -2747,7 +2747,7 @@
         ]
       },
       "properties": {
-        "id": 1187,
+        "id": 169,
         "name": "Saarbrückener Straße",
         "alternate_names": [
           "Saarbrückener Str"
@@ -2755,7 +2755,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1187
+      "id": 169
     },
     {
       "type": "Feature",
@@ -2767,7 +2767,7 @@
         ]
       },
       "properties": {
-        "id": 1186,
+        "id": 168,
         "name": "Bleekstraße",
         "alternate_names": [
           "Bleekstr"
@@ -2775,7 +2775,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1186
+      "id": 168
     },
     {
       "type": "Feature",
@@ -2787,12 +2787,12 @@
         ]
       },
       "properties": {
-        "id": 1185,
+        "id": 167,
         "name": "Annastift",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1185
+      "id": 167
     },
     {
       "type": "Feature",
@@ -2804,12 +2804,12 @@
         ]
       },
       "properties": {
-        "id": 1184,
+        "id": 166,
         "name": "Nackenberg",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1184
+      "id": 166
     },
     {
       "type": "Feature",
@@ -2821,7 +2821,7 @@
         ]
       },
       "properties": {
-        "id": 1183,
+        "id": 165,
         "name": "Uhlhornstraße",
         "alternate_names": [
           "Uhlhornstr"
@@ -2829,7 +2829,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1183
+      "id": 165
     },
     {
       "type": "Feature",
@@ -2841,12 +2841,12 @@
         ]
       },
       "properties": {
-        "id": 1182,
+        "id": 164,
         "name": "Kantplatz",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1182
+      "id": 164
     },
     {
       "type": "Feature",
@@ -2858,7 +2858,7 @@
         ]
       },
       "properties": {
-        "id": 1181,
+        "id": 163,
         "name": "Clausewitzstraße",
         "alternate_names": [
           "Clausewitzstr"
@@ -2866,7 +2866,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1181
+      "id": 163
     },
     {
       "type": "Feature",
@@ -2878,12 +2878,12 @@
         ]
       },
       "properties": {
-        "id": 1180,
+        "id": 162,
         "name": "Braunschweiger Platz",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1180
+      "id": 162
     },
     {
       "type": "Feature",
@@ -2895,7 +2895,7 @@
         ]
       },
       "properties": {
-        "id": 1179,
+        "id": 161,
         "name": "Marienstraße",
         "alternate_names": [
           "Marienstr"
@@ -2903,7 +2903,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1179
+      "id": 161
     },
     {
       "type": "Feature",
@@ -2915,12 +2915,12 @@
         ]
       },
       "properties": {
-        "id": 1178,
+        "id": 160,
         "name": "Aegidientorplatz",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1178
+      "id": 160
     },
     {
       "type": "Feature",
@@ -2932,12 +2932,12 @@
         ]
       },
       "properties": {
-        "id": 1177,
+        "id": 159,
         "name": "Kröpcke",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1177
+      "id": 159
     },
     {
       "type": "Feature",
@@ -2949,12 +2949,12 @@
         ]
       },
       "properties": {
-        "id": 1176,
+        "id": 158,
         "name": "Steintor",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1176
+      "id": 158
     },
     {
       "type": "Feature",
@@ -2966,12 +2966,12 @@
         ]
       },
       "properties": {
-        "id": 1175,
+        "id": 157,
         "name": "Königsworther Platz",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1175
+      "id": 157
     },
     {
       "type": "Feature",
@@ -2983,12 +2983,12 @@
         ]
       },
       "properties": {
-        "id": 1174,
+        "id": 156,
         "name": "Leibniz Universität",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1174
+      "id": 156
     },
     {
       "type": "Feature",
@@ -3000,7 +3000,7 @@
         ]
       },
       "properties": {
-        "id": 1173,
+        "id": 155,
         "name": "Schneiderberg / Wilhelm-Busch-Museum",
         "alternate_names": [
           "Schneiderberg/W.-Busch-Museum",
@@ -3009,7 +3009,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1173
+      "id": 155
     },
     {
       "type": "Feature",
@@ -3021,7 +3021,7 @@
         ]
       },
       "properties": {
-        "id": 1172,
+        "id": 154,
         "name": "Appelstraße",
         "alternate_names": [
           "Appelstr"
@@ -3029,7 +3029,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1172
+      "id": 154
     },
     {
       "type": "Feature",
@@ -3041,12 +3041,12 @@
         ]
       },
       "properties": {
-        "id": 1171,
+        "id": 153,
         "name": "Herrenhäuser Gärten",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1171
+      "id": 153
     },
     {
       "type": "Feature",
@@ -3058,7 +3058,7 @@
         ]
       },
       "properties": {
-        "id": 1170,
+        "id": 152,
         "name": "Schaumburgstraße",
         "alternate_names": [
           "Schaumburgstr"
@@ -3066,7 +3066,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1170
+      "id": 152
     },
     {
       "type": "Feature",
@@ -3078,12 +3078,12 @@
         ]
       },
       "properties": {
-        "id": 1169,
+        "id": 151,
         "name": "Herrenhäuser Markt",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1169
+      "id": 151
     },
     {
       "type": "Feature",
@@ -3095,7 +3095,7 @@
         ]
       },
       "properties": {
-        "id": 1168,
+        "id": 150,
         "name": "Bahnhof Leinhausen",
         "alternate_names": [
           "Bf Leinhausen",
@@ -3104,7 +3104,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1168
+      "id": 150
     },
     {
       "type": "Feature",
@@ -3116,12 +3116,12 @@
         ]
       },
       "properties": {
-        "id": 1167,
+        "id": 149,
         "name": "Stadtfriedhof Stöcken",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1167
+      "id": 149
     },
     {
       "type": "Feature",
@@ -3133,7 +3133,7 @@
         ]
       },
       "properties": {
-        "id": 1166,
+        "id": 148,
         "name": "Freudenthalstraße",
         "alternate_names": [
           "Freudenthalstr"
@@ -3141,7 +3141,7 @@
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1166
+      "id": 148
     },
     {
       "type": "Feature",
@@ -3153,12 +3153,12 @@
         ]
       },
       "properties": {
-        "id": 1165,
+        "id": 147,
         "name": "Stöckener Markt",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1165
+      "id": 147
     },
     {
       "type": "Feature",
@@ -3170,12 +3170,12 @@
         ]
       },
       "properties": {
-        "id": 1164,
+        "id": 146,
         "name": "Stöcken",
         "line": "Hannover5",
         "order": 10
       },
-      "id": 1164
+      "id": 146
     },
     {
       "type": "Feature",
@@ -3187,7 +3187,7 @@
         ]
       },
       "properties": {
-        "id": 1223,
+        "id": 204,
         "name": "Messe/Ost (EXPO-Plaza)",
         "alternate_names": [
           "Messe/Ost"
@@ -3195,7 +3195,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1223
+      "id": 204
     },
     {
       "type": "Feature",
@@ -3207,12 +3207,12 @@
         ]
       },
       "properties": {
-        "id": 1222,
+        "id": 203,
         "name": "Stockholmer Allee",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1222
+      "id": 203
     },
     {
       "type": "Feature",
@@ -3224,12 +3224,12 @@
         ]
       },
       "properties": {
-        "id": 1221,
+        "id": 202,
         "name": "Krügerskamp",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1221
+      "id": 202
     },
     {
       "type": "Feature",
@@ -3241,12 +3241,12 @@
         ]
       },
       "properties": {
-        "id": 1220,
+        "id": 201,
         "name": "Kronsberg",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1220
+      "id": 201
     },
     {
       "type": "Feature",
@@ -3258,12 +3258,12 @@
         ]
       },
       "properties": {
-        "id": 1219,
+        "id": 200,
         "name": "Feldbuschwende",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1219
+      "id": 200
     },
     {
       "type": "Feature",
@@ -3275,7 +3275,7 @@
         ]
       },
       "properties": {
-        "id": 1218,
+        "id": 199,
         "name": "Brabeckstraße",
         "alternate_names": [
           "Brabeckstr"
@@ -3283,7 +3283,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1218
+      "id": 199
     },
     {
       "type": "Feature",
@@ -3295,7 +3295,7 @@
         ]
       },
       "properties": {
-        "id": 1217,
+        "id": 198,
         "name": "Emslandstraße",
         "alternate_names": [
           "Emslandstr"
@@ -3303,7 +3303,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1217
+      "id": 198
     },
     {
       "type": "Feature",
@@ -3315,12 +3315,12 @@
         ]
       },
       "properties": {
-        "id": 1216,
+        "id": 197,
         "name": "Seelhorster Allee",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1216
+      "id": 197
     },
     {
       "type": "Feature",
@@ -3332,7 +3332,7 @@
         ]
       },
       "properties": {
-        "id": 1215,
+        "id": 196,
         "name": "August-Madsack-Straße",
         "alternate_names": [
           "August-Madsack-Str"
@@ -3340,7 +3340,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1215
+      "id": 196
     },
     {
       "type": "Feature",
@@ -3352,7 +3352,7 @@
         ]
       },
       "properties": {
-        "id": 1214,
+        "id": 195,
         "name": "Bünteweg/Tierärztliche Hochschule",
         "alternate_names": [
           "Bünteweg"
@@ -3360,7 +3360,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1214
+      "id": 195
     },
     {
       "type": "Feature",
@@ -3372,7 +3372,7 @@
         ]
       },
       "properties": {
-        "id": 1213,
+        "id": 194,
         "name": "Zuschlagstraße",
         "alternate_names": [
           "Zuschlagstr"
@@ -3380,7 +3380,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1213
+      "id": 194
     },
     {
       "type": "Feature",
@@ -3392,12 +3392,12 @@
         ]
       },
       "properties": {
-        "id": 1212,
+        "id": 193,
         "name": "Kinderkrankenhaus auf der Bult",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1212
+      "id": 193
     },
     {
       "type": "Feature",
@@ -3409,7 +3409,7 @@
         ]
       },
       "properties": {
-        "id": 1211,
+        "id": 192,
         "name": "Kerstingstraße",
         "alternate_names": [
           "Kerstingstr"
@@ -3417,7 +3417,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1211
+      "id": 192
     },
     {
       "type": "Feature",
@@ -3429,12 +3429,12 @@
         ]
       },
       "properties": {
-        "id": 1210,
+        "id": 191,
         "name": "Freundallee",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1210
+      "id": 191
     },
     {
       "type": "Feature",
@@ -3446,12 +3446,12 @@
         ]
       },
       "properties": {
-        "id": 1209,
+        "id": 190,
         "name": "Braunschweiger Platz",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1209
+      "id": 190
     },
     {
       "type": "Feature",
@@ -3463,7 +3463,7 @@
         ]
       },
       "properties": {
-        "id": 1208,
+        "id": 189,
         "name": "Marienstraße",
         "alternate_names": [
           "Marienstr"
@@ -3471,7 +3471,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1208
+      "id": 189
     },
     {
       "type": "Feature",
@@ -3483,12 +3483,12 @@
         ]
       },
       "properties": {
-        "id": 1207,
+        "id": 188,
         "name": "Aegidientorplatz",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1207
+      "id": 188
     },
     {
       "type": "Feature",
@@ -3500,12 +3500,12 @@
         ]
       },
       "properties": {
-        "id": 1206,
+        "id": 187,
         "name": "Kröpcke",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1206
+      "id": 187
     },
     {
       "type": "Feature",
@@ -3517,12 +3517,12 @@
         ]
       },
       "properties": {
-        "id": 1205,
+        "id": 186,
         "name": "Steintor",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1205
+      "id": 186
     },
     {
       "type": "Feature",
@@ -3534,12 +3534,12 @@
         ]
       },
       "properties": {
-        "id": 1204,
+        "id": 185,
         "name": "Christuskirche",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1204
+      "id": 185
     },
     {
       "type": "Feature",
@@ -3551,7 +3551,7 @@
         ]
       },
       "properties": {
-        "id": 1203,
+        "id": 184,
         "name": "Kopernikusstraße",
         "alternate_names": [
           "Kopernikusstr"
@@ -3559,7 +3559,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1203
+      "id": 184
     },
     {
       "type": "Feature",
@@ -3571,12 +3571,12 @@
         ]
       },
       "properties": {
-        "id": 1202,
+        "id": 183,
         "name": "An der Strangriede",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1202
+      "id": 183
     },
     {
       "type": "Feature",
@@ -3588,7 +3588,7 @@
         ]
       },
       "properties": {
-        "id": 1201,
+        "id": 182,
         "name": "Bahnhof Nordstadt",
         "alternate_names": [
           "Bf Nordstadt",
@@ -3597,7 +3597,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1201
+      "id": 182
     },
     {
       "type": "Feature",
@@ -3609,7 +3609,7 @@
         ]
       },
       "properties": {
-        "id": 1200,
+        "id": 181,
         "name": "Fenskestraße",
         "alternate_names": [
           "Fenskestr"
@@ -3617,7 +3617,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1200
+      "id": 181
     },
     {
       "type": "Feature",
@@ -3629,12 +3629,12 @@
         ]
       },
       "properties": {
-        "id": 1199,
+        "id": 180,
         "name": "Hainhölzer Markt",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1199
+      "id": 180
     },
     {
       "type": "Feature",
@@ -3646,7 +3646,7 @@
         ]
       },
       "properties": {
-        "id": 1198,
+        "id": 179,
         "name": "Krepenstraße",
         "alternate_names": [
           "Krepenstr"
@@ -3654,7 +3654,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1198
+      "id": 179
     },
     {
       "type": "Feature",
@@ -3666,7 +3666,7 @@
         ]
       },
       "properties": {
-        "id": 1197,
+        "id": 178,
         "name": "Friedenauer Straße",
         "alternate_names": [
           "Friedenauer Str"
@@ -3674,7 +3674,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1197
+      "id": 178
     },
     {
       "type": "Feature",
@@ -3686,12 +3686,12 @@
         ]
       },
       "properties": {
-        "id": 1196,
+        "id": 177,
         "name": "Beneckeallee",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1196
+      "id": 177
     },
     {
       "type": "Feature",
@@ -3703,7 +3703,7 @@
         ]
       },
       "properties": {
-        "id": 1195,
+        "id": 176,
         "name": "Mecklenheidestraße",
         "alternate_names": [
           "Mecklenheidestr"
@@ -3711,7 +3711,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1195
+      "id": 176
     },
     {
       "type": "Feature",
@@ -3723,12 +3723,12 @@
         ]
       },
       "properties": {
-        "id": 1194,
+        "id": 175,
         "name": "Nordhafen",
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1194
+      "id": 175
     },
     {
       "type": "Feature",
@@ -3740,7 +3740,7 @@
         ]
       },
       "properties": {
-        "id": 1365,
+        "id": 205,
         "name": "Fuhsestraße",
         "alternate_names": [
           "Fuhsestr"
@@ -3748,7 +3748,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1365
+      "id": 205
     },
     {
       "type": "Feature",
@@ -3760,7 +3760,7 @@
         ]
       },
       "properties": {
-        "id": 1366,
+        "id": 206,
         "name": "Betriebshof Fuhsestraße",
         "alternate_names": [
           "Fuhsestr/Bhf",
@@ -3772,7 +3772,7 @@
         "line": "Hannover6",
         "order": 11
       },
-      "id": 1366
+      "id": 206
     },
     {
       "type": "Feature",
@@ -3784,12 +3784,12 @@
         ]
       },
       "properties": {
-        "id": 1224,
+        "id": 207,
         "name": "Misburg",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1224
+      "id": 207
     },
     {
       "type": "Feature",
@@ -3801,12 +3801,12 @@
         ]
       },
       "properties": {
-        "id": 1225,
+        "id": 208,
         "name": "Am Forstkamp",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1225
+      "id": 208
     },
     {
       "type": "Feature",
@@ -3818,7 +3818,7 @@
         ]
       },
       "properties": {
-        "id": 1226,
+        "id": 209,
         "name": "Kafkastraße",
         "alternate_names": [
           "Kafkastr"
@@ -3826,7 +3826,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1226
+      "id": 209
     },
     {
       "type": "Feature",
@@ -3838,7 +3838,7 @@
         ]
       },
       "properties": {
-        "id": 1227,
+        "id": 210,
         "name": "Schierholzstraße",
         "alternate_names": [
           "Schierholzstr"
@@ -3846,7 +3846,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1227
+      "id": 210
     },
     {
       "type": "Feature",
@@ -3858,12 +3858,12 @@
         ]
       },
       "properties": {
-        "id": 1228,
+        "id": 211,
         "name": "Pappelwiese",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1228
+      "id": 211
     },
     {
       "type": "Feature",
@@ -3875,12 +3875,12 @@
         ]
       },
       "properties": {
-        "id": 1229,
+        "id": 212,
         "name": "Paracelsusweg",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1229
+      "id": 212
     },
     {
       "type": "Feature",
@@ -3892,12 +3892,12 @@
         ]
       },
       "properties": {
-        "id": 1230,
+        "id": 213,
         "name": "In den Sieben Stücken",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1230
+      "id": 213
     },
     {
       "type": "Feature",
@@ -3909,12 +3909,12 @@
         ]
       },
       "properties": {
-        "id": 1231,
+        "id": 214,
         "name": "Noltemeyerbrücke",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1231
+      "id": 214
     },
     {
       "type": "Feature",
@@ -3926,7 +3926,7 @@
         ]
       },
       "properties": {
-        "id": 1232,
+        "id": 215,
         "name": "Klingerstraße",
         "alternate_names": [
           "Klingerstr"
@@ -3934,7 +3934,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1232
+      "id": 215
     },
     {
       "type": "Feature",
@@ -3946,12 +3946,12 @@
         ]
       },
       "properties": {
-        "id": 1233,
+        "id": 216,
         "name": "Spannhagengarten",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1233
+      "id": 216
     },
     {
       "type": "Feature",
@@ -3963,7 +3963,7 @@
         ]
       },
       "properties": {
-        "id": 1234,
+        "id": 217,
         "name": "Pelikanstraße",
         "alternate_names": [
           "Pelikanstr"
@@ -3971,7 +3971,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1234
+      "id": 217
     },
     {
       "type": "Feature",
@@ -3983,12 +3983,12 @@
         ]
       },
       "properties": {
-        "id": 1235,
+        "id": 218,
         "name": "Vier Grenzen",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1235
+      "id": 218
     },
     {
       "type": "Feature",
@@ -4000,7 +4000,7 @@
         ]
       },
       "properties": {
-        "id": 1236,
+        "id": 219,
         "name": "Lortzingstraße",
         "alternate_names": [
           "Lortzingstr"
@@ -4008,7 +4008,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1236
+      "id": 219
     },
     {
       "type": "Feature",
@@ -4020,12 +4020,12 @@
         ]
       },
       "properties": {
-        "id": 1237,
+        "id": 220,
         "name": "Lister Platz",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1237
+      "id": 220
     },
     {
       "type": "Feature",
@@ -4037,7 +4037,7 @@
         ]
       },
       "properties": {
-        "id": 1238,
+        "id": 221,
         "name": "Sedanstraße/Lister Meile",
         "alternate_names": [
           "Sedanstraße",
@@ -4047,7 +4047,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1238
+      "id": 221
     },
     {
       "type": "Feature",
@@ -4059,7 +4059,7 @@
         ]
       },
       "properties": {
-        "id": 1239,
+        "id": 222,
         "name": "Hauptbahnhof",
         "alternate_names": [
           "Hbf"
@@ -4067,7 +4067,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1239
+      "id": 222
     },
     {
       "type": "Feature",
@@ -4079,12 +4079,12 @@
         ]
       },
       "properties": {
-        "id": 1240,
+        "id": 223,
         "name": "Kröpcke",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1240
+      "id": 223
     },
     {
       "type": "Feature",
@@ -4096,7 +4096,7 @@
         ]
       },
       "properties": {
-        "id": 1241,
+        "id": 224,
         "name": "Markthalle/Landtag (U)",
         "alternate_names": [
           "Markthalle/Landtag",
@@ -4105,7 +4105,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1241
+      "id": 224
     },
     {
       "type": "Feature",
@@ -4117,12 +4117,12 @@
         ]
       },
       "properties": {
-        "id": 1242,
+        "id": 225,
         "name": "Waterloo",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1242
+      "id": 225
     },
     {
       "type": "Feature",
@@ -4134,12 +4134,12 @@
         ]
       },
       "properties": {
-        "id": 1243,
+        "id": 226,
         "name": "Allerweg",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1243
+      "id": 226
     },
     {
       "type": "Feature",
@@ -4151,12 +4151,12 @@
         ]
       },
       "properties": {
-        "id": 1244,
+        "id": 227,
         "name": "Stadionbrücke",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1244
+      "id": 227
     },
     {
       "type": "Feature",
@@ -4168,7 +4168,7 @@
         ]
       },
       "properties": {
-        "id": 1245,
+        "id": 228,
         "name": "Bahnhof Linden/Fischerhof",
         "alternate_names": [
           "Bf Linden/Fischerhof",
@@ -4177,7 +4177,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1245
+      "id": 228
     },
     {
       "type": "Feature",
@@ -4189,12 +4189,12 @@
         ]
       },
       "properties": {
-        "id": 1246,
+        "id": 229,
         "name": "Schünemannplatz",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1246
+      "id": 229
     },
     {
       "type": "Feature",
@@ -4206,7 +4206,7 @@
         ]
       },
       "properties": {
-        "id": 1247,
+        "id": 230,
         "name": "Beekestraße",
         "alternate_names": [
           "Beekestr"
@@ -4214,7 +4214,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1247
+      "id": 230
     },
     {
       "type": "Feature",
@@ -4226,7 +4226,7 @@
         ]
       },
       "properties": {
-        "id": 1248,
+        "id": 231,
         "name": "Wallensteinstraße",
         "alternate_names": [
           "Wallensteinstr"
@@ -4234,7 +4234,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1248
+      "id": 231
     },
     {
       "type": "Feature",
@@ -4246,7 +4246,7 @@
         ]
       },
       "properties": {
-        "id": 1249,
+        "id": 232,
         "name": "Bartold-Knaust-Straße",
         "alternate_names": [
           "Bartold-Knaust-Str"
@@ -4254,7 +4254,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1249
+      "id": 232
     },
     {
       "type": "Feature",
@@ -4266,12 +4266,12 @@
         ]
       },
       "properties": {
-        "id": 1250,
+        "id": 233,
         "name": "Am Sauerwinkel",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1250
+      "id": 233
     },
     {
       "type": "Feature",
@@ -4283,12 +4283,12 @@
         ]
       },
       "properties": {
-        "id": 1251,
+        "id": 234,
         "name": "Mühlenberger Markt",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1251
+      "id": 234
     },
     {
       "type": "Feature",
@@ -4300,7 +4300,7 @@
         ]
       },
       "properties": {
-        "id": 1252,
+        "id": 235,
         "name": "Tresckowstraße",
         "alternate_names": [
           "Tresckowstr"
@@ -4308,7 +4308,7 @@
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1252
+      "id": 235
     },
     {
       "type": "Feature",
@@ -4320,12 +4320,12 @@
         ]
       },
       "properties": {
-        "id": 1253,
+        "id": 236,
         "name": "Wettbergen",
         "line": "Hannover7",
         "order": 12
       },
-      "id": 1253
+      "id": 236
     },
     {
       "type": "Feature",
@@ -4337,12 +4337,12 @@
         ]
       },
       "properties": {
-        "id": 1269,
+        "id": 252,
         "name": "Messe / Nord",
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1269
+      "id": 252
     },
     {
       "type": "Feature",
@@ -4354,12 +4354,12 @@
         ]
       },
       "properties": {
-        "id": 1268,
+        "id": 251,
         "name": "Am Mittelfelde",
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1268
+      "id": 251
     },
     {
       "type": "Feature",
@@ -4371,12 +4371,12 @@
         ]
       },
       "properties": {
-        "id": 1267,
+        "id": 250,
         "name": "Stadtfriedhof Seelhorst",
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1267
+      "id": 250
     },
     {
       "type": "Feature",
@@ -4388,7 +4388,7 @@
         ]
       },
       "properties": {
-        "id": 1266,
+        "id": 249,
         "name": "Bothmerstraße",
         "alternate_names": [
           "Bothmerstr"
@@ -4396,7 +4396,7 @@
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1266
+      "id": 249
     },
     {
       "type": "Feature",
@@ -4408,7 +4408,7 @@
         ]
       },
       "properties": {
-        "id": 1265,
+        "id": 248,
         "name": "Peiner Straße",
         "alternate_names": [
           "Peiner Str"
@@ -4416,7 +4416,7 @@
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1265
+      "id": 248
     },
     {
       "type": "Feature",
@@ -4428,7 +4428,7 @@
         ]
       },
       "properties": {
-        "id": 1264,
+        "id": 247,
         "name": "Fiedelerstraße",
         "alternate_names": [
           "Fiedelerstr"
@@ -4436,7 +4436,7 @@
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1264
+      "id": 247
     },
     {
       "type": "Feature",
@@ -4448,12 +4448,12 @@
         ]
       },
       "properties": {
-        "id": 1263,
+        "id": 246,
         "name": "Döhrener Turm",
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1263
+      "id": 246
     },
     {
       "type": "Feature",
@@ -4465,12 +4465,12 @@
         ]
       },
       "properties": {
-        "id": 1262,
+        "id": 245,
         "name": "Altenbekener Damm",
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1262
+      "id": 245
     },
     {
       "type": "Feature",
@@ -4482,7 +4482,7 @@
         ]
       },
       "properties": {
-        "id": 1261,
+        "id": 244,
         "name": "Geibelstraße",
         "alternate_names": [
           "Geibelstr"
@@ -4490,7 +4490,7 @@
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1261
+      "id": 244
     },
     {
       "type": "Feature",
@@ -4502,7 +4502,7 @@
         ]
       },
       "properties": {
-        "id": 1260,
+        "id": 243,
         "name": "Schlägerstraße",
         "alternate_names": [
           "Schlägerstr"
@@ -4510,7 +4510,7 @@
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1260
+      "id": 243
     },
     {
       "type": "Feature",
@@ -4522,12 +4522,12 @@
         ]
       },
       "properties": {
-        "id": 1259,
+        "id": 242,
         "name": "Aegidientorplatz",
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1259
+      "id": 242
     },
     {
       "type": "Feature",
@@ -4539,12 +4539,12 @@
         ]
       },
       "properties": {
-        "id": 1258,
+        "id": 241,
         "name": "Kröpcke",
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1258
+      "id": 241
     },
     {
       "type": "Feature",
@@ -4556,7 +4556,7 @@
         ]
       },
       "properties": {
-        "id": 1257,
+        "id": 240,
         "name": "Hauptbahnhof",
         "alternate_names": [
           "Hbf"
@@ -4564,7 +4564,7 @@
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1257
+      "id": 240
     },
     {
       "type": "Feature",
@@ -4576,7 +4576,7 @@
         ]
       },
       "properties": {
-        "id": 1256,
+        "id": 239,
         "name": "Werderstraße",
         "alternate_names": [
           "Werderstr"
@@ -4584,7 +4584,7 @@
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1256
+      "id": 239
     },
     {
       "type": "Feature",
@@ -4596,12 +4596,12 @@
         ]
       },
       "properties": {
-        "id": 1255,
+        "id": 238,
         "name": "Vahrenwalder Platz",
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1255
+      "id": 238
     },
     {
       "type": "Feature",
@@ -4613,7 +4613,7 @@
         ]
       },
       "properties": {
-        "id": 1254,
+        "id": 237,
         "name": "Dragonerstraße",
         "alternate_names": [
           "Dragonerstr"
@@ -4621,7 +4621,7 @@
         "line": "Hannover8",
         "order": 13
       },
-      "id": 1254
+      "id": 237
     },
     {
       "type": "Feature",
@@ -4633,12 +4633,12 @@
         ]
       },
       "properties": {
-        "id": 1270,
+        "id": 253,
         "name": "Empelde",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1270
+      "id": 253
     },
     {
       "type": "Feature",
@@ -4650,12 +4650,12 @@
         ]
       },
       "properties": {
-        "id": 1271,
+        "id": 254,
         "name": "Hermann-Ehlers-Allee",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1271
+      "id": 254
     },
     {
       "type": "Feature",
@@ -4667,12 +4667,12 @@
         ]
       },
       "properties": {
-        "id": 1272,
+        "id": 255,
         "name": "Safariweg",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1272
+      "id": 255
     },
     {
       "type": "Feature",
@@ -4684,12 +4684,12 @@
         ]
       },
       "properties": {
-        "id": 1273,
+        "id": 256,
         "name": "Am Soltekampe",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1273
+      "id": 256
     },
     {
       "type": "Feature",
@@ -4701,12 +4701,12 @@
         ]
       },
       "properties": {
-        "id": 1274,
+        "id": 257,
         "name": "Körtingsdorfer Weg",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1274
+      "id": 257
     },
     {
       "type": "Feature",
@@ -4718,12 +4718,12 @@
         ]
       },
       "properties": {
-        "id": 1275,
+        "id": 258,
         "name": "Bauweg",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1275
+      "id": 258
     },
     {
       "type": "Feature",
@@ -4735,12 +4735,12 @@
         ]
       },
       "properties": {
-        "id": 1276,
+        "id": 259,
         "name": "Am Lindener Hafen",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1276
+      "id": 259
     },
     {
       "type": "Feature",
@@ -4752,7 +4752,7 @@
         ]
       },
       "properties": {
-        "id": 1277,
+        "id": 260,
         "name": "Bernhard-Caspar-Straße",
         "alternate_names": [
           "Bernhard-Caspar-Str"
@@ -4760,7 +4760,7 @@
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1277
+      "id": 260
     },
     {
       "type": "Feature",
@@ -4772,7 +4772,7 @@
         ]
       },
       "properties": {
-        "id": 1278,
+        "id": 261,
         "name": "Nieschlagstraße",
         "alternate_names": [
           "Nieschlagstr"
@@ -4780,7 +4780,7 @@
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1278
+      "id": 261
     },
     {
       "type": "Feature",
@@ -4792,12 +4792,12 @@
         ]
       },
       "properties": {
-        "id": 1279,
+        "id": 262,
         "name": "Lindener Marktplatz",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1279
+      "id": 262
     },
     {
       "type": "Feature",
@@ -4809,12 +4809,12 @@
         ]
       },
       "properties": {
-        "id": 1280,
+        "id": 263,
         "name": "Schwarzer Bär",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1280
+      "id": 263
     },
     {
       "type": "Feature",
@@ -4826,12 +4826,12 @@
         ]
       },
       "properties": {
-        "id": 1281,
+        "id": 264,
         "name": "Waterloo",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1281
+      "id": 264
     },
     {
       "type": "Feature",
@@ -4843,7 +4843,7 @@
         ]
       },
       "properties": {
-        "id": 1282,
+        "id": 265,
         "name": "Markthalle/Landtag (U)",
         "alternate_names": [
           "Markthalle/Landtag",
@@ -4852,7 +4852,7 @@
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1282
+      "id": 265
     },
     {
       "type": "Feature",
@@ -4864,12 +4864,12 @@
         ]
       },
       "properties": {
-        "id": 1283,
+        "id": 266,
         "name": "Kröpcke",
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1283
+      "id": 266
     },
     {
       "type": "Feature",
@@ -4881,7 +4881,7 @@
         ]
       },
       "properties": {
-        "id": 1284,
+        "id": 267,
         "name": "Hauptbahnhof",
         "alternate_names": [
           "Hbf"
@@ -4889,7 +4889,7 @@
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1284
+      "id": 267
     },
     {
       "type": "Feature",
@@ -4901,7 +4901,7 @@
         ]
       },
       "properties": {
-        "id": 1367,
+        "id": 268,
         "name": "Riechersstraße",
         "alternate_names": [
           "Riechersstr"
@@ -4909,7 +4909,7 @@
         "line": "Hannover9",
         "order": 14
       },
-      "id": 1367
+      "id": 268
     },
     {
       "type": "Feature",
@@ -4921,12 +4921,12 @@
         ]
       },
       "properties": {
-        "id": 1285,
+        "id": 280,
         "name": "Ahlem",
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1285
+      "id": 280
     },
     {
       "type": "Feature",
@@ -4938,12 +4938,12 @@
         ]
       },
       "properties": {
-        "id": 1286,
+        "id": 279,
         "name": "Gedenkstätte Ahlem",
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1286
+      "id": 279
     },
     {
       "type": "Feature",
@@ -4955,7 +4955,7 @@
         ]
       },
       "properties": {
-        "id": 1287,
+        "id": 278,
         "name": "Brunnenstraße",
         "alternate_names": [
           "Brunnenstr"
@@ -4963,7 +4963,7 @@
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1287
+      "id": 278
     },
     {
       "type": "Feature",
@@ -4975,7 +4975,7 @@
         ]
       },
       "properties": {
-        "id": 1288,
+        "id": 277,
         "name": "Harenberger Straße",
         "alternate_names": [
           "Harenberger Str"
@@ -4983,7 +4983,7 @@
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1288
+      "id": 277
     },
     {
       "type": "Feature",
@@ -4995,7 +4995,7 @@
         ]
       },
       "properties": {
-        "id": 1289,
+        "id": 276,
         "name": "Wunstorfer Straße",
         "alternate_names": [
           "Wunstorfer Str"
@@ -5003,7 +5003,7 @@
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1289
+      "id": 276
     },
     {
       "type": "Feature",
@@ -5015,7 +5015,7 @@
         ]
       },
       "properties": {
-        "id": 1290,
+        "id": 275,
         "name": "Leinaustraße",
         "alternate_names": [
           "Leinaustr"
@@ -5023,7 +5023,7 @@
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1290
+      "id": 275
     },
     {
       "type": "Feature",
@@ -5035,12 +5035,12 @@
         ]
       },
       "properties": {
-        "id": 1291,
+        "id": 274,
         "name": "Am Küchengarten",
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1291
+      "id": 274
     },
     {
       "type": "Feature",
@@ -5052,12 +5052,12 @@
         ]
       },
       "properties": {
-        "id": 1292,
+        "id": 273,
         "name": "Glocksee",
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1292
+      "id": 273
     },
     {
       "type": "Feature",
@@ -5069,12 +5069,12 @@
         ]
       },
       "properties": {
-        "id": 1293,
+        "id": 272,
         "name": "Goetheplatz",
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1293
+      "id": 272
     },
     {
       "type": "Feature",
@@ -5086,12 +5086,12 @@
         ]
       },
       "properties": {
-        "id": 1294,
+        "id": 271,
         "name": "Steintor",
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1294
+      "id": 271
     },
     {
       "type": "Feature",
@@ -5103,7 +5103,7 @@
         ]
       },
       "properties": {
-        "id": 1295,
+        "id": 270,
         "name": "Hauptbahnhof/Rosenstraße",
         "alternate_names": [
           "Hauptbahnhof/Rosenstr",
@@ -5112,7 +5112,7 @@
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1295
+      "id": 270
     },
     {
       "type": "Feature",
@@ -5124,7 +5124,7 @@
         ]
       },
       "properties": {
-        "id": 1296,
+        "id": 269,
         "name": "Hauptbahnhof/ZOB",
         "alternate_names": [
           "Hbf/ZOB"
@@ -5132,7 +5132,7 @@
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1296
+      "id": 269
     },
     {
       "type": "Feature",
@@ -5144,12 +5144,12 @@
         ]
       },
       "properties": {
-        "id": 1368,
+        "id": 281,
         "name": "Freizeitheim Linden",
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1368
+      "id": 281
     },
     {
       "type": "Feature",
@@ -5161,7 +5161,7 @@
         ]
       },
       "properties": {
-        "id": 1369,
+        "id": 282,
         "name": "Glocksee/Betriebshof",
         "alternate_names": [
           "Glocksee/Bhf"
@@ -5169,7 +5169,7 @@
         "line": "Hannover10",
         "order": 2
       },
-      "id": 1369
+      "id": 282
     },
     {
       "type": "Feature",
@@ -5181,12 +5181,12 @@
         ]
       },
       "properties": {
-        "id": 1308,
+        "id": 294,
         "name": "Zoo",
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1308
+      "id": 294
     },
     {
       "type": "Feature",
@@ -5198,12 +5198,12 @@
         ]
       },
       "properties": {
-        "id": 1307,
+        "id": 293,
         "name": "Hannover Congress Centrum",
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1307
+      "id": 293
     },
     {
       "type": "Feature",
@@ -5215,7 +5215,7 @@
         ]
       },
       "properties": {
-        "id": 1306,
+        "id": 292,
         "name": "Clausewitzstraße",
         "alternate_names": [
           "Clausewitzstr"
@@ -5223,7 +5223,7 @@
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1306
+      "id": 292
     },
     {
       "type": "Feature",
@@ -5235,12 +5235,12 @@
         ]
       },
       "properties": {
-        "id": 1305,
+        "id": 291,
         "name": "Braunschweiger Platz",
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1305
+      "id": 291
     },
     {
       "type": "Feature",
@@ -5252,7 +5252,7 @@
         ]
       },
       "properties": {
-        "id": 1304,
+        "id": 290,
         "name": "Marienstraße",
         "alternate_names": [
           "Marienstr"
@@ -5260,7 +5260,7 @@
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1304
+      "id": 290
     },
     {
       "type": "Feature",
@@ -5272,12 +5272,12 @@
         ]
       },
       "properties": {
-        "id": 1303,
+        "id": 289,
         "name": "Aegidientorplatz",
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1303
+      "id": 289
     },
     {
       "type": "Feature",
@@ -5289,12 +5289,12 @@
         ]
       },
       "properties": {
-        "id": 1302,
+        "id": 288,
         "name": "Kröpcke",
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1302
+      "id": 288
     },
     {
       "type": "Feature",
@@ -5306,12 +5306,12 @@
         ]
       },
       "properties": {
-        "id": 1301,
+        "id": 287,
         "name": "Steintor",
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1301
+      "id": 287
     },
     {
       "type": "Feature",
@@ -5323,12 +5323,12 @@
         ]
       },
       "properties": {
-        "id": 1300,
+        "id": 286,
         "name": "Christuskirche",
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1300
+      "id": 286
     },
     {
       "type": "Feature",
@@ -5340,7 +5340,7 @@
         ]
       },
       "properties": {
-        "id": 1299,
+        "id": 285,
         "name": "Kopernikusstraße",
         "alternate_names": [
           "Kopernikusstr"
@@ -5348,7 +5348,7 @@
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1299
+      "id": 285
     },
     {
       "type": "Feature",
@@ -5360,12 +5360,12 @@
         ]
       },
       "properties": {
-        "id": 1298,
+        "id": 284,
         "name": "An der Strangriede",
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1298
+      "id": 284
     },
     {
       "type": "Feature",
@@ -5377,7 +5377,7 @@
         ]
       },
       "properties": {
-        "id": 1297,
+        "id": 283,
         "name": "Haltenhoffstraße",
         "alternate_names": [
           "Haltenhoffstr"
@@ -5385,7 +5385,7 @@
         "line": "Hannover11",
         "order": 3
       },
-      "id": 1297
+      "id": 283
     },
     {
       "type": "Feature",
@@ -5397,7 +5397,7 @@
         ]
       },
       "properties": {
-        "id": 1321,
+        "id": 295,
         "name": "Hauptbahnhof",
         "alternate_names": [
           "Hbf"
@@ -5405,7 +5405,7 @@
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1321
+      "id": 295
     },
     {
       "type": "Feature",
@@ -5417,12 +5417,12 @@
         ]
       },
       "properties": {
-        "id": 1320,
+        "id": 296,
         "name": "Kröpcke",
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1320
+      "id": 296
     },
     {
       "type": "Feature",
@@ -5434,7 +5434,7 @@
         ]
       },
       "properties": {
-        "id": 1319,
+        "id": 297,
         "name": "Markthalle/Landtag (U)",
         "alternate_names": [
           "Markthalle/Landtag",
@@ -5443,7 +5443,7 @@
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1319
+      "id": 297
     },
     {
       "type": "Feature",
@@ -5455,12 +5455,12 @@
         ]
       },
       "properties": {
-        "id": 1318,
+        "id": 298,
         "name": "Waterloo",
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1318
+      "id": 298
     },
     {
       "type": "Feature",
@@ -5472,7 +5472,7 @@
         ]
       },
       "properties": {
-        "id": 1317,
+        "id": 299,
         "name": "Humboldtstraße",
         "alternate_names": [
           "Humboldtstr"
@@ -5480,7 +5480,7 @@
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1317
+      "id": 299
     },
     {
       "type": "Feature",
@@ -5492,12 +5492,12 @@
         ]
       },
       "properties": {
-        "id": 1316,
+        "id": 300,
         "name": "Glocksee",
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1316
+      "id": 300
     },
     {
       "type": "Feature",
@@ -5509,12 +5509,12 @@
         ]
       },
       "properties": {
-        "id": 1315,
+        "id": 301,
         "name": "Am Küchengarten",
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1315
+      "id": 301
     },
     {
       "type": "Feature",
@@ -5526,7 +5526,7 @@
         ]
       },
       "properties": {
-        "id": 1314,
+        "id": 302,
         "name": "Leinaustraße",
         "alternate_names": [
           "Leinaustr"
@@ -5534,7 +5534,7 @@
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1314
+      "id": 302
     },
     {
       "type": "Feature",
@@ -5546,7 +5546,7 @@
         ]
       },
       "properties": {
-        "id": 1313,
+        "id": 303,
         "name": "Wunstorfer Straße",
         "alternate_names": [
           "Wunstorfer Str"
@@ -5554,7 +5554,7 @@
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1313
+      "id": 303
     },
     {
       "type": "Feature",
@@ -5566,7 +5566,7 @@
         ]
       },
       "properties": {
-        "id": 1312,
+        "id": 304,
         "name": "Harenberger Straße",
         "alternate_names": [
           "Harenberger Str"
@@ -5574,7 +5574,7 @@
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1312
+      "id": 304
     },
     {
       "type": "Feature",
@@ -5586,7 +5586,7 @@
         ]
       },
       "properties": {
-        "id": 1311,
+        "id": 305,
         "name": "Brunnenstraße",
         "alternate_names": [
           "Brunnenstr"
@@ -5594,7 +5594,7 @@
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1311
+      "id": 305
     },
     {
       "type": "Feature",
@@ -5606,12 +5606,12 @@
         ]
       },
       "properties": {
-        "id": 1310,
+        "id": 306,
         "name": "Gedenkstätte Ahlem",
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1310
+      "id": 306
     },
     {
       "type": "Feature",
@@ -5623,12 +5623,12 @@
         ]
       },
       "properties": {
-        "id": 1309,
+        "id": 307,
         "name": "Ahlem",
         "line": "Hannover12",
         "order": 4
       },
-      "id": 1309
+      "id": 307
     },
     {
       "type": "Feature",
@@ -5640,12 +5640,12 @@
         ]
       },
       "properties": {
-        "id": 1322,
+        "id": 308,
         "name": "Fasanenkrug",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1322
+      "id": 308
     },
     {
       "type": "Feature",
@@ -5657,12 +5657,12 @@
         ]
       },
       "properties": {
-        "id": 1323,
+        "id": 309,
         "name": "Stadtfriedhof Bothfeld",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1323
+      "id": 309
     },
     {
       "type": "Feature",
@@ -5674,7 +5674,7 @@
         ]
       },
       "properties": {
-        "id": 1324,
+        "id": 310,
         "name": "Kurze-Kamp-Straße",
         "alternate_names": [
           "Kurze-Kamp-Str"
@@ -5682,7 +5682,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1324
+      "id": 310
     },
     {
       "type": "Feature",
@@ -5694,12 +5694,12 @@
         ]
       },
       "properties": {
-        "id": 1325,
+        "id": 311,
         "name": "Bothfeld",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1325
+      "id": 311
     },
     {
       "type": "Feature",
@@ -5711,12 +5711,12 @@
         ]
       },
       "properties": {
-        "id": 1326,
+        "id": 312,
         "name": "Bothfelder Kirchweg",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1326
+      "id": 312
     },
     {
       "type": "Feature",
@@ -5728,12 +5728,12 @@
         ]
       },
       "properties": {
-        "id": 1327,
+        "id": 313,
         "name": "Noltemeyerbrücke",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1327
+      "id": 313
     },
     {
       "type": "Feature",
@@ -5745,7 +5745,7 @@
         ]
       },
       "properties": {
-        "id": 1328,
+        "id": 314,
         "name": "Klingerstraße",
         "alternate_names": [
           "Klingerstr"
@@ -5753,7 +5753,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1328
+      "id": 314
     },
     {
       "type": "Feature",
@@ -5765,12 +5765,12 @@
         ]
       },
       "properties": {
-        "id": 1329,
+        "id": 315,
         "name": "Spannhagengarten",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1329
+      "id": 315
     },
     {
       "type": "Feature",
@@ -5782,7 +5782,7 @@
         ]
       },
       "properties": {
-        "id": 1330,
+        "id": 316,
         "name": "Pelikanstraße",
         "alternate_names": [
           "Pelikanstr"
@@ -5790,7 +5790,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1330
+      "id": 316
     },
     {
       "type": "Feature",
@@ -5802,12 +5802,12 @@
         ]
       },
       "properties": {
-        "id": 1331,
+        "id": 317,
         "name": "Vier Grenzen",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1331
+      "id": 317
     },
     {
       "type": "Feature",
@@ -5819,7 +5819,7 @@
         ]
       },
       "properties": {
-        "id": 1332,
+        "id": 318,
         "name": "Lortzingstraße",
         "alternate_names": [
           "Lortzingstr"
@@ -5827,7 +5827,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1332
+      "id": 318
     },
     {
       "type": "Feature",
@@ -5839,12 +5839,12 @@
         ]
       },
       "properties": {
-        "id": 1333,
+        "id": 319,
         "name": "Lister Platz",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1333
+      "id": 319
     },
     {
       "type": "Feature",
@@ -5856,7 +5856,7 @@
         ]
       },
       "properties": {
-        "id": 1334,
+        "id": 320,
         "name": "Sedanstraße/Lister Meile",
         "alternate_names": [
           "Sedanstraße",
@@ -5866,7 +5866,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1334
+      "id": 320
     },
     {
       "type": "Feature",
@@ -5878,7 +5878,7 @@
         ]
       },
       "properties": {
-        "id": 1335,
+        "id": 321,
         "name": "Hauptbahnhof",
         "alternate_names": [
           "Hbf"
@@ -5886,7 +5886,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1335
+      "id": 321
     },
     {
       "type": "Feature",
@@ -5898,12 +5898,12 @@
         ]
       },
       "properties": {
-        "id": 1336,
+        "id": 322,
         "name": "Kröpcke",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1336
+      "id": 322
     },
     {
       "type": "Feature",
@@ -5915,7 +5915,7 @@
         ]
       },
       "properties": {
-        "id": 1337,
+        "id": 323,
         "name": "Markthalle/Landtag (U)",
         "alternate_names": [
           "Markthalle/Landtag",
@@ -5924,7 +5924,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1337
+      "id": 323
     },
     {
       "type": "Feature",
@@ -5936,12 +5936,12 @@
         ]
       },
       "properties": {
-        "id": 1338,
+        "id": 324,
         "name": "Waterloo",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1338
+      "id": 324
     },
     {
       "type": "Feature",
@@ -5953,12 +5953,12 @@
         ]
       },
       "properties": {
-        "id": 1339,
+        "id": 325,
         "name": "Allerweg",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1339
+      "id": 325
     },
     {
       "type": "Feature",
@@ -5970,12 +5970,12 @@
         ]
       },
       "properties": {
-        "id": 1340,
+        "id": 326,
         "name": "Stadionbrücke",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1340
+      "id": 326
     },
     {
       "type": "Feature",
@@ -5987,7 +5987,7 @@
         ]
       },
       "properties": {
-        "id": 1341,
+        "id": 327,
         "name": "Bahnhof Linden/Fischerhof",
         "alternate_names": [
           "Bf Linden/Fischerhof",
@@ -5996,7 +5996,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1341
+      "id": 327
     },
     {
       "type": "Feature",
@@ -6008,12 +6008,12 @@
         ]
       },
       "properties": {
-        "id": 1342,
+        "id": 328,
         "name": "Schünemannplatz",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1342
+      "id": 328
     },
     {
       "type": "Feature",
@@ -6025,7 +6025,7 @@
         ]
       },
       "properties": {
-        "id": 1343,
+        "id": 329,
         "name": "Beekestraße",
         "alternate_names": [
           "Beekestr"
@@ -6033,7 +6033,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1343
+      "id": 329
     },
     {
       "type": "Feature",
@@ -6045,7 +6045,7 @@
         ]
       },
       "properties": {
-        "id": 1344,
+        "id": 330,
         "name": "Wallensteinstraße",
         "alternate_names": [
           "Wallensteinstr"
@@ -6053,7 +6053,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1344
+      "id": 330
     },
     {
       "type": "Feature",
@@ -6065,12 +6065,12 @@
         ]
       },
       "properties": {
-        "id": 1345,
+        "id": 331,
         "name": "Unter den Birken",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1345
+      "id": 331
     },
     {
       "type": "Feature",
@@ -6082,12 +6082,12 @@
         ]
       },
       "properties": {
-        "id": 1346,
+        "id": 332,
         "name": "Stadtfriedhof Ricklingen",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1346
+      "id": 332
     },
     {
       "type": "Feature",
@@ -6099,7 +6099,7 @@
         ]
       },
       "properties": {
-        "id": 1347,
+        "id": 333,
         "name": "Hemmingen/Saarstraße",
         "alternate_names": [
           "Hemmingen/Saarstr"
@@ -6107,7 +6107,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1347
+      "id": 333
     },
     {
       "type": "Feature",
@@ -6119,12 +6119,12 @@
         ]
       },
       "properties": {
-        "id": 1348,
+        "id": 334,
         "name": "Hemmingen/Zentrum",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1348
+      "id": 334
     },
     {
       "type": "Feature",
@@ -6136,7 +6136,7 @@
         ]
       },
       "properties": {
-        "id": 1349,
+        "id": 335,
         "name": "Hemmingen/Berliner Straße",
         "alternate_names": [
           "Hemmingen/Berliner Str"
@@ -6144,7 +6144,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1349
+      "id": 335
     },
     {
       "type": "Feature",
@@ -6156,12 +6156,12 @@
         ]
       },
       "properties": {
-        "id": 1350,
+        "id": 336,
         "name": "Hemmingen",
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1350
+      "id": 336
     },
     {
       "type": "Feature",
@@ -6173,7 +6173,7 @@
         ]
       },
       "properties": {
-        "id": 1370,
+        "id": 337,
         "name": "Buchholz/Betriebshof",
         "alternate_names": [
           "Buchholz/Bhf"
@@ -6181,7 +6181,7 @@
         "line": "Hannover13",
         "order": 5
       },
-      "id": 1370
+      "id": 337
     },
     {
       "type": "Feature",
@@ -6193,7 +6193,7 @@
         ]
       },
       "properties": {
-        "id": 1351,
+        "id": 349,
         "name": "Hauptbahnhof/ZOB",
         "alternate_names": [
           "Hbf/ZOB"
@@ -6201,7 +6201,7 @@
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1351
+      "id": 349
     },
     {
       "type": "Feature",
@@ -6213,7 +6213,7 @@
         ]
       },
       "properties": {
-        "id": 1352,
+        "id": 348,
         "name": "Hauptbahnhof/Rosenstraße",
         "alternate_names": [
           "Hauptbahnhof/Rosenstr",
@@ -6222,7 +6222,7 @@
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1352
+      "id": 348
     },
     {
       "type": "Feature",
@@ -6234,12 +6234,12 @@
         ]
       },
       "properties": {
-        "id": 1353,
+        "id": 347,
         "name": "Steintor",
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1353
+      "id": 347
     },
     {
       "type": "Feature",
@@ -6251,12 +6251,12 @@
         ]
       },
       "properties": {
-        "id": 1354,
+        "id": 346,
         "name": "Goetheplatz",
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1354
+      "id": 346
     },
     {
       "type": "Feature",
@@ -6268,7 +6268,7 @@
         ]
       },
       "properties": {
-        "id": 1355,
+        "id": 345,
         "name": "Humboldtstraße",
         "alternate_names": [
           "Humboldtstr"
@@ -6276,7 +6276,7 @@
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1355
+      "id": 345
     },
     {
       "type": "Feature",
@@ -6288,12 +6288,12 @@
         ]
       },
       "properties": {
-        "id": 1356,
+        "id": 344,
         "name": "Schwarzer Bär",
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1356
+      "id": 344
     },
     {
       "type": "Feature",
@@ -6305,12 +6305,12 @@
         ]
       },
       "properties": {
-        "id": 1357,
+        "id": 343,
         "name": "Allerweg",
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1357
+      "id": 343
     },
     {
       "type": "Feature",
@@ -6322,12 +6322,12 @@
         ]
       },
       "properties": {
-        "id": 1358,
+        "id": 342,
         "name": "Stadionbrücke",
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1358
+      "id": 342
     },
     {
       "type": "Feature",
@@ -6339,7 +6339,7 @@
         ]
       },
       "properties": {
-        "id": 1359,
+        "id": 341,
         "name": "Bahnhof Linden/Fischerhof",
         "alternate_names": [
           "Bf Linden/Fischerhof",
@@ -6348,7 +6348,7 @@
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1359
+      "id": 341
     },
     {
       "type": "Feature",
@@ -6360,12 +6360,12 @@
         ]
       },
       "properties": {
-        "id": 1360,
+        "id": 340,
         "name": "Schünemannplatz",
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1360
+      "id": 340
     },
     {
       "type": "Feature",
@@ -6377,7 +6377,7 @@
         ]
       },
       "properties": {
-        "id": 1361,
+        "id": 339,
         "name": "Beekestraße",
         "alternate_names": [
           "Beekestr"
@@ -6385,7 +6385,7 @@
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1361
+      "id": 339
     },
     {
       "type": "Feature",
@@ -6397,7 +6397,7 @@
         ]
       },
       "properties": {
-        "id": 1362,
+        "id": 338,
         "name": "Wallensteinstraße",
         "alternate_names": [
           "Wallensteinstr"
@@ -6405,7 +6405,7 @@
         "line": "Hannover17",
         "order": 6
       },
-      "id": 1362
+      "id": 338
     }
   ],
   "properties": {
@@ -6426,6 +6426,6 @@
       "Hannover13": 30,
       "Hannover17": 12
     },
-    "nextStationId": 1371
+    "nextStationId": 350
   }
 }
