@@ -1,0 +1,58 @@
+{
+  "BremenTram1": {
+    "name": "1",
+    "color": "#1a9641",
+    "backgroundColor": "#10632a",
+    "textColor": "#FFFFFF",
+    "order": 0
+  },
+  "BremenTram2": {
+    "name": "2",
+    "color": "#1a5da9",
+    "backgroundColor": "#113d6e",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "BremenTram3": {
+    "name": "3",
+    "color": "#2799d6",
+    "backgroundColor": "#14587d",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "BremenTram4": {
+    "name": "4",
+    "color": "#e30b15",
+    "backgroundColor": "#83070d",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "BremenTram5": {
+    "name": "5",
+    "color": "#009db2",
+    "backgroundColor": "#006a78",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "BremenTram6": {
+    "name": "6",
+    "color": "#fecd1f",
+    "backgroundColor": "#aa8a16",
+    "textColor": "#000000",
+    "order": 5
+  },
+  "BremenTram8": {
+    "name": "8",
+    "color": "#98c21d",
+    "backgroundColor": "#708e16",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "BremenTram10": {
+    "name": "10",
+    "color": "#312783",
+    "backgroundColor": "#211a56",
+    "textColor": "#FFFFFF",
+    "order": 7
+  }
+}
