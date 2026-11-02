@@ -11,6 +11,14 @@ const replacers: { [key: string]: (str: string) => string } = {
       .replace(/ & /g, ' ')
       .replace(/ß/g, 'ss'),
 
+  bremen: (str) =>
+    str
+      .replace(/str\b/g, 'straße')
+      .replace(/\bhbf\b/g, 'hauptbahnhof')
+      .replace(/\bbf\b/g, 'bahnhof')
+      .replace(/strasse\b/g, 'straße'),
+      
+
   potsdam: (str) =>
     str
       .replace(/straße/g, 'str')
