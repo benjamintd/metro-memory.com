@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-210 -210 420 420">
+  <g id="kbhL" transform="matrix(1, 0, 0, 1, 800, -500)">
+    <ellipse style="fill: rgb(48, 166, 89); stroke: rgb(255, 255, 255); stroke-width: 12.903;" cx="-800" cy="500" rx="200" ry="200"/>
+    <g style="" transform="matrix(2.632769, 0, 0, 2.632769, -800.2146, 372.874481)">
+      <path d="M -25 74.463 L -25 14.454 L -5.397 14.454 L -5.397 55.674 L 24.792 55.674 L 24.792 74.463 L -25 74.463 Z" fill="white" style="stroke: rgb(255, 255, 255); stroke-width: 4.5371px;"/>
+      <path d="M 24.792 87.997 L -25 87.997 L -25 106.786 L 24.792 106.786 L 24.792 87.997 Z" fill="white" style="stroke: rgb(255, 255, 255); stroke-width: 4.5371px;"/>
+    </g>
+  </g>
+</svg>

@@ -23,6 +23,7 @@ import useTranslation from '@/hooks/useTranslation'
 import FoundList from '@/components/FoundList'
 import useNormalizeString from '@/hooks/useNormalizeString'
 import { bbox } from '@turf/turf'
+import { isArray } from '@/types/isArray'
 
 export default function GamePage({
   fc,
@@ -131,11 +132,19 @@ export default function GamePage({
         getFn: (obj, path) => {
           const value = Fuse.config.getFn(obj, path)
           if (value === undefined) {
+            // According to getFn's type signature, this can never happen
             return ''
-          } else if (Array.isArray(value)) {
-            return value.map((el) => normalizeString(el))
+          } else if (isArray(value)) {
+            return value.map((el) => {
+              // According to getFn's type signature, this can never happen. But it does.
+              if (typeof el === "object" && "v" in el && "i" in el) {
+                el = (el as { readonly v: string }).v;
+              }
+
+              return normalizeString(el)
+            })
           } else {
-            return normalizeString(value as string)
+            return normalizeString(value)
           }
         },
       }),
