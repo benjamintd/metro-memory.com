@@ -41,7 +41,10 @@ async function getOsmRelationsDetails(relationIds: number[]): Promise<
           ref: number
           role: string
         }[]) {
-          if (member.type === 'relation') {
+          if (member.type === 'relation' && member.role === '') {
+            // route_master children have an empty role. Route relations also carry their
+            // multipolygon platforms as relation members (role 'platform') — those are not
+            // routes and must not be followed.
             const relationDetails = await getOsmRelationsDetails([member.ref])
             relationsDetails.push(...relationDetails)
           } else if (member.type === 'node' && member.role.startsWith('stop')) {

@@ -4,6 +4,7 @@ import * as path from 'path'
 import {
   alternateNames,
   linesMetadata,
+  stationAliases,
   KVB_STATIONS_CSV,
   SAME_STATION_MAX_DISTANCE_M,
   type SourceJson,
@@ -224,6 +225,33 @@ function isDefined<T>(arg: T): arg is Exclude<T, null | undefined> {
 }
 
 /**
+ * Names a player is likely to type for a station, beyond its own name. The S-Bahn stations
+ * come from OSM as "Köln-Ehrenfeld" / "Köln Trimbornstraße"; without the bare form the
+ * input handler rejects "Ehrenfeld", because it requires the match to be close in length to
+ * what was typed. Anchored so that "Köln/Bonn Flughafen" keeps its name.
+ *
+ * Parenthesised suffixes are deliberately left alone: "Merten (Sieg)" -> "Merten" would
+ * collide with the tram station Merten near Bornheim.
+ */
+function derivedAlternateNames(stationName: string): string[] {
+  const withoutKoeln = stationName.replace(/^Köln[- ]/, '')
+  return withoutKoeln === stationName ? [] : [withoutKoeln]
+}
+
+/**
+ * Line names are either a tram number ('1', '18') or an S-Bahn one ('S6', 'S19'). Order
+ * both numerically, with every tram ahead of every S-Bahn.
+ */
+function lineSortKey(name: string): number {
+  const isSBahn = name.startsWith('S')
+  const number = Number(isSBahn ? name.slice(1) : name)
+  if (Number.isNaN(number)) {
+    throw new Error(`Cannot order line ${name}: not a number or S<number>`)
+  }
+  return (isSBahn ? 1000 : 0) + number
+}
+
+/**
  * Drop alternate names that the game would not tell apart anyway — either from the
  * station's own name or from an alternate we already kept.
  */
@@ -244,12 +272,94 @@ function dedupeByNormalizedName(
 
 const main = async () => {
   const data = Bun.file(path.join(__dirname, './source.json'))
-  const { lines, nodes, ways } = (await data.json()) as SourceJson
+  const { lines: rawLines, nodes, ways } = (await data.json()) as SourceJson
   const { stopsByLineName, allStationNames } = await parseKvbStops()
 
   const getStationId = await parseOldStationsAndCreateStationIdGetter()
   const waysMap = toMap(ways, 'wayId')
   const nodesMap = toMap(nodes, 'nodeId')
+
+  /**
+   * Cut one route relation down to the part between the segment's two termini, for lines
+   * that run well beyond the Cologne network (S6 towards Essen, S11 towards Düsseldorf).
+   *
+   * Both the stop list and the track are cut. This is exact rather than a heuristic:
+   * every stop node lies on one of the relation's route ways, and the way positions of
+   * the stops run monotonically along the relation's member order, so slicing the ordered
+   * way list between the two termini yields precisely the segment.
+   *
+   * The two boundary ways are kept whole. Measured against the real data the track
+   * overshoots a terminus by at most ~240 m, which is far below a pixel at the zoom where
+   * this network fits on screen, and trimming them would mean carrying per-line overrides
+   * of shared way geometry.
+   */
+  function clipRelationToSegment(
+    lineId: string,
+    relation: SourceJson['lines'][number]['relations'][number],
+    segment: { from: string; to: string },
+  ): SourceJson['lines'][number]['relations'][number] {
+    const wayIndexByNodeId = new Map<number, number>()
+    relation.routesWayIds.forEach((wayId, ix) => {
+      for (const nodeId of waysMap.get(wayId)!.nodeIds) {
+        if (!wayIndexByNodeId.has(nodeId)) wayIndexByNodeId.set(nodeId, ix)
+      }
+    })
+
+    const stopIndexOf = (stationName: string): number => {
+      const ix = relation.stationsNodeIds.findIndex(
+        (nodeId) => nodesMap.get(nodeId)?.name === stationName,
+      )
+      if (ix === -1) {
+        throw new Error(
+          `Line ${lineId}: relation ${relation.relationId} has no stop named "${stationName}" to cut the segment at`,
+        )
+      }
+      return ix
+    }
+    const [firstStop, lastStop] = [
+      stopIndexOf(segment.from),
+      stopIndexOf(segment.to),
+    ].sort((a, b) => a - b)
+
+    const wayIndexOfStop = (stopIx: number): number => {
+      const nodeId = relation.stationsNodeIds[stopIx]
+      const ix = wayIndexByNodeId.get(nodeId)
+      if (ix === undefined) {
+        throw new Error(
+          `Line ${lineId}: terminus node ${nodeId} of relation ${relation.relationId} does not lie on any of its route ways`,
+        )
+      }
+      return ix
+    }
+    const [firstWay, lastWay] = [
+      wayIndexOfStop(firstStop),
+      wayIndexOfStop(lastStop),
+    ].sort((a, b) => a - b)
+
+    return {
+      ...relation,
+      stationsNodeIds: relation.stationsNodeIds.slice(firstStop, lastStop + 1),
+      routesWayIds: relation.routesWayIds.slice(firstWay, lastWay + 1),
+    }
+  }
+
+  const lines: SourceJson['lines'] = rawLines.map((line) => {
+    const segment = linesMetadata[line.lineId]?.segment
+    if (!segment) return line
+    const relations = line.relations.map((relation) =>
+      clipRelationToSegment(line.lineId, relation, segment),
+    )
+    console.debug(
+      `Clipping ${line.lineId} to ${segment.from} .. ${segment.to}: ` +
+        line.relations
+          .map(
+            (r, ix) =>
+              `${r.routesWayIds.length}->${relations[ix].routesWayIds.length} ways`,
+          )
+          .join(', '),
+    )
+    return { ...line, relations }
+  })
 
   // lines
   const augmentedLinesMetadataMap = new Map<
@@ -261,9 +371,12 @@ const main = async () => {
     }
   >()
   const sortedLineIds = Object.entries(linesMetadata)
-    // KVB line names are all numeric, so sort them numerically: a lexicographic sort would
-    // order the legend 1, 12, 13, 15, 16, 17, 18, 3, 4, ...
-    .sort(([, line1], [, line2]) => Number(line1.name) - Number(line2.name))
+    // Sort numerically, trams before S-Bahn: a lexicographic sort would order the legend
+    // 1, 12, 13, 15, 16, 17, 18, 3, 4, ... and Number('S6') is NaN.
+    .sort(
+      ([, line1], [, line2]) =>
+        lineSortKey(line1.name) - lineSortKey(line2.name),
+    )
     .map(([lineId, lineMetadata], ix, arr): string => {
       const numLines = arr.length
       augmentedLinesMetadataMap.set(lineId, {
@@ -320,10 +433,14 @@ const main = async () => {
       nodeIds: { lineId: string; nodeId: number }[]
     }[]
     stationIdByLineId: Map<string, number>
+    /** hand-written in config.ts — an ambiguous one is an error */
     alternateNames: string[]
+    /** derived (OSM spelling, "Köln " prefix dropped) — an ambiguous one is discarded */
+    autoAlternateNames: string[]
   }
 
   const mapKvbNamesUsed = new Map<string, boolean>()
+  const mapStationAliasesUsed = new Map<string, boolean>()
 
   /**
    * The KVB export is the naming authority, but it stops at the KVB/SWB boundary, so it
@@ -331,11 +448,20 @@ const main = async () => {
    * look for the KVB stop of the same line that it corresponds to — by normalized name
    * first, then by distance — and use the KVB name when we find one. Stops with no match
    * keep their OSM name.
+   *
+   * S-Bahn lines have no rows in the KVB export at all, so their stops fall through to
+   * their OSM name unless `stationAliases` says the stop is really one of the tram
+   * stations, in which case the two become a single station on the map.
    */
   function resolveStationName(lineId: string, nodeId: number): string {
     const node = nodesMap.get(nodeId)!
     if (!node.name) {
       throw new Error(`Unknown name for station with node id ${nodeId}`)
+    }
+    const alias = stationAliases[node.name]
+    if (alias) {
+      mapStationAliasesUsed.set(node.name, true)
+      return alias
     }
     const lineName = linesMetadata[lineId].name
     const candidates = stopsByLineName.get(lineName) ?? []
@@ -388,14 +514,16 @@ const main = async () => {
           }
 
           // The KVB and OSM spellings of a station routinely differ ("Poststr." vs
-          // "Poststraße", "Bensberg" vs "Bensberg U"); accept both. The purely
-          // orthographic variants (Straße/Str., Bf/Bahnhof, Hbf/Hauptbahnhof) need no
-          // entry here — the `koeln` replacer in hooks/useNormalizeString.ts folds them
-          // together for every station, and the filter below drops any alternate that is
-          // already equivalent under it.
-          if (normalizeName(stationNode.name!) !== normalizeName(stationName)) {
-            stationAlternateNames.push(stationNode.name!)
-          }
+          // "Poststraße", "Bensberg" vs "Bensberg U", and every S-Bahn stop merged into a
+          // tram station by `stationAliases`); accept both. The purely orthographic
+          // variants (Straße/Str., Bf/Bahnhof, Hbf/Hauptbahnhof) need no entry here — the
+          // `koeln` replacer in hooks/useNormalizeString.ts folds them together for every
+          // station, and the filter below drops any alternate that is already equivalent
+          // under it.
+          const autoAlternateNames = [
+            stationNode.name!,
+            ...derivedAlternateNames(stationName),
+          ]
 
           mapUniqueStationsByName.set(stationName, {
             name: stationName,
@@ -417,8 +545,10 @@ const main = async () => {
               stationAlternateNames,
               stationName,
             ),
+            autoAlternateNames,
           })
         } else {
+          existingStation.autoAlternateNames.push(stationNode.name!)
           if (existingStation.stationIdByLineId.has(line.lineId) === false) {
             existingStation.stationIdByLineId.set(
               line.lineId,
@@ -445,6 +575,35 @@ const main = async () => {
         }
       }
     }
+    // Fold the derived alternates in. Unlike the hand-written ones, a derived name that
+    // would match a second station is simply dropped rather than failing the build: they
+    // are generated for every station, so one clash is a fact about the network, not a
+    // mistake in config.ts. ("Köln Steinstraße" -> "Steinstraße" clashes with the tram
+    // stop Porz Steinstr., whose OSM spelling is already "Steinstraße".)
+    const stationByTypedName = new Map<string, string>()
+    for (const station of mapUniqueStationsByName.values()) {
+      for (const label of [station.name, ...station.alternateNames]) {
+        stationByTypedName.set(normalizeName(label), station.name)
+      }
+    }
+    for (const station of mapUniqueStationsByName.values()) {
+      for (const candidate of dedupeByNormalizedName(
+        station.autoAlternateNames,
+        station.name,
+      )) {
+        const key = normalizeName(candidate)
+        const owner = stationByTypedName.get(key)
+        if (owner === undefined) {
+          stationByTypedName.set(key, station.name)
+          station.alternateNames.push(candidate)
+        } else if (owner !== station.name) {
+          console.debug(
+            ` *** Note: not adding "${candidate}" to ${station.name}: it already identifies ${owner} ***`,
+          )
+        }
+      }
+    }
+
     const mapUniqueStationsByLineIdAndNodeId = new Map<string, StationDetails>()
     for (const stationDetails of mapUniqueStationsByName.values()) {
       // sort nodes by which node covers more lines -> ideally first node covers all lines and only in rare cases we need to use 2nd+ node for some lines (if there's no node matching all lines)
@@ -482,6 +641,13 @@ const main = async () => {
       if (mapAlternateNamesUsed.has(name) === false) {
         console.debug(
           ` *** Warning: Alternate names for station ${name} weren't used because no such station exists ***`,
+        )
+      }
+    }
+    for (const name of Object.keys(stationAliases)) {
+      if (mapStationAliasesUsed.has(name) === false) {
+        console.debug(
+          ` *** Warning: station alias ${name} was never used: no OSM stop has that name ***`,
         )
       }
     }

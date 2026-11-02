@@ -61,11 +61,11 @@ const Input = ({
 
       const sanitizedSearch = normalizeString(search)
       const results = fuse.search(sanitizedSearch)
-      let someAlreadyFound = false
-      const matches: number[] = []
-      for (let i = 0; i < results.length; i++) {
-        const result = results[i]
-        if (
+
+      // a name only counts when it is matched from its first character to (nearly) its
+      // last one, and is about as long as what was typed.
+      const candidates = results.filter(
+        (result) =>
           result.matches &&
           result.matches.length &&
           result.matches.some(
@@ -74,15 +74,34 @@ const Input = ({
               match.value!.length - match.indices[match.indices.length - 1][1] <
                 2 &&
               Math.abs(match.value!.length - sanitizedSearch.length) < 4,
-          )
-        ) {
-          if ((found || []).indexOf(+result.item.id!) === -1) {
-            matches.push(+result.item.id!)
-          } else {
-            someAlreadyFound = true
-            setAlreadyFound(true)
-            setTimeout(() => setAlreadyFound(false), 1200)
-          }
+          ),
+      )
+
+      // Fuse is lenient enough that a single wrong letter still matches, so "Körnerstr"
+      // used to reveal "Kölner Str." as well (and the other way around). Spelling a name
+      // exactly therefore only reveals the stations carrying that exact name, and a
+      // misspelling only reveals the closest ones — stations sharing a name all score
+      // identically, so they are still revealed together.
+      const exactMatches = candidates.filter((result) =>
+        result.matches!.some((match) => match.value === sanitizedSearch),
+      )
+      const bestScore = Math.min(
+        ...candidates.map((result) => result.score ?? 0),
+      )
+      const accepted = exactMatches.length
+        ? exactMatches
+        : candidates.filter((result) => (result.score ?? 0) <= bestScore)
+
+      let someAlreadyFound = false
+      const matches: number[] = []
+      for (let i = 0; i < accepted.length; i++) {
+        const result = accepted[i]
+        if ((found || []).indexOf(+result.item.id!) === -1) {
+          matches.push(+result.item.id!)
+        } else {
+          someAlreadyFound = true
+          setAlreadyFound(true)
+          setTimeout(() => setAlreadyFound(false), 1200)
         }
       }
 

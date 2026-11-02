@@ -92,16 +92,44 @@ export const LINES: {
     textColor: '#FFFFFF',
     order: 12,
   },
+  KoelnS6: {
+    name: 'S6',
+    color: '#009640',
+    backgroundColor: '#004B20',
+    textColor: '#FFFFFF',
+    order: 13,
+  },
+  KoelnS11: {
+    name: 'S11',
+    color: '#009640',
+    backgroundColor: '#004B20',
+    textColor: '#FFFFFF',
+    order: 14,
+  },
+  KoelnS12: {
+    name: 'S12',
+    color: '#009640',
+    backgroundColor: '#004B20',
+    textColor: '#FFFFFF',
+    order: 15,
+  },
+  KoelnS19: {
+    name: 'S19',
+    color: '#009640',
+    backgroundColor: '#004B20',
+    textColor: '#FFFFFF',
+    order: 16,
+  },
 }
 
 export const METADATA: Metadata = {
   title: 'Köln Bahn Memory',
   description:
-    'How many of the Cologne tram and Stadtbahn stations can you name from memory?',
+    'How many of the Cologne tram, Stadtbahn and S-Bahn stations can you name from memory?',
   openGraph: {
     title: 'Köln Bahn Memory',
     description:
-      'How many of the Cologne tram and Stadtbahn stations can you name from memory?',
+      'How many of the Cologne tram, Stadtbahn and S-Bahn stations can you name from memory?',
     type: 'website',
     locale: 'de_DE',
     url: 'https://metro-memory.com/koeln',
