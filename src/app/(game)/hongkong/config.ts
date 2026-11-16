@@ -110,7 +110,7 @@ export const STRIPE_LINK = ''
 
 export const CITY_NAME = 'hongkong'
 
-export const LOCALE = 'zh'
+export const LOCALE = 'zh-HK'
 
 export const MAP_FROM_DATA = true
 

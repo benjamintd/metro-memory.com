@@ -355,4 +355,33 @@ export const i18n = rosetta({
       name: 'Nimi',
     },
   },
+  'zh-HK': {
+    restartWarning: '你將會失去所有進度，確定要重新開始嗎？',
+    introInstruction: '輸入車站名稱，然後按 Enter',
+    backToTheGame: '返回遊戲',
+    stations: ({ count }: { count: number }) => `${count} 個車站`,
+    stationsFound: '車站已找到',
+    inputPlaceholder: '車站',
+    alreadyFound: '已經找到',
+    startOver: '重新開始',
+    showSolutions: '顯示答案',
+    hideSolutions: '隱藏答案',
+    supportProject: '支持這個項目',
+    about: '關於',
+    congrats: ({ foundProportion }: { foundProportion: number }) =>
+      `做得好！你已達到 ${10 * Math.floor((foundProportion * 100) / 10)}%！`,
+    freeGame: '這個遊戲是免費的。',
+    supportWithDonation: ({ title }: { title: string }) => (
+      <span>
+        捐款支持 <strong>{title}</strong> 的開發。
+      </span>
+    ),
+    opensANewTab: '此連結會在新分頁開啟，你的進度會儲存在瀏覽器中。',
+    keepGoingForFree: '免費繼續玩',
+    sort: {
+      order: '加入日期',
+      line: '路綫',
+      name: '名稱',
+    },
+  },
 })
