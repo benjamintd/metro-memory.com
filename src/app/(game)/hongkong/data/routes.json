@@ -391,6 +391,10 @@
             22.3953
           ],
           [
+            114.2029,
+            22.4004
+          ],
+          [
             114.2102,
             22.4134
           ],
@@ -435,28 +439,6 @@
           [
             114.0657,
             22.5144
-          ]
-        ]
-      },
-      "properties": {
-        "line": "MTREastRailLine",
-        "name": "東鐵綫 East Rail Line",
-        "color": "#5EB6E4",
-        "order": 5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            114.1982,
-            22.3953
-          ],
-          [
-            114.2029,
-            22.4004
           ]
         ]
       },
