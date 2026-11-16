@@ -351,7 +351,8 @@
         "name": "黃埔 Whampoa",
         "alternate_names": [
           "whampoa",
-          "黃埔"
+          "黃埔",
+          "黄埔"
         ],
         "line": "MTRKwunTongLine",
         "order": 0
@@ -519,7 +520,8 @@
         "name": "黃大仙 Wong Tai Sin",
         "alternate_names": [
           "wong tai sin",
-          "黃大仙"
+          "黃大仙",
+          "黄大仙"
         ],
         "line": "MTRKwunTongLine",
         "order": 8
@@ -731,7 +733,8 @@
           "hku",
           "香港大學",
           "hong kong university",
-          "香港大學"
+          "香港大學",
+          "港大"
         ],
         "line": "MTRIslandLine",
         "order": 1
@@ -1025,7 +1028,8 @@
         "name": "杏花邨 Heng Fa Chuen",
         "alternate_names": [
           "heng fa chuen",
-          "杏花邨"
+          "杏花邨",
+          "杏花村"
         ],
         "line": "MTRIslandLine",
         "order": 15
@@ -1383,7 +1387,8 @@
         "alternate_names": [
           "lohas park",
           "康城",
-          "lohas park"
+          "lohas park",
+          "日出康城"
         ],
         "line": "MTRTseungKwanOLine",
         "order": 7
@@ -1425,7 +1430,8 @@
         "name": "會展 Exhibition Centre",
         "alternate_names": [
           "exhibition centre",
-          "會展"
+          "會展",
+          "會議展覽中心"
         ],
         "line": "MTREastRailLine",
         "order": 1
@@ -1782,7 +1788,8 @@
         "name": "恆安 Heng On",
         "alternate_names": [
           "heng on",
-          "恆安"
+          "恆安",
+          "恒安"
         ],
         "line": "MTRTuenMaLine",
         "order": 2
@@ -1971,7 +1978,8 @@
         "name": "啟德 Kai Tak",
         "alternate_names": [
           "kai tak",
-          "啟德"
+          "啟德",
+          "啓德"
         ],
         "line": "MTRTuenMaLine",
         "order": 11
@@ -1992,7 +2000,8 @@
         "name": "宋皇臺 Sung Wong Toi",
         "alternate_names": [
           "sung wong toi",
-          "宋皇臺"
+          "宋皇臺",
+          "宋皇台"
         ],
         "line": "MTRTuenMaLine",
         "order": 12
@@ -2076,7 +2085,8 @@
         "name": "尖東 East Tsim Sha Tsui",
         "alternate_names": [
           "east tsim sha tsui",
-          "尖東"
+          "尖東",
+          "尖沙咀東"
         ],
         "line": "MTRTuenMaLine",
         "order": 16
@@ -2349,7 +2359,8 @@
         "name": "黃竹坑 Wong Chuk Hang",
         "alternate_names": [
           "wong chuk hang",
-          "黃竹坑"
+          "黃竹坑",
+          "黄竹坑"
         ],
         "line": "MTRSouthIslandLine",
         "order": 2
@@ -2541,7 +2552,8 @@
           "博覽館",
           "asiaworld expo",
           "asia world expo",
-          "博覽館"
+          "博覽館",
+          "亞洲國際博覽館"
         ],
         "line": "MTRAirportExpress",
         "order": 4
