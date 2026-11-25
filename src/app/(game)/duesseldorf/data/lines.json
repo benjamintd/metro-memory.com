@@ -1,0 +1,135 @@
+{
+  "Duesseldorf701": {
+    "name": "701",
+    "color": "#f58221",
+    "backgroundColor": "#854006",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "Duesseldorf704": {
+    "name": "704",
+    "color": "#bf2127",
+    "backgroundColor": "#601013",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "Duesseldorf705": {
+    "name": "705",
+    "color": "#bb1e8a",
+    "backgroundColor": "#5E0F45",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "Duesseldorf706": {
+    "name": "706",
+    "color": "#ec1f26",
+    "backgroundColor": "#7B0A0E",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "Duesseldorf707": {
+    "name": "707",
+    "color": "#7b277d",
+    "backgroundColor": "#3D133F",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "Duesseldorf708": {
+    "name": "708",
+    "color": "#f599b1",
+    "backgroundColor": "#B5123C",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "Duesseldorf709": {
+    "name": "709",
+    "color": "#ea4d9a",
+    "backgroundColor": "#8B104D",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "DuesseldorfU70": {
+    "name": "U70",
+    "color": "#68aecb",
+    "backgroundColor": "#275C72",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "DuesseldorfU71": {
+    "name": "U71",
+    "color": "#48c6f3",
+    "backgroundColor": "#0A6F94",
+    "textColor": "#FFFFFF",
+    "order": 9
+  },
+  "DuesseldorfU72": {
+    "name": "U72",
+    "color": "#21bec6",
+    "backgroundColor": "#105F63",
+    "textColor": "#FFFFFF",
+    "order": 10
+  },
+  "DuesseldorfU73": {
+    "name": "U73",
+    "color": "#436bb3",
+    "backgroundColor": "#213559",
+    "textColor": "#FFFFFF",
+    "order": 11
+  },
+  "DuesseldorfU75": {
+    "name": "U75",
+    "color": "#0691c0",
+    "backgroundColor": "#034860",
+    "textColor": "#FFFFFF",
+    "order": 12
+  },
+  "DuesseldorfU76": {
+    "name": "U76",
+    "color": "#006bb5",
+    "backgroundColor": "#00355B",
+    "textColor": "#FFFFFF",
+    "order": 13
+  },
+  "DuesseldorfU77": {
+    "name": "U77",
+    "color": "#6992cc",
+    "backgroundColor": "#274773",
+    "textColor": "#FFFFFF",
+    "order": 14
+  },
+  "DuesseldorfU78": {
+    "name": "U78",
+    "color": "#0d99d6",
+    "backgroundColor": "#074D6B",
+    "textColor": "#FFFFFF",
+    "order": 15
+  },
+  "DuesseldorfU79": {
+    "name": "U79",
+    "color": "#0f9d94",
+    "backgroundColor": "#084F4A",
+    "textColor": "#FFFFFF",
+    "order": 16
+  },
+  "DuesseldorfU80": {
+    "name": "U80",
+    "color": "#006062",
+    "backgroundColor": "#003031",
+    "textColor": "#FFFFFF",
+    "order": 17
+  },
+  "DuesseldorfU81": {
+    "name": "U81",
+    "color": "#69908b",
+    "backgroundColor": "#354845",
+    "textColor": "#FFFFFF",
+    "order": 18
+  },
+  "DuesseldorfU83": {
+    "name": "U83",
+    "color": "#164998",
+    "backgroundColor": "#0B254C",
+    "textColor": "#FFFFFF",
+    "order": 19
+  }
+}

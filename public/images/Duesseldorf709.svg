@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+        font-family: Lato-Bold, Lato;
+        font-size: 180px;
+        font-weight: 700;
+      }
+
+      .st1 {
+        fill: #ea4d9a;
+      }
+    </style>
+  </defs>
+  <rect class="st1" x="56" y="156" width="400" height="200"/>
+  <text class="st0" transform="translate(99.4 322.87)"><tspan x="0" y="0">709</tspan></text>
+</svg>

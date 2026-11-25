@@ -1,0 +1,9132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8018571,
+          51.2189801
+        ]
+      },
+      "properties": {
+        "id": 1037,
+        "name": "Handelszentrum/Moskauer Straße",
+        "alternate_names": [
+          "Handelszentrum",
+          "Handelszentrum/Moskauer Str"
+        ],
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1037
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7939635,
+          51.219501
+        ]
+      },
+      "properties": {
+        "id": 1036,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1036
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7875482,
+          51.2222993
+        ]
+      },
+      "properties": {
+        "id": 1035,
+        "name": "Oststraße",
+        "alternate_names": [
+          "Oststr"
+        ],
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1035
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7811882,
+          51.2229449
+        ]
+      },
+      "properties": {
+        "id": 1034,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1034
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7771321,
+          51.2260695
+        ]
+      },
+      "properties": {
+        "id": 1033,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1033
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7738638,
+          51.231613
+        ]
+      },
+      "properties": {
+        "id": 1032,
+        "name": "Tonhalle/Ehrenhof",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1032
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.747536,
+          51.2316738
+        ]
+      },
+      "properties": {
+        "id": 1031,
+        "name": "Belsenplatz",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1031
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7343384,
+          51.2380462
+        ]
+      },
+      "properties": {
+        "id": 1030,
+        "name": "Prinzenallee",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1030
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7173727,
+          51.244588
+        ]
+      },
+      "properties": {
+        "id": 1029,
+        "name": "Düsseldorf-Lörick",
+        "alternate_names": [
+          "Lörick"
+        ],
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1029
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70116,
+          51.2539312
+        ]
+      },
+      "properties": {
+        "id": 1028,
+        "name": "Meerbusch-Büderich, Landsknecht",
+        "alternate_names": [
+          "Büderich Landsknecht",
+          "Landsknecht"
+        ],
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1028
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66887,
+          51.265837
+        ]
+      },
+      "properties": {
+        "id": 1027,
+        "name": "Haus Meer",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1027
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6517443,
+          51.2667146
+        ]
+      },
+      "properties": {
+        "id": 1026,
+        "name": "Bovert",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1026
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6273784,
+          51.2754033
+        ]
+      },
+      "properties": {
+        "id": 1025,
+        "name": "Hoterheide",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1025
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6017907,
+          51.299897
+        ]
+      },
+      "properties": {
+        "id": 1024,
+        "name": "Grundend",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1024
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5894528,
+          51.3156771
+        ]
+      },
+      "properties": {
+        "id": 1023,
+        "name": "Königshof",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1023
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5797855,
+          51.3265545
+        ]
+      },
+      "properties": {
+        "id": 1022,
+        "name": "Dießem",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1022
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5698166,
+          51.3267728
+        ]
+      },
+      "properties": {
+        "id": 1021,
+        "name": "Krefeld Hbf",
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1021
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5659735,
+          51.3327357
+        ]
+      },
+      "properties": {
+        "id": 1020,
+        "name": "Rheinstraße",
+        "alternate_names": [
+          "Rheinstr"
+        ],
+        "line": "DuesseldorfU70",
+        "order": 8
+      },
+      "id": 1020
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7629337,
+          51.1884627
+        ]
+      },
+      "properties": {
+        "id": 1038,
+        "name": "Hellriegelstraße",
+        "alternate_names": [
+          "Hellriegelstr"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1038
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7654703,
+          51.1899032
+        ]
+      },
+      "properties": {
+        "id": 1039,
+        "name": "Krahkampweg",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1039
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.765989,
+          51.1926564
+        ]
+      },
+      "properties": {
+        "id": 1040,
+        "name": "Volmerswerther Straße",
+        "alternate_names": [
+          "Volmerswerther Str"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1040
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7691308,
+          51.1962508
+        ]
+      },
+      "properties": {
+        "id": 1041,
+        "name": "Aachener Platz",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1041
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7705543,
+          51.1997301
+        ]
+      },
+      "properties": {
+        "id": 1042,
+        "name": "Südring",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1042
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7729045,
+          51.2042504
+        ]
+      },
+      "properties": {
+        "id": 1043,
+        "name": "Suitbertusstraße",
+        "alternate_names": [
+          "Suitbertusstr"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1043
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7770395,
+          51.208579
+        ]
+      },
+      "properties": {
+        "id": 1044,
+        "name": "Bilk S",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1044
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7753531,
+          51.2134231
+        ]
+      },
+      "properties": {
+        "id": 1045,
+        "name": "Kirchplatz",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1045
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7753981,
+          51.2182642
+        ]
+      },
+      "properties": {
+        "id": 1046,
+        "name": "Graf-Adolf-Platz",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1046
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7755872,
+          51.2226917
+        ]
+      },
+      "properties": {
+        "id": 1047,
+        "name": "Benrather Straße U",
+        "alternate_names": [
+          "Benrather Straße",
+          "Benrather Str",
+          "Benrather Str U"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1047
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777973,
+          51.2255983
+        ]
+      },
+      "properties": {
+        "id": 1048,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1048
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782988,
+          51.2265215
+        ]
+      },
+      "properties": {
+        "id": 1049,
+        "name": "Schadowstraße",
+        "alternate_names": [
+          "Schadowstr"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1049
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7899029,
+          51.2281321
+        ]
+      },
+      "properties": {
+        "id": 1050,
+        "name": "Pempelforter Straße",
+        "alternate_names": [
+          "Pempelforter Str"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1050
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7978446,
+          51.2298982
+        ]
+      },
+      "properties": {
+        "id": 1051,
+        "name": "Wehrhahn S",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1051
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8010792,
+          51.2310908
+        ]
+      },
+      "properties": {
+        "id": 1052,
+        "name": "Uhlandstraße",
+        "alternate_names": [
+          "Uhlandstr"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1052
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8003765,
+          51.2359958
+        ]
+      },
+      "properties": {
+        "id": 1053,
+        "name": "Schillerplatz",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1053
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8022251,
+          51.2379022
+        ]
+      },
+      "properties": {
+        "id": 1054,
+        "name": "Brehmplatz",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1054
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8017195,
+          51.2431309
+        ]
+      },
+      "properties": {
+        "id": 1055,
+        "name": "Düsseldorf Grunerstraße",
+        "alternate_names": [
+          "Grunerstraße",
+          "Grunerstr",
+          "Düsseldorf Grunerstr"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1055
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8018425,
+          51.2466549
+        ]
+      },
+      "properties": {
+        "id": 1056,
+        "name": "Düsseldorf Hansaplatz",
+        "alternate_names": [
+          "Hansaplatz",
+          "Hansapl"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1056
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8012781,
+          51.2503021
+        ]
+      },
+      "properties": {
+        "id": 1057,
+        "name": "Heinrichstraße",
+        "alternate_names": [
+          "Heinrichstr"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1057
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8032769,
+          51.2548365
+        ]
+      },
+      "properties": {
+        "id": 1058,
+        "name": "Haeselerstraße",
+        "alternate_names": [
+          "Haeselerstr"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1058
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.806885,
+          51.2585554
+        ]
+      },
+      "properties": {
+        "id": 1059,
+        "name": "Am Schein",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1059
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8112986,
+          51.2622866
+        ]
+      },
+      "properties": {
+        "id": 1060,
+        "name": "Rath Mitte S",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1060
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8150596,
+          51.2628187
+        ]
+      },
+      "properties": {
+        "id": 1061,
+        "name": "Rotdornstraße",
+        "alternate_names": [
+          "Rotdornstr"
+        ],
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1061
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8189133,
+          51.2633727
+        ]
+      },
+      "properties": {
+        "id": 1062,
+        "name": "Rath S",
+        "line": "DuesseldorfU71",
+        "order": 9
+      },
+      "id": 1062
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8465963,
+          51.2947674
+        ]
+      },
+      "properties": {
+        "id": 1063,
+        "name": "Ratingen Mitte",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1063
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8423275,
+          51.2930934
+        ]
+      },
+      "properties": {
+        "id": 1064,
+        "name": "Weststraße",
+        "alternate_names": [
+          "Weststr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1064
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8398378,
+          51.2907066
+        ]
+      },
+      "properties": {
+        "id": 1065,
+        "name": "Europaring",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1065
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8400501,
+          51.2878027
+        ]
+      },
+      "properties": {
+        "id": 1066,
+        "name": "Gerhardstraße",
+        "alternate_names": [
+          "Gerhardstr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1066
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8361453,
+          51.2815925
+        ]
+      },
+      "properties": {
+        "id": 1067,
+        "name": "Ratingen, Felderhof",
+        "alternate_names": [
+          "Felderhof"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1067
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8338446,
+          51.2733601
+        ]
+      },
+      "properties": {
+        "id": 1068,
+        "name": "Düsseldorf-Hubertushain",
+        "alternate_names": [
+          "Hubertushain"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1068
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8304473,
+          51.2702394
+        ]
+      },
+      "properties": {
+        "id": 1069,
+        "name": "Hirschweg",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1069
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8272771,
+          51.2661006
+        ]
+      },
+      "properties": {
+        "id": 1070,
+        "name": "Oberrath",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1070
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.825295,
+          51.2632188
+        ]
+      },
+      "properties": {
+        "id": 1071,
+        "name": "Rather Waldstadion",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1071
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8224121,
+          51.2548903
+        ]
+      },
+      "properties": {
+        "id": 1072,
+        "name": "Rather Broich",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1072
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8222453,
+          51.2513774
+        ]
+      },
+      "properties": {
+        "id": 1073,
+        "name": "Mörsenbroicher Weg",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1073
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8219114,
+          51.2451967
+        ]
+      },
+      "properties": {
+        "id": 1074,
+        "name": "Graf-Recke-Straße",
+        "alternate_names": [
+          "Graf-Recke-Str"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1074
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8218334,
+          51.2425455
+        ]
+      },
+      "properties": {
+        "id": 1075,
+        "name": "Vautierstraße",
+        "alternate_names": [
+          "Vautierstr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1075
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8207834,
+          51.2366449
+        ]
+      },
+      "properties": {
+        "id": 1076,
+        "name": "Schlüterstraße/Arbeitsagentur",
+        "alternate_names": [
+          "Schlüterstr/Arbeitsagentur",
+          "Schlüterstraße/Arb.tsagentur"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1076
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8143368,
+          51.2332027
+        ]
+      },
+      "properties": {
+        "id": 1077,
+        "name": "Düsseldorf Engerstraße",
+        "alternate_names": [
+          "Engerstraße",
+          "Engerstr",
+          "Düsseldorf Engerstr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1077
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8082769,
+          51.2317667
+        ]
+      },
+      "properties": {
+        "id": 1078,
+        "name": "Düsseldorf Lindemannstraße",
+        "alternate_names": [
+          "Lindemannstraße",
+          "Lindemannstr",
+          "Düsseldorf Lindemannstr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1078
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.802149,
+          51.230635
+        ]
+      },
+      "properties": {
+        "id": 1079,
+        "name": "Uhlandstraße",
+        "alternate_names": [
+          "Uhlandstr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1079
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7978446,
+          51.2298982
+        ]
+      },
+      "properties": {
+        "id": 1080,
+        "name": "Wehrhahn S",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1080
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7899029,
+          51.2281321
+        ]
+      },
+      "properties": {
+        "id": 1081,
+        "name": "Pempelforter Straße",
+        "alternate_names": [
+          "Pempelforter Str"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1081
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782988,
+          51.2265215
+        ]
+      },
+      "properties": {
+        "id": 1082,
+        "name": "Schadowstraße",
+        "alternate_names": [
+          "Schadowstr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1082
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777973,
+          51.2255983
+        ]
+      },
+      "properties": {
+        "id": 1083,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1083
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7755872,
+          51.2226917
+        ]
+      },
+      "properties": {
+        "id": 1084,
+        "name": "Benrather Straße U",
+        "alternate_names": [
+          "Benrather Straße",
+          "Benrather Str",
+          "Benrather Str U"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1084
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7753981,
+          51.2182642
+        ]
+      },
+      "properties": {
+        "id": 1085,
+        "name": "Graf-Adolf-Platz",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1085
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7753531,
+          51.2134231
+        ]
+      },
+      "properties": {
+        "id": 1086,
+        "name": "Kirchplatz",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1086
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7770395,
+          51.208579
+        ]
+      },
+      "properties": {
+        "id": 1087,
+        "name": "Bilk S",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1087
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7803341,
+          51.2045191
+        ]
+      },
+      "properties": {
+        "id": 1088,
+        "name": "Karolingerplatz",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1088
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7838738,
+          51.202551
+        ]
+      },
+      "properties": {
+        "id": 1089,
+        "name": "Auf'm Hennekamp",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1089
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7894208,
+          51.2000471
+        ]
+      },
+      "properties": {
+        "id": 1090,
+        "name": "Uni-Kliniken",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1090
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7961732,
+          51.1970595
+        ]
+      },
+      "properties": {
+        "id": 1091,
+        "name": "Universität Nord / Christophstraße",
+        "alternate_names": [
+          "Universität Nord / Christophstr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1091
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8023346,
+          51.1950776
+        ]
+      },
+      "properties": {
+        "id": 1092,
+        "name": "Südpark",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1092
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.813953,
+          51.1923165
+        ]
+      },
+      "properties": {
+        "id": 1093,
+        "name": "Werstener Dorfstraße",
+        "alternate_names": [
+          "Werstener Dorfstr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1093
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8187975,
+          51.1874184
+        ]
+      },
+      "properties": {
+        "id": 1094,
+        "name": "Opladener Straße",
+        "alternate_names": [
+          "Opladener Str"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1094
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8207263,
+          51.1845286
+        ]
+      },
+      "properties": {
+        "id": 1095,
+        "name": "Ickerswarder Straße",
+        "alternate_names": [
+          "Ickerswarder Str"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1095
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.827476,
+          51.1794246
+        ]
+      },
+      "properties": {
+        "id": 1096,
+        "name": "Elbruchstraße",
+        "alternate_names": [
+          "Elbruchstr"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1096
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8333828,
+          51.1748713
+        ]
+      },
+      "properties": {
+        "id": 1097,
+        "name": "Holthausen",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1097
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8398072,
+          51.1704108
+        ]
+      },
+      "properties": {
+        "id": 1098,
+        "name": "Niederheid",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1098
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8479944,
+          51.1655299
+        ]
+      },
+      "properties": {
+        "id": 1099,
+        "name": "Am Trippelsberg",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1099
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8553744,
+          51.1623873
+        ]
+      },
+      "properties": {
+        "id": 1100,
+        "name": "Schöne Aussicht",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8597257,
+          51.1622377
+        ]
+      },
+      "properties": {
+        "id": 1101,
+        "name": "Kappeler Straße",
+        "alternate_names": [
+          "Kappeler Str"
+        ],
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8683888,
+          51.1622562
+        ]
+      },
+      "properties": {
+        "id": 1102,
+        "name": "Schloss Benrath",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87502,
+          51.1620659
+        ]
+      },
+      "properties": {
+        "id": 1103,
+        "name": "Urdenbacher Allee",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8775671,
+          51.1615387
+        ]
+      },
+      "properties": {
+        "id": 1104,
+        "name": "Benrath S",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8848449,
+          51.1609073
+        ]
+      },
+      "properties": {
+        "id": 1105,
+        "name": "Benrath Betriebshof",
+        "line": "DuesseldorfU72",
+        "order": 10
+      },
+      "id": 1105
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8663036,
+          51.2207727
+        ]
+      },
+      "properties": {
+        "id": 1134,
+        "name": "Gerresheim S",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1134
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8651631,
+          51.222703
+        ]
+      },
+      "properties": {
+        "id": 1133,
+        "name": "Morper Straße",
+        "alternate_names": [
+          "Morper Str"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1133
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8619175,
+          51.2267576
+        ]
+      },
+      "properties": {
+        "id": 1132,
+        "name": "Hardenbergstraße",
+        "alternate_names": [
+          "Hardenbergstr"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1132
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8599863,
+          51.2309913
+        ]
+      },
+      "properties": {
+        "id": 1131,
+        "name": "Dörpfeldstraße",
+        "alternate_names": [
+          "Dörpfeldstr"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1131
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.860694,
+          51.2348207
+        ]
+      },
+      "properties": {
+        "id": 1130,
+        "name": "Schönaustraße",
+        "alternate_names": [
+          "Schönaustr"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1130
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8598236,
+          51.2365184
+        ]
+      },
+      "properties": {
+        "id": 1129,
+        "name": "Gerresheim Rathaus",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1129
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8525677,
+          51.2377628
+        ]
+      },
+      "properties": {
+        "id": 1128,
+        "name": "Von-Gahlen-Straße",
+        "alternate_names": [
+          "Von-Gahlen-Str"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1128
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8488463,
+          51.2387787
+        ]
+      },
+      "properties": {
+        "id": 1127,
+        "name": "Friedingstraße",
+        "alternate_names": [
+          "Friedingstr"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1127
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8441369,
+          51.2402166
+        ]
+      },
+      "properties": {
+        "id": 1126,
+        "name": "Auf der Hardt/LVR-Klinikum",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1126
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8352621,
+          51.2396414
+        ]
+      },
+      "properties": {
+        "id": 1125,
+        "name": "Pöhlenweg",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1125
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8268279,
+          51.2414376
+        ]
+      },
+      "properties": {
+        "id": 1124,
+        "name": "Staufenplatz",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1124
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8207834,
+          51.2366449
+        ]
+      },
+      "properties": {
+        "id": 1123,
+        "name": "Schlüterstraße/Arbeitsagentur",
+        "alternate_names": [
+          "Schlüterstr/Arbeitsagentur",
+          "Schlüterstraße/Arb.tsagentur"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1123
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8143368,
+          51.2332027
+        ]
+      },
+      "properties": {
+        "id": 1122,
+        "name": "Düsseldorf Engerstraße",
+        "alternate_names": [
+          "Engerstraße",
+          "Engerstr",
+          "Düsseldorf Engerstr"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1122
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8082769,
+          51.2317667
+        ]
+      },
+      "properties": {
+        "id": 1121,
+        "name": "Düsseldorf Lindemannstraße",
+        "alternate_names": [
+          "Lindemannstraße",
+          "Lindemannstr",
+          "Düsseldorf Lindemannstr"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1121
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.802149,
+          51.230635
+        ]
+      },
+      "properties": {
+        "id": 1120,
+        "name": "Uhlandstraße",
+        "alternate_names": [
+          "Uhlandstr"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1120
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7978446,
+          51.2298982
+        ]
+      },
+      "properties": {
+        "id": 1119,
+        "name": "Wehrhahn S",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7899029,
+          51.2281321
+        ]
+      },
+      "properties": {
+        "id": 1118,
+        "name": "Pempelforter Straße",
+        "alternate_names": [
+          "Pempelforter Str"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1118
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782988,
+          51.2265215
+        ]
+      },
+      "properties": {
+        "id": 1117,
+        "name": "Schadowstraße",
+        "alternate_names": [
+          "Schadowstr"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1117
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777973,
+          51.2255983
+        ]
+      },
+      "properties": {
+        "id": 1116,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7755872,
+          51.2226917
+        ]
+      },
+      "properties": {
+        "id": 1115,
+        "name": "Benrather Straße U",
+        "alternate_names": [
+          "Benrather Straße",
+          "Benrather Str",
+          "Benrather Str U"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1115
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7753981,
+          51.2182642
+        ]
+      },
+      "properties": {
+        "id": 1114,
+        "name": "Graf-Adolf-Platz",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7753531,
+          51.2134231
+        ]
+      },
+      "properties": {
+        "id": 1113,
+        "name": "Kirchplatz",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1113
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7770395,
+          51.208579
+        ]
+      },
+      "properties": {
+        "id": 1112,
+        "name": "Bilk S",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7803341,
+          51.2045191
+        ]
+      },
+      "properties": {
+        "id": 1111,
+        "name": "Karolingerplatz",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7838738,
+          51.202551
+        ]
+      },
+      "properties": {
+        "id": 1110,
+        "name": "Auf'm Hennekamp",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7894208,
+          51.2000471
+        ]
+      },
+      "properties": {
+        "id": 1109,
+        "name": "Uni-Kliniken",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7961732,
+          51.1970595
+        ]
+      },
+      "properties": {
+        "id": 1108,
+        "name": "Universität Nord / Christophstraße",
+        "alternate_names": [
+          "Universität Nord / Christophstr"
+        ],
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8006877,
+          51.1947849
+        ]
+      },
+      "properties": {
+        "id": 1107,
+        "name": "Südpark",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8002203,
+          51.1900977
+        ]
+      },
+      "properties": {
+        "id": 1106,
+        "name": "Universität Ost/Botanischer Garten",
+        "line": "DuesseldorfU73",
+        "order": 11
+      },
+      "id": 1106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8459881,
+          51.1991955
+        ]
+      },
+      "properties": {
+        "id": 1162,
+        "name": "Vennhauser Allee",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1162
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8432209,
+          51.1999653
+        ]
+      },
+      "properties": {
+        "id": 1161,
+        "name": "Alt Eller",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1161
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8384046,
+          51.2012431
+        ]
+      },
+      "properties": {
+        "id": 1160,
+        "name": "Eller Mitte S",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1160
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8350278,
+          51.2038226
+        ]
+      },
+      "properties": {
+        "id": 1159,
+        "name": "Jägerstraße",
+        "alternate_names": [
+          "Jägerstr"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1159
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8332887,
+          51.2055181
+        ]
+      },
+      "properties": {
+        "id": 1158,
+        "name": "Am Hackenbruch",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1158
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8310954,
+          51.2075316
+        ]
+      },
+      "properties": {
+        "id": 1157,
+        "name": "Schlesische Straße",
+        "alternate_names": [
+          "Schlesische Str"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1157
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8225798,
+          51.2140482
+        ]
+      },
+      "properties": {
+        "id": 1156,
+        "name": "Lierenfeld Betriebshof",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1156
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8184086,
+          51.2167546
+        ]
+      },
+      "properties": {
+        "id": 1155,
+        "name": "Ronsdorfer Straße",
+        "alternate_names": [
+          "Ronsdorfer Str"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1155
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8096942,
+          51.2204811
+        ]
+      },
+      "properties": {
+        "id": 1154,
+        "name": "Kettwiger Straße",
+        "alternate_names": [
+          "Kettwiger Str"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1154
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8018571,
+          51.2189801
+        ]
+      },
+      "properties": {
+        "id": 1153,
+        "name": "Handelszentrum/Moskauer Straße",
+        "alternate_names": [
+          "Handelszentrum",
+          "Handelszentrum/Moskauer Str"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1153
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7939635,
+          51.219501
+        ]
+      },
+      "properties": {
+        "id": 1152,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1152
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7875482,
+          51.2222993
+        ]
+      },
+      "properties": {
+        "id": 1151,
+        "name": "Oststraße",
+        "alternate_names": [
+          "Oststr"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1151
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7811882,
+          51.2229449
+        ]
+      },
+      "properties": {
+        "id": 1150,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1150
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7771321,
+          51.2260695
+        ]
+      },
+      "properties": {
+        "id": 1149,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1149
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7738638,
+          51.231613
+        ]
+      },
+      "properties": {
+        "id": 1148,
+        "name": "Tonhalle/Ehrenhof",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1148
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7621751,
+          51.2315741
+        ]
+      },
+      "properties": {
+        "id": 1147,
+        "name": "Luegplatz",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1147
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7554243,
+          51.2315317
+        ]
+      },
+      "properties": {
+        "id": 1146,
+        "name": "Barbarossaplatz",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1146
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7474227,
+          51.2312414
+        ]
+      },
+      "properties": {
+        "id": 1145,
+        "name": "Belsenplatz",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1145
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7388937,
+          51.2309213
+        ]
+      },
+      "properties": {
+        "id": 1144,
+        "name": "Drususstraße",
+        "alternate_names": [
+          "Drususstr"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1144
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7265843,
+          51.2329416
+        ]
+      },
+      "properties": {
+        "id": 1143,
+        "name": "Heerdter Krankenhaus",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1143
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7219847,
+          51.2321436
+        ]
+      },
+      "properties": {
+        "id": 1142,
+        "name": "Nikolaus-Knopp-Platz",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1142
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7137508,
+          51.2318117
+        ]
+      },
+      "properties": {
+        "id": 1141,
+        "name": "Heesenstraße",
+        "alternate_names": [
+          "Heesenstr"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1141
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7069515,
+          51.2305789
+        ]
+      },
+      "properties": {
+        "id": 1140,
+        "name": "Aldekerkstraße",
+        "alternate_names": [
+          "Aldekerkstr"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1140
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.699678,
+          51.2288435
+        ]
+      },
+      "properties": {
+        "id": 1139,
+        "name": "Handweiser",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1139
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6984931,
+          51.2254509
+        ]
+      },
+      "properties": {
+        "id": 1138,
+        "name": "Vogesenstraße",
+        "alternate_names": [
+          "Vogesenstr"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1138
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6982013,
+          51.2203079
+        ]
+      },
+      "properties": {
+        "id": 1137,
+        "name": "Am Kaiser",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1137
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6931041,
+          51.2141277
+        ]
+      },
+      "properties": {
+        "id": 1136,
+        "name": "Blücherstraße",
+        "alternate_names": [
+          "Blücherstr"
+        ],
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1136
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6847052,
+          51.2034754
+        ]
+      },
+      "properties": {
+        "id": 1135,
+        "name": "Neuss Hbf",
+        "line": "DuesseldorfU75",
+        "order": 12
+      },
+      "id": 1135
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8333828,
+          51.1748713
+        ]
+      },
+      "properties": {
+        "id": 1199,
+        "name": "Holthausen",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1199
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.827476,
+          51.1794246
+        ]
+      },
+      "properties": {
+        "id": 1198,
+        "name": "Elbruchstraße",
+        "alternate_names": [
+          "Elbruchstr"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1198
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8207263,
+          51.1845286
+        ]
+      },
+      "properties": {
+        "id": 1197,
+        "name": "Ickerswarder Straße",
+        "alternate_names": [
+          "Ickerswarder Str"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1197
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8187975,
+          51.1874184
+        ]
+      },
+      "properties": {
+        "id": 1196,
+        "name": "Opladener Straße",
+        "alternate_names": [
+          "Opladener Str"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1196
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8143801,
+          51.1934895
+        ]
+      },
+      "properties": {
+        "id": 1195,
+        "name": "Werstener Dorfstraße",
+        "alternate_names": [
+          "Werstener Dorfstr"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1195
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8118225,
+          51.1989676
+        ]
+      },
+      "properties": {
+        "id": 1194,
+        "name": "Provinzialplatz",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1194
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8107067,
+          51.2036047
+        ]
+      },
+      "properties": {
+        "id": 1193,
+        "name": "Kaiserslauterner Straße",
+        "alternate_names": [
+          "Kaiserslauterner Str"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1193
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8081734,
+          51.2085244
+        ]
+      },
+      "properties": {
+        "id": 1192,
+        "name": "Oberbilk S",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1192
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8059286,
+          51.2135051
+        ]
+      },
+      "properties": {
+        "id": 1191,
+        "name": "Ellerstraße",
+        "alternate_names": [
+          "Ellerstr"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1191
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8029974,
+          51.2167
+        ]
+      },
+      "properties": {
+        "id": 1190,
+        "name": "Oberbilker Markt/Warschauer Straße",
+        "alternate_names": [
+          "Oberbilker Markt",
+          "Oberbilker Markt/Warschauer Str"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1190
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7939635,
+          51.219501
+        ]
+      },
+      "properties": {
+        "id": 1189,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1189
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7875482,
+          51.2222993
+        ]
+      },
+      "properties": {
+        "id": 1188,
+        "name": "Oststraße",
+        "alternate_names": [
+          "Oststr"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1188
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7811882,
+          51.2229449
+        ]
+      },
+      "properties": {
+        "id": 1187,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1187
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7771321,
+          51.2260695
+        ]
+      },
+      "properties": {
+        "id": 1186,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1186
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7738638,
+          51.231613
+        ]
+      },
+      "properties": {
+        "id": 1185,
+        "name": "Tonhalle/Ehrenhof",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1185
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7621751,
+          51.2315741
+        ]
+      },
+      "properties": {
+        "id": 1184,
+        "name": "Luegplatz",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1184
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7554243,
+          51.2315317
+        ]
+      },
+      "properties": {
+        "id": 1183,
+        "name": "Barbarossaplatz",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1183
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.747536,
+          51.2316738
+        ]
+      },
+      "properties": {
+        "id": 1182,
+        "name": "Belsenplatz",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1182
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7420062,
+          51.2354779
+        ]
+      },
+      "properties": {
+        "id": 1181,
+        "name": "Comenius-Gymnasium",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1181
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7380931,
+          51.2368047
+        ]
+      },
+      "properties": {
+        "id": 1180,
+        "name": "Heerdter Sandberg",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1180
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7343384,
+          51.2380462
+        ]
+      },
+      "properties": {
+        "id": 1179,
+        "name": "Prinzenallee",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1179
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7291407,
+          51.2398348
+        ]
+      },
+      "properties": {
+        "id": 1178,
+        "name": "Lohweg",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1178
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7225766,
+          51.2420554
+        ]
+      },
+      "properties": {
+        "id": 1177,
+        "name": "Löricker Straße",
+        "alternate_names": [
+          "Löricker Str"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1177
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7173727,
+          51.244588
+        ]
+      },
+      "properties": {
+        "id": 1176,
+        "name": "Düsseldorf-Lörick",
+        "alternate_names": [
+          "Lörick"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1176
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70116,
+          51.2539312
+        ]
+      },
+      "properties": {
+        "id": 1175,
+        "name": "Meerbusch-Büderich, Landsknecht",
+        "alternate_names": [
+          "Büderich Landsknecht",
+          "Landsknecht"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1175
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6766922,
+          51.2624185
+        ]
+      },
+      "properties": {
+        "id": 1174,
+        "name": "Forsthaus",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1174
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66887,
+          51.265837
+        ]
+      },
+      "properties": {
+        "id": 1173,
+        "name": "Haus Meer",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1173
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6517443,
+          51.2667146
+        ]
+      },
+      "properties": {
+        "id": 1172,
+        "name": "Bovert",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1172
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6376976,
+          51.2709909
+        ]
+      },
+      "properties": {
+        "id": 1171,
+        "name": "Kamperweg",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1171
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6273784,
+          51.2754033
+        ]
+      },
+      "properties": {
+        "id": 1170,
+        "name": "Hoterheide",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1170
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.616448,
+          51.2811247
+        ]
+      },
+      "properties": {
+        "id": 1169,
+        "name": "Meerbusch-Görgesheide",
+        "alternate_names": [
+          "Görgesheide"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1169
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6017907,
+          51.299897
+        ]
+      },
+      "properties": {
+        "id": 1168,
+        "name": "Grundend",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1168
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5982679,
+          51.3044059
+        ]
+      },
+      "properties": {
+        "id": 1167,
+        "name": "Fischeln",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1167
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5894528,
+          51.3156771
+        ]
+      },
+      "properties": {
+        "id": 1166,
+        "name": "Königshof",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1166
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5797855,
+          51.3265545
+        ]
+      },
+      "properties": {
+        "id": 1165,
+        "name": "Dießem",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1165
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5698166,
+          51.3267728
+        ]
+      },
+      "properties": {
+        "id": 1164,
+        "name": "Krefeld Hbf",
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1164
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5659735,
+          51.3327357
+        ]
+      },
+      "properties": {
+        "id": 1163,
+        "name": "Rheinstraße",
+        "alternate_names": [
+          "Rheinstr"
+        ],
+        "line": "DuesseldorfU76",
+        "order": 13
+      },
+      "id": 1163
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7377256,
+          51.2413703
+        ]
+      },
+      "properties": {
+        "id": 1200,
+        "name": "Am Seestern",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1200
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73577,
+          51.2384078
+        ]
+      },
+      "properties": {
+        "id": 1201,
+        "name": "Prinzenallee",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1201
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7380931,
+          51.2368047
+        ]
+      },
+      "properties": {
+        "id": 1202,
+        "name": "Heerdter Sandberg",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1202
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7420062,
+          51.2354779
+        ]
+      },
+      "properties": {
+        "id": 1203,
+        "name": "Comenius-Gymnasium",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1203
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.747536,
+          51.2316738
+        ]
+      },
+      "properties": {
+        "id": 1204,
+        "name": "Belsenplatz",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1204
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7554243,
+          51.2315317
+        ]
+      },
+      "properties": {
+        "id": 1205,
+        "name": "Barbarossaplatz",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1205
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7621751,
+          51.2315741
+        ]
+      },
+      "properties": {
+        "id": 1206,
+        "name": "Luegplatz",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1206
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7738638,
+          51.231613
+        ]
+      },
+      "properties": {
+        "id": 1207,
+        "name": "Tonhalle/Ehrenhof",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1207
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7771321,
+          51.2260695
+        ]
+      },
+      "properties": {
+        "id": 1208,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1208
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7811882,
+          51.2229449
+        ]
+      },
+      "properties": {
+        "id": 1209,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1209
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7875482,
+          51.2222993
+        ]
+      },
+      "properties": {
+        "id": 1210,
+        "name": "Oststraße",
+        "alternate_names": [
+          "Oststr"
+        ],
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1210
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7939635,
+          51.219501
+        ]
+      },
+      "properties": {
+        "id": 1211,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1211
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8018571,
+          51.2189801
+        ]
+      },
+      "properties": {
+        "id": 1212,
+        "name": "Handelszentrum/Moskauer Straße",
+        "alternate_names": [
+          "Handelszentrum",
+          "Handelszentrum/Moskauer Str"
+        ],
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1212
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8096942,
+          51.2204811
+        ]
+      },
+      "properties": {
+        "id": 1213,
+        "name": "Kettwiger Straße",
+        "alternate_names": [
+          "Kettwiger Str"
+        ],
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1213
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8184086,
+          51.2167546
+        ]
+      },
+      "properties": {
+        "id": 1214,
+        "name": "Ronsdorfer Straße",
+        "alternate_names": [
+          "Ronsdorfer Str"
+        ],
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1214
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8225798,
+          51.2140482
+        ]
+      },
+      "properties": {
+        "id": 1215,
+        "name": "Lierenfeld Betriebshof",
+        "line": "DuesseldorfU77",
+        "order": 14
+      },
+      "id": 1215
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7940998,
+          51.219611
+        ]
+      },
+      "properties": {
+        "id": 1229,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1229
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7875486,
+          51.2222999
+        ]
+      },
+      "properties": {
+        "id": 1228,
+        "name": "Oststraße",
+        "alternate_names": [
+          "Oststr"
+        ],
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1228
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7807914,
+          51.2229456
+        ]
+      },
+      "properties": {
+        "id": 1227,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1227
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7768812,
+          51.2260695
+        ]
+      },
+      "properties": {
+        "id": 1226,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1226
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7750367,
+          51.2390385
+        ]
+      },
+      "properties": {
+        "id": 1225,
+        "name": "ERGO-Platz/Klever Straße",
+        "alternate_names": [
+          "ERGO-Platz/Klever Str"
+        ],
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1225
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7723195,
+          51.2431932
+        ]
+      },
+      "properties": {
+        "id": 1224,
+        "name": "Kennedydamm",
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1224
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7685855,
+          51.2461231
+        ]
+      },
+      "properties": {
+        "id": 1223,
+        "name": "Golzheimer Platz",
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1223
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7653416,
+          51.2495835
+        ]
+      },
+      "properties": {
+        "id": 1222,
+        "name": "Theodor-Heuss-Brücke",
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1222
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7588847,
+          51.2532521
+        ]
+      },
+      "properties": {
+        "id": 1221,
+        "name": "Reeser Platz",
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1221
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7556587,
+          51.2564685
+        ]
+      },
+      "properties": {
+        "id": 1220,
+        "name": "Nordpark/Aquazoo",
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1220
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7542554,
+          51.2604213
+        ]
+      },
+      "properties": {
+        "id": 1219,
+        "name": "Messe Ost/Stockumer Kirchstraße",
+        "alternate_names": [
+          "Messe Ost/Stockumer Kirchstr"
+        ],
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1219
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75087,
+          51.2652098
+        ]
+      },
+      "properties": {
+        "id": 1218,
+        "name": "Freiligrathplatz",
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1218
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7454552,
+          51.2644332
+        ]
+      },
+      "properties": {
+        "id": 1217,
+        "name": "Mörikestraße",
+        "alternate_names": [
+          "Mörikestr"
+        ],
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1217
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7364447,
+          51.2610712
+        ]
+      },
+      "properties": {
+        "id": 1216,
+        "name": "MERKUR SPIEL-ARENA/Messe Nord",
+        "line": "DuesseldorfU78",
+        "order": 15
+      },
+      "id": 1216
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7790333,
+          51.4674824
+        ]
+      },
+      "properties": {
+        "id": 1231,
+        "name": "Duisburg-Meiderich Bf",
+        "alternate_names": [
+          "Meiderich Bahnhof",
+          "Meiderich Bf"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1231
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772947,
+          51.4657864
+        ]
+      },
+      "properties": {
+        "id": 1232,
+        "name": "Auf dem Damm",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1232
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7831323,
+          51.439272
+        ]
+      },
+      "properties": {
+        "id": 1233,
+        "name": "Duissern",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1233
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7772186,
+          51.4319018
+        ]
+      },
+      "properties": {
+        "id": 1234,
+        "name": "Duisburg Hauptbahnhof U",
+        "alternate_names": [
+          "Duisburg Hbf",
+          "Duisburg Hauptbahnhof",
+          "Duisburg Hbf U"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1234
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7676589,
+          51.4330304
+        ]
+      },
+      "properties": {
+        "id": 1235,
+        "name": "König-Heinrich-Platz",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1235
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7597194,
+          51.4319945
+        ]
+      },
+      "properties": {
+        "id": 1236,
+        "name": "Steinsche Gasse",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1236
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7555045,
+          51.4267481
+        ]
+      },
+      "properties": {
+        "id": 1237,
+        "name": "Platanenhof",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1237
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7583466,
+          51.4254976
+        ]
+      },
+      "properties": {
+        "id": 1238,
+        "name": "Musfeldstraße",
+        "alternate_names": [
+          "Musfeldstr"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1238
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7645076,
+          51.4259321
+        ]
+      },
+      "properties": {
+        "id": 1239,
+        "name": "Kremerstraße",
+        "alternate_names": [
+          "Kremerstr"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1239
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7677393,
+          51.4199955
+        ]
+      },
+      "properties": {
+        "id": 1240,
+        "name": "Karl-Jarres-Straße",
+        "alternate_names": [
+          "Karl-Jarres-Str"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1240
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7700831,
+          51.4129564
+        ]
+      },
+      "properties": {
+        "id": 1241,
+        "name": "Grunewald",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1241
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7682809,
+          51.4095907
+        ]
+      },
+      "properties": {
+        "id": 1242,
+        "name": "Grunewald Betriebshof",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1242
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7648328,
+          51.4056912
+        ]
+      },
+      "properties": {
+        "id": 1243,
+        "name": "Kulturstraße",
+        "alternate_names": [
+          "Kulturstr"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1243
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7630138,
+          51.401859
+        ]
+      },
+      "properties": {
+        "id": 1244,
+        "name": "Im Schlenk",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1244
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7600298,
+          51.3931233
+        ]
+      },
+      "properties": {
+        "id": 1245,
+        "name": "Waldfriedhof",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1245
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7609444,
+          51.3838983
+        ]
+      },
+      "properties": {
+        "id": 1246,
+        "name": "Münchener Straße",
+        "alternate_names": [
+          "Münchener Str"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1246
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7598824,
+          51.3759199
+        ]
+      },
+      "properties": {
+        "id": 1247,
+        "name": "Sittardsberg",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1247
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7566125,
+          51.3707653
+        ]
+      },
+      "properties": {
+        "id": 1248,
+        "name": "Mühlenkamp",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1248
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7526347,
+          51.3648703
+        ]
+      },
+      "properties": {
+        "id": 1249,
+        "name": "St. Anna Klinik",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1249
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7466362,
+          51.3567418
+        ]
+      },
+      "properties": {
+        "id": 1250,
+        "name": "Kesselsberg",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1250
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7513538,
+          51.3389979
+        ]
+      },
+      "properties": {
+        "id": 1251,
+        "name": "Froschenteich",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1251
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7452188,
+          51.3180236
+        ]
+      },
+      "properties": {
+        "id": 1252,
+        "name": "Wittlaer",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1252
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7448365,
+          51.3129541
+        ]
+      },
+      "properties": {
+        "id": 1253,
+        "name": "Am Mühlenacker",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1253
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7429282,
+          51.3048646
+        ]
+      },
+      "properties": {
+        "id": 1254,
+        "name": "Kalkumer Schloßallee",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1254
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7393554,
+          51.3006044
+        ]
+      },
+      "properties": {
+        "id": 1255,
+        "name": "Klemensplatz",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1255
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.738738,
+          51.2945975
+        ]
+      },
+      "properties": {
+        "id": 1256,
+        "name": "Kittelbachstraße",
+        "alternate_names": [
+          "Kittelbachstr"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1256
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7393687,
+          51.288535
+        ]
+      },
+      "properties": {
+        "id": 1257,
+        "name": "Alte Landstraße",
+        "alternate_names": [
+          "Alte Landstr"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1257
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7478882,
+          51.2742053
+        ]
+      },
+      "properties": {
+        "id": 1258,
+        "name": "Lohausen",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1258
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75252,
+          51.2661131
+        ]
+      },
+      "properties": {
+        "id": 1259,
+        "name": "Freiligrathplatz",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1259
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7542554,
+          51.2604213
+        ]
+      },
+      "properties": {
+        "id": 1260,
+        "name": "Messe Ost/Stockumer Kirchstraße",
+        "alternate_names": [
+          "Messe Ost/Stockumer Kirchstr"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1260
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7556587,
+          51.2564685
+        ]
+      },
+      "properties": {
+        "id": 1261,
+        "name": "Nordpark/Aquazoo",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1261
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7588847,
+          51.2532521
+        ]
+      },
+      "properties": {
+        "id": 1262,
+        "name": "Reeser Platz",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1262
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7653416,
+          51.2495835
+        ]
+      },
+      "properties": {
+        "id": 1263,
+        "name": "Theodor-Heuss-Brücke",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1263
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7685855,
+          51.2461231
+        ]
+      },
+      "properties": {
+        "id": 1264,
+        "name": "Golzheimer Platz",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1264
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7723195,
+          51.2431932
+        ]
+      },
+      "properties": {
+        "id": 1265,
+        "name": "Kennedydamm",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1265
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7750367,
+          51.2390385
+        ]
+      },
+      "properties": {
+        "id": 1266,
+        "name": "ERGO-Platz/Klever Straße",
+        "alternate_names": [
+          "ERGO-Platz/Klever Str"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1266
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7768812,
+          51.2260695
+        ]
+      },
+      "properties": {
+        "id": 1267,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1267
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7807914,
+          51.2229456
+        ]
+      },
+      "properties": {
+        "id": 1268,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1268
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7875486,
+          51.2222999
+        ]
+      },
+      "properties": {
+        "id": 1269,
+        "name": "Oststraße",
+        "alternate_names": [
+          "Oststr"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1269
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7940998,
+          51.219611
+        ]
+      },
+      "properties": {
+        "id": 1270,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1270
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8029974,
+          51.2167
+        ]
+      },
+      "properties": {
+        "id": 1271,
+        "name": "Oberbilker Markt/Warschauer Straße",
+        "alternate_names": [
+          "Oberbilker Markt",
+          "Oberbilker Markt/Warschauer Str"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1271
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8059286,
+          51.2135051
+        ]
+      },
+      "properties": {
+        "id": 1272,
+        "name": "Ellerstraße",
+        "alternate_names": [
+          "Ellerstr"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1272
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8081734,
+          51.2085244
+        ]
+      },
+      "properties": {
+        "id": 1273,
+        "name": "Oberbilk S",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1273
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8107067,
+          51.2036047
+        ]
+      },
+      "properties": {
+        "id": 1274,
+        "name": "Kaiserslauterner Straße",
+        "alternate_names": [
+          "Kaiserslauterner Str"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1274
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8118225,
+          51.1989676
+        ]
+      },
+      "properties": {
+        "id": 1275,
+        "name": "Provinzialplatz",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1275
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8143801,
+          51.1934895
+        ]
+      },
+      "properties": {
+        "id": 1276,
+        "name": "Werstener Dorfstraße",
+        "alternate_names": [
+          "Werstener Dorfstr"
+        ],
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1276
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8023346,
+          51.1950776
+        ]
+      },
+      "properties": {
+        "id": 1277,
+        "name": "Südpark",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1277
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8002203,
+          51.1900977
+        ]
+      },
+      "properties": {
+        "id": 1278,
+        "name": "Universität Ost/Botanischer Garten",
+        "line": "DuesseldorfU79",
+        "order": 16
+      },
+      "id": 1278
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7940998,
+          51.219611
+        ]
+      },
+      "properties": {
+        "id": 1291,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1291
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7875486,
+          51.2222999
+        ]
+      },
+      "properties": {
+        "id": 1290,
+        "name": "Oststraße",
+        "alternate_names": [
+          "Oststr"
+        ],
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1290
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7807914,
+          51.2229456
+        ]
+      },
+      "properties": {
+        "id": 1289,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1289
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7768812,
+          51.2260695
+        ]
+      },
+      "properties": {
+        "id": 1288,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1288
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7750367,
+          51.2390385
+        ]
+      },
+      "properties": {
+        "id": 1287,
+        "name": "ERGO-Platz/Klever Straße",
+        "alternate_names": [
+          "ERGO-Platz/Klever Str"
+        ],
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1287
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7723195,
+          51.2431932
+        ]
+      },
+      "properties": {
+        "id": 1286,
+        "name": "Kennedydamm",
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1286
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7685855,
+          51.2461231
+        ]
+      },
+      "properties": {
+        "id": 1285,
+        "name": "Golzheimer Platz",
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1285
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7653416,
+          51.2495835
+        ]
+      },
+      "properties": {
+        "id": 1284,
+        "name": "Theodor-Heuss-Brücke",
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1284
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7588847,
+          51.2532521
+        ]
+      },
+      "properties": {
+        "id": 1283,
+        "name": "Reeser Platz",
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1283
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7556587,
+          51.2564685
+        ]
+      },
+      "properties": {
+        "id": 1282,
+        "name": "Nordpark/Aquazoo",
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1282
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7542554,
+          51.2604213
+        ]
+      },
+      "properties": {
+        "id": 1281,
+        "name": "Messe Ost/Stockumer Kirchstraße",
+        "alternate_names": [
+          "Messe Ost/Stockumer Kirchstr"
+        ],
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1281
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75252,
+          51.2661131
+        ]
+      },
+      "properties": {
+        "id": 1280,
+        "name": "Freiligrathplatz",
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1280
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7670922,
+          51.2759071
+        ]
+      },
+      "properties": {
+        "id": 1279,
+        "name": "D-Flughafen Terminal S U",
+        "alternate_names": [
+          "Flughafen Terminal"
+        ],
+        "line": "DuesseldorfU80",
+        "order": 17
+      },
+      "id": 1279
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7363765,
+          51.2610976
+        ]
+      },
+      "properties": {
+        "id": 1294,
+        "name": "MERKUR SPIEL-ARENA/Messe Nord",
+        "line": "DuesseldorfU81",
+        "order": 18
+      },
+      "id": 1294
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75252,
+          51.2661131
+        ]
+      },
+      "properties": {
+        "id": 1293,
+        "name": "Freiligrathplatz",
+        "line": "DuesseldorfU81",
+        "order": 18
+      },
+      "id": 1293
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7669196,
+          51.2759871
+        ]
+      },
+      "properties": {
+        "id": 1292,
+        "name": "D-Flughafen Terminal S U",
+        "alternate_names": [
+          "Flughafen Terminal"
+        ],
+        "line": "DuesseldorfU81",
+        "order": 18
+      },
+      "id": 1292
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7629337,
+          51.1884627
+        ]
+      },
+      "properties": {
+        "id": 1317,
+        "name": "Hellriegelstraße",
+        "alternate_names": [
+          "Hellriegelstr"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1317
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7654703,
+          51.1899032
+        ]
+      },
+      "properties": {
+        "id": 1316,
+        "name": "Krahkampweg",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1316
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.765989,
+          51.1926564
+        ]
+      },
+      "properties": {
+        "id": 1315,
+        "name": "Volmerswerther Straße",
+        "alternate_names": [
+          "Volmerswerther Str"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1315
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7691308,
+          51.1962508
+        ]
+      },
+      "properties": {
+        "id": 1314,
+        "name": "Aachener Platz",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1314
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7705543,
+          51.1997301
+        ]
+      },
+      "properties": {
+        "id": 1313,
+        "name": "Südring",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1313
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7729045,
+          51.2042504
+        ]
+      },
+      "properties": {
+        "id": 1312,
+        "name": "Suitbertusstraße",
+        "alternate_names": [
+          "Suitbertusstr"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1312
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7770395,
+          51.208579
+        ]
+      },
+      "properties": {
+        "id": 1311,
+        "name": "Bilk S",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1311
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7753531,
+          51.2134231
+        ]
+      },
+      "properties": {
+        "id": 1310,
+        "name": "Kirchplatz",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1310
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7753981,
+          51.2182642
+        ]
+      },
+      "properties": {
+        "id": 1309,
+        "name": "Graf-Adolf-Platz",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1309
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7755872,
+          51.2226917
+        ]
+      },
+      "properties": {
+        "id": 1308,
+        "name": "Benrather Straße U",
+        "alternate_names": [
+          "Benrather Straße",
+          "Benrather Str",
+          "Benrather Str U"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1308
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777973,
+          51.2255983
+        ]
+      },
+      "properties": {
+        "id": 1307,
+        "name": "Heinrich-Heine-Allee",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1307
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782988,
+          51.2265215
+        ]
+      },
+      "properties": {
+        "id": 1306,
+        "name": "Schadowstraße",
+        "alternate_names": [
+          "Schadowstr"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1306
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7899029,
+          51.2281321
+        ]
+      },
+      "properties": {
+        "id": 1305,
+        "name": "Pempelforter Straße",
+        "alternate_names": [
+          "Pempelforter Str"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1305
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7978446,
+          51.2298982
+        ]
+      },
+      "properties": {
+        "id": 1304,
+        "name": "Wehrhahn S",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1304
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.802149,
+          51.230635
+        ]
+      },
+      "properties": {
+        "id": 1303,
+        "name": "Uhlandstraße",
+        "alternate_names": [
+          "Uhlandstr"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1303
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8082769,
+          51.2317667
+        ]
+      },
+      "properties": {
+        "id": 1302,
+        "name": "Düsseldorf Lindemannstraße",
+        "alternate_names": [
+          "Lindemannstraße",
+          "Lindemannstr",
+          "Düsseldorf Lindemannstr"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1302
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8143368,
+          51.2332027
+        ]
+      },
+      "properties": {
+        "id": 1301,
+        "name": "Düsseldorf Engerstraße",
+        "alternate_names": [
+          "Engerstraße",
+          "Engerstr",
+          "Düsseldorf Engerstr"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1301
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8207834,
+          51.2366449
+        ]
+      },
+      "properties": {
+        "id": 1300,
+        "name": "Schlüterstraße/Arbeitsagentur",
+        "alternate_names": [
+          "Schlüterstr/Arbeitsagentur",
+          "Schlüterstraße/Arb.tsagentur"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1300
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8268279,
+          51.2414376
+        ]
+      },
+      "properties": {
+        "id": 1299,
+        "name": "Staufenplatz",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1299
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8352621,
+          51.2396414
+        ]
+      },
+      "properties": {
+        "id": 1298,
+        "name": "Pöhlenweg",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1298
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8440315,
+          51.2412243
+        ]
+      },
+      "properties": {
+        "id": 1297,
+        "name": "Auf der Hardt/LVR-Klinikum",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1297
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8495722,
+          51.2428067
+        ]
+      },
+      "properties": {
+        "id": 1296,
+        "name": "Heinrich-Könn-Straße",
+        "alternate_names": [
+          "Heinrich-Könn-Str"
+        ],
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1296
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8538013,
+          51.244792
+        ]
+      },
+      "properties": {
+        "id": 1295,
+        "name": "Gerresheim Krankenhaus",
+        "line": "DuesseldorfU83",
+        "order": 19
+      },
+      "id": 1295
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8071553,
+          51.2737155
+        ]
+      },
+      "properties": {
+        "id": 1318,
+        "name": "DOME/Am Hülserhof",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1318
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8124059,
+          51.272862
+        ]
+      },
+      "properties": {
+        "id": 1319,
+        "name": "PSD Bank Dome",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1319
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.820027,
+          51.2700222
+        ]
+      },
+      "properties": {
+        "id": 1320,
+        "name": "Wahlerstraße/JVA",
+        "alternate_names": [
+          "Wahlerstr/JVA"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1320
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8189133,
+          51.2633727
+        ]
+      },
+      "properties": {
+        "id": 1321,
+        "name": "Rath S",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1321
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8150596,
+          51.2628187
+        ]
+      },
+      "properties": {
+        "id": 1322,
+        "name": "Rotdornstraße",
+        "alternate_names": [
+          "Rotdornstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1322
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8112986,
+          51.2622866
+        ]
+      },
+      "properties": {
+        "id": 1323,
+        "name": "Rath Mitte S",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1323
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.806885,
+          51.2585554
+        ]
+      },
+      "properties": {
+        "id": 1324,
+        "name": "Am Schein",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1324
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8032769,
+          51.2548365
+        ]
+      },
+      "properties": {
+        "id": 1325,
+        "name": "Haeselerstraße",
+        "alternate_names": [
+          "Haeselerstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1325
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7998404,
+          51.2501068
+        ]
+      },
+      "properties": {
+        "id": 1326,
+        "name": "Heinrichstraße",
+        "alternate_names": [
+          "Heinrichstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1326
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7947355,
+          51.2474225
+        ]
+      },
+      "properties": {
+        "id": 1327,
+        "name": "Derendorf S",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1327
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7894885,
+          51.2454911
+        ]
+      },
+      "properties": {
+        "id": 1328,
+        "name": "Rather Straße/Hochschule HSD",
+        "alternate_names": [
+          "Rather Str/Hochschule HSD"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1328
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.786238,
+          51.2436562
+        ]
+      },
+      "properties": {
+        "id": 1329,
+        "name": "Münsterplatz",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1329
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7818368,
+          51.2404183
+        ]
+      },
+      "properties": {
+        "id": 1330,
+        "name": "Dreieck",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1330
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7796659,
+          51.2380393
+        ]
+      },
+      "properties": {
+        "id": 1331,
+        "name": "Venloer Straße",
+        "alternate_names": [
+          "Venloer Str"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1331
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7783658,
+          51.2354553
+        ]
+      },
+      "properties": {
+        "id": 1332,
+        "name": "Nordstraße",
+        "alternate_names": [
+          "Nordstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1332
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7794467,
+          51.2327866
+        ]
+      },
+      "properties": {
+        "id": 1333,
+        "name": "Sternstraße",
+        "alternate_names": [
+          "Sternstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1333
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7827773,
+          51.2260391
+        ]
+      },
+      "properties": {
+        "id": 1334,
+        "name": "Schadowstraße",
+        "alternate_names": [
+          "Schadowstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1334
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7827701,
+          51.2234129
+        ]
+      },
+      "properties": {
+        "id": 1335,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1335
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7819485,
+          51.2193027
+        ]
+      },
+      "properties": {
+        "id": 1336,
+        "name": "Berliner Allee",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1336
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7832935,
+          51.2169234
+        ]
+      },
+      "properties": {
+        "id": 1337,
+        "name": "Luisenstraße",
+        "alternate_names": [
+          "Luisenstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1337
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7874062,
+          51.2144279
+        ]
+      },
+      "properties": {
+        "id": 1338,
+        "name": "Helmholtzstraße",
+        "alternate_names": [
+          "Helmholtzstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1338
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7917057,
+          51.2120631
+        ]
+      },
+      "properties": {
+        "id": 1339,
+        "name": "Sonnenstraße",
+        "alternate_names": [
+          "Sonnenstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1339
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7951452,
+          51.2111776
+        ]
+      },
+      "properties": {
+        "id": 1340,
+        "name": "Kruppstraße",
+        "alternate_names": [
+          "Kruppstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1340
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8016459,
+          51.2105416
+        ]
+      },
+      "properties": {
+        "id": 1341,
+        "name": "Gangelplatz",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1341
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8084718,
+          51.2087623
+        ]
+      },
+      "properties": {
+        "id": 1342,
+        "name": "Oberbilk S",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1342
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8255841,
+          51.206525
+        ]
+      },
+      "properties": {
+        "id": 1343,
+        "name": "Am Stufstock",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1343
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8310954,
+          51.2075316
+        ]
+      },
+      "properties": {
+        "id": 1344,
+        "name": "Schlesische Straße",
+        "alternate_names": [
+          "Schlesische Str"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1344
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8332887,
+          51.2055181
+        ]
+      },
+      "properties": {
+        "id": 1345,
+        "name": "Am Hackenbruch",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1345
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8350278,
+          51.2038226
+        ]
+      },
+      "properties": {
+        "id": 1346,
+        "name": "Jägerstraße",
+        "alternate_names": [
+          "Jägerstr"
+        ],
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1346
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8384046,
+          51.2012431
+        ]
+      },
+      "properties": {
+        "id": 1347,
+        "name": "Eller Mitte S",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1347
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8432209,
+          51.1999653
+        ]
+      },
+      "properties": {
+        "id": 1348,
+        "name": "Alt Eller",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1348
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8459881,
+          51.1991955
+        ]
+      },
+      "properties": {
+        "id": 1349,
+        "name": "Vennhauser Allee",
+        "line": "Duesseldorf701",
+        "order": 1
+      },
+      "id": 1349
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7961732,
+          51.1970595
+        ]
+      },
+      "properties": {
+        "id": 1350,
+        "name": "Universität Nord / Christophstraße",
+        "alternate_names": [
+          "Universität Nord / Christophstr"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1350
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7894208,
+          51.2000471
+        ]
+      },
+      "properties": {
+        "id": 1351,
+        "name": "Uni-Kliniken",
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1351
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7838738,
+          51.202551
+        ]
+      },
+      "properties": {
+        "id": 1352,
+        "name": "Auf'm Hennekamp",
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1352
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7803341,
+          51.2045191
+        ]
+      },
+      "properties": {
+        "id": 1353,
+        "name": "Karolingerplatz",
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1353
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7821927,
+          51.2085663
+        ]
+      },
+      "properties": {
+        "id": 1354,
+        "name": "Färberstraße",
+        "alternate_names": [
+          "Färberstr"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1354
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7832164,
+          51.2114026
+        ]
+      },
+      "properties": {
+        "id": 1355,
+        "name": "Morsestraße",
+        "alternate_names": [
+          "Morsestr"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1355
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7849183,
+          51.2123781
+        ]
+      },
+      "properties": {
+        "id": 1356,
+        "name": "Fürstenplatz",
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1356
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7868434,
+          51.2143887
+        ]
+      },
+      "properties": {
+        "id": 1357,
+        "name": "Helmholtzstraße",
+        "alternate_names": [
+          "Helmholtzstr"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1357
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7901397,
+          51.2175159
+        ]
+      },
+      "properties": {
+        "id": 1358,
+        "name": "Mintropplatz",
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1358
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7926202,
+          51.2208386
+        ]
+      },
+      "properties": {
+        "id": 1359,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1359
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7955107,
+          51.2238859
+        ]
+      },
+      "properties": {
+        "id": 1360,
+        "name": "Worringer Platz",
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1360
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7918495,
+          51.2283529
+        ]
+      },
+      "properties": {
+        "id": 1361,
+        "name": "Pempelforter Straße",
+        "alternate_names": [
+          "Pempelforter Str"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1361
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7898551,
+          51.2310834
+        ]
+      },
+      "properties": {
+        "id": 1362,
+        "name": "Adlerstraße",
+        "alternate_names": [
+          "Adlerstr"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1362
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7900617,
+          51.2335422
+        ]
+      },
+      "properties": {
+        "id": 1363,
+        "name": "Rochusmarkt",
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1363
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.789667,
+          51.2366985
+        ]
+      },
+      "properties": {
+        "id": 1364,
+        "name": "Stockkampstraße",
+        "alternate_names": [
+          "Stockkampstr"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1364
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7895023,
+          51.2390812
+        ]
+      },
+      "properties": {
+        "id": 1365,
+        "name": "Lennéstraße",
+        "alternate_names": [
+          "Lennéstr"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1365
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7901602,
+          51.2422153
+        ]
+      },
+      "properties": {
+        "id": 1366,
+        "name": "St.-Vinzenz-Krankenhaus",
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1366
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7901204,
+          51.2453578
+        ]
+      },
+      "properties": {
+        "id": 1367,
+        "name": "Rather Straße/Hochschule HSD",
+        "alternate_names": [
+          "Rather Str/Hochschule HSD"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1367
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7896022,
+          51.2489475
+        ]
+      },
+      "properties": {
+        "id": 1368,
+        "name": "Alter Schlachthof",
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1368
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7877398,
+          51.2508841
+        ]
+      },
+      "properties": {
+        "id": 1369,
+        "name": "Straßburger Straße",
+        "alternate_names": [
+          "Straßburger Str"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1369
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7863817,
+          51.2502406
+        ]
+      },
+      "properties": {
+        "id": 1370,
+        "name": "Merziger Straße",
+        "alternate_names": [
+          "Merziger Str"
+        ],
+        "line": "Duesseldorf704",
+        "order": 2
+      },
+      "id": 1370
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7776887,
+          51.200337
+        ]
+      },
+      "properties": {
+        "id": 1371,
+        "name": "Merowingerstraße",
+        "alternate_names": [
+          "Merowingerstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1371
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7777531,
+          51.1985687
+        ]
+      },
+      "properties": {
+        "id": 1372,
+        "name": "Merowingerplatz",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1372
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7821717,
+          51.1990309
+        ]
+      },
+      "properties": {
+        "id": 1373,
+        "name": "Moorenstraße",
+        "alternate_names": [
+          "Moorenstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1373
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7807773,
+          51.2020349
+        ]
+      },
+      "properties": {
+        "id": 1374,
+        "name": "Kopernikusstraße",
+        "alternate_names": [
+          "Kopernikusstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1374
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7803341,
+          51.2045191
+        ]
+      },
+      "properties": {
+        "id": 1375,
+        "name": "Karolingerplatz",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1375
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7821927,
+          51.2085663
+        ]
+      },
+      "properties": {
+        "id": 1376,
+        "name": "Färberstraße",
+        "alternate_names": [
+          "Färberstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1376
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7826452,
+          51.2106216
+        ]
+      },
+      "properties": {
+        "id": 1377,
+        "name": "Morsestraße",
+        "alternate_names": [
+          "Morsestr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1377
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7826697,
+          51.2135537
+        ]
+      },
+      "properties": {
+        "id": 1378,
+        "name": "Corneliusstraße",
+        "alternate_names": [
+          "Corneliusstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1378
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782628,
+          51.2166245
+        ]
+      },
+      "properties": {
+        "id": 1379,
+        "name": "Luisenstraße",
+        "alternate_names": [
+          "Luisenstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1379
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7819485,
+          51.2193027
+        ]
+      },
+      "properties": {
+        "id": 1380,
+        "name": "Berliner Allee",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1380
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7827701,
+          51.2234129
+        ]
+      },
+      "properties": {
+        "id": 1381,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1381
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7827773,
+          51.2260391
+        ]
+      },
+      "properties": {
+        "id": 1382,
+        "name": "Schadowstraße",
+        "alternate_names": [
+          "Schadowstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1382
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7794467,
+          51.2327866
+        ]
+      },
+      "properties": {
+        "id": 1383,
+        "name": "Sternstraße",
+        "alternate_names": [
+          "Sternstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1383
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7783658,
+          51.2354553
+        ]
+      },
+      "properties": {
+        "id": 1384,
+        "name": "Nordstraße",
+        "alternate_names": [
+          "Nordstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1384
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7796659,
+          51.2380393
+        ]
+      },
+      "properties": {
+        "id": 1385,
+        "name": "Venloer Straße",
+        "alternate_names": [
+          "Venloer Str"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1385
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7818368,
+          51.2404183
+        ]
+      },
+      "properties": {
+        "id": 1386,
+        "name": "Dreieck",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1386
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7829233,
+          51.2442186
+        ]
+      },
+      "properties": {
+        "id": 1387,
+        "name": "Essener Straße",
+        "alternate_names": [
+          "Essener Str"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1387
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7834754,
+          51.2470024
+        ]
+      },
+      "properties": {
+        "id": 1388,
+        "name": "Spichernplatz",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1388
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7816944,
+          51.251094
+        ]
+      },
+      "properties": {
+        "id": 1389,
+        "name": "Tannenstraße",
+        "alternate_names": [
+          "Tannenstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1389
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7803462,
+          51.2535138
+        ]
+      },
+      "properties": {
+        "id": 1390,
+        "name": "Johannstraße",
+        "alternate_names": [
+          "Johannstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1390
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7778524,
+          51.259573
+        ]
+      },
+      "properties": {
+        "id": 1391,
+        "name": "Großmarkt",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1391
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775749,
+          51.2631041
+        ]
+      },
+      "properties": {
+        "id": 1392,
+        "name": "An der Piwipp",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1392
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7743286,
+          51.2678312
+        ]
+      },
+      "properties": {
+        "id": 1393,
+        "name": "Elsässer Straße",
+        "alternate_names": [
+          "Elsässer Str"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1393
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7738111,
+          51.2716832
+        ]
+      },
+      "properties": {
+        "id": 1394,
+        "name": "Eckenerstraße",
+        "alternate_names": [
+          "Eckenerstr"
+        ],
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1394
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7807665,
+          51.2733347
+        ]
+      },
+      "properties": {
+        "id": 1395,
+        "name": "Am Röttchen",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1395
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7865964,
+          51.2757199
+        ]
+      },
+      "properties": {
+        "id": 1396,
+        "name": "Unterrath S",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1396
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7807336,
+          51.1998633
+        ]
+      },
+      "properties": {
+        "id": 1397,
+        "name": "Am Steinberg",
+        "line": "Duesseldorf705",
+        "order": 3
+      },
+      "id": 1397
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7776887,
+          51.200337
+        ]
+      },
+      "properties": {
+        "id": 1433,
+        "name": "Merowingerstraße",
+        "alternate_names": [
+          "Merowingerstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1433
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7777531,
+          51.1985687
+        ]
+      },
+      "properties": {
+        "id": 1434,
+        "name": "Merowingerplatz",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1434
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7821717,
+          51.1990309
+        ]
+      },
+      "properties": {
+        "id": 1435,
+        "name": "Moorenstraße",
+        "alternate_names": [
+          "Moorenstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1435
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7807773,
+          51.2020349
+        ]
+      },
+      "properties": {
+        "id": 1431,
+        "name": "Kopernikusstraße",
+        "alternate_names": [
+          "Kopernikusstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1431
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7845892,
+          51.2038798
+        ]
+      },
+      "properties": {
+        "id": 1430,
+        "name": "Auf'm Hennekamp",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1430
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.787951,
+          51.2056436
+        ]
+      },
+      "properties": {
+        "id": 1429,
+        "name": "Redinghovenstraße",
+        "alternate_names": [
+          "Redinghovenstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1429
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7927943,
+          51.2086234
+        ]
+      },
+      "properties": {
+        "id": 1428,
+        "name": "Volksgarten S",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1428
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.796424,
+          51.2114906
+        ]
+      },
+      "properties": {
+        "id": 1427,
+        "name": "Kruppstraße",
+        "alternate_names": [
+          "Kruppstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1427
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8006295,
+          51.2145788
+        ]
+      },
+      "properties": {
+        "id": 1426,
+        "name": "Flügelstraße",
+        "alternate_names": [
+          "Flügelstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1426
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8040454,
+          51.2164179
+        ]
+      },
+      "properties": {
+        "id": 1425,
+        "name": "Oberbilker Markt U",
+        "alternate_names": [
+          "Oberbilker Markt"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1425
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.806624,
+          51.21849
+        ]
+      },
+      "properties": {
+        "id": 1424,
+        "name": "Fichtenstraße",
+        "alternate_names": [
+          "Fichtenstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1424
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8092539,
+          51.2211992
+        ]
+      },
+      "properties": {
+        "id": 1423,
+        "name": "Kettwiger Straße",
+        "alternate_names": [
+          "Kettwiger Str"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1423
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8111023,
+          51.2240085
+        ]
+      },
+      "properties": {
+        "id": 1422,
+        "name": "Stadtwerke/Düsselstrand",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1422
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8114946,
+          51.2267662
+        ]
+      },
+      "properties": {
+        "id": 1421,
+        "name": "Flingern S",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1421
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8103442,
+          51.2291666
+        ]
+      },
+      "properties": {
+        "id": 1420,
+        "name": "Lindenstraße",
+        "alternate_names": [
+          "Lindenstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1420
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8089784,
+          51.2315741
+        ]
+      },
+      "properties": {
+        "id": 1419,
+        "name": "Lindemannstraße",
+        "alternate_names": [
+          "Lindemannstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1419
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8065107,
+          51.2354099
+        ]
+      },
+      "properties": {
+        "id": 1418,
+        "name": "Schumannstraße",
+        "alternate_names": [
+          "Schumannstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1418
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8022251,
+          51.2379022
+        ]
+      },
+      "properties": {
+        "id": 1417,
+        "name": "Brehmplatz",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1417
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7970107,
+          51.2362919
+        ]
+      },
+      "properties": {
+        "id": 1415,
+        "name": "Zoo S",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1415
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7933309,
+          51.2363894
+        ]
+      },
+      "properties": {
+        "id": 1414,
+        "name": "Tußmannstraße",
+        "alternate_names": [
+          "Tußmannstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1414
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7893152,
+          51.2368939
+        ]
+      },
+      "properties": {
+        "id": 1413,
+        "name": "Stockkampstraße",
+        "alternate_names": [
+          "Stockkampstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1413
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7831102,
+          51.2353866
+        ]
+      },
+      "properties": {
+        "id": 1412,
+        "name": "Marienhospital",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1412
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7794467,
+          51.2327866
+        ]
+      },
+      "properties": {
+        "id": 1411,
+        "name": "Sternstraße",
+        "alternate_names": [
+          "Sternstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1411
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7827773,
+          51.2260391
+        ]
+      },
+      "properties": {
+        "id": 1410,
+        "name": "Schadowstraße",
+        "alternate_names": [
+          "Schadowstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1410
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7827701,
+          51.2234129
+        ]
+      },
+      "properties": {
+        "id": 1409,
+        "name": "Steinstraße/Königsallee",
+        "alternate_names": [
+          "Steinstr/Königsallee"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1409
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7813031,
+          51.2189039
+        ]
+      },
+      "properties": {
+        "id": 1408,
+        "name": "Berliner Allee",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1408
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7762331,
+          51.2189953
+        ]
+      },
+      "properties": {
+        "id": 1407,
+        "name": "Graf-Adolf-Platz U",
+        "alternate_names": [
+          "Graf-Adolf-Platz"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1407
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7708216,
+          51.2191313
+        ]
+      },
+      "properties": {
+        "id": 1406,
+        "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1406
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7670174,
+          51.218327
+        ]
+      },
+      "properties": {
+        "id": 1405,
+        "name": "Landtag / Kniebrücke",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1405
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7636879,
+          51.2148623
+        ]
+      },
+      "properties": {
+        "id": 1404,
+        "name": "Stadttor",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1404
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7633979,
+          51.2118352
+        ]
+      },
+      "properties": {
+        "id": 1403,
+        "name": "Bilker Kirche",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1403
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7583039,
+          51.2121399
+        ]
+      },
+      "properties": {
+        "id": 1402,
+        "name": "Wupperstraße",
+        "alternate_names": [
+          "Wupperstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1402
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7529376,
+          51.2126561
+        ]
+      },
+      "properties": {
+        "id": 1401,
+        "name": "Franziusstraße",
+        "alternate_names": [
+          "Franziusstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1401
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7495338,
+          51.2112956
+        ]
+      },
+      "properties": {
+        "id": 1400,
+        "name": "Hemmersbachweg",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1400
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7422138,
+          51.2098
+        ]
+      },
+      "properties": {
+        "id": 1399,
+        "name": "Hammer Dorfstraße",
+        "alternate_names": [
+          "Hammer Dorfstr"
+        ],
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1399
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7391342,
+          51.2100375
+        ]
+      },
+      "properties": {
+        "id": 1398,
+        "name": "Hamm S",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1398
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8003765,
+          51.2359958
+        ]
+      },
+      "properties": {
+        "id": 1416,
+        "name": "Schillerplatz",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1416
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7807336,
+          51.1998633
+        ]
+      },
+      "properties": {
+        "id": 1432,
+        "name": "Am Steinberg",
+        "line": "Duesseldorf706",
+        "order": 4
+      },
+      "id": 1432
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7464596,
+          51.2130381
+        ]
+      },
+      "properties": {
+        "id": 1436,
+        "name": "Medienhafen, Kesselstraße",
+        "alternate_names": [
+          "Kesselstraße",
+          "Kesselstr",
+          "Medienhafen, Kesselstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1436
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.749681,
+          51.213456
+        ]
+      },
+      "properties": {
+        "id": 1437,
+        "name": "Speditionstraße",
+        "alternate_names": [
+          "Speditionstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1437
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7529376,
+          51.2126561
+        ]
+      },
+      "properties": {
+        "id": 1438,
+        "name": "Franziusstraße",
+        "alternate_names": [
+          "Franziusstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1438
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7583039,
+          51.2121399
+        ]
+      },
+      "properties": {
+        "id": 1439,
+        "name": "Wupperstraße",
+        "alternate_names": [
+          "Wupperstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1439
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7635986,
+          51.211421
+        ]
+      },
+      "properties": {
+        "id": 1440,
+        "name": "Bilker Kirche",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1440
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7693602,
+          51.2108274
+        ]
+      },
+      "properties": {
+        "id": 1441,
+        "name": "Kronprinzenstraße",
+        "alternate_names": [
+          "Kronprinzenstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1441
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7747103,
+          51.2106661
+        ]
+      },
+      "properties": {
+        "id": 1442,
+        "name": "Bilker Allee/Friedrichstraße",
+        "alternate_names": [
+          "Bilker Allee/Friedrichstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1442
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7832164,
+          51.2114026
+        ]
+      },
+      "properties": {
+        "id": 1443,
+        "name": "Morsestraße",
+        "alternate_names": [
+          "Morsestr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1443
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7849183,
+          51.2123781
+        ]
+      },
+      "properties": {
+        "id": 1444,
+        "name": "Fürstenplatz",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1444
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7868434,
+          51.2143887
+        ]
+      },
+      "properties": {
+        "id": 1445,
+        "name": "Helmholtzstraße",
+        "alternate_names": [
+          "Helmholtzstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1445
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7901397,
+          51.2175159
+        ]
+      },
+      "properties": {
+        "id": 1446,
+        "name": "Mintropplatz",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1446
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7926202,
+          51.2208386
+        ]
+      },
+      "properties": {
+        "id": 1447,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1447
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7905262,
+          51.2224713
+        ]
+      },
+      "properties": {
+        "id": 1448,
+        "name": "Charlottenstraße/Oststraße",
+        "alternate_names": [
+          "Charlottenstr/Oststr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1448
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7881452,
+          51.2246642
+        ]
+      },
+      "properties": {
+        "id": 1449,
+        "name": "Klosterstraße",
+        "alternate_names": [
+          "Klosterstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1449
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7875216,
+          51.2274694
+        ]
+      },
+      "properties": {
+        "id": 1450,
+        "name": "Jacobistraße",
+        "alternate_names": [
+          "Jacobistr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1450
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7862476,
+          51.2319387
+        ]
+      },
+      "properties": {
+        "id": 1451,
+        "name": "Schloss Jägerhof",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1451
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7831102,
+          51.2353866
+        ]
+      },
+      "properties": {
+        "id": 1452,
+        "name": "Marienhospital",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1452
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7796659,
+          51.2380393
+        ]
+      },
+      "properties": {
+        "id": 1453,
+        "name": "Venloer Straße",
+        "alternate_names": [
+          "Venloer Str"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1453
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7818368,
+          51.2404183
+        ]
+      },
+      "properties": {
+        "id": 1454,
+        "name": "Dreieck",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1454
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7829233,
+          51.2442186
+        ]
+      },
+      "properties": {
+        "id": 1455,
+        "name": "Essener Straße",
+        "alternate_names": [
+          "Essener Str"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1455
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7834754,
+          51.2470024
+        ]
+      },
+      "properties": {
+        "id": 1456,
+        "name": "Spichernplatz",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1456
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7816944,
+          51.251094
+        ]
+      },
+      "properties": {
+        "id": 1457,
+        "name": "Tannenstraße",
+        "alternate_names": [
+          "Tannenstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1457
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7803462,
+          51.2535138
+        ]
+      },
+      "properties": {
+        "id": 1458,
+        "name": "Johannstraße",
+        "alternate_names": [
+          "Johannstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1458
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7778524,
+          51.259573
+        ]
+      },
+      "properties": {
+        "id": 1459,
+        "name": "Großmarkt",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1459
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775749,
+          51.2631041
+        ]
+      },
+      "properties": {
+        "id": 1460,
+        "name": "An der Piwipp",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1460
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7743286,
+          51.2678312
+        ]
+      },
+      "properties": {
+        "id": 1461,
+        "name": "Elsässer Straße",
+        "alternate_names": [
+          "Elsässer Str"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1461
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7738111,
+          51.2716832
+        ]
+      },
+      "properties": {
+        "id": 1462,
+        "name": "Eckenerstraße",
+        "alternate_names": [
+          "Eckenerstr"
+        ],
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1462
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7807665,
+          51.2733347
+        ]
+      },
+      "properties": {
+        "id": 1463,
+        "name": "Am Röttchen",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1463
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7865964,
+          51.2757199
+        ]
+      },
+      "properties": {
+        "id": 1464,
+        "name": "Unterrath S",
+        "line": "Duesseldorf707",
+        "order": 5
+      },
+      "id": 1464
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7679045,
+          51.215839
+        ]
+      },
+      "properties": {
+        "id": 1465,
+        "name": "Polizeipräsidium",
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1465
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7670174,
+          51.218327
+        ]
+      },
+      "properties": {
+        "id": 1466,
+        "name": "Landtag / Kniebrücke",
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1466
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7708216,
+          51.2191313
+        ]
+      },
+      "properties": {
+        "id": 1467,
+        "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1467
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7762331,
+          51.2189953
+        ]
+      },
+      "properties": {
+        "id": 1468,
+        "name": "Graf-Adolf-Platz U",
+        "alternate_names": [
+          "Graf-Adolf-Platz"
+        ],
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1468
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7813031,
+          51.2189039
+        ]
+      },
+      "properties": {
+        "id": 1469,
+        "name": "Berliner Allee",
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1469
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.789038,
+          51.2194414
+        ]
+      },
+      "properties": {
+        "id": 1470,
+        "name": "Stresemannplatz",
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1470
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7927015,
+          51.2208029
+        ]
+      },
+      "properties": {
+        "id": 1471,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1471
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7955869,
+          51.2238821
+        ]
+      },
+      "properties": {
+        "id": 1472,
+        "name": "Worringer Platz",
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1472
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8001821,
+          51.2269924
+        ]
+      },
+      "properties": {
+        "id": 1473,
+        "name": "Birkenstraße",
+        "alternate_names": [
+          "Birkenstr"
+        ],
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1473
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8010792,
+          51.2310908
+        ]
+      },
+      "properties": {
+        "id": 1474,
+        "name": "Uhlandstraße",
+        "alternate_names": [
+          "Uhlandstr"
+        ],
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1474
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8003765,
+          51.2359958
+        ]
+      },
+      "properties": {
+        "id": 1475,
+        "name": "Schillerplatz",
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1475
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8022251,
+          51.2379022
+        ]
+      },
+      "properties": {
+        "id": 1476,
+        "name": "Brehmplatz",
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1476
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8017195,
+          51.2431309
+        ]
+      },
+      "properties": {
+        "id": 1477,
+        "name": "Düsseldorf Grunerstraße",
+        "alternate_names": [
+          "Grunerstraße",
+          "Grunerstr",
+          "Düsseldorf Grunerstr"
+        ],
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1477
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8018425,
+          51.2466549
+        ]
+      },
+      "properties": {
+        "id": 1478,
+        "name": "Düsseldorf Hansaplatz",
+        "alternate_names": [
+          "Hansaplatz",
+          "Hansapl"
+        ],
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1478
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8012781,
+          51.2503021
+        ]
+      },
+      "properties": {
+        "id": 1479,
+        "name": "Heinrichstraße",
+        "alternate_names": [
+          "Heinrichstr"
+        ],
+        "line": "Duesseldorf708",
+        "order": 6
+      },
+      "id": 1479
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8538013,
+          51.244792
+        ]
+      },
+      "properties": {
+        "id": 1512,
+        "name": "Gerresheim Krankenhaus",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1512
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8495722,
+          51.2428067
+        ]
+      },
+      "properties": {
+        "id": 1511,
+        "name": "Heinrich-Könn-Straße",
+        "alternate_names": [
+          "Heinrich-Könn-Str"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1511
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8440315,
+          51.2412243
+        ]
+      },
+      "properties": {
+        "id": 1510,
+        "name": "Auf der Hardt/LVR-Klinikum",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1510
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8352621,
+          51.2396414
+        ]
+      },
+      "properties": {
+        "id": 1509,
+        "name": "Pöhlenweg",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1509
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8268279,
+          51.2414376
+        ]
+      },
+      "properties": {
+        "id": 1480,
+        "name": "Staufenplatz",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1480
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8207834,
+          51.2366449
+        ]
+      },
+      "properties": {
+        "id": 1481,
+        "name": "Schlüterstraße/Arbeitsagentur",
+        "alternate_names": [
+          "Schlüterstr/Arbeitsagentur",
+          "Schlüterstraße/Arb.tsagentur"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1481
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8168951,
+          51.2329285
+        ]
+      },
+      "properties": {
+        "id": 1482,
+        "name": "Engerstraße",
+        "alternate_names": [
+          "Engerstr"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1482
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8142249,
+          51.2283724
+        ]
+      },
+      "properties": {
+        "id": 1483,
+        "name": "Hoffeldstraße",
+        "alternate_names": [
+          "Hoffeldstr"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1483
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8098843,
+          51.2270588
+        ]
+      },
+      "properties": {
+        "id": 1484,
+        "name": "Flingern S",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1484
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8049134,
+          51.2269186
+        ]
+      },
+      "properties": {
+        "id": 1485,
+        "name": "Wetterstraße",
+        "alternate_names": [
+          "Wetterstr"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1485
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8001821,
+          51.2269924
+        ]
+      },
+      "properties": {
+        "id": 1486,
+        "name": "Birkenstraße",
+        "alternate_names": [
+          "Birkenstr"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1486
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7955869,
+          51.2238821
+        ]
+      },
+      "properties": {
+        "id": 1487,
+        "name": "Worringer Platz",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1487
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7927015,
+          51.2208029
+        ]
+      },
+      "properties": {
+        "id": 1488,
+        "name": "Düsseldorf Hauptbahnhof",
+        "alternate_names": [
+          "Düsseldorf Hbf"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1488
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.789038,
+          51.2194414
+        ]
+      },
+      "properties": {
+        "id": 1489,
+        "name": "Stresemannplatz",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1489
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7813031,
+          51.2189039
+        ]
+      },
+      "properties": {
+        "id": 1490,
+        "name": "Berliner Allee",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1490
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7762331,
+          51.2189953
+        ]
+      },
+      "properties": {
+        "id": 1491,
+        "name": "Graf-Adolf-Platz U",
+        "alternate_names": [
+          "Graf-Adolf-Platz"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1491
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7708216,
+          51.2191313
+        ]
+      },
+      "properties": {
+        "id": 1492,
+        "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1492
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7670174,
+          51.218327
+        ]
+      },
+      "properties": {
+        "id": 1493,
+        "name": "Landtag / Kniebrücke",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1493
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7636879,
+          51.2148623
+        ]
+      },
+      "properties": {
+        "id": 1494,
+        "name": "Stadttor",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1494
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7633979,
+          51.2118352
+        ]
+      },
+      "properties": {
+        "id": 1495,
+        "name": "Bilker Kirche",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1495
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7620084,
+          51.2095694
+        ]
+      },
+      "properties": {
+        "id": 1496,
+        "name": "Völklinger Straße S",
+        "alternate_names": [
+          "Völklinger Str S"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1496
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7594823,
+          51.2074229
+        ]
+      },
+      "properties": {
+        "id": 1497,
+        "name": "Georg-Schulhoff-Platz",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1497
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7546662,
+          51.2002005
+        ]
+      },
+      "properties": {
+        "id": 1498,
+        "name": "Südfriedhof",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1498
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7378267,
+          51.1983435
+        ]
+      },
+      "properties": {
+        "id": 1508,
+        "name": "Josef-Kardinal-Frings-Brücke",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1508
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7182189,
+          51.199069
+        ]
+      },
+      "properties": {
+        "id": 1507,
+        "name": "Rheinpark-Center Süd",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1507
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7106834,
+          51.1986379
+        ]
+      },
+      "properties": {
+        "id": 1506,
+        "name": "Stadtpark Neuss",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1506
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.700715,
+          51.1932122
+        ]
+      },
+      "properties": {
+        "id": 1505,
+        "name": "Stadthalle/Museum",
+        "alternate_names": [
+          "Neuss Stadthalle"
+        ],
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1505
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6950999,
+          51.1964888
+        ]
+      },
+      "properties": {
+        "id": 1504,
+        "name": "Landestheater",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1504
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6930706,
+          51.1976568
+        ]
+      },
+      "properties": {
+        "id": 1503,
+        "name": "Markt",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1503
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6898978,
+          51.1995287
+        ]
+      },
+      "properties": {
+        "id": 1502,
+        "name": "Glockhammer",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1502
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6884282,
+          51.2003931
+        ]
+      },
+      "properties": {
+        "id": 1501,
+        "name": "Niedertor",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1501
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6847052,
+          51.2034754
+        ]
+      },
+      "properties": {
+        "id": 1500,
+        "name": "Neuss Hbf",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1500
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6871038,
+          51.204603
+        ]
+      },
+      "properties": {
+        "id": 1499,
+        "name": "Theodor-Heuss-Platz",
+        "line": "Duesseldorf709",
+        "order": 7
+      },
+      "id": 1499
+    }
+  ],
+  "properties": {
+    "totalStations": 259,
+    "stationsPerLine": {
+      "DuesseldorfU70": 18,
+      "DuesseldorfU71": 25,
+      "DuesseldorfU72": 43,
+      "DuesseldorfU73": 29,
+      "DuesseldorfU75": 28,
+      "DuesseldorfU76": 37,
+      "DuesseldorfU77": 16,
+      "DuesseldorfU78": 14,
+      "DuesseldorfU79": 48,
+      "DuesseldorfU80": 13,
+      "DuesseldorfU81": 3,
+      "DuesseldorfU83": 23,
+      "Duesseldorf701": 32,
+      "Duesseldorf704": 21,
+      "Duesseldorf705": 27,
+      "Duesseldorf706": 38,
+      "Duesseldorf707": 29,
+      "Duesseldorf708": 15,
+      "Duesseldorf709": 33
+    },
+    "nextStationId": 1513
+  }
+}
