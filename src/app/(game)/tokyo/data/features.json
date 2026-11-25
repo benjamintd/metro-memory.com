@@ -490,7 +490,7 @@
       "properties": {
         "id": 255,
         "name": "勝どき Kachidoki",
-        "alternate_names": ["勝どき", "kachidoki"],
+        "alternate_names": ["勝どき", "勝鬨", "kachidoki"],
         "line": "ToeiSubwayE",
         "order": 251
       },
@@ -925,7 +925,7 @@
       "properties": {
         "id": 111,
         "name": "四ツ谷 Yotsuya",
-        "alternate_names": ["四ツ谷", "yotsuya"],
+        "alternate_names": ["四ツ谷", "四谷", "四ッ谷", "yotsuya"],
         "line": "TokyoMetroN",
         "order": 172
       },
@@ -1120,7 +1120,7 @@
       "properties": {
         "id": 15,
         "name": "御茶ノ水 Ochanomizu",
-        "alternate_names": ["御茶ノ水", "ochanomizu"],
+        "alternate_names": ["御茶ノ水", "御茶の水", "お茶の水", "ochanomizu"],
         "line": "TokyoMetroM",
         "order": 155
       },
@@ -1825,7 +1825,7 @@
       "properties": {
         "id": 74,
         "name": "新御茶ノ水 Shin-ochanomizu",
-        "alternate_names": ["新御茶ノ水", "shin ochanomizu"],
+        "alternate_names": ["新御茶ノ水", "新御茶の水", "新お茶の水", "shin ochanomizu"],
         "line": "TokyoMetroC",
         "order": 114
       },
@@ -2830,7 +2830,7 @@
       "properties": {
         "id": 150,
         "name": "麴町 Kojimachi",
-        "alternate_names": ["麴町", "kojimachi"],
+        "alternate_names": ["麴町", "麹町", "kojimachi"],
         "line": "TokyoMetroY",
         "order": 71
       },
