@@ -167,7 +167,7 @@ export const MAP_CONFIG: MapboxOptions = {
 
 export const STRIPE_LINK = 'https://buy.stripe.com/cN2aFb0nI1rI9bi5km'
 
-export const CITY_NAME = 'karlsruhe'
+export const CITY_NAME = 'duesseldorf'
 
 export const LOCALE = 'de'
 
