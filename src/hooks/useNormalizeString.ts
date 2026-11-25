@@ -231,6 +231,8 @@ const replacers: { [key: string]: (str: string) => string } = {
       .replace(/\([^()]*\)/g, '')
       .replace(/\([^<>]*\)/g, '')
       .replace(/\([^〈〉]*\)/g, '')
+      .replace(/[ヶヵ]/g, 'ケ')
+      .replace(/麴/g, '麹')
       .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, ' ')
       .replace(/\s+/g, ' ')
       .trim(),
